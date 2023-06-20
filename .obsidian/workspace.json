@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/Blood/Jaundice and cholestasis.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -120,8 +120,17 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "20e46837baa36f69",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "366784a71f0400fb",
@@ -196,20 +205,20 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "graph:查看关系图谱": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show log": false,
       "copilot:Copilot Chat": false
     }
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
+    "SimpRead/7-夏令营 120 期 _ ​解放军总医院医学院@annote.md",
+    "未命名 1.canvas",
+    "3ghAN.md",
+    "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/ectopic atrial rhythm.md",
     "USMLE/Cardiology/Atrioventricular block.md",
     "appendix/Pasted image 20230619221837.png",
     "appendix/Pasted image 20230619221102.png",
-    "SimpRead/7-夏令营 120 期 _ ​解放军总医院医学院@annote.md",
     "USMLE/Blood/Macrocytic anemias.md",
     "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "USMLE/Blood",
@@ -237,9 +246,6 @@
     "USMLE/Cardiology/Rheumatic heart disease.md",
     "USMLE/Cardiology/Cardiac transplatation.md",
     "USMLE/Cardiology/Cardiology.md",
-    "USMLE/Cardiology/Infective endocarditis.md",
-    "USMLE/Cardiology/Fibrinous pericarditis.md",
-    "未命名 1.canvas",
     "appendix",
     "USMLE/Cardiology",
     "Files/the-only-ekg-book-youll-ever-need-9th-edition-pdf-2az-dr-notes.pdf",

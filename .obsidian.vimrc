@@ -29,7 +29,7 @@ exmap surround_backticks surround ` `
 exmap surround_brackets surround ( )
 exmap surround_square_brackets surround [ ]
 exmap surround_curly_brackets surround { }
-exmap Red surround <mark\ style="background:\ #FFB8EBA6;"> </mark>
+exmap mnemonic surround <mark\ style="background:\ #62603c;"> <font\ color="#a5deff">
 
 " NOTE: must use 'map' and not 'nmap'
 map sl :surround_wiki
@@ -47,7 +47,7 @@ map s{ :surround_curly_brackets
 map s} :surround_curly_brackets
 vunmap H
 " vunmap R
-map sr :Red
+map sr :mnemonic
 " examp highlightr-plugin
 exmap Red obcommand highlightr-plugin:Red
 " Emulate Folding https://vimhelp.org/fold.txt.html#fold-commands
