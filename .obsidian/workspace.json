@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Anemia.md",
-                "mode": "preview",
+                "file": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Anemia.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,9 +160,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Anemia.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Anemia.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md"
               }
             }
           }
@@ -209,8 +209,13 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Blood/Anemia.md",
+    "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
+    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
+    "USMLE/Blood/Nucleated red blood cells.md",
+    "USMLE/Muscle, skin, and connective tissue",
     "USMLE/Blood/Leukocyte alkaline phosphatase.md",
+    "USMLE/Blood/Alkaline phosphatase.md",
+    "USMLE/Blood/Anemia.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
     "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md",
     "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
@@ -243,15 +248,10 @@
     "USMLE/Cardiology/Acute pericarditis.md",
     "appendix/Pasted image 20230618205433.png",
     "appendix/Pasted image 20230618204845.png",
-    "Bioinformatics/Xulab-calendar.md",
-    "未命名.md",
-    "USMLE/Cardiology/Rheumatic heart disease.md",
-    "USMLE/Cardiology/Cardiac transplatation.md",
     "appendix",
     "USMLE/Cardiology",
     "Files/the-only-ekg-book-youll-ever-need-9th-edition-pdf-2az-dr-notes.pdf",
     "Files",
-    "USMLE/Books",
     "未命名.canvas"
   ]
 }
