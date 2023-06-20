@@ -1,0 +1,1 @@
+<font color="#31859b">The most common causes of adult hyperbilirubinemia can be remembered with the mnemonic “HOT Liver”: Hemolysis, Obstruction, Tumor, and Liver disease.</font>

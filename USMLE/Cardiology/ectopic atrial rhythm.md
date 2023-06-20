@@ -1,0 +1,1 @@
+Could be inverted P wave in lead II, which is normally upward.

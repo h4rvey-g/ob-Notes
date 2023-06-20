@@ -1,0 +1,18 @@
+{
+  "floating-toc-styles@@floating-toc-highlight-color": "#00FFB7",
+  "floating-toc-styles@@floating-toc-response-time": 0,
+  "minimal-style@@h1-color@@light": "#F0F9E8",
+  "minimal-style@@h2-color@@light": "#CCEBC5",
+  "minimal-style@@h3-color@@light": "#A8DDB5",
+  "minimal-style@@h4-color@@light": "#7BCCC4",
+  "minimal-style@@h5-color@@light": "#43A2CA",
+  "minimal-style@@h6-color@@light": "#0868AC",
+  "minimal-style@@h1-color@@dark": "#F6EFF7",
+  "minimal-style@@h2-color@@dark": "#D0D1E6",
+  "minimal-style@@h3-color@@dark": "#A6BDDB",
+  "minimal-style@@h4-color@@dark": "#67A9CF",
+  "minimal-style@@h5-color@@dark": "#1C9099",
+  "minimal-style@@h6-color@@dark": "#016C59",
+  "floating-toc-styles@@toggle-floating-toc-header-color": true,
+  "floating-toc-styles@@floating-toc-font-size": 1
+}

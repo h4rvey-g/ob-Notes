@@ -1,0 +1,1 @@
+Most common cause is [[uremia]]（尿毒症）
