@@ -2,5 +2,9 @@
   "vimMode": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "/appendix",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en"
+  ]
 }

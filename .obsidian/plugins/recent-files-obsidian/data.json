@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
+    },
+    {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Supraventricular tachycardia",
+      "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
+    },
+    {
+      "basename": "Vagal maneuver",
+      "path": "USMLE/Cardiology/Vagal maneuver.md"
+    },
+    {
+      "basename": "Pasted image 20230620213926",
+      "path": "appendix/Pasted image 20230620213926.png"
+    },
+    {
       "basename": "Myasthenia gravis",
       "path": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md"
     },
@@ -27,10 +47,6 @@
     {
       "basename": "Jaundice and cholestasis",
       "path": "USMLE/Blood/Jaundice and cholestasis.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "ectopic atrial rhythm",
