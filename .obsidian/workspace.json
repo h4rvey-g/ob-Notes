@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -192,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +208,12 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
+    "template",
+    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
+    "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md",
+    "SimpRead/2-我如何使用 Notion 管理简悦的一切@annote.md",
     "SimpRead/7-夏令营 120 期 _ ​解放军总医院医学院@annote.md",
     "未命名 1.canvas",
     "3ghAN.md",
@@ -220,21 +223,17 @@
     "appendix/Pasted image 20230619221837.png",
     "appendix/Pasted image 20230619221102.png",
     "USMLE/Blood/Macrocytic anemias.md",
-    "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "USMLE/Blood",
     "Pasted image 20230617214946.png",
     "us/article/Hg0K92.md",
     "us/article",
     "us",
     "未命名 1.md",
-    "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md",
     "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效.md",
     "SimpRead/SR3@放弃纠结、拥抱妥协，重器轻用就是高效.md",
-    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
     "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.md",
     "SimpRead/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读@annote.md",
     "SimpRead/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读.md",
-    "SimpRead/2-我如何使用 Notion 管理简悦的一切@annote.md",
     "SimpRead/2-我如何使用 Notion 管理简悦的一切.md",
     "SimpRead",
     "appendix/Pasted image 20230618214752.png",
@@ -251,7 +250,6 @@
     "Files/the-only-ekg-book-youll-ever-need-9th-edition-pdf-2az-dr-notes.pdf",
     "Files",
     "USMLE/Books",
-    "USMLE/Cardiology",
     "未命名.canvas"
   ]
 }

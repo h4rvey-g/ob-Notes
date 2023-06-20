@@ -29,7 +29,7 @@ exmap surround_backticks surround ` `
 exmap surround_brackets surround ( )
 exmap surround_square_brackets surround [ ]
 exmap surround_curly_brackets surround { }
-exmap mnemonic surround <mark\ style="background:\ #62603c;"> <font\ color="#a5deff">
+exmap mnemonic surround <mark\ style="background:\ #62603c;"><font\ color="#a5deff"> </font></mark>
 
 " NOTE: must use 'map' and not 'nmap'
 map sl :surround_wiki
