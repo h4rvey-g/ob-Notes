@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Jaundice and cholestasis.md",
-                "mode": "source",
+                "file": "USMLE/Blood/Anemia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Jaundice and cholestasis.md",
+                "file": "USMLE/Blood/Anemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Jaundice and cholestasis.md",
+                "file": "USMLE/Blood/Anemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Jaundice and cholestasis.md"
+                "file": "USMLE/Blood/Anemia.md"
               }
             }
           }
@@ -208,11 +209,13 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
+    "USMLE/Blood/Anemia.md",
+    "USMLE/Blood/Leukocyte alkaline phosphatase.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
+    "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md",
+    "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "template",
     "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
-    "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md",
     "SimpRead/2-我如何使用 Notion 管理简悦的一切@annote.md",
     "SimpRead/7-夏令营 120 期 _ ​解放军总医院医学院@annote.md",
     "未命名 1.canvas",
@@ -244,7 +247,6 @@
     "未命名.md",
     "USMLE/Cardiology/Rheumatic heart disease.md",
     "USMLE/Cardiology/Cardiac transplatation.md",
-    "USMLE/Cardiology/Cardiology.md",
     "appendix",
     "USMLE/Cardiology",
     "Files/the-only-ekg-book-youll-ever-need-9th-edition-pdf-2az-dr-notes.pdf",
