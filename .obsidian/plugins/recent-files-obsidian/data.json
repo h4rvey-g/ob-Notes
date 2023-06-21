@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
-    },
-    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
     },
     {
       "basename": "Supraventricular tachycardia",

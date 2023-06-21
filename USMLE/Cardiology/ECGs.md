@@ -29,6 +29,7 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 # [[Atrioventricular block]]
 # Miscellaneous
 ## P wave
+
 <mark style="background: #FFF3A34A;">The P wave in V1 is **often biphasic**.</mark> Early right atrial forces are directed anteriorly, giving rise to an initial positive deflection; these are followed by left atrial forces travelling posteriorly, producing a later negative deflection.
 ![[Pasted image 20230620211202.png]]
 In AVNRT, The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <mark style="background: #FFF3A34A;">Retrograde P</mark> wave (aka pseudo-R' wave) is seen in V1.
