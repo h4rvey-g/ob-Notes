@@ -15,4 +15,5 @@ For causes of hypercalcemia, remember “Thinking Chimpanzees!”
 - Excessive vitamin A
 - Sarcoidosis & granulomatous diseases
 # Clinical features
+ECG: Shorten QT interval
 ![[Pasted image 20230622205511.png]]

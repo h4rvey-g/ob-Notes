@@ -17,7 +17,7 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 - Mild hyperkalemia: 5.5–6.4 mEq/L 
     - <mark style="background: #FFF3A3A6;">Tall, peaked </mark>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) 
 - Moderate hyperkalemia: 6.5–8.0 mEq/L 
-<mark style="background: #FFF3A3A6;">    - Lengthening of QRS interval ([QRS complex](https://next.amboss.com/us/article/pl0LBT#Zb6a46f472e496e639cee60c43bd0acbd) widening)</mark>
+<mark style="background: #FFF3A3A6;">    - Lengthening of QRS interval ([QRS complex](https://next.amboss.com/us/article/pl0LBT#Zb6a46f472e496e639cee60c43bd0acbd) widening)</mark> -- because of conduction delay
     - Widening and flattening of [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec), which eventually disappears 
 - Severe hyperkalemia: > 8.0 mEq/L 
     - Absent [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec)
