@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "myelopro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood.md"
+                "file": "USMLE/GI/Pancreatic cancer.md"
               }
             }
           }
@@ -209,6 +209,9 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Blood.md",
+    "USMLE/GI/Pancreatic cancer.md",
+    "USMLE/GI",
     "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "appendix/Pasted image 20230622145302.png",
@@ -247,15 +250,12 @@
     "us/article",
     "us",
     "未命名 1.md",
-    "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效.md",
-    "SimpRead/SR3@放弃纠结、拥抱妥协，重器轻用就是高效.md",
     "SimpRead",
     "appendix/Pasted image 20230618214752.png",
     "appendix/Pasted image 20230618205433.png",
     "appendix/Pasted image 20230618204845.png",
     "appendix",
     "USMLE/Cardiology",
-    "Files/the-only-ekg-book-youll-ever-need-9th-edition-pdf-2az-dr-notes.pdf",
     "未命名.canvas"
   ]
 }
