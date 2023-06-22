@@ -29,11 +29,19 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 # [[Atrioventricular block]]
 # Miscellaneous
 ## P wave
-
+Time: < 0.12s = 3 small block
+Voltage: <0.25mV = 2.5 small block
 <mark style="background: #FFF3A34A;">The P wave in V1 is **often biphasic**.</mark> Early right atrial forces are directed anteriorly, giving rise to an initial positive deflection; these are followed by left atrial forces travelling posteriorly, producing a later negative deflection.
 ![[Pasted image 20230620211202.png]]
 In AVNRT, The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <mark style="background: #FFF3A34A;">Retrograde P</mark> wave (aka pseudo-R' wave) is seen in V1.
 ![[127701f042d46e7958a823fce6249be.jpg]]
+
+## ST segment
+Time: 0.05-0.15s = 1-3 small block
+Elevation: ≥ 0.1 mV in a limb lead or ≥ 0.2 mV in a precordial lead. 
+## QT interval
+The QT interval includes the QRS complex, the ST segment, and the T wave.
+The two chief causes of a short QT are <mark style="background: #FFF3A34A;">hypercalcemia</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
 ## Rates
 - Atrial flutter: 250-300/min -- about 1 small block
 - Atrial fibrillation: 350-400/min -- less than 1 small block

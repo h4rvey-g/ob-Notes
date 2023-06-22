@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "366784a71f0400fb",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Cardiology/Hypercalcemia.md"
               }
             }
           }
@@ -207,11 +207,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "035a1656732cd07c",
+  "active": "20e46837baa36f69",
   "lastOpenFiles": [
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Questions.md",
     "USMLE/Cardiology/Vagal maneuver.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Questions",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "appendix/Pasted image 20230620213926.png",
@@ -247,7 +248,6 @@
     "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效.md",
     "SimpRead/SR3@放弃纠结、拥抱妥协，重器轻用就是高效.md",
     "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.md",
-    "SimpRead/4-看板、双向链接、知识图谱…… 简悦 2-2 想让你的稍后读不再不读@annote.md",
     "SimpRead",
     "appendix/Pasted image 20230618214752.png",
     "appendix/Pasted image 20230618205433.png",

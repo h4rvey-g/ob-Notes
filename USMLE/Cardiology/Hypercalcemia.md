@@ -1,0 +1,1 @@
+Hypercalcemia is a total serum calcium concentration of > 10.5 mg/dL (> 2.62 mmol/L) or ionized (free) calcium concentration of > 5.25 mg/dL (> 1.31 mmol/L).
