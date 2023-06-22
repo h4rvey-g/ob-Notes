@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+                "file": "USMLE/Blood.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "狗",
+                "query": "myelopro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+                "file": "USMLE/Blood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+                "file": "USMLE/Blood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md"
+                "file": "USMLE/Blood.md"
               }
             }
           }
@@ -209,8 +209,8 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "appendix/Pasted image 20230622145302.png",
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
     "USMLE/Cardiology/Hypercalcemia.md",
