@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md",
-                "mode": "source",
+                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md"
               }
             }
           }
@@ -207,10 +207,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "20e46837baa36f69",
+  "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
+    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+    "appendix/Pasted image 20230622145302.png",
+    "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
     "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Cardiology/ECGs.md",
     "USMLE/Questions.md",
     "USMLE/Cardiology/Vagal maneuver.md",
     "USMLE/Questions",
@@ -220,8 +224,6 @@
     "USMLE/Cardiology/ectopic atrial rhythm.md",
     "Pasted image 20230617214946.png",
     "appendix/Pasted image 20230620211202.png",
-    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
-    "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
     "USMLE/Blood/Nucleated red blood cells.md",
     "USMLE/Muscle, skin, and connective tissue",
     "USMLE/Blood/Leukocyte alkaline phosphatase.md",
@@ -247,7 +249,6 @@
     "未命名 1.md",
     "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效.md",
     "SimpRead/SR3@放弃纠结、拥抱妥协，重器轻用就是高效.md",
-    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.md",
     "SimpRead",
     "appendix/Pasted image 20230618214752.png",
     "appendix/Pasted image 20230618205433.png",
