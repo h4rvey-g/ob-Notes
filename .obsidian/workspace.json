@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hypercal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md"
+                "file": "USMLE/Cardiology/Hypercalcemia.md"
               }
             }
           }
@@ -209,8 +209,14 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+    "appendix/Pasted image 20230622205511.png",
+    "USMLE/Cardiology/Thiazides.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/ectopic atrial rhythm.md",
+    "Pasted image 20230617214946.png",
     "USMLE/Blood/Autoimmune hemolytic anemia.md",
+    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
     "USMLE/Blood/Anemia.md",
@@ -221,16 +227,12 @@
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "appendix/Pasted image 20230622145302.png",
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Questions.md",
     "USMLE/Cardiology/Vagal maneuver.md",
     "USMLE/Questions",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "appendix/Pasted image 20230620213926.png",
     "appendix/127701f042d46e7958a823fce6249be.jpg",
-    "USMLE/Cardiology/ectopic atrial rhythm.md",
-    "Pasted image 20230617214946.png",
     "appendix/Pasted image 20230620211202.png",
     "USMLE/Blood/Nucleated red blood cells.md",
     "USMLE/Muscle, skin, and connective tissue",
@@ -243,10 +245,8 @@
     "SimpRead/7-夏令营 120 期 _ ​解放军总医院医学院@annote.md",
     "未命名 1.canvas",
     "3ghAN.md",
-    "USMLE/Cardiology/Atrioventricular block.md",
     "appendix/Pasted image 20230619221837.png",
     "appendix/Pasted image 20230619221102.png",
-    "USMLE/Blood/Macrocytic anemias.md",
     "USMLE/Blood",
     "us/article",
     "us",
