@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
-                "mode": "preview",
+                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md"
+                "file": "USMLE/Blood/Autoimmune hemolytic anemia.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+    "USMLE/Blood/Autoimmune hemolytic anemia.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
     "USMLE/Blood/Anemia.md",
@@ -216,7 +218,6 @@
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/Blood.md",
     "USMLE/GI",
-    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "appendix/Pasted image 20230622145302.png",
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
@@ -247,7 +248,6 @@
     "appendix/Pasted image 20230619221102.png",
     "USMLE/Blood/Macrocytic anemias.md",
     "USMLE/Blood",
-    "us/article/Hg0K92.md",
     "us/article",
     "us",
     "SimpRead",
