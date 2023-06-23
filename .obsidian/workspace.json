@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
               }
             }
           }
@@ -209,8 +209,11 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Blood/Splenomegaly.md",
+    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+    "appendix/Pasted image 20230623172022.png",
+    "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230623160626.png",
     "appendix/Pasted image 20230622223723.png",
     "USMLE/Cardiology/ectopic atrial rhythm.md",
@@ -239,7 +242,6 @@
     "USMLE/Questions",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "appendix/Pasted image 20230620213926.png",
-    "appendix/127701f042d46e7958a823fce6249be.jpg",
     "USMLE/Blood/Nucleated red blood cells.md",
     "USMLE/Muscle, skin, and connective tissue",
     "USMLE/Blood/Leukocyte alkaline phosphatase.md",
@@ -247,7 +249,6 @@
     "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "template",
     "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
-    "SimpRead/2-我如何使用 Notion 管理简悦的一切@annote.md",
     "未命名 1.canvas",
     "USMLE/Blood",
     "us/article",

@@ -18,6 +18,9 @@ directed
 deflection
 digoxin
 disorders
+diagnoses
+deficiency
+damage
 of
 over
 originate
@@ -25,6 +28,8 @@ on
 often
 or
 observed
+other
+organ
 regular
 reentrant
 retrograde
@@ -86,6 +91,9 @@ most
 mostly
 marrow
 megakaryocytes
+makes
+more
+microthrombus
 Sinus
 ST
 Segment
@@ -102,6 +110,7 @@ Absent
 Also
 Autoimmune
 Antiplatelet
+ADAMTS
 Orthodromic
 On
 atrio
@@ -126,10 +135,14 @@ antibiotics
 antiepileptics
 antibodies
 against
+asymptomatic
 ventricular
 varying
 vaccines
 vancomycin
+very
+vWF
+vessels
 conduction
 concealed
 complex
@@ -165,6 +178,7 @@ by
 beta
 bind
 bone
+blockage
 flutter
 from
 focus
@@ -174,6 +188,9 @@ findings
 fibrillation
 forces
 followed
+features
+formation
+fragmentation
 with
 wave
 which
@@ -227,6 +244,7 @@ Marrow
 Mitral
 Miscellaneous
 Malignancy
+Mostly
 Differentiate
 Drugs
 FFF
@@ -251,6 +269,7 @@ eventually
 enlargement
 echo
 end
+excess
 Early
 Elevation
 Etiology
@@ -264,6 +283,7 @@ hyperkalemia
 hypertrophy
 hereditary
 heparin
+hemolysis
 peaked
 pattern
 precordial
@@ -283,11 +303,14 @@ Block
 Best
 Characteristic
 CLL
+Clinical
 Right
 Retrograde
 Rates
+RBC
 Voltage
 up
+unusual
 quinine
 GpIIb
 GpIb
