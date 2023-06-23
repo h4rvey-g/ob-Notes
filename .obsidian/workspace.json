@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "QT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -128,9 +128,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5a77228bb1c25286",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "366784a71f0400fb",
@@ -143,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -204,16 +212,18 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "graph:查看关系图谱": false,
       "obsidian42-brat:BRAT": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Blood/Splenomegaly.md",
     "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+    "USMLE/Cardiology/ECGs.md",
+    "appendix/Pasted image 20230623214843.png",
+    "USMLE/Blood/Splenomegaly.md",
     "USMLE/Blood/Immune thrombocytopenia (ITP).md",
     "appendix/Pasted image 20230623172022.png",
-    "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230623160626.png",
     "appendix/Pasted image 20230622223723.png",
     "USMLE/Cardiology/ectopic atrial rhythm.md",
@@ -241,14 +251,12 @@
     "USMLE/Cardiology/Vagal maneuver.md",
     "USMLE/Questions",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
-    "appendix/Pasted image 20230620213926.png",
     "USMLE/Blood/Nucleated red blood cells.md",
     "USMLE/Muscle, skin, and connective tissue",
     "USMLE/Blood/Leukocyte alkaline phosphatase.md",
     "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md",
     "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "template",
-    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
     "未命名 1.canvas",
     "USMLE/Blood",
     "us/article",

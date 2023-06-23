@@ -1,11 +1,13 @@
-# Tachycardia differentials
-![[Pasted image 20230620213926.png]]
+# Tachycardia DDx
+![[Pasted image 20230620213926.png|800]]
 The differential diagnosis of a regular narrow tachycardia in general includes 5 major mechanisms: 
 - Sinus tachycardia 
 - AVNRT 
 - Atrial tachycardia 
 - Orthodromic atrio-ventricular reentrant tachycardia (AVRT) involving retrograde conduction over a "concealed" bypass tract 
 - Atrial flutter with 2:1 block
+# Bradycardia DDx
+![[Pasted image 20230623214843.png]]
 #  Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb [[lead reversal]].
 # Multifocal atrial rhythm
 ![Multifocal Atrial Tachycardia (MAT) • At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
@@ -25,7 +27,7 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
     - Unusual QRS morphology  
     - Sine wave pattern: a sinusoidal pattern with absent [P waves](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec) and a wide [QRS complex](https://next.amboss.com/us/article/pl0LBT#Zb6a46f472e496e639cee60c43bd0acbd) that merges with the [T wave](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758); a marker of impending V-Fib and [asystole](https://next.amboss.com/us/article/kN0mYg#Zb4ca67b910308e403b40cd3323e1618d) 
     - [Cardiac arrhythmias](https://next.amboss.com/us/article/7S04af#Ze688ba61de47d1456aee769e72c55a4c) (e.g., [V-tach](https://next.amboss.com/us/article/ES08Yf#Z3ccca87cced54f1e90d29e6b24c625b3), [V-fib](https://next.amboss.com/us/article/vS0AYf#Z72e4dad96c0862961705fabcdf294de3)), [asystole](https://next.amboss.com/us/article/kN0mYg#Zb4ca67b910308e403b40cd3323e1618d)
-	![[Pasted image 20230618214752.png]]
+	![[Pasted image 20230618214752.png|700]]
 # [[Atrioventricular block]]
 # Bundle Branch Block
 mnemonic: William Marrow
@@ -57,3 +59,4 @@ The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hy
 - Atrial flutter: 250-300/min -- about 1 small block
 - Atrial fibrillation: 350-400/min -- less than 1 small block
 - Atrial tachycardia, AVNRT: 130-240 -- 1-2 small block
+

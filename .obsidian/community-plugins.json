@@ -27,5 +27,8 @@
   "obsidian-git",
   "obsidian-version-history-diff",
   "quickadd",
-  "obsidian-completr"
+  "obsidian-completr",
+  "mousewheel-image-zoom",
+  "obsidian-image-toolkit",
+  "table-editor-obsidian"
 ]

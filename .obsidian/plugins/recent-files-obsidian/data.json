@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
       "basename": "Thrombotic thrombocytopenic purpura (TTP)",
       "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Splenomegaly",
       "path": "USMLE/Blood/Splenomegaly.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Questions",
