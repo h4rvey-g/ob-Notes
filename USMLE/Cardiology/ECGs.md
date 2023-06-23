@@ -27,6 +27,17 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
     - [Cardiac arrhythmias](https://next.amboss.com/us/article/7S04af#Ze688ba61de47d1456aee769e72c55a4c) (e.g., [V-tach](https://next.amboss.com/us/article/ES08Yf#Z3ccca87cced54f1e90d29e6b24c625b3), [V-fib](https://next.amboss.com/us/article/vS0AYf#Z72e4dad96c0862961705fabcdf294de3)), [asystole](https://next.amboss.com/us/article/kN0mYg#Zb4ca67b910308e403b40cd3323e1618d)
 	![[Pasted image 20230618214752.png]]
 # [[Atrioventricular block]]
+# Bundle Branch Block
+mnemonic: William Marrow
+![[Pasted image 20230622220505.png]]
+In right bundle branch block, the right precordial leads will show <mark style="background: #FFF3A34A;">ST-segment depression and T-wave inversion</mark>. Similarly, in left bundle branch block, ST-segment depression and T-wave inversion can be seen in the left lateral leads.
+# Mitral stenosis
+Characteristic findings include:
+- Left atrial enlargement/P mitrale (widened and biphasic P wave)
+- Atrial fibrillation  
+- Right ventricular hypertrophy (e.g., right axis deviation, dominant R wave in lead V1) 
+![[Pasted image 20230622223520.png]]
+![[Pasted image 20230622223723.png]]
 # Miscellaneous
 ## P wave
 Time: < 0.12s = 3 small block

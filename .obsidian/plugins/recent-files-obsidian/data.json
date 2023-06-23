@@ -5,6 +5,10 @@
       "path": "USMLE/Cardiology/ECGs.md"
     },
     {
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
+    },
+    {
       "basename": "Hypercalcemia",
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Thymoma",
       "path": "USMLE/Muscle, skin, and connective tissue/Thymoma.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
     },
     {
       "basename": "Supraventricular tachycardia",
