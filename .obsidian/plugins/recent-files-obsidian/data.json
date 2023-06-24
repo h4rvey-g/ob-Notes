@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Anticoagulants",
-      "path": "USMLE/Blood/Anticoagulants.md"
+      "basename": "Hemophilia",
+      "path": "USMLE/Blood/Hemophilia.md"
+    },
+    {
+      "basename": "Von Willebrand disease",
+      "path": "USMLE/Blood/Von Willebrand disease.md"
     },
     {
       "basename": "Immune thrombocytopenia (ITP)",
       "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
+    },
+    {
+      "basename": "Thrombotic thrombocytopenic purpura (TTP)",
+      "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
+    },
+    {
+      "basename": "Anticoagulants",
+      "path": "USMLE/Blood/Anticoagulants.md"
     },
     {
       "basename": "Arteriolosclerosis",
@@ -35,10 +47,6 @@
     {
       "basename": "Atrioventricular block",
       "path": "USMLE/Cardiology/Atrioventricular block.md"
-    },
-    {
-      "basename": "Thrombotic thrombocytopenic purpura (TTP)",
-      "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
     },
     {
       "basename": "Splenomegaly",
@@ -71,10 +79,6 @@
     {
       "basename": "Anemia",
       "path": "USMLE/Blood/Anemia.md"
-    },
-    {
-      "basename": "Von Willebrand disease",
-      "path": "USMLE/Blood/Von Willebrand disease.md"
     },
     {
       "basename": "Pancreatic cancer",
@@ -195,10 +199,6 @@
     {
       "basename": "3ghAN",
       "path": "3ghAN.md"
-    },
-    {
-      "basename": "狗",
-      "path": "小说/狗.md"
     }
   ],
   "omittedPaths": [],

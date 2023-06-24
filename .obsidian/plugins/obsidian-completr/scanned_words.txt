@@ -252,6 +252,11 @@ dW
 death
 deposits
 diabetes
+decrease
+disease
+disorder
+dysfunction
+degradation
 of
 over
 originate
@@ -492,6 +497,7 @@ rAU
 rtRK
 rYZ
 rdq
+reduces
 narrow
 negative
 not
@@ -596,6 +602,8 @@ nmM
 nA
 nZH
 nPO
+nerve
+nodes
 tachycardia
 tract
 the
@@ -731,6 +739,9 @@ tbx
 twA
 tFI
 torsade
+this
+through
+then
 in
 includes
 involving
@@ -854,6 +865,8 @@ iUUEQ
 izaa
 izff
 ixY
+impaired
+intrinsic
 general
 giving
 generation
@@ -1092,6 +1105,9 @@ my
 mbL
 muscle
 malignant
+maneuvers
+maneuver
+massage
 Sinus
 ST
 Segment
@@ -1554,6 +1570,11 @@ arteriolar
 aging
 appearance
 arteriole
+actions
+acts
+acute
+adhesion
+activity
 ventricular
 varying
 vaccines
@@ -1659,6 +1680,11 @@ vGw
 vDE
 vvvbbbrrr
 vLK
+variation
+ventriculophasic
+vagus
+velocity
+viral
 conduction
 concealed
 complex
@@ -1786,6 +1812,10 @@ cgu
 cDBc
 chronic
 cells
+carotid
+children
+coagulation
+congenital
 bypass
 block
 background
@@ -1898,6 +1928,8 @@ bJYL
 byfr
 bhhfb
 below
+bleeding
+binding
 flutter
 from
 focus
@@ -2007,6 +2039,8 @@ fPo
 flj
 fUl
 fYV
+form
+factor
 with
 wave
 which
@@ -2469,6 +2503,13 @@ sdD
 subendothelial
 smooth
 skin
+sinus
+set
+stimulation
+stimulated
+sinoatrial
+slows
+secondary
 QRS
 QT
 QDQ
@@ -2797,6 +2838,8 @@ MDc
 Mgj
 MTJ
 MCW
+Mixed
+Most
 Differentiate
 Drugs
 DDx
@@ -2900,6 +2943,8 @@ DUUm
 DJp
 DBKV
 Deposition
+Deficiency
+Dysfunctional
 FFF
 Fib
 Fi
@@ -3445,6 +3490,7 @@ Eb
 Eqbhd
 ERnK
 EVu
+Epidemiology
 LEFT
 Lengthening
 Left
@@ -3776,6 +3822,7 @@ hWU
 hardening
 hyaline
 hypertension
+hemostasis
 peaked
 pattern
 precordial
@@ -3898,6 +3945,10 @@ pBI
 pLhR
 pointes
 pink
+performed
+physical
+primary
+pathway
 Unusual
 Usually
 Upc
@@ -4305,6 +4356,7 @@ RXB
 RU
 REV
 RX
+Reduced
 Voltage
 VFV
 VoNW
@@ -4404,6 +4456,9 @@ Vnlg
 VstA
 Vr
 Ventricular
+Ventriculophasic
+Valsalva
+VIII
 up
 unusual
 usually
