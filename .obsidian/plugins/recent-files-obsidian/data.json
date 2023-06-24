@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Anticoagulants",
+      "path": "USMLE/Blood/Anticoagulants.md"
+    },
+    {
       "basename": "Immune thrombocytopenia (ITP)",
       "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "狗",
       "path": "小说/狗.md"
-    },
-    {
-      "basename": "damn",
-      "path": "Bioinformatics/damn.md"
     }
   ],
   "omittedPaths": [],

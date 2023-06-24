@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md",
-                "mode": "preview",
+                "file": "USMLE/Blood/Anticoagulants.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+                "file": "USMLE/Blood/Anticoagulants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+                "file": "USMLE/Blood/Anticoagulants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
+                "file": "USMLE/Blood/Anticoagulants.md"
               }
             }
           }
@@ -217,8 +217,9 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+    "USMLE/Blood/Anticoagulants.md",
+    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/Cardiology/Arteriolosclerosis.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Neurology/Headaches.md",
@@ -255,7 +256,6 @@
     "USMLE/Cardiology/Vagal maneuver.md",
     "USMLE/Questions",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
-    "USMLE/Blood/Nucleated red blood cells.md",
     "USMLE/Muscle, skin, and connective tissue",
     "template",
     "未命名 1.canvas",
