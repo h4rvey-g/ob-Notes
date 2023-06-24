@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Cardiovascular examination.md",
-                "mode": "preview",
+                "file": "USMLE/Cardiology/Arteriolosclerosis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Arteriolosclerosis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Cardiovascular examination.md",
+                "file": "USMLE/Cardiology/Arteriolosclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Cardiovascular examination.md",
+                "file": "USMLE/Cardiology/Arteriolosclerosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,12 +191,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Cardiovascular examination.md"
+                "file": "USMLE/Cardiology/Arteriolosclerosis.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,16 +215,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "035a1656732cd07c",
+  "active": "4a64e1598d873b74",
   "lastOpenFiles": [
-    "appendix/Pasted image 20230624132724.png",
-    "USMLE/Cardiology/Cardiovascular examination.md",
-    "appendix/Pasted image 20230624133437.png",
+    "USMLE/Cardiology/Arteriolosclerosis.md",
+    "USMLE/Neurology/Headaches.md",
+    "appendix/foo.jpg",
+    "USMLE/Cardiology/Long QT syndromes.md",
+    "USMLE/Neurology",
     "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Cardiovascular examination.md",
+    "appendix/Pasted image 20230624132724.png",
+    "appendix/Pasted image 20230624133437.png",
     "USMLE/Cardiology/Hypercalcemia.md",
     "appendix/Pasted image 20230620213926.png",
     "USMLE/Cardiology/ectopic atrial rhythm.md",
-    "USMLE/Cardiology/Long QT syndromes.md",
     "USMLE/Cardiology/Atrioventricular block.md",
     "appendix/Pasted image 20230623224624.png",
     "appendix/Pasted image 20230623220754.png",
@@ -236,7 +239,6 @@
     "appendix/Pasted image 20230623172022.png",
     "appendix/Pasted image 20230623160626.png",
     "appendix/Pasted image 20230622223723.png",
-    "appendix/Pasted image 20230622223520.png",
     "USMLE/Questions.md",
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
     "USMLE/Blood/Autoimmune hemolytic anemia.md",
@@ -255,7 +257,6 @@
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Blood/Nucleated red blood cells.md",
     "USMLE/Muscle, skin, and connective tissue",
-    "USMLE/Blood/Leukocyte alkaline phosphatase.md",
     "template",
     "未命名 1.canvas",
     "USMLE/Blood",
@@ -263,7 +264,6 @@
     "us",
     "SimpRead",
     "appendix",
-    "USMLE/Cardiology",
     "未命名.canvas"
   ]
 }

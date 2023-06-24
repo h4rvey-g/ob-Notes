@@ -1,0 +1,2 @@
+# Migraine
+![[foo.jpg]]

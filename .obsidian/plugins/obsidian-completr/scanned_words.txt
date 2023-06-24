@@ -249,6 +249,9 @@ dPy
 dfi
 dLhn
 dW
+death
+deposits
+diabetes
 of
 over
 originate
@@ -369,6 +372,7 @@ ojzw
 ooIn
 oso
 oC
+onion
 regular
 reentrant
 retrograde
@@ -726,6 +730,7 @@ tGm
 tbx
 twA
 tFI
+torsade
 in
 includes
 involving
@@ -1085,6 +1090,8 @@ mNx
 mmk
 my
 mbL
+muscle
+malignant
 Sinus
 ST
 Segment
@@ -1204,6 +1211,7 @@ SQLS
 Snq
 SHA
 SSS
+Sudden
 AVNRT
 Atrial
 AVRT
@@ -1317,6 +1325,8 @@ AKzM
 AVVV
 Adr
 Apy
+Asystole
+Arteriolosclerosis
 Orthodromic
 On
 Often
@@ -1536,6 +1546,14 @@ aM
 arrR
 awE
 alc
+arteries
+arterioles
+arteriolosclerosis
+amorphous
+arteriolar
+aging
+appearance
+arteriole
 ventricular
 varying
 vaccines
@@ -1766,6 +1784,8 @@ crr
 crL
 cgu
 cDBc
+chronic
+cells
 bypass
 block
 background
@@ -1877,6 +1897,7 @@ bfF
 bJYL
 byfr
 bhhfb
+below
 flutter
 from
 focus
@@ -2100,6 +2121,8 @@ wbb
 whGPT
 wUE
 wDf
+within
+walls
 Whenever
 Widening
 William
@@ -2443,6 +2466,9 @@ sYm
 sKV
 sEOY
 sdD
+subendothelial
+smooth
+skin
 QRS
 QT
 QDQ
@@ -2651,6 +2677,7 @@ lAPq
 llM
 lGZ
 lVUU
+leakage
 Multifocal
 Mild
 Moderate
@@ -2872,6 +2899,7 @@ DWldHDQ
 DUUm
 DJp
 DBKV
+Deposition
 FFF
 Fib
 Fi
@@ -3180,6 +3208,7 @@ Pe
 Pal
 PDP
 PTS
+Proliferation
 ectopic
 elevation
 early
@@ -3304,6 +3333,8 @@ eBU
 eÖu
 eKzSU
 eKA
+endothelium
+essential
 Early
 Elevation
 Etiology
@@ -3628,6 +3659,8 @@ HNh
 HZ
 Hlq
 HSE
+Hyaline
+Hyperplastic
 hyperkalemia
 hypertrophy
 hereditary
@@ -3740,6 +3773,9 @@ hm
 hKX
 hxpP
 hWU
+hardening
+hyaline
+hypertension
 peaked
 pattern
 precordial
@@ -3860,6 +3896,8 @@ pp
 paffztt
 pBI
 pLhR
+pointes
+pink
 Unusual
 Usually
 Upc
@@ -4165,6 +4203,9 @@ CUU
 CWn
 CJH
 CUu
+Complications
+Classifications
+Cause
 Right
 Retrograde
 Rates
@@ -4362,6 +4403,7 @@ VlD
 Vnlg
 VstA
 Vr
+Ventricular
 up
 unusual
 usually
