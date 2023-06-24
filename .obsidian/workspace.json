@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
-                "mode": "source",
+                "file": "USMLE/Cardiology/Atrioventricular block.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "366784a71f0400fb",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Atrioventricular block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Atrioventricular block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Cardiology/Atrioventricular block.md"
               }
             }
           }
@@ -216,10 +216,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "035a1656732cd07c",
+  "active": "20e46837baa36f69",
   "lastOpenFiles": [
-    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+    "appendix/Pasted image 20230623224624.png",
     "USMLE/Cardiology/ECGs.md",
+    "appendix/Pasted image 20230623220754.png",
+    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "appendix/Pasted image 20230623214843.png",
     "USMLE/Blood/Splenomegaly.md",
     "USMLE/Blood/Immune thrombocytopenia (ITP).md",
@@ -247,7 +249,6 @@
     "USMLE/Blood.md",
     "USMLE/GI",
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
-    "appendix/Pasted image 20230622145302.png",
     "USMLE/Cardiology/Vagal maneuver.md",
     "USMLE/Questions",
     "USMLE/Cardiology/Supraventricular tachycardia.md",

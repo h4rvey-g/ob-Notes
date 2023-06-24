@@ -17,3 +17,6 @@ Risk of progression to complete heart block: high (> 50%), as it is typically du
     - Block at the level of the [AV node](https://next.amboss.com/us/article/zo0reS#Z000838c1249fec206b77360ff0adc110) (more common): low
     - [Infranodal block](https://next.amboss.com/us/article/I50Ylg#Z35609ef53f24544b69bf3d1b22d82373) (less common): high
 	![[Pasted image 20230619221837.png]]
+ # Ventriculophasic sinus arrhythmia
+ Sinus rate variation of this type with complete heart block is called ventriculophasic sinus arrhythmia.
+ ![[Pasted image 20230623224624.png]]

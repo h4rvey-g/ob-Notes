@@ -16,8 +16,14 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 ![[Pasted image 20230617214946.png]]
 on the LEFT, the T wave repolarization looks like a continuation of the S wave. This is not ST elevation and is seen often in young adults. It is called benign early repolarization. On the right, you clearly see the completion of the S wave and a clear ST Segment which allows you to do an accurate ST Elevation measurement.
 # Hyperkalemia
+| 高钾血症：三低一高 | 低钾血症：三高一低 |
+|:------------------:|:------------------:|
+|     兴奋↑（↓）     |       兴奋↑        |
+|       传导↓        |       传导↓        |
+|       自律↓        |       自律↑        |
+|       收缩↓        |     收缩↑（↓）     |
 - Mild hyperkalemia: 5.5–6.4 mEq/L 
-    - <mark style="background: #FFF3A3A6;">Tall, peaked </mark>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) 
+    - <mark style="background: #FFF3A3A6;">Tall, peaked </mark>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极化3期加速，反映为3期复极T波狭窄而高耸)
 - Moderate hyperkalemia: 6.5–8.0 mEq/L 
 <mark style="background: #FFF3A3A6;">    - Lengthening of QRS interval ([QRS complex](https://next.amboss.com/us/article/pl0LBT#Zb6a46f472e496e639cee60c43bd0acbd) widening)</mark> -- because of conduction delay
     - Widening and flattening of [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec), which eventually disappears 
@@ -40,6 +46,8 @@ Characteristic findings include:
 - Right ventricular hypertrophy (e.g., right axis deviation, dominant R wave in lead V1) 
 ![[Pasted image 20230622223520.png]]
 ![[Pasted image 20230622223723.png]]
+# STEMI
+![[Pasted image 20230623220754.png]]
 # Miscellaneous
 ## P wave
 Time: < 0.12s = 3 small block
@@ -55,6 +63,7 @@ Elevation: ≥ 0.1 mV in a limb lead or ≥ 0.2 mV in a precordial lead.
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
 The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
+Prolonged QT: Congenital long QT syndromes, Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., hypocalcemia, hypokalemia, hypomagnesemia), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), Arsenic poisoning
 ## Rates
 - Atrial flutter: 250-300/min -- about 1 small block
 - Atrial fibrillation: 350-400/min -- less than 1 small block
