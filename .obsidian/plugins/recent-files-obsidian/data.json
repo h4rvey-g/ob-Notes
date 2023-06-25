@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Neonatal respiratory distress syndrome",
+      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
+    },
+    {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Xulab-calendar",
       "path": "Bioinformatics/Xulab-calendar.md"
-    },
-    {
-      "basename": "3ghAN",
-      "path": "3ghAN.md"
     }
   ],
   "omittedPaths": [],
