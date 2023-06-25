@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Neonatal respiratory distress syndrome",
-      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
+      "basename": "Erythrocyte morphology and hemoglobin",
+      "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
     },
     {
-      "basename": "单抗记忆",
-      "path": "USMLE/单抗记忆.md"
-    },
-    {
-      "basename": "Hemophilia",
-      "path": "USMLE/Blood/Hemophilia.md"
+      "basename": "Transfusion",
+      "path": "USMLE/Blood/Transfusion.md"
     },
     {
       "basename": "Von Willebrand disease",
       "path": "USMLE/Blood/Von Willebrand disease.md"
+    },
+    {
+      "basename": "Neonatal respiratory distress syndrome",
+      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
+    },
+    {
+      "basename": "Hemophilia",
+      "path": "USMLE/Blood/Hemophilia.md"
     },
     {
       "basename": "Immune thrombocytopenia (ITP)",
@@ -195,10 +199,6 @@
     {
       "basename": "Radiology book",
       "path": "USMLE/Books/Radiology book.md"
-    },
-    {
-      "basename": "Xulab-calendar",
-      "path": "Bioinformatics/Xulab-calendar.md"
     }
   ],
   "omittedPaths": [],

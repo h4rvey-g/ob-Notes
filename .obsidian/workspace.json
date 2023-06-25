@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Hemophilia.md",
-                "mode": "source",
+                "file": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "will",
+                "query": "risto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Hemophilia.md",
+                "file": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Hemophilia.md",
+                "file": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Hemophilia.md"
+                "file": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
               }
             }
           }
@@ -216,10 +216,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Blood/Transfusion.md",
+    "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
     "USMLE/Blood/Von Willebrand disease.md",
+    "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
     "USMLE/Blood/Hemophilia.md",
+    "USMLE/Respiratory",
     "USMLE/Blood/Immune thrombocytopenia (ITP).md",
     "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/Cardiology/Vagal maneuver.md",
@@ -252,10 +256,7 @@
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
     "USMLE/Blood/Anemia.md",
-    "USMLE/GI/Pancreatic cancer.md",
-    "USMLE/Blood.md",
     "USMLE/GI",
-    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "USMLE/Questions",
     "USMLE/Muscle, skin, and connective tissue",
     "template",
@@ -264,7 +265,6 @@
     "us/article",
     "us",
     "SimpRead",
-    "appendix",
     "未命名.canvas"
   ]
 }

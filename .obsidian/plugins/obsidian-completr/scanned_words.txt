@@ -257,6 +257,11 @@ disease
 disorder
 dysfunction
 degradation
+destruction
+dentist
+does
+deep
+delivery
 of
 over
 originate
@@ -498,6 +503,12 @@ rtRK
 rYZ
 rdq
 reduces
+recessive
+repeated
+results
+released
+ristocetin
+receptor
 narrow
 negative
 not
@@ -742,6 +753,7 @@ torsade
 this
 through
 then
+tissue
 in
 includes
 involving
@@ -867,6 +879,8 @@ izff
 ixY
 impaired
 intrinsic
+insulin
+inhibits
 general
 giving
 generation
@@ -966,6 +980,8 @@ gKo
 gfzjlb
 gqc
 gShH
+glucocorticoids
+glycoprotein
 major
 mechanisms
 mark
@@ -1108,6 +1124,11 @@ malignant
 maneuvers
 maneuver
 massage
+males
+mucosa
+manifest
+mellitus
+measures
 Sinus
 ST
 Segment
@@ -1430,6 +1451,7 @@ OgO
 Oh
 OMo
 OeRY
+Oral
 atrio
 and
 atrial
@@ -1575,6 +1597,15 @@ acts
 acute
 adhesion
 activity
+affects
+arthropathy
+assay
+ability
+agglutinate
+antibiotic
+activates
+added
+aggregate
 ventricular
 varying
 vaccines
@@ -1685,6 +1716,8 @@ ventriculophasic
 vagus
 velocity
 viral
+vaginal
+von
 conduction
 concealed
 complex
@@ -1816,6 +1849,8 @@ carotid
 children
 coagulation
 congenital
+contractions
+cofactor
 bypass
 block
 background
@@ -1930,6 +1965,8 @@ bhhfb
 below
 bleeding
 binding
+birth
+binds
 flutter
 from
 focus
@@ -2041,6 +2078,9 @@ fUl
 fYV
 form
 factor
+following
+fetal
+fetalis
 with
 wave
 which
@@ -2262,6 +2302,7 @@ Whs
 Wu
 WBu
 WFL
+Willebrand
 you
 young
 ybif
@@ -2510,6 +2551,11 @@ stimulated
 sinoatrial
 slows
 secondary
+spontaneous
+surfactant
+synthesis
+stress
+sex
 QRS
 QT
 QDQ
@@ -2719,6 +2765,10 @@ llM
 lGZ
 lVUU
 leakage
+linked
+lower
+levels
+lacking
 Multifocal
 Mild
 Moderate
@@ -2840,6 +2890,9 @@ MTJ
 MCW
 Mixed
 Most
+Maternal
+Multifetal
+Male
 Differentiate
 Drugs
 DDx
@@ -3158,6 +3211,7 @@ IeI
 IuI
 IvOMc
 IFx
+Interpretation
 PACs
 Primary
 Pathophysiology
@@ -3254,6 +3308,7 @@ Pal
 PDP
 PTS
 Proliferation
+Premature
 ectopic
 elevation
 early
@@ -3380,6 +3435,8 @@ eKzSU
 eKA
 endothelium
 essential
+epistaxis
+excessive
 Early
 Elevation
 Etiology
@@ -3707,6 +3764,9 @@ Hlq
 HSE
 Hyaline
 Hyperplastic
+Hemophilia
+Hereditary
+Hydrops
 hyperkalemia
 hypertrophy
 hereditary
@@ -3823,6 +3883,9 @@ hardening
 hyaline
 hypertension
 hemostasis
+hemarthrosis
+hemophilic
+higher
 peaked
 pattern
 precordial
@@ -3949,6 +4012,9 @@ performed
 physical
 primary
 pathway
+primarily
+procedures
+pregnancies
 Unusual
 Usually
 Upc
@@ -4257,6 +4323,7 @@ CUu
 Complications
 Classifications
 Cause
+Cesarean
 Right
 Retrograde
 Rates
@@ -4357,6 +4424,8 @@ RU
 REV
 RX
 Reduced
+Repeated
+Ristocetin
 Voltage
 VFV
 VoNW
@@ -4561,6 +4630,7 @@ uAt
 uGuA
 uÖ
 uBdBtB
+uterine
 quinine
 qz
 qM
@@ -5077,6 +5147,7 @@ jdd
 jwD
 jx
 jÄ
+joint
 kO
 kWCQ
 ky
@@ -5166,6 +5237,7 @@ kuu
 kmK
 kwf
 kGoP
+knee
 KB
 KR
 KA
