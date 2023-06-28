@@ -64,6 +64,13 @@ Characteristic findings include:
 ![[Pasted image 20230622223723.png]]
 # STEMI
 ![[Pasted image 20230623220754.png]]
+Timeline of ECG changes in STEMI
+The sequence of ECG changes over several hours to days: hyperacute T wave → ST elevation → pathological Q wave → T-wave inversion → ST normalization → T-wave normalization
+![[Pasted image 20230628215011.png]]
+## Pathological Q wave
+Top: normal Q wave  
+Bottom: pathological Q wave with a duration ≥0.04 s and depth >¼ of R wave amplitude (red and green overlays)
+![[Pasted image 20230628215219.png]]
 # Miscellaneous
 ## P wave
 Time: < 0.12s = 3 small block

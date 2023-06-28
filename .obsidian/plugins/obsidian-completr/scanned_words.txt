@@ -112,6 +112,9 @@ TE
 THR
 TFPI
 Tissue
+Torsades
+Timeline
+Top
 differentials
 differential
 diagnosis
@@ -267,6 +270,9 @@ delivery
 dissociation
 deoxygenated
 diffuse
+dysrhythmias
+duration
+depth
 of
 over
 originate
@@ -390,6 +396,7 @@ oC
 onion
 oxygenation
 oxygenated
+overlays
 regular
 reentrant
 retrograde
@@ -517,6 +524,8 @@ released
 ristocetin
 receptor
 releases
+result
+red
 narrow
 negative
 not
@@ -764,6 +773,8 @@ through
 then
 tissue
 thrombin
+think
+tea
 in
 includes
 involving
@@ -995,6 +1006,7 @@ gqc
 gShH
 glucocorticoids
 glycoprotein
+green
 major
 mechanisms
 mark
@@ -1143,6 +1155,7 @@ manifest
 mellitus
 measures
 metabolism
+moderate
 Sinus
 ST
 Segment
@@ -1626,6 +1639,8 @@ affinity
 alveoli
 above
 anticoagulants
+asystole
+amplitude
 ventricular
 varying
 vaccines
@@ -1875,6 +1890,7 @@ content
 concentrations
 curve
 combine
+changes
 bypass
 block
 background
@@ -1993,6 +2009,7 @@ birth
 binds
 bound
 body
+becomes
 flutter
 from
 focus
@@ -2109,6 +2126,8 @@ fetal
 fetalis
 for
 facilitated
+fusion
+flattened
 with
 wave
 which
@@ -3031,6 +3050,7 @@ DBKV
 Deposition
 Deficiency
 Dysfunctional
+Dysrhythmias
 FFF
 Fib
 Fi
@@ -3345,6 +3365,10 @@ PTS
 Proliferation
 Premature
 Protein
+Presence
+Paroxysmal
+PEA
+Pathological
 ectopic
 elevation
 early
@@ -3813,6 +3837,7 @@ High
 HbO
 Haldane
 HaLdane
+Hypokalemia
 hyperkalemia
 hypertrophy
 hereditary
@@ -4066,6 +4091,11 @@ proportional
 peripheral
 pulmonary
 physiologic
+pronounced
+prolongation
+potassium
+pot
+pathological
 Unusual
 Usually
 Upc
@@ -4269,6 +4299,7 @@ BaM
 Bdb
 Bsn
 Bohr
+Bottom
 Characteristic
 CLL
 Clinical
@@ -5203,6 +5234,7 @@ jwD
 jx
 jÄ
 joint
+junctional
 kO
 kWCQ
 ky
