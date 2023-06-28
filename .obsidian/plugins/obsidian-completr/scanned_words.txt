@@ -110,6 +110,8 @@ THjD
 TBK
 TE
 THR
+TFPI
+Tissue
 differentials
 differential
 diagnosis
@@ -262,6 +264,9 @@ dentist
 does
 deep
 delivery
+dissociation
+deoxygenated
+diffuse
 of
 over
 originate
@@ -383,6 +388,8 @@ ooIn
 oso
 oC
 onion
+oxygenation
+oxygenated
 regular
 reentrant
 retrograde
@@ -509,6 +516,7 @@ results
 released
 ristocetin
 receptor
+releases
 narrow
 negative
 not
@@ -615,6 +623,7 @@ nZH
 nPO
 nerve
 nodes
+need
 tachycardia
 tract
 the
@@ -754,6 +763,7 @@ this
 through
 then
 tissue
+thrombin
 in
 includes
 involving
@@ -881,6 +891,9 @@ impaired
 intrinsic
 insulin
 inhibits
+inversely
+inhibit
+inhibitor
 general
 giving
 generation
@@ -1129,6 +1142,7 @@ mucosa
 manifest
 mellitus
 measures
+metabolism
 Sinus
 ST
 Segment
@@ -1364,6 +1378,7 @@ Adr
 Apy
 Asystole
 Arteriolosclerosis
+Antithrombin
 Orthodromic
 On
 Often
@@ -1452,6 +1467,7 @@ Oh
 OMo
 OeRY
 Oral
+Oxygenated
 atrio
 and
 atrial
@@ -1606,6 +1622,10 @@ antibiotic
 activates
 added
 aggregate
+affinity
+alveoli
+above
+anticoagulants
 ventricular
 varying
 vaccines
@@ -1851,6 +1871,10 @@ coagulation
 congenital
 contractions
 cofactor
+content
+concentrations
+curve
+combine
 bypass
 block
 background
@@ -1967,6 +1991,8 @@ bleeding
 binding
 birth
 binds
+bound
+body
 flutter
 from
 focus
@@ -2081,6 +2107,8 @@ factor
 following
 fetal
 fetalis
+for
+facilitated
 with
 wave
 which
@@ -2303,6 +2331,7 @@ Wu
 WBu
 WFL
 Willebrand
+When
 you
 young
 ybif
@@ -2556,6 +2585,9 @@ surfactant
 synthesis
 stress
 sex
+shifted
+shifts
+synthesize
 QRS
 QT
 QDQ
@@ -2769,6 +2801,7 @@ linked
 lower
 levels
 lacking
+lungs
 Multifocal
 Mild
 Moderate
@@ -3102,6 +3135,7 @@ FqNu
 FYN
 Fl
 FYC
+FFB
 In
 It
 Intraventricular
@@ -3212,6 +3246,7 @@ IuI
 IvOMc
 IFx
 Interpretation
+Inhibit
 PACs
 Primary
 Pathophysiology
@@ -3309,6 +3344,7 @@ PDP
 PTS
 Proliferation
 Premature
+Protein
 ectopic
 elevation
 early
@@ -3437,6 +3473,11 @@ endothelium
 essential
 epistaxis
 excessive
+example
+equilibrium
+equation
+exhaled
+extrinsic
 Early
 Elevation
 Etiology
@@ -3548,6 +3589,7 @@ Eqbhd
 ERnK
 EVu
 Epidemiology
+EBA
 LEFT
 Lengthening
 Left
@@ -3767,6 +3809,10 @@ Hyperplastic
 Hemophilia
 Hereditary
 Hydrops
+High
+HbO
+Haldane
+HaLdane
 hyperkalemia
 hypertrophy
 hereditary
@@ -3886,6 +3932,7 @@ hemostasis
 hemarthrosis
 hemophilic
 higher
+has
 peaked
 pattern
 precordial
@@ -4015,6 +4062,10 @@ pathway
 primarily
 procedures
 pregnancies
+proportional
+peripheral
+pulmonary
+physiologic
 Unusual
 Usually
 Upc
@@ -4217,6 +4268,7 @@ BTN
 BaM
 Bdb
 Bsn
+Bohr
 Characteristic
 CLL
 Clinical
@@ -4324,6 +4376,7 @@ Complications
 Classifications
 Cause
 Cesarean
+COO
 Right
 Retrograde
 Rates
@@ -4528,6 +4581,7 @@ Ventricular
 Ventriculophasic
 Valsalva
 VIII
+VitK
 up
 unusual
 usually
@@ -4631,6 +4685,7 @@ uGuA
 uÖ
 uBdBtB
 uterine
+uptake
 quinine
 qz
 qM

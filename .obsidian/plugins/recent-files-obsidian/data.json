@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
       "basename": "Erythrocyte morphology and hemoglobin",
       "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Long QT syndromes",
       "path": "USMLE/Cardiology/Long QT syndromes.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Cardiovascular examination",

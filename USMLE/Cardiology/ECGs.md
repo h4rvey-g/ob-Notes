@@ -34,6 +34,22 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
     - Sine wave pattern: a sinusoidal pattern with absent [P waves](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec) and a wide [QRS complex](https://next.amboss.com/us/article/pl0LBT#Zb6a46f472e496e639cee60c43bd0acbd) that merges with the [T wave](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758); a marker of impending V-Fib and [asystole](https://next.amboss.com/us/article/kN0mYg#Zb4ca67b910308e403b40cd3323e1618d) 
     - [Cardiac arrhythmias](https://next.amboss.com/us/article/7S04af#Ze688ba61de47d1456aee769e72c55a4c) (e.g., [V-tach](https://next.amboss.com/us/article/ES08Yf#Z3ccca87cced54f1e90d29e6b24c625b3), [V-fib](https://next.amboss.com/us/article/vS0AYf#Z72e4dad96c0862961705fabcdf294de3)), [asystole](https://next.amboss.com/us/article/kN0mYg#Zb4ca67b910308e403b40cd3323e1618d)
 	![[Pasted image 20230618214752.png|700]]
+# Hypokalemia
+- Mild to moderate hypokalemia
+T-wave flattening  or inversion
+ST depression 
+Prolonged PR interval
+- Moderate to severe hypokalemia
+Presence of U waves: small waveform following the T wave that is often absent but becomes more pronounced in hypokalemia or bradycardia  [2]
+T and U wave fusion
+QT prolongation  [13]
+- Dysrhythmias
+	- Premature atrial and ventricular complexes
+	- Sinus bradycardia
+	- Paroxysmal atrial or junctional tachycardia
+	- Ventricular dysrhythmias, e.g., Torsades de pointes
+	- PEA/asystole
+To remember that low potassium may result in a flattened T wave, think of: "No pot, no tea (T)!"
 # [[Atrioventricular block]]
 # Bundle Branch Block
 mnemonic: William Marrow
