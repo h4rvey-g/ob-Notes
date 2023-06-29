@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Ultrasound/Ultrasound.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Ultrasound/Ultrasound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Ultrasound/Ultrasound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Ultrasound/Ultrasound.md"
               }
             }
           }
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 422.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +219,15 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Cardiology/ectopic atrial rhythm.md",
+    "appendix/Pasted image 20230628223422.png",
+    "USMLE/Books/Ultrasound.md",
+    "USMLE/Ultrasound/Ultrasound.md",
+    "USMLE/Ultrasound",
+    "USMLE/Books/The Only EKG book.md",
+    "Files/Introduction_to_Bedside_Ultrasound_Volume_1_-_Matt_and_Mike.pdf",
+    "USMLE/Books/Radiology book.md",
     "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/ectopic atrial rhythm.md",
     "appendix/Pasted image 20230628215219.png",
     "appendix/Pasted image 20230628215011.png",
     "USMLE/Cardiology/Atrioventricular block.md",
@@ -251,10 +259,6 @@
     "USMLE/Questions.md",
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
     "USMLE/Blood/Autoimmune hemolytic anemia.md",
-    "USMLE/Cardiology/Thiazides.md",
-    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
-    "USMLE/Blood/Alkaline phosphatase.md",
-    "USMLE/Blood/Jaundice and cholestasis.md",
     "USMLE/GI",
     "USMLE/Questions",
     "USMLE/Muscle, skin, and connective tissue",
@@ -262,8 +266,6 @@
     "未命名 1.canvas",
     "USMLE/Blood",
     "us/article",
-    "us",
-    "SimpRead",
     "未命名.canvas"
   ]
 }

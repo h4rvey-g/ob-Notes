@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Ultrasound",
+      "path": "USMLE/Ultrasound/Ultrasound.md"
+    },
+    {
+      "basename": "Ultrasound",
+      "path": "USMLE/Books/Ultrasound.md"
+    },
+    {
+      "basename": "The Only EKG book",
+      "path": "USMLE/Books/The Only EKG book.md"
+    },
+    {
+      "basename": "Radiology book",
+      "path": "USMLE/Books/Radiology book.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Fibrinous pericarditis",
       "path": "USMLE/Cardiology/Fibrinous pericarditis.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.canvas"
-    },
-    {
-      "basename": "Pasted image 20230617214946",
-      "path": "Pasted image 20230617214946.png"
-    },
-    {
-      "basename": "The Only EKG book",
-      "path": "USMLE/Books/The Only EKG book.md"
-    },
-    {
-      "basename": "Radiology book",
-      "path": "USMLE/Books/Radiology book.md"
     }
   ],
   "omittedPaths": [],

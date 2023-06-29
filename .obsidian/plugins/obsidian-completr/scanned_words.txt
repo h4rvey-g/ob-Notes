@@ -115,6 +115,7 @@ Tissue
 Torsades
 Timeline
 Top
+TAGS
 differentials
 differential
 diagnosis
@@ -273,6 +274,8 @@ diffuse
 dysrhythmias
 duration
 depth
+dr
+dbycnc
 of
 over
 originate
@@ -633,6 +636,7 @@ nPO
 nerve
 nodes
 need
+notes
 tachycardia
 tract
 the
@@ -775,6 +779,10 @@ tissue
 thrombin
 think
 tea
+target
+times
+tall
+take
 in
 includes
 involving
@@ -905,6 +913,7 @@ inhibits
 inversely
 inhibit
 inhibitor
+inferior
 general
 giving
 generation
@@ -1007,6 +1016,7 @@ gShH
 glucocorticoids
 glycoprotein
 green
+good
 major
 mechanisms
 mark
@@ -1641,6 +1651,8 @@ above
 anticoagulants
 asystole
 amplitude
+annotation
+aVR
 ventricular
 varying
 vaccines
@@ -1753,6 +1765,7 @@ velocity
 viral
 vaginal
 von
+variable
 conduction
 concealed
 complex
@@ -2010,6 +2023,7 @@ binds
 bound
 body
 becomes
+book
 flutter
 from
 focus
@@ -2351,6 +2365,7 @@ WBu
 WFL
 Willebrand
 When
+Waves
 you
 young
 ybif
@@ -2453,6 +2468,8 @@ ybbbbjrjnbf
 ymf
 yqp
 yaz
+youll
+yjhdfhif
 see
 style
 single
@@ -2821,6 +2838,8 @@ lower
 levels
 lacking
 lungs
+large
+look
 Multifocal
 Mild
 Moderate
@@ -3156,6 +3175,7 @@ FYN
 Fl
 FYC
 FFB
+Files
 In
 It
 Intraventricular
@@ -3267,6 +3287,7 @@ IvOMc
 IFx
 Interpretation
 Inhibit
+IIand
 PACs
 Primary
 Pathophysiology
@@ -3369,6 +3390,8 @@ Presence
 Paroxysmal
 PEA
 Pathological
+PREFIX
+POSTFIX
 ectopic
 elevation
 early
@@ -3502,6 +3525,9 @@ equilibrium
 equation
 exhaled
 extrinsic
+ekg
+ever
+edition
 Early
 Elevation
 Etiology
@@ -3614,6 +3640,7 @@ ERnK
 EVu
 Epidemiology
 EBA
+EKG
 LEFT
 Lengthening
 Left
@@ -3715,6 +3742,7 @@ Lw
 LEtlSdH
 LOn
 LER
+LINK
 Hyperkalemia
 HIV
 HCV
@@ -3838,6 +3866,7 @@ HbO
 Haldane
 HaLdane
 Hypokalemia
+HIGHLIGHT
 hyperkalemia
 hypertrophy
 hereditary
@@ -4096,6 +4125,7 @@ prolongation
 potassium
 pot
 pathological
+pdf
 Unusual
 Usually
 Upc
@@ -4408,6 +4438,7 @@ Classifications
 Cause
 Cesarean
 COO
+COMMENT
 Right
 Retrograde
 Rates
@@ -5136,6 +5167,8 @@ NlI
 NLv
 Nah
 NkA
+Normal
+Now
 jEQ
 jL
 jO
@@ -5235,6 +5268,7 @@ jx
 jÄ
 joint
 junctional
+jabl
 kO
 kWCQ
 ky
