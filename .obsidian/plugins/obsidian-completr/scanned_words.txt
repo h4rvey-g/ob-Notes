@@ -116,6 +116,7 @@ Torsades
 Timeline
 Top
 TAGS
+Transducer
 differentials
 differential
 diagnosis
@@ -276,6 +277,7 @@ duration
 depth
 dr
 dbycnc
+days
 of
 over
 originate
@@ -637,6 +639,7 @@ nerve
 nodes
 need
 notes
+normalization
 tachycardia
 tract
 the
@@ -1653,6 +1656,7 @@ asystole
 amplitude
 annotation
 aVR
+array
 ventricular
 varying
 vaccines
@@ -1904,6 +1908,9 @@ concentrations
 curve
 combine
 changes
+curvilinear
+curved
+convex
 bypass
 block
 background
@@ -2624,6 +2631,8 @@ sex
 shifted
 shifts
 synthesize
+sequence
+several
 QRS
 QT
 QDQ
@@ -2840,6 +2849,7 @@ lacking
 lungs
 large
 look
+linear
 Multifocal
 Mild
 Moderate
@@ -3987,6 +3997,8 @@ hemarthrosis
 hemophilic
 higher
 has
+hours
+hyperacute
 peaked
 pattern
 precordial
@@ -4126,6 +4138,7 @@ potassium
 pot
 pathological
 pdf
+phased
 Unusual
 Usually
 Upc

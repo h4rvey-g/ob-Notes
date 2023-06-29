@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,14 +218,16 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Pulmonary embolism.md",
+    "USMLE/Questions.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Ultrasound/Ultrasound.md",
     "appendix/Pasted image 20230628223422.png",
     "USMLE/Books/Ultrasound.md",
-    "USMLE/Ultrasound/Ultrasound.md",
     "USMLE/Ultrasound",
     "USMLE/Books/The Only EKG book.md",
     "Files/Introduction_to_Bedside_Ultrasound_Volume_1_-_Matt_and_Mike.pdf",
     "USMLE/Books/Radiology book.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/ectopic atrial rhythm.md",
     "appendix/Pasted image 20230628215219.png",
     "appendix/Pasted image 20230628215011.png",
@@ -255,8 +256,6 @@
     "appendix/Pasted image 20230623220754.png",
     "appendix/Pasted image 20230623214843.png",
     "USMLE/Blood/Splenomegaly.md",
-    "appendix/Pasted image 20230623172022.png",
-    "USMLE/Questions.md",
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
     "USMLE/Blood/Autoimmune hemolytic anemia.md",
     "USMLE/GI",
