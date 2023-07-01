@@ -52,7 +52,8 @@ map sr :mnemonic
 exmap Red obcommand highlightr-plugin:Red
 " Emulate Folding https://vimhelp.org/fold.txt.html#fold-commands
 exmap togglefold obcommand editor:toggle-fold
-nnoremap _ I-<Space><Esc>
+nunmap _
+nmap _ I-<Space><Esc>
 nmap zo :togglefold
 nmap zc :togglefold
 nmap za :togglefold
