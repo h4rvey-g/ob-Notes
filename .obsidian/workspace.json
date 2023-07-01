@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Ultrasound/Ultrasound.md",
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "risto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Ultrasound/Ultrasound.md",
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Ultrasound/Ultrasound.md",
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Ultrasound/Ultrasound.md"
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md"
               }
             }
           }
@@ -216,12 +216,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20e46837baa36f69",
+  "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Pulmonary embolism.md",
-    "USMLE/Questions.md",
     "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Atrioventricular block.md",
+    "USMLE/Blood.md",
+    "USMLE/Cardiology/Acute pericarditis.md",
+    "USMLE/Respiratory/Pulmonary embolism.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Ultrasound/Ultrasound.md",
+    "USMLE/Blood/Von Willebrand disease.md",
+    "USMLE/Questions.md",
     "appendix/Pasted image 20230628223422.png",
     "USMLE/Books/Ultrasound.md",
     "USMLE/Ultrasound",
@@ -231,9 +236,7 @@
     "USMLE/Cardiology/ectopic atrial rhythm.md",
     "appendix/Pasted image 20230628215219.png",
     "appendix/Pasted image 20230628215011.png",
-    "USMLE/Cardiology/Atrioventricular block.md",
     "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
-    "USMLE/Blood/Von Willebrand disease.md",
     "USMLE/Blood/Anticoagulants.md",
     "USMLE/Blood/Transfusion.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
@@ -250,14 +253,11 @@
     "USMLE/Cardiology/Cardiovascular examination.md",
     "appendix/Pasted image 20230624132724.png",
     "appendix/Pasted image 20230624133437.png",
-    "USMLE/Cardiology/Hypercalcemia.md",
     "appendix/Pasted image 20230620213926.png",
     "appendix/Pasted image 20230623224624.png",
     "appendix/Pasted image 20230623220754.png",
     "appendix/Pasted image 20230623214843.png",
     "USMLE/Blood/Splenomegaly.md",
-    "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
-    "USMLE/Blood/Autoimmune hemolytic anemia.md",
     "USMLE/GI",
     "USMLE/Questions",
     "USMLE/Muscle, skin, and connective tissue",
