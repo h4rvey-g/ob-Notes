@@ -6,5 +6,6 @@
   "spellcheckLanguages": [
     "zh-CN",
     "en"
-  ]
+  ],
+  "showLineNumber": true
 }

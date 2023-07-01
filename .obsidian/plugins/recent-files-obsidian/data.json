@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Legionnaires' disease",
+      "path": "USMLE/Infective disease/Legionnaires' disease.md"
+    },
+    {
       "basename": "Pneumonia",
       "path": "USMLE/Respiratory/Pneumonia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Acute pericarditis",
       "path": "USMLE/Cardiology/Acute pericarditis.md"
-    },
-    {
-      "basename": "Cardiology",
-      "path": "USMLE/Cardiology/Cardiology.md"
     }
   ],
   "omittedPaths": [],
