@@ -23,9 +23,11 @@
             "id": "3ad46ba46b9f4d3c",
             "type": "leaf",
             "state": {
-              "type": "notion-like-tables",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Untitled.table"
+                "file": "USMLE/Respiratory/Pneumonia.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -162,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appendix/Untitled.table",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appendix/Untitled.table",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appendix/Untitled.table"
+                "file": "USMLE/Respiratory/Pneumonia.md"
               }
             }
           }
@@ -230,8 +232,9 @@
   },
   "active": "3ad46ba46b9f4d3c",
   "lastOpenFiles": [
-    "USMLE/Infective disease/Mycobacteria.md",
     "appendix/Untitled.table",
+    "USMLE/Respiratory/Pneumonia.md",
+    "USMLE/Infective disease/Mycobacteria.md",
     "appendix/Pasted image 20230701151905.png",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Infective disease",
@@ -263,7 +266,6 @@
     "USMLE/Blood/Immune thrombocytopenia (ITP).md",
     "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/Cardiology/Vagal maneuver.md",
-    "USMLE/Cardiology/Arteriolosclerosis.md",
     "appendix/foo.jpg",
     "USMLE/Neurology",
     "appendix/Pasted image 20230624132724.png",

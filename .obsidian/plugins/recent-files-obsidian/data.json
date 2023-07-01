@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pneumonia",
+      "path": "USMLE/Respiratory/Pneumonia.md"
+    },
+    {
       "basename": "Untitled",
       "path": "appendix/Untitled.table"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cardiology",
       "path": "USMLE/Cardiology/Cardiology.md"
-    },
-    {
-      "basename": "Infective endocarditis",
-      "path": "USMLE/Cardiology/Infective endocarditis.md"
     }
   ],
   "omittedPaths": [],
