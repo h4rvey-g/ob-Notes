@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "USMLE/Infective disease/Mycobacteria.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ad46ba46b9f4d3c",
+            "type": "leaf",
+            "state": {
+              "type": "notion-like-tables",
+              "state": {
+                "file": "appendix/Untitled.table"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "366784a71f0400fb",
@@ -151,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "appendix/Untitled.table",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "appendix/Untitled.table",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md"
+                "file": "appendix/Untitled.table"
               }
             }
           }
@@ -213,11 +224,18 @@
       "graph:查看关系图谱": false,
       "obsidian42-brat:BRAT": false,
       "copilot:Copilot Chat": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
-  "active": "035a1656732cd07c",
+  "active": "3ad46ba46b9f4d3c",
   "lastOpenFiles": [
+    "USMLE/Infective disease/Mycobacteria.md",
+    "appendix/Untitled.table",
+    "appendix/Pasted image 20230701151905.png",
+    "USMLE/Cardiology/Supraventricular tachycardia.md",
+    "USMLE/Infective disease",
+    "USMLE/Infective disease.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Atrioventricular block.md",
     "USMLE/Blood.md",
@@ -246,25 +264,18 @@
     "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/Cardiology/Vagal maneuver.md",
     "USMLE/Cardiology/Arteriolosclerosis.md",
-    "USMLE/Neurology/Headaches.md",
     "appendix/foo.jpg",
-    "USMLE/Cardiology/Long QT syndromes.md",
     "USMLE/Neurology",
-    "USMLE/Cardiology/Cardiovascular examination.md",
     "appendix/Pasted image 20230624132724.png",
     "appendix/Pasted image 20230624133437.png",
     "appendix/Pasted image 20230620213926.png",
     "appendix/Pasted image 20230623224624.png",
     "appendix/Pasted image 20230623220754.png",
-    "appendix/Pasted image 20230623214843.png",
-    "USMLE/Blood/Splenomegaly.md",
     "USMLE/GI",
     "USMLE/Questions",
     "USMLE/Muscle, skin, and connective tissue",
     "template",
     "未命名 1.canvas",
-    "USMLE/Blood",
-    "us/article",
     "未命名.canvas"
   ]
 }

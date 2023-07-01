@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "appendix/Untitled.table"
+    },
+    {
+      "basename": "Mycobacteria",
+      "path": "USMLE/Infective disease/Mycobacteria.md"
+    },
+    {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Infective endocarditis",
       "path": "USMLE/Cardiology/Infective endocarditis.md"
-    },
-    {
-      "basename": "Cardiac transplatation",
-      "path": "USMLE/Cardiology/Cardiac transplatation.md"
-    },
-    {
-      "basename": "Rheumatic heart disease",
-      "path": "USMLE/Cardiology/Rheumatic heart disease.md"
     }
   ],
   "omittedPaths": [],
