@@ -1,0 +1,87 @@
+{
+  "github": {
+    "branch": "main",
+    "automaticallyMergePR": true,
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "otherRepo": [],
+    "workflow": {
+      "name": "",
+      "commitMessage": "[skip netlify] PUBLISHER"
+    },
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
+    "repo": "Notes-blog",
+    "user": "babaolanqiu",
+    "rateLimit": 4976,
+    "verifiedRepo": true
+  },
+  "upload": {
+    "behavior": "obsidian",
+    "subFolder": "",
+    "defaultName": "docs/Miscellaneous",
+    "rootFolder": "docs",
+    "yamlFolderKey": "category",
+    "frontmatterTitle": {
+      "enable": true,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "autoclean": {
+      "enable": true,
+      "excluded": [
+        "docs/assets/js",
+        "docs/assets/meta",
+        "docs/assets/css",
+        "tags.md",
+        "graph.md"
+      ]
+    },
+    "folderNote": {
+      "enable": true,
+      "rename": "index.md"
+    },
+    "metadataExtractorPath": "",
+    "replacePath": []
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": true,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": true,
+      "unshared": true,
+      "wiki": false
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "keySendFile": [
+      "image"
+    ],
+    "notes": true,
+    "folder": "docs/assets/img"
+  },
+  "plugin": {
+    "shareKey": "share",
+    "fileMenu": true,
+    "editorMenu": true,
+    "excludedFolder": [
+      "SimpRead"
+    ],
+    "copyLink": {
+      "enable": false,
+      "links": "",
+      "removePart": [],
+      "addCmd": false
+    },
+    "noticeError": true,
+    "displayModalRepoEditing": false
+  }
+}
