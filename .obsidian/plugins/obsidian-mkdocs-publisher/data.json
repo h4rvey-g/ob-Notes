@@ -9,12 +9,12 @@
     "otherRepo": [],
     "workflow": {
       "name": "",
-      "commitMessage": "[skip netlify] PUBLISHER"
+      "commitMessage": "PUBLISHER"
     },
     "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "repo": "Notes-blog",
     "user": "babaolanqiu",
-    "rateLimit": 4992,
+    "rateLimit": 4643,
     "verifiedRepo": true
   },
   "upload": {
@@ -73,7 +73,9 @@
     "fileMenu": true,
     "editorMenu": true,
     "excludedFolder": [
-      "SimpRead"
+      "SimpRead",
+      "template",
+      "Files"
     ],
     "copyLink": {
       "enable": false,
