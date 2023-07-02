@@ -90,5 +90,17 @@
       ],
       "key": "-"
     }
-  ]
+  ],
+  "templater-obsidian:insert-templater": [],
+  "templater-obsidian:replace-in-file-templater": [],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "obsidian-completr:completr-bypass-tab-key": [],
+  "workspace:next-tab": []
 }

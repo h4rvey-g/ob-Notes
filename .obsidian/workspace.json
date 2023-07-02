@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Infective disease/Mycobacteria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ad46ba46b9f4d3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USMLE/GI/Absorption.md",
+                "file": "USMLE/Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Absorption.md",
+                "file": "USMLE/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Absorption.md",
+                "file": "USMLE/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Absorption.md"
+                "file": "USMLE/Questions.md"
               }
             }
           }
@@ -227,14 +214,32 @@
       "obsidian42-brat:BRAT": false,
       "copilot:Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create Notion-Like table": false
+      "notion-like-tables:Create Notion-Like table": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3ad46ba46b9f4d3c",
+  "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Blood.md",
+    "USMLE/Neurology/Headaches.md",
+    "USMLE/temp_file",
+    "USMLE/a.sh",
+    "USMLE/temp",
+    "USMLE/单抗记忆.md",
+    "USMLE/Questions.md",
+    "template/USMLE-note.md",
+    "USMLE/metadata.txt",
+    "Untitled.md",
+    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
+    "USMLE/1.md",
+    "Untitled 1.md",
+    "template/Untitled.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名.md",
+    "USMLE/GI/Absorption.md",
     "appendix/Pasted image 20230702142057.png",
     "USMLE/Infective disease/Legionnaires' disease.md",
-    "USMLE/GI/Absorption.md",
     "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Infective disease/Mycobacteria.md",
     "appendix/Untitled.table",
@@ -244,41 +249,24 @@
     "USMLE/Infective disease.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Atrioventricular block.md",
-    "USMLE/Blood.md",
     "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Respiratory/Pulmonary embolism.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Ultrasound/Ultrasound.md",
     "USMLE/Blood/Von Willebrand disease.md",
-    "USMLE/Questions.md",
     "appendix/Pasted image 20230628223422.png",
     "USMLE/Books/Ultrasound.md",
     "USMLE/Ultrasound",
     "USMLE/Books/The Only EKG book.md",
     "Files/Introduction_to_Bedside_Ultrasound_Volume_1_-_Matt_and_Mike.pdf",
-    "USMLE/Books/Radiology book.md",
-    "USMLE/Cardiology/ectopic atrial rhythm.md",
     "appendix/Pasted image 20230628215219.png",
     "appendix/Pasted image 20230628215011.png",
-    "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
-    "USMLE/Blood/Anticoagulants.md",
-    "USMLE/Blood/Transfusion.md",
-    "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
-    "USMLE/Blood/Hemophilia.md",
     "USMLE/Respiratory",
-    "USMLE/Blood/Immune thrombocytopenia (ITP).md",
     "appendix/foo.jpg",
     "USMLE/Neurology",
     "appendix/Pasted image 20230624132724.png",
     "appendix/Pasted image 20230624133437.png",
     "appendix/Pasted image 20230620213926.png",
-    "appendix/Pasted image 20230623224624.png",
-    "appendix/Pasted image 20230623220754.png",
-    "USMLE/GI",
-    "USMLE/Questions",
-    "USMLE/Muscle, skin, and connective tissue",
-    "template",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "appendix/Pasted image 20230623224624.png"
   ]
 }

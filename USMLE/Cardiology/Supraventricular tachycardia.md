@@ -1,3 +1,13 @@
+---
+author: Harvey Guo
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+aliases: <% tp.file.title %>
+description:
+tags:
+share: true
+---
+
 # WPW syndrome
 WPW syndrome is a specific form of pre-excitation syndrome characterized by a <mark style="background: #FFF3A34A;">congenital</mark> accessory pathway and tachyarrhythmias, while pre-excitation syndrome is a broader term that encompasses various syndromes involving early ventricular activation.
 # AVNRT

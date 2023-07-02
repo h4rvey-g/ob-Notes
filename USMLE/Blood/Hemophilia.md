@@ -1,3 +1,13 @@
+---
+author: Harvey Guo
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+aliases: <% tp.file.title %>
+description:
+tags:
+share: true
+---
+
 # Etiology
 Hemophilia usually affects males, as it is primarily an <mark style="background: #FFF3A34A;">X-linked recessive</mark> disease.
 - Hemophilia A (factor VIII deficiency): ∼ 80% of cases

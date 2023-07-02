@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
+    },
+    {
+      "basename": "Blood",
+      "path": "USMLE/Blood.md"
+    },
+    {
+      "basename": "Headaches",
+      "path": "USMLE/Neurology/Headaches.md"
+    },
+    {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+    },
+    {
+      "basename": "USMLE-note",
+      "path": "template/USMLE-note.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Absorption",
       "path": "USMLE/GI/Absorption.md"
     },
@@ -43,10 +67,6 @@
     {
       "basename": "Ultrasound",
       "path": "USMLE/Ultrasound/Ultrasound.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
     },
     {
       "basename": "Ultrasound",
@@ -97,10 +117,6 @@
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
     },
     {
-      "basename": "Headaches",
-      "path": "USMLE/Neurology/Headaches.md"
-    },
-    {
       "basename": "Long QT syndromes",
       "path": "USMLE/Cardiology/Long QT syndromes.md"
     },
@@ -141,10 +157,6 @@
       "path": "USMLE/GI/Pancreatic cancer.md"
     },
     {
-      "basename": "Blood",
-      "path": "USMLE/Blood.md"
-    },
-    {
       "basename": "Myasthenia gravis",
       "path": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md"
     },
@@ -179,26 +191,6 @@
     {
       "basename": "Macrocytic anemias",
       "path": "USMLE/Blood/Macrocytic anemias.md"
-    },
-    {
-      "basename": "Congenital immunodeficiency disorders - AMBOSS",
-      "path": "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md"
-    },
-    {
-      "basename": "3-放弃纠结、拥抱妥协，重器轻用就是高效@annote",
-      "path": "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效@annote.md"
-    },
-    {
-      "basename": "3-放弃纠结、拥抱妥协，重器轻用就是高效",
-      "path": "SimpRead/3-放弃纠结、拥抱妥协，重器轻用就是高效.md"
-    },
-    {
-      "basename": "1-本地存储 + 线上获取：我的个人数据库建构路径",
-      "path": "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md"
-    },
-    {
-      "basename": "1-本地存储 + 线上获取：我的个人数据库建构路径@annote",
-      "path": "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.md"
     }
   ],
   "omittedPaths": [],

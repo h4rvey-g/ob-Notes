@@ -1,3 +1,13 @@
+---
+author: Harvey Guo
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+aliases: <% tp.file.title %>
+description:
+tags:
+share: true
+---
+
 # Transducer types
 phased array, curvilinear (curved, convex) array, linear array
 ![[Pasted image 20230628223422.png]]

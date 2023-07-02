@@ -1,3 +1,13 @@
+---
+author: Harvey Guo
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+aliases: <% tp.file.title %>
+description:
+tags:
+share: true
+---
+
 # Clinical features
 ## [Hypercoagulability](https://next.amboss.com/us/article/bo0H0S#Z0f31154c63b8097e20cbfc0736fd665a)
 - Trousseau syndrome: [superficial thrombophlebitis](https://next.amboss.com/us/article/fh0kWf#Z502e36e6973a5064c56b22989fb25dac) (in 10% of cases)

@@ -1,3 +1,13 @@
+---
+author: Harvey Guo
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+aliases: <% tp.file.title %>
+description:
+tags:
+share: true
+---
+
 Associated with [[Thymoma]].
 # Pathophysiology
 ## [Thymus](https://next.amboss.com/us/article/960NMS#Z2280a528c47a8e93bb70fb96d798d351) involvement

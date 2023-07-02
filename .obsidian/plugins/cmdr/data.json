@@ -17,7 +17,14 @@
   "statusBar": [],
   "pageHeader": [],
   "macros": [],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "file-plus",
+      "name": "Templater: Create new note from template",
+      "mode": "any"
+    }
+  ],
   "hide": {
     "statusbar": [],
     "leftRibbon": []

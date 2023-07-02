@@ -7,8 +7,23 @@ description:
 tags:
 share: true
 ---
-
 # Etiology
-ADAMTS13 deficiency
+<% tp.file.cursor() %>
+
+---
 # Pathophysiology
-ADAMTS13 deficiency → excess vWF → microthrombus formation → blockage of small vessels → RBC fragmentation (hemolysis) and end-organ damage
+<% tp.file.cursor() %>
+
+---
+# Clinical features
+<% tp.file.cursor() %>
+
+---
+# Diagnostics
+<% tp.file.cursor() %>
+
+---
+# Treatment
+<% tp.file.cursor() %>
+
+---

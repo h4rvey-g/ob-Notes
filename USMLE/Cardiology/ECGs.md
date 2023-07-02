@@ -1,3 +1,13 @@
+---
+author: Harvey Guo
+created: <% tp.file.creation_date() %>
+modified: <% tp.file.last_modified_date() %>
+aliases: <% tp.file.title %>
+description:
+tags:
+share: true
+---
+
 # Tachycardia DDx
 ![[Pasted image 20230620213926.png|800]]
 The differential diagnosis of a regular narrow tachycardia in general includes 5 major mechanisms: 

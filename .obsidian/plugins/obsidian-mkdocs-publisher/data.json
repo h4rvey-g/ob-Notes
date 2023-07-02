@@ -20,7 +20,7 @@
   "upload": {
     "behavior": "obsidian",
     "subFolder": "",
-    "defaultName": "docs/Miscellaneous",
+    "defaultName": "docs",
     "rootFolder": "docs",
     "yamlFolderKey": "category",
     "frontmatterTitle": {
