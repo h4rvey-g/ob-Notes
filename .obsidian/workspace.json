@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Infective disease/Legionnaires' disease.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Absorption.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Infective disease/Legionnaires' disease.md",
+                "file": "USMLE/GI/Absorption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Infective disease/Legionnaires' disease.md",
+                "file": "USMLE/GI/Absorption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Infective disease/Legionnaires' disease.md"
+                "file": "USMLE/GI/Absorption.md"
               }
             }
           }
@@ -232,8 +232,10 @@
   },
   "active": "3ad46ba46b9f4d3c",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Pneumonia.md",
+    "appendix/Pasted image 20230702142057.png",
     "USMLE/Infective disease/Legionnaires' disease.md",
+    "USMLE/GI/Absorption.md",
+    "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Infective disease/Mycobacteria.md",
     "appendix/Untitled.table",
     "appendix/Pasted image 20230701151905.png",
@@ -265,8 +267,6 @@
     "USMLE/Blood/Hemophilia.md",
     "USMLE/Respiratory",
     "USMLE/Blood/Immune thrombocytopenia (ITP).md",
-    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
-    "USMLE/Cardiology/Vagal maneuver.md",
     "appendix/foo.jpg",
     "USMLE/Neurology",
     "appendix/Pasted image 20230624132724.png",
