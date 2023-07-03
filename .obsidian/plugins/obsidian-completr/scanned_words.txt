@@ -127,6 +127,7 @@ Treatment
 Text
 Tyrosine
 Trastuzumab
+Thrombosis
 differentials
 differential
 diagnosis
@@ -598,6 +599,8 @@ renal
 reactivation
 reslizumab
 raygun
+recurring
+recurrent
 narrow
 negative
 not
@@ -892,6 +895,10 @@ tumors
 tyrosine
 tetragon
 trametinib
+thereby
+them
+thrombosis
+thrombotic
 in
 includes
 involving
@@ -1054,6 +1061,7 @@ inhibition
 initiated
 integrin
 ipilimumab
+inactivating
 general
 giving
 generation
@@ -1361,6 +1369,7 @@ melanoma
 map
 mepolizumab
 migraine
+miscarriages
 Sinus
 ST
 Segment
@@ -1631,6 +1640,10 @@ ADA
 Atezolizumab
 Alirocumab
 Abciximab
+Antibodies
+APS
+Antiphospholipid
+Anticardiolipin
 Orthodromic
 On
 Often
@@ -1929,6 +1942,13 @@ alpha
 avelumab
 arthritis
 administered
+antiphospholipid
+anticoagulant
+antithrombin
+activate
+affect
+any
+autoimmune
 ventricular
 varying
 vaccines
@@ -2050,6 +2070,7 @@ varies
 via
 vera
 vemurafenib
+vascular
 conduction
 concealed
 complex
@@ -2233,6 +2254,7 @@ cytotoxicity
 cardiovascular
 cixumab
 cane
+comorbid
 bypass
 block
 background
@@ -2371,6 +2393,7 @@ bcr
 bro
 belt
 blocks
+births
 flutter
 from
 focus
@@ -2858,6 +2881,8 @@ yaz
 youll
 yjhdfhif
 yellow
+younger
+years
 see
 style
 single
@@ -3047,6 +3072,8 @@ signal
 signaling
 secukinumab
 sec
+state
+sites
 QRS
 QT
 QDQ
@@ -3538,6 +3565,7 @@ Doxycycline
 Dropbox
 Denosumab
 Dabrafenib
+Diagnose
 FFF
 Fib
 Fi
@@ -3647,6 +3675,7 @@ Files
 First
 Facultative
 Fish
+Formation
 In
 It
 Intraventricular
@@ -3772,6 +3801,7 @@ IFN
 Ixekizumab
 IIb
 IgE
+Induction
 PACs
 Primary
 Pathophysiology
@@ -3898,6 +3928,7 @@ PCSK
 Pan
 Psoriasis
 Platelet
+Pregnancy
 ectopic
 elevation
 early
@@ -4051,6 +4082,8 @@ erbB
 enib
 eye
 era
+embolism
+events
 Early
 Elevation
 Etiology
@@ -4173,6 +4206,7 @@ Erlotinib
 EGFR
 Emutated
 Erenumab
+ECGs
 LEFT
 Lengthening
 Left
@@ -4285,6 +4319,7 @@ Logseq
 Lumab
 Level
 LFTs
+Lupus
 Hyperkalemia
 HIV
 HCV
@@ -4554,6 +4589,7 @@ hemoglobinuria
 herpes
 head
 hive
+hypercoagulable
 peaked
 pattern
 precordial
@@ -4722,6 +4758,9 @@ project
 panitumumab
 penny
 psoriatic
+procoagulatory
+premature
+phospholipids
 Unusual
 Usually
 Upc
@@ -5066,6 +5105,7 @@ Cetuximab
 Cetuxi
 CTLA
 CGRP
+Caused
 Right
 Retrograde
 Rates
@@ -5403,6 +5443,7 @@ urealyticum
 urogenital
 url
 ustekinumab
+unprovoked
 quinine
 qz
 qM

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/单抗记忆.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/单抗记忆.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/单抗记忆.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/单抗记忆.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -220,12 +220,17 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Questions.md",
     "template/USMLE-note.md",
-    "USMLE/Blood.md",
-    "USMLE/单抗记忆.md",
-    "USMLE/sedZOsCKQ",
     "USMLE/a.sh",
+    "USMLE/Respiratory/Pulmonary embolism.md",
+    "USMLE/Respiratory/Pneumonia.md",
+    "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/单抗记忆.md",
+    "USMLE/Questions.md",
+    "USMLE/Blood.md",
+    "USMLE/sedZOsCKQ",
     "USMLE/Neurology/Headaches.md",
     "USMLE/temp_file",
     "USMLE/temp",
@@ -241,22 +246,17 @@
     "USMLE/GI/Absorption.md",
     "appendix/Pasted image 20230702142057.png",
     "USMLE/Infective disease/Legionnaires' disease.md",
-    "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Infective disease/Mycobacteria.md",
     "appendix/Untitled.table",
     "appendix/Pasted image 20230701151905.png",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Infective disease",
     "USMLE/Infective disease.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Atrioventricular block.md",
     "USMLE/Cardiology/Acute pericarditis.md",
-    "USMLE/Respiratory/Pulmonary embolism.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Ultrasound/Ultrasound.md",
-    "USMLE/Blood/Von Willebrand disease.md",
     "appendix/Pasted image 20230628223422.png",
-    "USMLE/Books/Ultrasound.md",
     "USMLE/Ultrasound",
     "Files/Introduction_to_Bedside_Ultrasound_Volume_1_-_Matt_and_Mike.pdf",
     "appendix/Pasted image 20230628215219.png",
