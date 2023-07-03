@@ -27,14 +27,6 @@
       "key": "R"
     }
   ],
-  "highlightr-plugin:Pink": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    }
-  ],
   "highlightr-plugin:Green": [
     {
       "modifiers": [
@@ -102,5 +94,13 @@
     }
   ],
   "obsidian-completr:completr-bypass-tab-key": [],
-  "workspace:next-tab": []
+  "workspace:next-tab": [],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ]
 }

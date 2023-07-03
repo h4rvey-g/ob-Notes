@@ -1,0 +1,4 @@
+.callout[data-callout="mnemonic"] {
+    --callout-color: 230, 240, 252;
+    --callout-icon: lucide-sparkles;
+}
