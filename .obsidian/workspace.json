@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/index.md",
+                "file": "USMLE/Ultrasound/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/index.md",
+                "file": "USMLE/Ultrasound/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/index.md",
+                "file": "USMLE/Ultrasound/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/index.md"
+                "file": "USMLE/Ultrasound/index.md"
               }
             }
           }
@@ -220,8 +220,23 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
+    "index.md",
+    "USMLE/Ultrasound/index.md",
+    "USMLE/Respiratory/index.md",
+    "USMLE/Neurology/index.md",
+    "USMLE/Muscle, skin, and connective tissue/index.md",
+    "USMLE/Infective disease/index.md",
+    "USMLE/GI/index.md",
+    "USMLE/Cardiology/index.md",
+    "USMLE/Books/index.md",
     "USMLE/index.md",
+    "USMLE/Blood/index.md",
+    "USMLE/Blood/Immune thrombocytopenia (ITP).md",
+    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
+    "USMLE/Blood/Jaundice and cholestasis.md",
+    "USMLE/Blood/index 1.md",
+    "USMLE/Blood/Alkaline phosphatase.md",
+    "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
     "USMLE/Infective disease/Legionnaires' disease.md",
     "USMLE/Blood/Anemia.md",
     "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径@annote.md",
@@ -232,30 +247,15 @@
     "USMLE/a.sh",
     "USMLE/Respiratory/Pulmonary embolism.md",
     "USMLE/Respiratory/Pneumonia.md",
-    "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
-    "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
-    "USMLE/单抗记忆.md",
-    "USMLE/Questions.md",
-    "USMLE/Blood.md",
     "USMLE/sedZOsCKQ",
-    "USMLE/Neurology/Headaches.md",
     "USMLE/temp_file",
     "USMLE/temp",
     "USMLE/metadata.txt",
-    "Untitled.md",
-    "SimpRead/1-本地存储 + 线上获取：我的个人数据库建构路径.md",
-    "USMLE/1.md",
-    "Untitled 1.md",
-    "template/Untitled.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "未命名.md",
-    "USMLE/GI/Absorption.md",
     "appendix/Pasted image 20230702142057.png",
-    "USMLE/Infective disease/Mycobacteria.md",
     "appendix/Untitled.table",
     "appendix/Pasted image 20230701151905.png",
-    "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Infective disease",
     "appendix/Pasted image 20230628223422.png",
     "USMLE/Ultrasound",

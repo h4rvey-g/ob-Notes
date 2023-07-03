@@ -2,7 +2,51 @@
   "recentFiles": [
     {
       "basename": "index",
+      "path": "USMLE/Ultrasound/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Respiratory/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Neurology/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Muscle, skin, and connective tissue/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Infective disease/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/GI/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Cardiology/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Books/index.md"
+    },
+    {
+      "basename": "index",
       "path": "USMLE/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Blood/index.md"
+    },
+    {
+      "basename": "Immune thrombocytopenia (ITP)",
+      "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
     },
     {
       "basename": "Erythrocyte morphology and hemoglobin",
@@ -109,10 +153,6 @@
       "path": "USMLE/Blood/Hemophilia.md"
     },
     {
-      "basename": "Immune thrombocytopenia (ITP)",
-      "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
-    },
-    {
       "basename": "Thrombotic thrombocytopenic purpura (TTP)",
       "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
     },
@@ -159,42 +199,6 @@
     {
       "basename": "Pancreatic cancer",
       "path": "USMLE/GI/Pancreatic cancer.md"
-    },
-    {
-      "basename": "Myasthenia gravis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md"
-    },
-    {
-      "basename": "Thymoma",
-      "path": "USMLE/Muscle, skin, and connective tissue/Thymoma.md"
-    },
-    {
-      "basename": "Vagal maneuver",
-      "path": "USMLE/Cardiology/Vagal maneuver.md"
-    },
-    {
-      "basename": "Pasted image 20230620213926",
-      "path": "appendix/Pasted image 20230620213926.png"
-    },
-    {
-      "basename": "Nucleated red blood cells",
-      "path": "USMLE/Blood/Nucleated red blood cells.md"
-    },
-    {
-      "basename": "Leukocyte alkaline phosphatase",
-      "path": "USMLE/Blood/Leukocyte alkaline phosphatase.md"
-    },
-    {
-      "basename": "ectopic atrial rhythm",
-      "path": "USMLE/Cardiology/ectopic atrial rhythm.md"
-    },
-    {
-      "basename": "7-夏令营 120 期 _ ​解放军总医院医学院@annote",
-      "path": "SimpRead/7-夏令营 120 期 _ ​解放军总医院医学院@annote.md"
-    },
-    {
-      "basename": "Macrocytic anemias",
-      "path": "USMLE/Blood/Macrocytic anemias.md"
     }
   ],
   "omittedPaths": [],
