@@ -1,0 +1,44 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "mnemonic": [
+        {
+          "changes": {
+            "icon": "BratIcon"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "165, 222, 255"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "165, 222, 255"
+          }
+        }
+      ],
+      "Mnemonic": [
+        {
+          "changes": {
+            "icon": "BratIcon",
+            "color": "165, 222, 251"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

@@ -10,12 +10,26 @@
       "mode": "any"
     }
   ],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-mkdocs-publisher:publisher-upload-all-edited-new",
+      "icon": "hand-metal",
+      "name": "Github Publisher: Refresh published and upload new notes",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-mkdocs-publisher:publisher-upload-all-edited-new",
+      "icon": "hand-metal",
+      "name": "Github Publisher: Refresh published and upload new notes",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [
     {
@@ -27,7 +41,10 @@
   ],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "BRAT",
+      "Copilot Chat"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
