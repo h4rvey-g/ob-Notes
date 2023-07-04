@@ -51,30 +51,6 @@
       "key": "2"
     }
   ],
-  "editing-toolbar:header1-text": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "1"
-    }
-  ],
-  "editing-toolbar:header2-text": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "2"
-    }
-  ],
-  "editing-toolbar:header3-text": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "3"
-    }
-  ],
   "editing-toolbar:editor:toggle-bullet-list": [
     {
       "modifiers": [
@@ -101,6 +77,30 @@
         "Alt"
       ],
       "key": "1"
+    }
+  ],
+  "editing-toolbar:header1-text": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F1"
+    }
+  ],
+  "editing-toolbar:header2-text": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F2"
+    }
+  ],
+  "editing-toolbar:header3-text": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F3"
     }
   ]
 }

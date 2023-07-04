@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Set Up ` tmux` as default shell in VS code",
+      "path": "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md"
+    },
+    {
+      "basename": "Common-note",
+      "path": "template/Common-note.md"
+    },
+    {
       "basename": "index",
-      "path": "USMLE/Ultrasound/index.md"
+      "path": "USMLE/index.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Ultrasound/index.md"
     },
     {
       "basename": "index",
@@ -35,10 +47,6 @@
     {
       "basename": "index",
       "path": "USMLE/Books/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/index.md"
     },
     {
       "basename": "index",
@@ -191,14 +199,6 @@
     {
       "basename": "Jaundice and cholestasis",
       "path": "USMLE/Blood/Jaundice and cholestasis.md"
-    },
-    {
-      "basename": "Anemia",
-      "path": "USMLE/Blood/Anemia.md"
-    },
-    {
-      "basename": "Pancreatic cancer",
-      "path": "USMLE/GI/Pancreatic cancer.md"
     }
   ],
   "omittedPaths": [],
