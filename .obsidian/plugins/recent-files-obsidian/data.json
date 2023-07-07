@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
+    },
+    {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Supraventricular tachycardia",
+      "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
+    },
+    {
       "basename": "Set Up ` tmux` as default shell in VS code",
       "path": "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md"
     },
@@ -65,10 +77,6 @@
       "path": "USMLE/Infective disease/Legionnaires' disease.md"
     },
     {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
-    },
-    {
       "basename": "USMLE-note",
       "path": "template/USMLE-note.md"
     },
@@ -93,10 +101,6 @@
       "path": "USMLE/单抗记忆.md"
     },
     {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
-    },
-    {
       "basename": "Blood",
       "path": "USMLE/Blood.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "Mycobacteria",
       "path": "USMLE/Infective disease/Mycobacteria.md"
-    },
-    {
-      "basename": "Supraventricular tachycardia",
-      "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
     },
     {
       "basename": "Atrioventricular block",
