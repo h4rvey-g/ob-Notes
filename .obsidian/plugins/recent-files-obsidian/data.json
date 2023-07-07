@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
+      "basename": "Mycobacteria",
+      "path": "USMLE/Infective disease/Mycobacteria.md"
+    },
+    {
+      "basename": "Class IB antiarrhythmics",
+      "path": "USMLE/Cardiology/Class IB antiarrhythmics.md"
+    },
+    {
+      "basename": "Acute coronary syndrome",
+      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
     },
     {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
     },
     {
       "basename": "Supraventricular tachycardia",
@@ -121,10 +133,6 @@
       "path": "appendix/Untitled.table"
     },
     {
-      "basename": "Mycobacteria",
-      "path": "USMLE/Infective disease/Mycobacteria.md"
-    },
-    {
       "basename": "Atrioventricular block",
       "path": "USMLE/Cardiology/Atrioventricular block.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Autoimmune hemolytic anemia",
       "path": "USMLE/Blood/Autoimmune hemolytic anemia.md"
-    },
-    {
-      "basename": "Alkaline phosphatase",
-      "path": "USMLE/Blood/Alkaline phosphatase.md"
-    },
-    {
-      "basename": "Jaundice and cholestasis",
-      "path": "USMLE/Blood/Jaundice and cholestasis.md"
     }
   ],
   "omittedPaths": [],

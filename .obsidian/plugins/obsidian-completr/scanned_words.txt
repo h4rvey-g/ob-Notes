@@ -623,6 +623,7 @@ reference
 range
 remembered
 reading
+retina
 narrow
 negative
 not
@@ -3593,6 +3594,7 @@ Medication
 Myasthenia
 Muscle
 MuSK
+Mycobacteria
 Differentiate
 Drugs
 DDx
@@ -3716,6 +3718,7 @@ Diarrhea
 Doing
 Done
 DEVOthink
+DVT
 FFF
 Fib
 Fi
@@ -6311,6 +6314,7 @@ kansasii
 kinase
 kit
 kill
+kidneys
 KB
 KR
 KA
