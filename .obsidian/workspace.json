@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Infective disease/Mycobacteria.md",
-                "mode": "preview",
+                "file": "USMLE/Cardiology/Calcium Channel.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Infective disease/Mycobacteria.md",
+                "file": "USMLE/Cardiology/Calcium Channel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Infective disease/Mycobacteria.md",
+                "file": "USMLE/Cardiology/Calcium Channel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Infective disease/Mycobacteria.md"
+                "file": "USMLE/Cardiology/Calcium Channel.md"
               }
             }
           }
@@ -220,6 +220,10 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230716173649.png",
+    "USMLE/Infective disease/Mycobacteria.md",
+    "USMLE/Cardiology/Calcium Channel.md",
+    "USMLE/GI/Absorption.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Cardiology/ECGs.md",
@@ -244,10 +248,6 @@
     "USMLE/Blood/index.md",
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "USMLE/Blood/Jaundice and cholestasis.md",
-    "USMLE/Blood/index 1.md",
-    "USMLE/Blood/Alkaline phosphatase.md",
-    "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
-    "USMLE/Infective disease/Legionnaires' disease.md",
     "USMLE/a.sh",
     "USMLE/sedZOsCKQ",
     "USMLE/temp_file",

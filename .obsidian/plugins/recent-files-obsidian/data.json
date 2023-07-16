@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Calcium Channel",
+      "path": "USMLE/Cardiology/Calcium Channel.md"
+    },
+    {
       "basename": "Mycobacteria",
       "path": "USMLE/Infective disease/Mycobacteria.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Thiazides",
       "path": "USMLE/Cardiology/Thiazides.md"
-    },
-    {
-      "basename": "Autoimmune hemolytic anemia",
-      "path": "USMLE/Blood/Autoimmune hemolytic anemia.md"
     }
   ],
   "omittedPaths": [],
