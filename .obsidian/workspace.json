@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Calcium Channel.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hyperka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Calcium Channel.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Calcium Channel.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Calcium Channel.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -220,6 +220,8 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Infective disease/Mycobacteria.md",
+    "USMLE/Cardiology/Calcium Channel.md",
     "USMLE/image/IntroducingUSMLE/1689690858313.png",
     "USMLE/image/IntroducingUSMLE/1689690841182.png",
     "USMLE/image/IntroducingUSMLE/1689690793835.png",
@@ -229,8 +231,6 @@
     "USMLE/Untitled-1.md",
     "USMLE/Introducing USMLE.md",
     "appendix/Pasted image 20230716173649.png",
-    "USMLE/Infective disease/Mycobacteria.md",
-    "USMLE/Cardiology/Calcium Channel.md",
     "USMLE/GI/Absorption.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
@@ -266,7 +266,6 @@
     "appendix/Pasted image 20230701151905.png",
     "USMLE/Infective disease",
     "appendix/Pasted image 20230628223422.png",
-    "appendix/Pasted image 20230628215219.png",
-    "appendix/Pasted image 20230628215011.png"
+    "appendix/Pasted image 20230628215219.png"
   ]
 }
