@@ -57,7 +57,7 @@ QT prolongation  [13]
 	- Premature atrial and ventricular complexes
 	- Sinus bradycardia
 	- Paroxysmal atrial or junctional tachycardia
-	- Ventricular dysrhythmias, e.g., Torsades de pointes
+	- Ventricular dysrhythmias, e.g., [[Torsades de pointes]]
 	- PEA/asystole
 To remember that low potassium may result in a flattened T wave, think of: "No pot, no tea (T)!"
 # [[Atrioventricular block]]

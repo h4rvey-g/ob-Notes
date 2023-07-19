@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/Cardiology/ECGs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyperka",
+                "query": "QT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,6 +220,10 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Torsades de pointes.md",
+    "USMLE/Cardiology/Long QT syndromes.md",
     "USMLE/Infective disease/Mycobacteria.md",
     "USMLE/Cardiology/Calcium Channel.md",
     "USMLE/image/IntroducingUSMLE/1689690858313.png",
@@ -234,7 +238,6 @@
     "USMLE/GI/Absorption.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230620213926.png",
     "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
     "USMLE/Questions.md",
@@ -252,8 +255,6 @@
     "USMLE/Infective disease/index.md",
     "USMLE/GI/index.md",
     "USMLE/Cardiology/index.md",
-    "USMLE/Books/index.md",
-    "USMLE/Blood/index.md",
     "USMLE/a.sh",
     "USMLE/sedZOsCKQ",
     "USMLE/temp_file",

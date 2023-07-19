@@ -5,6 +5,14 @@
       "path": "USMLE/Cardiology/ECGs.md"
     },
     {
+      "basename": "Torsades de pointes",
+      "path": "USMLE/Cardiology/Torsades de pointes.md"
+    },
+    {
+      "basename": "Long QT syndromes",
+      "path": "USMLE/Cardiology/Long QT syndromes.md"
+    },
+    {
       "basename": "Mycobacteria",
       "path": "USMLE/Infective disease/Mycobacteria.md"
     },
@@ -185,20 +193,12 @@
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
     },
     {
-      "basename": "Long QT syndromes",
-      "path": "USMLE/Cardiology/Long QT syndromes.md"
-    },
-    {
       "basename": "Cardiovascular examination",
       "path": "USMLE/Cardiology/Cardiovascular examination.md"
     },
     {
       "basename": "Splenomegaly",
       "path": "USMLE/Blood/Splenomegaly.md"
-    },
-    {
-      "basename": "Thiazides",
-      "path": "USMLE/Cardiology/Thiazides.md"
     }
   ],
   "omittedPaths": [],

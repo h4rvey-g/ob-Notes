@@ -327,6 +327,7 @@ develop
 deff
 decay
 density
+delayed
 of
 over
 originate
@@ -461,6 +462,8 @@ oncogene
 outbreak
 out
 outlook
+orthopnea
+output
 regular
 reentrant
 retrograde
@@ -624,6 +627,8 @@ range
 remembered
 reading
 retina
+rectifier
+reduced
 narrow
 negative
 not
@@ -932,6 +937,8 @@ tap
 throughout
 thrombocytopenia
 targeting
+twist
+torsades
 in
 includes
 involving
@@ -1103,6 +1110,8 @@ internalization
 information
 informative
 index
+induced
+isoelectric
 general
 giving
 generation
@@ -1225,6 +1234,7 @@ girl
 globulin
 group
 gravis
+gated
 major
 mechanisms
 mark
@@ -1418,6 +1428,7 @@ mucosal
 metastases
 myoid
 medicine
+magnesium
 Sinus
 ST
 Segment
@@ -1557,6 +1568,8 @@ Supportive
 Seropositive
 Seronegative
 Supraventricular
+Symptoms
+Syncope
 AVNRT
 Atrial
 AVRT
@@ -1715,6 +1728,7 @@ Acetylcholine
 AChRs
 About
 Absorption
+Administer
 Orthodromic
 On
 Often
@@ -2032,6 +2046,7 @@ autoreactive
 assays
 acetylcholine
 aim
+around
 ventricular
 varying
 vaccines
@@ -2154,6 +2169,7 @@ via
 vera
 vemurafenib
 vascular
+voltage
 conduction
 concealed
 complex
@@ -2357,6 +2373,7 @@ comments
 contact
 com
 channel
+consciousness
 bypass
 block
 background
@@ -2503,6 +2520,8 @@ bones
 bioinformatics
 blog
 bioinformatic
+bursts
+bigeminy
 flutter
 from
 focus
@@ -3211,6 +3230,10 @@ solvents
 stimulants
 skills
 suggestions
+shock
+self
+stable
+sulfate
 QRS
 QT
 QDQ
@@ -3443,6 +3466,7 @@ line
 legionella
 lysis
 learning
+limiting
 Multifocal
 Mild
 Moderate
@@ -3721,6 +3745,8 @@ Doing
 Done
 DEVOthink
 DVT
+Dizziness
+Defibrillation
 FFF
 Fib
 Fi
@@ -3966,6 +3992,7 @@ IFTTT
 Idiopathic
 Immune
 Iron
+Identify
 PACs
 Primary
 Pathophysiology
@@ -4098,6 +4125,8 @@ Possibly
 Pallor
 Paget
 Phase
+Palpitations
+Polymorphic
 ectopic
 elevation
 early
@@ -4259,6 +4288,7 @@ exposure
 esp
 enzymes
 express
+electrolyte
 Early
 Elevation
 Etiology
@@ -4503,6 +4533,8 @@ Locations
 Luhmann
 Laboratory
 Liver
+Long
+LQTS
 Hyperkalemia
 HIV
 HCV
@@ -4642,6 +4674,8 @@ HOT
 Hemolysis
 Homepage
 Happy
+Hypotension
+Hemodynamically
 hyperkalemia
 hypertrophy
 hereditary
@@ -4974,6 +5008,10 @@ pregnancy
 postsynaptic
 passionate
 please
+pain
+preceded
+phenomenon
+plus
 Unusual
 Usually
 Upc
@@ -5331,6 +5369,9 @@ Cessation
 Consider
 Contact
 Contents
+Cardiovascular
+Cardiogenic
+CPR
 Right
 Retrograde
 Rates
@@ -5675,6 +5716,8 @@ url
 ustekinumab
 unprovoked
 use
+unstable
+underlying
 quinine
 qz
 qM
