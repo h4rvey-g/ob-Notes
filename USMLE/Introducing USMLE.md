@@ -50,7 +50,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
   - 消化内：453k/年
   - 大内科：264k/年
     - Hospitalist（住院部医生）：上7天（8am-8pm），休7天
-  - 公卫/预防/儿科：243k/年（最低）
+  - 公卫/预防/儿科（最低）：243k/年
 
 ---
 
