@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "ectopic atrial rhythm",
+      "path": "USMLE/Cardiology/ectopic atrial rhythm.md"
+    },
+    {
       "basename": "Sarcoidosis",
       "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Legionnaires' disease",
       "path": "USMLE/Infective disease/Legionnaires' disease.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Torsades de pointes",
@@ -195,10 +199,6 @@
     {
       "basename": "Anticoagulants",
       "path": "USMLE/Blood/Anticoagulants.md"
-    },
-    {
-      "basename": "Arteriolosclerosis",
-      "path": "USMLE/Cardiology/Arteriolosclerosis.md"
     }
   ],
   "omittedPaths": [],

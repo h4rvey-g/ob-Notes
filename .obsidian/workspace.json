@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
-                "mode": "source",
+                "file": "USMLE/Cardiology/ECGs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "peak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -220,12 +220,14 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Cardiology/ectopic atrial rhythm.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Cardiovascular examination.md",
+    "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230720153101.png",
     "USMLE/Blood/Lymphocyte.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Infective disease/Legionnaires' disease.md",
     "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Torsades de pointes.md",
     "USMLE/Cardiology/Long QT syndromes.md",
     "USMLE/Infective disease/Mycobacteria.md",
@@ -254,7 +256,6 @@
     "index.md",
     "USMLE/Ultrasound/index.md",
     "USMLE/Respiratory/index.md",
-    "USMLE/Neurology/index.md",
     "USMLE/a.sh",
     "USMLE/sedZOsCKQ",
     "USMLE/temp_file",
@@ -266,7 +267,6 @@
     "appendix/Untitled.table",
     "appendix/Pasted image 20230701151905.png",
     "USMLE/Infective disease",
-    "appendix/Pasted image 20230628223422.png",
-    "appendix/Pasted image 20230628215219.png"
+    "appendix/Pasted image 20230628223422.png"
   ]
 }

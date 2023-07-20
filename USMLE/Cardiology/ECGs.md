@@ -86,6 +86,9 @@ Bottom: pathological Q wave with a duration ≥0.04 s and depth >¼ of R wave am
 Time: < 0.12s = 3 small block
 Voltage: <0.25mV = 2.5 small block
 <mark style="background: #FFF3A34A;">The P wave in V1 is **often biphasic**.</mark> Early right atrial forces are directed anteriorly, giving rise to an initial positive deflection; these are followed by left atrial forces travelling posteriorly, producing a later negative deflection.
+Thus, 
+- **P mitrale (widened and biphasic P wave): Mitral stenosis, causing left atrium hypertrophy**
+- **Peaked P wave: Pulmonary hypertension, causing right atrium hypertrophy**
 ![[Pasted image 20230620211202.png]]
 In AVNRT, The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or Atrial echo) **shows up at the end of the QRS**. Best observed in lead II or III. Also, <mark style="background: #FFF3A34A;">Retrograde P</mark> wave (aka pseudo-R' wave) is seen in V1.
 ![[127701f042d46e7958a823fce6249be.jpg]]
