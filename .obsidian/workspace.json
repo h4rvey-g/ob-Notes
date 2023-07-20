@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Lymphocyte.md",
-                "mode": "preview",
+                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Lymphocyte.md",
+                "file": "USMLE/Respiratory/Sarcoidosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Lymphocyte.md",
+                "file": "USMLE/Respiratory/Sarcoidosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Lymphocyte.md"
+                "file": "USMLE/Respiratory/Sarcoidosis.md"
               }
             }
           }
@@ -220,8 +220,10 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
-    "USMLE/Infective disease/Legionnaires' disease.md",
+    "appendix/Pasted image 20230720153101.png",
     "USMLE/Blood/Lymphocyte.md",
+    "USMLE/Respiratory/Sarcoidosis.md",
+    "USMLE/Infective disease/Legionnaires' disease.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Torsades de pointes.md",
@@ -253,8 +255,6 @@
     "USMLE/Ultrasound/index.md",
     "USMLE/Respiratory/index.md",
     "USMLE/Neurology/index.md",
-    "USMLE/Muscle, skin, and connective tissue/index.md",
-    "USMLE/Infective disease/index.md",
     "USMLE/a.sh",
     "USMLE/sedZOsCKQ",
     "USMLE/temp_file",

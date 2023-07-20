@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
       "basename": "Lymphocyte",
       "path": "USMLE/Blood/Lymphocyte.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Arteriolosclerosis",
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
-    },
-    {
-      "basename": "Cardiovascular examination",
-      "path": "USMLE/Cardiology/Cardiovascular examination.md"
     }
   ],
   "omittedPaths": [],
