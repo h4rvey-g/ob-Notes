@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Blood/Lymphocyte.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QT",
+                "query": "tip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Blood/Lymphocyte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Blood/Lymphocyte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Blood/Lymphocyte.md"
               }
             }
           }
@@ -220,6 +220,8 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Infective disease/Legionnaires' disease.md",
+    "USMLE/Blood/Lymphocyte.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Torsades de pointes.md",
@@ -253,8 +255,6 @@
     "USMLE/Neurology/index.md",
     "USMLE/Muscle, skin, and connective tissue/index.md",
     "USMLE/Infective disease/index.md",
-    "USMLE/GI/index.md",
-    "USMLE/Cardiology/index.md",
     "USMLE/a.sh",
     "USMLE/sedZOsCKQ",
     "USMLE/temp_file",

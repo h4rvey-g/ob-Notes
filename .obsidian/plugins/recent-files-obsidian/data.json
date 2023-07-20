@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lymphocyte",
+      "path": "USMLE/Blood/Lymphocyte.md"
+    },
+    {
+      "basename": "Legionnaires' disease",
+      "path": "USMLE/Infective disease/Legionnaires' disease.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -97,10 +105,6 @@
       "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
     },
     {
-      "basename": "Legionnaires' disease",
-      "path": "USMLE/Infective disease/Legionnaires' disease.md"
-    },
-    {
       "basename": "USMLE-note",
       "path": "template/USMLE-note.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cardiovascular examination",
       "path": "USMLE/Cardiology/Cardiovascular examination.md"
-    },
-    {
-      "basename": "Splenomegaly",
-      "path": "USMLE/Blood/Splenomegaly.md"
     }
   ],
   "omittedPaths": [],

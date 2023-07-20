@@ -629,6 +629,7 @@ reading
 retina
 rectifier
 reduced
+rubella
 narrow
 negative
 not
@@ -939,6 +940,7 @@ thrombocytopenia
 targeting
 twist
 torsades
+toxoplasmosis
 in
 includes
 involving
@@ -1112,6 +1114,7 @@ informative
 index
 induced
 isoelectric
+infectious
 general
 giving
 generation
@@ -1429,6 +1432,8 @@ metastases
 myoid
 medicine
 magnesium
+mononucleosis
+mumps
 Sinus
 ST
 Segment
@@ -3234,6 +3239,7 @@ shock
 self
 stable
 sulfate
+syphilis
 QRS
 QT
 QDQ
@@ -4535,6 +4541,7 @@ Laboratory
 Liver
 Long
 LQTS
+Lymphocytosis
 Hyperkalemia
 HIV
 HCV
@@ -4676,6 +4683,7 @@ Homepage
 Happy
 Hypotension
 Hemodynamically
+Hodgkin
 hyperkalemia
 hypertrophy
 hereditary
@@ -5372,6 +5380,7 @@ Contents
 Cardiovascular
 Cardiogenic
 CPR
+Chronic
 Right
 Retrograde
 Rates
@@ -6168,6 +6177,7 @@ Notes
 Niklas
 Normocytic
 NMJ
+Neoplasia
 jEQ
 jL
 jO
