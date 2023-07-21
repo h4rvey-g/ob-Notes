@@ -332,6 +332,7 @@ detected
 dysregulation
 dihydroxyvitamin
 dermis
+delays
 of
 over
 originate
@@ -636,6 +637,7 @@ reduced
 rubella
 routine
 rales
+resting
 narrow
 negative
 not
@@ -953,6 +955,7 @@ targeting
 twist
 torsades
 toxoplasmosis
+transition
 in
 includes
 involving
@@ -1129,6 +1132,8 @@ isoelectric
 infectious
 inflammation
 immunosuppressants
+ischemic
+inactivated
 general
 giving
 generation
@@ -1450,6 +1455,7 @@ magnesium
 mononucleosis
 mumps
 manifestation
+myocardium
 Sinus
 ST
 Segment
@@ -1751,6 +1757,7 @@ AChRs
 About
 Absorption
 Administer
+Arrythmia
 Orthodromic
 On
 Often
@@ -2072,6 +2079,7 @@ around
 activated
 alveolar
 affected
+arrhythmias
 ventricular
 varying
 vaccines
@@ -5076,6 +5084,8 @@ possibly
 pernio
 pathognomonic
 plaques
+post
+potential
 Unusual
 Usually
 Upc

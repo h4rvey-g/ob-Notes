@@ -11,7 +11,10 @@ share: true
 
 ---
 # Pathophysiology
-
+## Possibilities
+1. Left anterior descending artery (45%): infarction of the anterior wall and anterior septum of the LV
+2. Right coronary artery: infarction of the posterior wall, posterior septum, and papillary muscles** of the LV
+3. Left circumflex artery: infarction of the lateral wall of the LV
 
 ---
 # Clinical features
@@ -25,6 +28,7 @@ share: true
 # Treatment
 ## Arrythmia 
 **[[Class IB antiarrhythmics]]** treat ventricular arrhythmias, especially in ischemic tissue (e.g. **post-MI**)
-the reduced membrane potential of ischemic myocardium delays transition of Na<sup>+</sup> channels from inactivated state to resting state.
+>[!note] 
+>**Ischemia leads to slow cellular depolarization that inactivates sodium channels, and therefore enhanced binding of IB drugs**.
 
 ---
