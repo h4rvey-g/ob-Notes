@@ -469,6 +469,7 @@ out
 outlook
 orthopnea
 output
+osteolytic
 regular
 reentrant
 retrograde
@@ -956,6 +957,7 @@ twist
 torsades
 toxoplasmosis
 transition
+tumor
 in
 includes
 involving
@@ -1456,6 +1458,7 @@ mononucleosis
 mumps
 manifestation
 myocardium
+malignancy
 Sinus
 ST
 Segment
@@ -1598,6 +1601,7 @@ Supraventricular
 Symptoms
 Syncope
 Steroids
+Squamous
 AVNRT
 Atrial
 AVRT
@@ -2415,6 +2419,7 @@ calcitriol
 cutaneous
 cheeks
 chin
+carcinomas
 bypass
 block
 background
@@ -3283,6 +3288,8 @@ sulfate
 syphilis
 systemic
 sarcoidosis
+secretion
+skeletal
 QRS
 QT
 QDQ
@@ -4475,6 +4482,8 @@ Evergreen
 Epub
 EPO
 Erythrocyte
+Endocrine
+Ectopic
 LEFT
 Lengthening
 Left
@@ -4596,6 +4605,7 @@ Long
 LQTS
 Lymphocytosis
 Lungs
+Local
 Hyperkalemia
 HIV
 HCV
@@ -4739,6 +4749,7 @@ Hypotension
 Hemodynamically
 Hodgkin
 HiIar
+Humoral
 hyperkalemia
 hypertrophy
 hereditary
@@ -5086,6 +5097,7 @@ pathognomonic
 plaques
 post
 potential
+pseudohyperparathyroidism
 Unusual
 Usually
 Upc
@@ -5310,6 +5322,7 @@ Ben
 Basiliximab
 Bone
 Butterfly
+Breast
 Characteristic
 CLL
 Clinical
@@ -6250,6 +6263,7 @@ Niklas
 Normocytic
 NMJ
 Neoplasia
+NHL
 jEQ
 jL
 jO

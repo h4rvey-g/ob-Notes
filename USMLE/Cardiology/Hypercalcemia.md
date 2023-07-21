@@ -25,7 +25,7 @@ For causes of hypercalcemia, remember “Thinking Chimpanzees!”
 - Zollinger-Ellison syndrome
 - Excessive vitamin D
 - Excessive vitamin A
-- Sarcoidosis & granulomatous diseases
+- [[Sarcoidosis]] & granulomatous diseases
 # Clinical features
 ECG: Shorten QT interval
 ![[Pasted image 20230622205511.png]]

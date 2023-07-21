@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
+      "basename": "Paraneoplastic syndromes",
+      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
+    },
+    {
+      "basename": "Hypercalcemia",
+      "path": "USMLE/Cardiology/Hypercalcemia.md"
+    },
+    {
       "basename": "Acute coronary syndrome",
       "path": "USMLE/Cardiology/Acute coronary syndrome.md"
     },
@@ -161,10 +173,6 @@
       "path": "USMLE/Cardiology/Atrioventricular block.md"
     },
     {
-      "basename": "Hypercalcemia",
-      "path": "USMLE/Cardiology/Hypercalcemia.md"
-    },
-    {
       "basename": "Ultrasound",
       "path": "USMLE/Ultrasound/Ultrasound.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hemophilia",
       "path": "USMLE/Blood/Hemophilia.md"
-    },
-    {
-      "basename": "Thrombotic thrombocytopenic purpura (TTP)",
-      "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
-    },
-    {
-      "basename": "Anticoagulants",
-      "path": "USMLE/Blood/Anticoagulants.md"
     }
   ],
   "omittedPaths": [],

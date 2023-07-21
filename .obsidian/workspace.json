@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "mode": "preview",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md"
+                "file": "USMLE/Respiratory/Lung cancer.md"
               }
             }
           }
@@ -220,6 +220,10 @@
   },
   "active": "035a1656732cd07c",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Paraneoplastic syndromes.md",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/ectopic atrial rhythm.md",
     "USMLE/Cardiology/Cardiovascular examination.md",
@@ -227,7 +231,6 @@
     "appendix/Pasted image 20230720153101.png",
     "USMLE/Blood/Lymphocyte.md",
     "USMLE/Infective disease/Legionnaires' disease.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Cardiology/Torsades de pointes.md",
     "USMLE/Cardiology/Long QT syndromes.md",
     "USMLE/Infective disease/Mycobacteria.md",
@@ -243,7 +246,6 @@
     "appendix/Pasted image 20230716173649.png",
     "USMLE/GI/Absorption.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
     "appendix/Pasted image 20230620213926.png",
     "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
     "USMLE/Questions.md",
@@ -254,8 +256,6 @@
     "USMLE/index.md",
     "Bioinformatics/Linux tricks",
     "index.md",
-    "USMLE/Ultrasound/index.md",
-    "USMLE/Respiratory/index.md",
     "USMLE/a.sh",
     "USMLE/sedZOsCKQ",
     "USMLE/temp_file",
