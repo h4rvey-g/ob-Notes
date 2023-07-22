@@ -333,6 +333,8 @@ dysregulation
 dihydroxyvitamin
 dermis
 delays
+digital
+denocarcinoma
 of
 over
 originate
@@ -470,6 +472,8 @@ outlook
 orthopnea
 output
 osteolytic
+osteoarthropathy
+originates
 regular
 reentrant
 retrograde
@@ -770,6 +774,7 @@ necrosis
 nodosum
 nonspecific
 nose
+nonsmokers
 tachycardia
 tract
 the
@@ -958,6 +963,7 @@ torsades
 toxoplasmosis
 transition
 tumor
+tobacco
 in
 includes
 involving
@@ -1136,6 +1142,7 @@ inflammation
 immunosuppressants
 ischemic
 inactivated
+inase
 general
 giving
 generation
@@ -1459,6 +1466,7 @@ mumps
 manifestation
 myocardium
 malignancy
+mutations
 Sinus
 ST
 Segment
@@ -1602,6 +1610,8 @@ Symptoms
 Syncope
 Steroids
 Squamous
+SCLC
+Strong
 AVNRT
 Atrial
 AVRT
@@ -1762,6 +1772,8 @@ About
 Absorption
 Administer
 Arrythmia
+Adenocarcinoma
+ALK
 Orthodromic
 On
 Often
@@ -2084,6 +2096,8 @@ activated
 alveolar
 affected
 arrhythmias
+adenocarcinoma
+association
 ventricular
 varying
 vaccines
@@ -2420,6 +2434,7 @@ cutaneous
 cheeks
 chin
 carcinomas
+clubbing
 bypass
 block
 background
@@ -2569,6 +2584,7 @@ bioinformatic
 bursts
 bigeminy
 berylliosis
+better
 flutter
 from
 focus
@@ -3290,6 +3306,9 @@ systemic
 sarcoidosis
 secretion
 skeletal
+sentral
+smoking
+scars
 QRS
 QT
 QDQ
@@ -4187,6 +4206,7 @@ Palpitations
 Polymorphic
 Pulmonary
 Pathology
+Prognosis
 ectopic
 elevation
 early
@@ -4606,6 +4626,7 @@ LQTS
 Lymphocytosis
 Lungs
 Local
+Location
 Hyperkalemia
 HIV
 HCV
@@ -4905,6 +4926,7 @@ hydroxylase
 hypervitaminosis
 hyperphosphatemia
 hilar
+hypertrophic
 peaked
 pattern
 precordial
@@ -5098,6 +5120,7 @@ plaques
 post
 potential
 pseudohyperparathyroidism
+product
 Unusual
 Usually
 Upc
@@ -5466,6 +5489,7 @@ Cough
 Crohn
 Compared
 Cutaneous
+Cancer
 Right
 Retrograde
 Rates
@@ -5812,6 +5836,7 @@ unprovoked
 use
 unstable
 underlying
+ung
 quinine
 qz
 qM

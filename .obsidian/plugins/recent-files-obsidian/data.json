@@ -5,6 +5,10 @@
       "path": "USMLE/Respiratory/Lung cancer.md"
     },
     {
+      "basename": "index",
+      "path": "USMLE/Respiratory/index.md"
+    },
+    {
       "basename": "Paraneoplastic syndromes",
       "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "index",
       "path": "USMLE/Ultrasound/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Respiratory/index.md"
     },
     {
       "basename": "index",

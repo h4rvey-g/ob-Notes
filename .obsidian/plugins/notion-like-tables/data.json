@@ -1,5 +1,5 @@
 {
-  "shouldDebug": false,
+  "shouldDebug": true,
   "createAtObsidianAttachmentFolder": true,
   "customFolderForNewTables": "",
   "exportRenderMarkdown": true,
