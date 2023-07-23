@@ -9,6 +9,42 @@
       "path": "USMLE/Cardiology/Atrial flutter.md"
     },
     {
+      "basename": "Atrioventricular block",
+      "path": "USMLE/Cardiology/Atrioventricular block.md"
+    },
+    {
+      "basename": "Arteriolosclerosis",
+      "path": "USMLE/Cardiology/Arteriolosclerosis.md"
+    },
+    {
+      "basename": "Pulmonary embolism",
+      "path": "USMLE/Respiratory/Pulmonary embolism.md"
+    },
+    {
+      "basename": "Pneumonia",
+      "path": "USMLE/Respiratory/Pneumonia.md"
+    },
+    {
+      "basename": "Paraneoplastic syndromes",
+      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
+    },
+    {
+      "basename": "Ultrasound",
+      "path": "USMLE/Ultrasound/Ultrasound.md"
+    },
+    {
+      "basename": "USMLE-note",
+      "path": "template/USMLE-note.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
+      "basename": "index",
+      "path": "USMLE/Respiratory/index.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -25,14 +61,6 @@
       "path": "tables/Untitled.table"
     },
     {
-      "basename": "index",
-      "path": "USMLE/Respiratory/index.md"
-    },
-    {
-      "basename": "Paraneoplastic syndromes",
-      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
-    },
-    {
       "basename": "Hypercalcemia",
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
@@ -43,10 +71,6 @@
     {
       "basename": "ectopic atrial rhythm",
       "path": "USMLE/Cardiology/ectopic atrial rhythm.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
       "basename": "Lymphocyte",
@@ -137,18 +161,6 @@
       "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
     },
     {
-      "basename": "USMLE-note",
-      "path": "template/USMLE-note.md"
-    },
-    {
-      "basename": "Pulmonary embolism",
-      "path": "USMLE/Respiratory/Pulmonary embolism.md"
-    },
-    {
-      "basename": "Pneumonia",
-      "path": "USMLE/Respiratory/Pneumonia.md"
-    },
-    {
       "basename": "Neonatal respiratory distress syndrome",
       "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
     },
@@ -181,24 +193,8 @@
       "path": "appendix/Untitled.table"
     },
     {
-      "basename": "Atrioventricular block",
-      "path": "USMLE/Cardiology/Atrioventricular block.md"
-    },
-    {
-      "basename": "Ultrasound",
-      "path": "USMLE/Ultrasound/Ultrasound.md"
-    },
-    {
       "basename": "Ultrasound",
       "path": "USMLE/Books/Ultrasound.md"
-    },
-    {
-      "basename": "The Only EKG book",
-      "path": "USMLE/Books/The Only EKG book.md"
-    },
-    {
-      "basename": "Radiology book",
-      "path": "USMLE/Books/Radiology book.md"
     }
   ],
   "omittedPaths": [],

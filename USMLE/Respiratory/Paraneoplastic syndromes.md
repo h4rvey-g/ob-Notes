@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Paraneoplastic syndromes
 author: Harvey Guo
 created: 2023-07-21 17:31
 modified: 2023-07-21 17:31
