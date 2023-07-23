@@ -3638,6 +3638,7 @@ linux
 lepidic
 let
 locations
+lymphocyte
 Multifocal
 Mild
 Moderate

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Cardiology/Torsades de pointes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fibri",
+                "query": "title: unti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Cardiology/Torsades de pointes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Cardiology/Torsades de pointes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md"
+                "file": "USMLE/Cardiology/Torsades de pointes.md"
               }
             }
           }
@@ -212,24 +212,32 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "graph:查看关系图谱": false,
       "obsidian42-brat:BRAT": false,
-      "copilot:Copilot Chat": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create Notion-Like table": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create new loom": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "c7953bf3e8e131a4",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Class IB antiarrhythmics.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Cardiology/Acute pericarditis.md",
+    "USMLE/Blood.md",
+    "USMLE/Cardiology/Torsades de pointes.md",
+    "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md",
     "USMLE/Respiratory/Sarcoidosis.md",
+    "USMLE/Respiratory/Paraneoplastic syndromes.md",
+    "USMLE/Blood/Lymphocyte.md",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/Cardiology/Cardiovascular examination.md",
+    "USMLE/Cardiology/Calcium Channel.md",
+    "USMLE/Cardiology/Atrial flutter.md",
+    "USMLE/Cardiology/Arteriolosclerosis.md",
+    "USMLE/Cardiology/Acute coronary syndrome.md",
+    "USMLE/Cardiology/Class IB antiarrhythmics.md",
+    "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Respiratory/Pulmonary embolism.md",
-    "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
-    "USMLE/Respiratory/Lung cancer.md",
     "USMLE/GI/Absorption.md",
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/Infective disease/Legionnaires' disease.md",
@@ -239,14 +247,6 @@
     "Bioinformatics/hmm/cars.md",
     "Bioinformatics/hmm/czcz.md",
     "Bioinformatics/hmm/dada.md",
-    "Bioinformatics/hmm/Cardio.md",
-    "USMLE/Cardiology/da.md",
-    "USMLE/Neurology/Headaches.md",
-    "USMLE/Neurology/index.md",
-    "USMLE/Cardiology/Atrial flutter.md",
-    "USMLE/Respiratory/Untitled.md",
-    "USMLE/Cardiology/Atrioventricular block.md",
-    "USMLE/Cardiology/Arteriolosclerosis.md",
     "appendix/Pasted image 20230723155339.png",
     "appendix/Pasted image 20230723154313.png",
     "appendix/Pasted image 20230723153407.png",
@@ -254,7 +254,7 @@
     "appendix/Pasted image 20230722214804.png",
     "appendix/Pasted image 20230722213155.png",
     "appendix/Pasted image 20230722174657.png",
-    "tables/Untitled.table",
+    "tables/Untitled.loom",
     "tables",
     "appendix/Pasted image 20230720153101.png",
     "USMLE/image/IntroducingUSMLE/1689690858313.png",

@@ -1,8 +1,12 @@
 {
   "shouldDebug": true,
   "createAtObsidianAttachmentFolder": false,
-  "customFolderForNewTables": "tables",
+  "customFolderForNewFiles": "",
   "exportRenderMarkdown": true,
   "defaultEmbedWidth": "100%",
-  "defaultEmbedHeight": "340px"
+  "defaultEmbedHeight": "340px",
+  "hasMigratedTo800": true,
+  "showWelcomeModal": false,
+  "pluginVersion": "8.0.0",
+  "customFolderForNewTables": "tables"
 }

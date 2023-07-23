@@ -1,5 +1,4 @@
 ---
-title: Untitled
 author: Harvey Guo
 created: 2023-07-19 21:03
 modified: 2023-07-19 21:03

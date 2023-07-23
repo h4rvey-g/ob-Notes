@@ -1,9 +1,7 @@
 ---
-title: Untitled
 author: Harvey Guo
 created: 2023-07-22 22:02
 modified: 2023-07-22 22:02
-aliases: Untitled
 share: true
 ---
 # Etiology
