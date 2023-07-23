@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute coronary syndrome",
+      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
+    },
+    {
+      "basename": "Acute pericarditis",
+      "path": "USMLE/Cardiology/Acute pericarditis.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
+      "basename": "Pneumonia",
+      "path": "USMLE/Respiratory/Pneumonia.md"
+    },
+    {
+      "basename": "Pulmonary embolism",
+      "path": "USMLE/Respiratory/Pulmonary embolism.md"
+    },
+    {
+      "basename": "Paraneoplastic syndromes",
+      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
+    },
+    {
+      "basename": "Neonatal respiratory distress syndrome",
+      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
+    },
+    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
+      "basename": "Absorption",
+      "path": "USMLE/GI/Absorption.md"
+    },
+    {
+      "basename": "Pancreatic cancer",
+      "path": "USMLE/GI/Pancreatic cancer.md"
+    },
+    {
+      "basename": "Legionnaires' disease",
+      "path": "USMLE/Infective disease/Legionnaires' disease.md"
+    },
+    {
+      "basename": "Mycobacteria",
+      "path": "USMLE/Infective disease/Mycobacteria.md"
+    },
+    {
+      "basename": "USMLE-note",
+      "path": "template/USMLE-note.md"
+    },
+    {
+      "basename": "Common-note",
+      "path": "template/Common-note.md"
+    },
+    {
+      "basename": "cars",
+      "path": "Bioinformatics/hmm/cars.md"
+    },
+    {
+      "basename": "Cardio",
+      "path": "Bioinformatics/hmm/Cardio.md"
     },
     {
       "basename": "Atrial flutter",
@@ -17,28 +77,8 @@
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
     },
     {
-      "basename": "Pulmonary embolism",
-      "path": "USMLE/Respiratory/Pulmonary embolism.md"
-    },
-    {
-      "basename": "Pneumonia",
-      "path": "USMLE/Respiratory/Pneumonia.md"
-    },
-    {
-      "basename": "Paraneoplastic syndromes",
-      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
-    },
-    {
       "basename": "Ultrasound",
       "path": "USMLE/Ultrasound/Ultrasound.md"
-    },
-    {
-      "basename": "USMLE-note",
-      "path": "template/USMLE-note.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
       "basename": "index",
@@ -65,10 +105,6 @@
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
     {
-      "basename": "Acute coronary syndrome",
-      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
-    },
-    {
       "basename": "ectopic atrial rhythm",
       "path": "USMLE/Cardiology/ectopic atrial rhythm.md"
     },
@@ -77,20 +113,12 @@
       "path": "USMLE/Blood/Lymphocyte.md"
     },
     {
-      "basename": "Legionnaires' disease",
-      "path": "USMLE/Infective disease/Legionnaires' disease.md"
-    },
-    {
       "basename": "Torsades de pointes",
       "path": "USMLE/Cardiology/Torsades de pointes.md"
     },
     {
       "basename": "Long QT syndromes",
       "path": "USMLE/Cardiology/Long QT syndromes.md"
-    },
-    {
-      "basename": "Mycobacteria",
-      "path": "USMLE/Infective disease/Mycobacteria.md"
     },
     {
       "basename": "Calcium Channel",
@@ -107,10 +135,6 @@
     {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
-    },
-    {
-      "basename": "Common-note",
-      "path": "template/Common-note.md"
     },
     {
       "basename": "index",
@@ -161,10 +185,6 @@
       "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
     },
     {
-      "basename": "Neonatal respiratory distress syndrome",
-      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
-    },
-    {
       "basename": "Antiphospholipid syndrome",
       "path": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "Headaches",
       "path": "USMLE/Neurology/Headaches.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Absorption",
-      "path": "USMLE/GI/Absorption.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "appendix/Untitled.table"
-    },
-    {
-      "basename": "Ultrasound",
-      "path": "USMLE/Books/Ultrasound.md"
     }
   ],
   "omittedPaths": [],

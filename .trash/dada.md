@@ -1,16 +1,18 @@
 ---
+
+title: Untitled
 author: Harvey Guo
-created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date() %>
-aliases: <% tp.file.title %>
+created: 2023-07-23 16:48
+modified: 2023-07-23 16:48
+aliases: Untitled
 share: true
 ---
 # Etiology
-<% tp.file.cursor() %>
+
 
 ---
 # Pathophysiology
-<% tp.file.cursor() %>
+
 
 ---
 # Clinical features

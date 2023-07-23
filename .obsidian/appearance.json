@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "mnemonic-callout"
-  ]
+  ],
+  "showViewHeader": true
 }

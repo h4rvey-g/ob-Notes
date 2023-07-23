@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md"
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md"
               }
             }
           }
@@ -221,6 +221,25 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Class IB antiarrhythmics.md",
+    "USMLE/Cardiology/Acute coronary syndrome.md",
+    "USMLE/Cardiology/Acute pericarditis.md",
+    "USMLE/Respiratory/Sarcoidosis.md",
+    "USMLE/Respiratory/Pneumonia.md",
+    "USMLE/Respiratory/Pulmonary embolism.md",
+    "USMLE/Respiratory/Paraneoplastic syndromes.md",
+    "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/GI/Absorption.md",
+    "USMLE/GI/Pancreatic cancer.md",
+    "USMLE/Infective disease/Legionnaires' disease.md",
+    "USMLE/Infective disease/Mycobacteria.md",
+    "template/USMLE-note.md",
+    "template/Common-note.md",
+    "Bioinformatics/hmm/cars.md",
+    "Bioinformatics/hmm/czcz.md",
+    "Bioinformatics/hmm/dada.md",
+    "Bioinformatics/hmm/Cardio.md",
     "USMLE/Cardiology/da.md",
     "USMLE/Neurology/Headaches.md",
     "USMLE/Neurology/index.md",
@@ -228,35 +247,16 @@
     "USMLE/Respiratory/Untitled.md",
     "USMLE/Cardiology/Atrioventricular block.md",
     "USMLE/Cardiology/Arteriolosclerosis.md",
-    "USMLE/Respiratory/Pulmonary embolism.md",
-    "USMLE/Respiratory/Pneumonia.md",
-    "USMLE/Respiratory/Paraneoplastic syndromes.md",
-    "USMLE/Respiratory/Lung cancer.md",
-    "USMLE/Ultrasound/Ultrasound.md",
-    "template/USMLE-note.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
-    "USMLE/Respiratory/index.md",
     "appendix/Pasted image 20230723155339.png",
     "appendix/Pasted image 20230723154313.png",
     "appendix/Pasted image 20230723153407.png",
     "appendix/Pasted image 20230723153231.png",
-    "USMLE/Cardiology/ECGs.md",
-    "USMLE/Cardiology/Fibrinous pericarditis.md",
-    "USMLE/Cardiology/Cardiovascular examination.md",
     "appendix/Pasted image 20230722214804.png",
     "appendix/Pasted image 20230722213155.png",
-    "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md",
     "appendix/Pasted image 20230722174657.png",
     "tables/Untitled.table",
     "tables",
-    "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Cardiology/ectopic atrial rhythm.md",
     "appendix/Pasted image 20230720153101.png",
-    "USMLE/Blood/Lymphocyte.md",
-    "USMLE/Infective disease/Legionnaires' disease.md",
-    "USMLE/Cardiology/Torsades de pointes.md",
-    "USMLE/Cardiology/Long QT syndromes.md",
     "USMLE/image/IntroducingUSMLE/1689690858313.png",
     "USMLE/image/IntroducingUSMLE/1689690841182.png",
     "USMLE/image/IntroducingUSMLE",
