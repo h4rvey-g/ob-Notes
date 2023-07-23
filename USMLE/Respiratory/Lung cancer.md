@@ -43,7 +43,21 @@ share: true
 
 ---
 # Diagnostics
-
+## Microscopic
+### Adenocarcinoma
+![[Pasted image 20230723153231.png]]
+composed of columnar cells that proliferate along the framework of alveolar septae, a so-called "lepidic" growth pattern.
+### Squamous cell carcinoma
+![[Pasted image 20230723153407.png]]
+- pink cytoplasm
+- keratin pearls
+- distinct cell border
+### Small cell carcinoma
+![[Pasted image 20230723154313.png]]
+This is the microscopic pattern of a small cell anaplastic (oat cell) carcinoma in which small dark blue cells with minimal cytoplasm are packed together in sheets.
+### Hamartoma
+![[Pasted image 20230723155339.png]]
+composed mostly of benign cartilage on the right that is jumbled with a fibrovascular stroma and scattered bronchial glands on the left. A hamartoma is a neoplasm in an organ that is composed of tissue elements normally found at that site, but growing in a haphazard mass.
 
 ---
 # Treatment

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
       "basename": "Atrial flutter",
       "path": "USMLE/Cardiology/Atrial flutter.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Set Up ` tmux` as default shell in VS code",
       "path": "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     },
     {
       "basename": "Untitled",

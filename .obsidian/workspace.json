@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Atrial flutter.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Atrial flutter.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Atrial flutter.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Atrial flutter.md"
+                "file": "USMLE/Respiratory/Lung cancer.md"
               }
             }
           }
@@ -221,6 +221,10 @@
   },
   "active": "80f0c75954857dba",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230723155339.png",
+    "appendix/Pasted image 20230723154313.png",
+    "appendix/Pasted image 20230723153407.png",
+    "appendix/Pasted image 20230723153231.png",
     "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/Cardiology/ECGs.md",
@@ -250,17 +254,13 @@
     "USMLE/image/IntroducingUSMLE/1689690858313.png",
     "USMLE/image/IntroducingUSMLE/1689690841182.png",
     "USMLE/image/IntroducingUSMLE/1689690793835.png",
-    "USMLE/image/IntroducingUSMLE/1689690600992.png",
     "USMLE/image/IntroducingUSMLE",
     "USMLE/image",
     "USMLE/Untitled-1.md",
     "USMLE/Introducing USMLE.md",
-    "appendix/Pasted image 20230716173649.png",
     "USMLE/GI/Absorption.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
-    "appendix/Pasted image 20230620213926.png",
     "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md",
-    "USMLE/Questions.md",
     "Bioinformatics/Linux tricks",
     "USMLE/a.sh",
     "USMLE/sedZOsCKQ",
