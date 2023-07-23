@@ -38,7 +38,8 @@ share: true
 
 ---
 # Clinical features
-
+## [[Paraneoplastic syndromes]]
+![[Pasted image 20230722174657.png]]
 
 ---
 # Diagnostics
@@ -46,6 +47,4 @@ share: true
 
 ---
 # Treatment
-
-
 ---

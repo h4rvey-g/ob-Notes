@@ -46,20 +46,25 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 	![[Pasted image 20230618214752.png|700]]
 # Hypokalemia
 - Mild to moderate hypokalemia
-T-wave flattening  or inversion
-ST depression 
-Prolonged PR interval
+	- T-wave flattening  or inversion
+	- ST depression 
+	- Prolonged PR interval
 - Moderate to severe hypokalemia
-Presence of U waves: small waveform following the T wave that is often absent but becomes more pronounced in hypokalemia or bradycardia  [2]
-T and U wave fusion
-QT prolongation  [13]
+	- Presence of U waves: small waveform following the T wave that is often absent but becomes more pronounced in hypokalemia or bradycardia  [2]
+	- T and U wave fusion
+	- QT prolongation  [13]
 - Dysrhythmias
 	- Premature atrial and ventricular complexes
 	- Sinus bradycardia
 	- Paroxysmal atrial or junctional tachycardia
 	- Ventricular dysrhythmias, e.g., [[Torsades de pointes]]
 	- PEA/asystole
-To remember that low potassium may result in a flattened T wave, think of: "No pot, no tea (T)!"
+ >[!mnemonic]
+ **The push-pull effect**
+![[Pasted image 20230722213155.png]] 
+
+>[!mnemonic] 
+>To remember that low potassium may result in a flattened T wave, think of: "No pot, no tea (T)!"
 # [[Atrioventricular block]]
 # Bundle Branch Block
 mnemonic: William Marrow
@@ -68,7 +73,7 @@ In right bundle branch block, the right precordial leads will show <mark style="
 # Mitral stenosis
 Characteristic findings include:
 - Left atrial enlargement/P mitrale (widened and biphasic P wave)
-- Atrial fibrillation  
+- [[Atrial flutter]]  
 - Right ventricular hypertrophy (e.g., right axis deviation, dominant R wave in lead V1) 
 ![[Pasted image 20230622223520.png]]
 ![[Pasted image 20230622223723.png]]
@@ -81,6 +86,13 @@ The sequence of ECG changes over several hours to days: hyperacute T wave → ST
 Top: normal Q wave  
 Bottom: pathological Q wave with a duration ≥0.04 s and depth >¼ of R wave amplitude (red and green overlays)
 ![[Pasted image 20230628215219.png]]
+# ECG Motion Artefacts
+## **Parkinsonian tremor:**
+![[Pasted image 20230722214804.png]]
+- The irregular baseline in this ECG gives the appearance of atrial fibrillation
+- The slow regular rhythm even suggests the possibility of atrial fibrillation with complete heart block and a junctional escape rhythm
+- However, on closer inspection there are visible P waves in V3 (circled)
+- This patient had sinus bradycardia and a resting tremor due to Parkinson’s disease
 # Miscellaneous
 ## P wave
 Time: < 0.12s = 3 small block

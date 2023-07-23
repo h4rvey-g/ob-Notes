@@ -34,5 +34,7 @@
   "notion-like-tables",
   "obsidian-mkdocs-publisher",
   "templater-obsidian",
-  "callout-manager"
+  "callout-manager",
+  "omnisearch",
+  "text-extractor"
 ]

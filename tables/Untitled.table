@@ -1,0 +1,139 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "a37f1607-0e91-4cca-9fca-62b65725584f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "a9264c2e-b4e7-472d-898e-35d9de5cf210",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "ddf424e8-ca37-456f-a342-2828a2bd5b13"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "781b6883-3566-4642-8523-e375274acefc",
+        "index": 0,
+        "creationTime": 1690018340948,
+        "lastEditedTime": 1690018370772
+      },
+      {
+        "id": "be43bb62-bdac-4f51-b545-40d8112e7eca",
+        "index": 1,
+        "creationTime": 1690018391544,
+        "lastEditedTime": 1690018391544
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "d020f87d-c385-46db-80c2-bd4a805603c1"
+      },
+      {
+        "id": "3947b23c-abf5-4212-8535-59f0e031eefa"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "2ddc5e8c-a300-48db-b420-021ba7a818fa",
+        "columnId": "a37f1607-0e91-4cca-9fca-62b65725584f",
+        "rowId": "ddf424e8-ca37-456f-a342-2828a2bd5b13",
+        "markdown": "New Column"
+      },
+      {
+        "id": "801d9cd1-acf3-4567-b3b0-897f50983c20",
+        "columnId": "a9264c2e-b4e7-472d-898e-35d9de5cf210",
+        "rowId": "ddf424e8-ca37-456f-a342-2828a2bd5b13",
+        "markdown": "New Column"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "6d9d427c-93d8-4d37-bb86-ee176faf5008",
+        "isExternalLink": false,
+        "columnId": "a37f1607-0e91-4cca-9fca-62b65725584f",
+        "rowId": "781b6883-3566-4642-8523-e375274acefc",
+        "dateTime": null,
+        "markdown": "NSCLC",
+        "tagIds": []
+      },
+      {
+        "id": "b81a55fe-8ba3-41e7-b8c7-a233fb66fb6a",
+        "isExternalLink": false,
+        "columnId": "a9264c2e-b4e7-472d-898e-35d9de5cf210",
+        "rowId": "781b6883-3566-4642-8523-e375274acefc",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "75d4f319-1cf7-4a79-98a7-60e9c27e02b3",
+        "isExternalLink": false,
+        "columnId": "a37f1607-0e91-4cca-9fca-62b65725584f",
+        "rowId": "be43bb62-bdac-4f51-b545-40d8112e7eca",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "9412598c-e9e6-4911-88e8-2c730ddb7b15",
+        "isExternalLink": false,
+        "columnId": "a9264c2e-b4e7-472d-898e-35d9de5cf210",
+        "rowId": "be43bb62-bdac-4f51-b545-40d8112e7eca",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "ac4a9b5c-ab67-443c-b6cd-0b10c1d25773",
+        "columnId": "a37f1607-0e91-4cca-9fca-62b65725584f",
+        "rowId": "d020f87d-c385-46db-80c2-bd4a805603c1"
+      },
+      {
+        "id": "212a6e4a-0081-4f8a-9b84-45b8373d4dad",
+        "columnId": "a37f1607-0e91-4cca-9fca-62b65725584f",
+        "rowId": "3947b23c-abf5-4212-8535-59f0e031eefa"
+      },
+      {
+        "id": "c3a0fdf7-e9d9-47c4-a391-efcf4288e25d",
+        "columnId": "a9264c2e-b4e7-472d-898e-35d9de5cf210",
+        "rowId": "d020f87d-c385-46db-80c2-bd4a805603c1"
+      },
+      {
+        "id": "bb7bdece-793b-40c1-bf2e-2ad67f526709",
+        "columnId": "a9264c2e-b4e7-472d-898e-35d9de5cf210",
+        "rowId": "3947b23c-abf5-4212-8535-59f0e031eefa"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.19.1"
+}

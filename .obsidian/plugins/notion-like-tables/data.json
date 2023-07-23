@@ -1,7 +1,7 @@
 {
   "shouldDebug": true,
-  "createAtObsidianAttachmentFolder": true,
-  "customFolderForNewTables": "",
+  "createAtObsidianAttachmentFolder": false,
+  "customFolderForNewTables": "tables",
   "exportRenderMarkdown": true,
   "defaultEmbedWidth": "100%",
   "defaultEmbedHeight": "340px"

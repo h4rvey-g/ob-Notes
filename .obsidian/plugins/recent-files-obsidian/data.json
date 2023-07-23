@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Atrial flutter",
+      "path": "USMLE/Cardiology/Atrial flutter.md"
+    },
+    {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Cardiovascular examination",
+      "path": "USMLE/Cardiology/Cardiovascular examination.md"
+    },
+    {
+      "basename": "Set Up ` tmux` as default shell in VS code",
+      "path": "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md"
+    },
+    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "tables/Untitled.table"
     },
     {
       "basename": "index",
@@ -19,10 +39,6 @@
     {
       "basename": "Acute coronary syndrome",
       "path": "USMLE/Cardiology/Acute coronary syndrome.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "ectopic atrial rhythm",
@@ -67,10 +83,6 @@
     {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
-    },
-    {
-      "basename": "Set Up ` tmux` as default shell in VS code",
-      "path": "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md"
     },
     {
       "basename": "Common-note",
@@ -187,18 +199,6 @@
     {
       "basename": "Radiology book",
       "path": "USMLE/Books/Radiology book.md"
-    },
-    {
-      "basename": "Transfusion",
-      "path": "USMLE/Blood/Transfusion.md"
-    },
-    {
-      "basename": "Von Willebrand disease",
-      "path": "USMLE/Blood/Von Willebrand disease.md"
-    },
-    {
-      "basename": "Hemophilia",
-      "path": "USMLE/Blood/Hemophilia.md"
     }
   ],
   "omittedPaths": [],
