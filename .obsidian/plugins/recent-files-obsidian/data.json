@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Congestive heart failure",
+      "path": "USMLE/Cardiology/Congestive heart failure.md"
+    },
+    {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Atrial flutter",
+      "path": "USMLE/Cardiology/Atrial flutter.md"
+    },
+    {
+      "basename": "Atrioventricular block",
+      "path": "USMLE/Cardiology/Atrioventricular block.md"
+    },
+    {
+      "basename": "Acute pericarditis",
+      "path": "USMLE/Cardiology/Acute pericarditis.md"
+    },
+    {
+      "basename": "Acute coronary syndrome",
+      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
+    },
+    {
       "basename": "Torsades de pointes",
       "path": "USMLE/Cardiology/Torsades de pointes.md"
     },
@@ -33,20 +57,8 @@
       "path": "USMLE/Cardiology/Calcium Channel.md"
     },
     {
-      "basename": "Atrial flutter",
-      "path": "USMLE/Cardiology/Atrial flutter.md"
-    },
-    {
       "basename": "Arteriolosclerosis",
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
-    },
-    {
-      "basename": "Acute coronary syndrome",
-      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
-    },
-    {
-      "basename": "Acute pericarditis",
-      "path": "USMLE/Cardiology/Acute pericarditis.md"
     },
     {
       "basename": "Sarcoidosis",
@@ -97,20 +109,12 @@
       "path": "Bioinformatics/hmm/Cardio.md"
     },
     {
-      "basename": "Atrioventricular block",
-      "path": "USMLE/Cardiology/Atrioventricular block.md"
-    },
-    {
       "basename": "Ultrasound",
       "path": "USMLE/Ultrasound/Ultrasound.md"
     },
     {
       "basename": "index",
       "path": "USMLE/Respiratory/index.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
-    },
-    {
-      "basename": "Headaches",
-      "path": "USMLE/Neurology/Headaches.md"
     }
   ],
   "omittedPaths": [],

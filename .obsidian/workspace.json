@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Torsades de pointes.md",
+                "file": "USMLE/Cardiology/Congestive heart failure.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Torsades de pointes.md",
+                "file": "USMLE/Cardiology/Congestive heart failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Torsades de pointes.md",
+                "file": "USMLE/Cardiology/Congestive heart failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Torsades de pointes.md"
+                "file": "USMLE/Cardiology/Congestive heart failure.md"
               }
             }
           }
@@ -219,10 +219,18 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
-    "USMLE/Blood.md",
+    "USMLE/Cardiology/Congestive heart failure.md",
+    "appendix/Pasted image 20230723213037.png",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Cardiology.md",
+    "USMLE/Cardiology/Atrial flutter.md",
+    "USMLE/Cardiology/Atrioventricular block.md",
+    "USMLE/Cardiology/Acute pericarditis.md",
+    "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Cardiology/Torsades de pointes.md",
+    "USMLE/Blood.md",
     "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
@@ -230,11 +238,8 @@
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Cardiology/Cardiovascular examination.md",
     "USMLE/Cardiology/Calcium Channel.md",
-    "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/Cardiology/Arteriolosclerosis.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
-    "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Respiratory/Pulmonary embolism.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
@@ -242,11 +247,6 @@
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/Infective disease/Legionnaires' disease.md",
     "USMLE/Infective disease/Mycobacteria.md",
-    "template/USMLE-note.md",
-    "template/Common-note.md",
-    "Bioinformatics/hmm/cars.md",
-    "Bioinformatics/hmm/czcz.md",
-    "Bioinformatics/hmm/dada.md",
     "appendix/Pasted image 20230723155339.png",
     "appendix/Pasted image 20230723154313.png",
     "appendix/Pasted image 20230723153407.png",
@@ -258,7 +258,6 @@
     "tables",
     "appendix/Pasted image 20230720153101.png",
     "USMLE/image/IntroducingUSMLE/1689690858313.png",
-    "USMLE/image/IntroducingUSMLE/1689690841182.png",
     "USMLE/image/IntroducingUSMLE",
     "USMLE/image",
     "Bioinformatics/Linux tricks",

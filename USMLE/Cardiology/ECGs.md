@@ -14,7 +14,7 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 - AVNRT 
 - Atrial tachycardia 
 - Orthodromic atrio-ventricular reentrant tachycardia (AVRT) involving retrograde conduction over a "concealed" bypass tract 
-- Atrial flutter with 2:1 block
+- [[Atrial flutter]] with 2:1 block
 # Bradycardia DDx
 ![[Pasted image 20230623214843.png]]
 #  Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb [[lead reversal]].
@@ -113,7 +113,7 @@ The QT interval includes the QRS complex, the ST segment, and the T wave.
 The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
 Prolonged QT: Congenital [[Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), Arsenic poisoning
 ## Rates
-- Atrial flutter: 250-300/min -- about 1 small block
+- [[Atrial flutter]]: 250-300/min -- about 1 small block
 - Atrial fibrillation: 350-400/min -- less than 1 small block
 - Atrial tachycardia, AVNRT: 130-240 -- 1-2 small block
 

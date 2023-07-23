@@ -992,6 +992,7 @@ together
 tooth
 tender
 therefore
+triad
 in
 includes
 involving
@@ -2274,6 +2275,7 @@ vemurafenib
 vascular
 voltage
 violaceous
+voltages
 conduction
 concealed
 complex
@@ -4489,6 +4491,7 @@ even
 elements
 extremities
 enhanced
+edema
 Early
 Elevation
 Etiology
@@ -4743,6 +4746,7 @@ Local
 Location
 Loss
 Lung
+Low
 Hyperkalemia
 HIV
 HCV
@@ -5626,6 +5630,8 @@ Cutaneous
 Cancer
 Commonest
 Classically
+Cardiology
+CHF
 Right
 Retrograde
 Rates
@@ -5857,6 +5863,7 @@ VEGF
 Vessel
 VEmuRAF
 VitB
+Very
 up
 unusual
 usually
