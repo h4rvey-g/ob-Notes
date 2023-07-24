@@ -27,6 +27,13 @@ share: true
 	- Prognosis is usually better than in other types of lung cancer
  >[!note] 
  >“**A**denocarcinoma of **L**ung **K**inase”: Cancer (adenocarcinoma of lung) and the gene product (tyrosine kinase) are associated with ALK mutations.
+## Large cell carcinoma
+- Location: Peripheral
+- Characteristics
+	- Strong association with smoking
+	- Poor response to chemotherapy
+	- Early metastases
+	- Poor prognosis
 ## Small cell lung cancer (SCLC)
 - Location: Peripheral
 - Characteristics
@@ -52,6 +59,10 @@ composed of columnar cells that proliferate along the framework of alveolar sept
 - pink cytoplasm
 - keratin pearls
 - distinct cell border
+### Large cell carcinoma
+![[Pasted image 20230724161436.png]]
+- Undifferentiated
+- Large tumor cells
 ### Small cell carcinoma
 ![[Pasted image 20230723154313.png]]
 This is the microscopic pattern of a small cell anaplastic (oat cell) carcinoma in which small dark blue cells with minimal cytoplasm are packed together in sheets.

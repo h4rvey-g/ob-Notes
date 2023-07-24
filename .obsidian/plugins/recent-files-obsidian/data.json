@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
       "basename": "Congestive heart failure",
       "path": "USMLE/Cardiology/Congestive heart failure.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Lymphocyte",
       "path": "USMLE/Blood/Lymphocyte.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     },
     {
       "basename": "Blood",

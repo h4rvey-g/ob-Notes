@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md"
+                "file": "USMLE/Respiratory/Lung cancer.md"
               }
             }
           }
@@ -221,20 +221,22 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230724161436.png",
+    "appendix/Pasted image 20230724161428.png",
     "USMLE/Cardiology/Congestive heart failure.md",
+    "USMLE/Blood/Lymphocyte.md",
+    "USMLE/Cardiology/Torsades de pointes.md",
+    "USMLE/Cardiology/Atrioventricular block.md",
     "appendix/Pasted image 20230723213037.png",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Cardiology.md",
     "USMLE/Cardiology/Atrial flutter.md",
-    "USMLE/Cardiology/Atrioventricular block.md",
     "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Cardiology/Torsades de pointes.md",
     "USMLE/Blood.md",
     "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
-    "USMLE/Blood/Lymphocyte.md",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Cardiology/Cardiovascular examination.md",
     "USMLE/Cardiology/Calcium Channel.md",
@@ -257,7 +259,6 @@
     "tables/Untitled.loom",
     "tables",
     "appendix/Pasted image 20230720153101.png",
-    "USMLE/image/IntroducingUSMLE/1689690858313.png",
     "USMLE/image/IntroducingUSMLE",
     "USMLE/image",
     "Bioinformatics/Linux tricks",
