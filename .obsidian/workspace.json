@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Questions.md",
-                "mode": "preview",
+                "file": "USMLE/Cardiology/ECGs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Questions.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Questions.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Questions.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -221,6 +221,7 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
+    "USMLE/Questions.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Atrial flutter.md",
     "appendix/Pasted image 20230620211202.png",

@@ -108,6 +108,11 @@ In AVNRT, The <mark style="background: #FFF3A34A;">retrograde P</mark> wave (or 
 ## ST segment
 Time: 0.05-0.15s = 1-3 small block
 Elevation: ≥ 0.1 mV in a limb lead or ≥ 0.2 mV in a precordial lead. 
+Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all other leads.
+- Downsloping ST depression or horizontal ST depression: Subendocardial myocardial ischemia, i.e., **NSTEMI**
+- Sagging type ST-segment depression: digoxin
+- Secondary repolarization abnormalities: Ventricular hypertrophy, LBBB
+- Nonspecific ST-segment depression: Hypokalemia
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
 The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.
