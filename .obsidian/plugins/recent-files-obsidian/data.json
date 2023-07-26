@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
-    },
-    {
-      "basename": "Congestive heart failure",
-      "path": "USMLE/Cardiology/Congestive heart failure.md"
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
     },
     {
       "basename": "ECGs",
@@ -15,6 +11,18 @@
     {
       "basename": "Atrial flutter",
       "path": "USMLE/Cardiology/Atrial flutter.md"
+    },
+    {
+      "basename": "Pasted image 20230620211202",
+      "path": "appendix/Pasted image 20230620211202.png"
+    },
+    {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
+      "basename": "Congestive heart failure",
+      "path": "USMLE/Cardiology/Congestive heart failure.md"
     },
     {
       "basename": "Atrioventricular block",
@@ -137,10 +145,6 @@
       "path": "USMLE/Cardiology/Class IB antiarrhythmics.md"
     },
     {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
-    },
-    {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Antiphospholipid syndrome",
       "path": "USMLE/Muscle, skin, and connective tissue/Antiphospholipid syndrome.md"
-    },
-    {
-      "basename": "单抗记忆",
-      "path": "USMLE/单抗记忆.md"
     }
   ],
   "omittedPaths": [],
