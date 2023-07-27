@@ -35,7 +35,8 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 - Mild hyperkalemia: 5.5–6.4 mEq/L 
     - <mark style="background: #FFF3A3A6;">Tall, peaked </mark>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极化3期加速，反映为3期复极T波狭窄而高耸)
 - Moderate hyperkalemia: 6.5–8.0 mEq/L 
-<mark style="background: #FFF3A3A6;">    - Lengthening of QRS interval ([QRS complex](https://next.amboss.com/us/article/pl0LBT#Zb6a46f472e496e639cee60c43bd0acbd) widening)</mark> -- because of conduction delay
+	- <mark style="background: #FFF3A3A6;">Lengthening of QRS interval</mark>
+		- because of conduction delay
     - Widening and flattening of [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec), which eventually disappears 
 - Severe hyperkalemia: > 8.0 mEq/L 
     - Absent [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec)
@@ -59,12 +60,19 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 	- Paroxysmal atrial or junctional tachycardia
 	- Ventricular dysrhythmias, e.g., [[Torsades de pointes]]
 	- PEA/asystole
+
  >[!mnemonic]
  **The push-pull effect**
 ![[Pasted image 20230722213155.png]] 
 
 >[!mnemonic] 
 >To remember that low potassium may result in a flattened T wave, think of: "No pot, no tea (T)!"
+
+>[!tip] 
+>Hypokalemia, hypocalcemia and hypomagnesemia all appear to prolong the QT interval, but they do so for different reasons: 
+>- Hypokalemia prolongs the QU interval which can be mistaken for the QT interval
+>- Hypocalcemia prolongs the ST segment (resulting in a long QT with a normal T wave)
+>- Hypomagnesemia prolongs the T wave (resulting in a long QT with a long T wave)
 # [[Atrioventricular block]]
 # Bundle Branch Block
 mnemonic: William Marrow

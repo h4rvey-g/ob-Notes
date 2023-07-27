@@ -1308,6 +1308,8 @@ iqi
 iaa
 insulation
 increases
+infiltrates
+indicate
 general
 giving
 generation
@@ -1857,6 +1859,8 @@ SPP
 Ship
 Satisfying
 Serum
+Subendocardial
+Sagging
 AVNRT
 Atrial
 AVRT
@@ -4127,6 +4131,7 @@ lactate
 limit
 laboratory
 latency
+lobes
 Multifocal
 Mild
 Moderate
@@ -4456,6 +4461,9 @@ Dkk
 Demolishers
 Dry
 Digital
+Depression
+Downsloping
+Diffuse
 FFF
 Fib
 Fi
@@ -5420,6 +5428,7 @@ LIB
 LdBRT
 LLLLHHHbbb
 Light
+LBBB
 Hyperkalemia
 HIV
 HCV
@@ -5774,6 +5783,7 @@ hyyy
 hurss
 hCq
 histology
+horizontal
 peaked
 pattern
 precordial
@@ -6439,6 +6449,7 @@ CtLN
 CRRR
 Czz
 CnN
+Calcified
 Right
 Retrograde
 Rates
@@ -7379,6 +7390,8 @@ NHHpvv
 NvN
 Ncq
 NNNb
+NSTEMI
+Nonspecific
 jEQ
 jL
 jO

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Atrial flutter",
+      "path": "USMLE/Cardiology/Atrial flutter.md"
+    },
+    {
       "basename": "Pneumoconioses",
       "path": "USMLE/Respiratory/Pneumoconioses.md"
     },
@@ -17,16 +25,8 @@
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
     {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
-    },
-    {
       "basename": "Questions",
       "path": "USMLE/Questions.md"
-    },
-    {
-      "basename": "Atrial flutter",
-      "path": "USMLE/Cardiology/Atrial flutter.md"
     },
     {
       "basename": "Pasted image 20230620211202",
