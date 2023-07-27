@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pneumoconioses",
+      "path": "USMLE/Respiratory/Pneumoconioses.md"
+    },
+    {
+      "basename": "Mesothelioma",
+      "path": "USMLE/Respiratory/Mesothelioma.md"
+    },
+    {
       "basename": "Pleural effusion",
       "path": "USMLE/Blood/Pleural effusion.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/Blood/index.md"
-    },
-    {
-      "basename": "Immune thrombocytopenia (ITP)",
-      "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
-    },
-    {
-      "basename": "Erythrocyte morphology and hemoglobin",
-      "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
     }
   ],
   "omittedPaths": [],

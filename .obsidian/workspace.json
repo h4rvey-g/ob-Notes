@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Respiratory/Pneumoconioses.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Respiratory/Pneumoconioses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Respiratory/Pneumoconioses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md"
+                "file": "USMLE/Respiratory/Pneumoconioses.md"
               }
             }
           }
@@ -221,9 +221,11 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Mesothelioma.md",
+    "USMLE/Respiratory/Pneumoconioses.md",
+    "USMLE/Blood/Pleural effusion.md",
     "appendix/Pasted image 20230727145202.png",
     "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Blood/Pleural effusion.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Questions.md",
     "USMLE/Cardiology/Atrial flutter.md",
@@ -250,13 +252,11 @@
     "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Respiratory/Pulmonary embolism.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
-    "USMLE/GI/Absorption.md",
     "appendix/Pasted image 20230723155339.png",
     "appendix/Pasted image 20230723154313.png",
     "appendix/Pasted image 20230723153407.png",
     "appendix/Pasted image 20230723153231.png",
     "appendix/Pasted image 20230722214804.png",
-    "appendix/Pasted image 20230722213155.png",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

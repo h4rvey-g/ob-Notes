@@ -377,6 +377,8 @@ dJHH
 dqq
 dFN
 dez
+dehydrogenase
+develops
 of
 over
 originate
@@ -1099,6 +1101,7 @@ tPPP
 tww
 tixx
 tgr
+transforms
 in
 includes
 involving
@@ -1303,6 +1306,8 @@ iDI
 ixx
 iqi
 iaa
+insulation
+increases
 general
 giving
 generation
@@ -1671,6 +1676,12 @@ mZee
 mllrrr
 mei
 mYY
+miners
+millers
+manufactures
+means
+mesothelial
+mesothelioma
 Sinus
 ST
 Segment
@@ -1843,6 +1854,9 @@ SpNdq
 SuP
 SAI
 SPP
+Ship
+Satisfying
+Serum
 AVNRT
 Atrial
 AVRT
@@ -2026,6 +2040,9 @@ AEQ
 AUbb
 Agg
 AMP
+Asbestosis
+Airborne
+Asbestos
 Orthodromic
 On
 Often
@@ -2138,6 +2155,7 @@ OKK
 OEy
 OEE
 OOg
+ONE
 atrio
 and
 atrial
@@ -2394,6 +2412,7 @@ auX
 aii
 aNNN
 aC
+asbestos
 ventricular
 varying
 vaccines
@@ -2788,6 +2807,10 @@ cXYY
 cRR
 cQZZ
 cPL
+construction
+criteria
+criterium
+cavities
 bypass
 block
 background
@@ -2968,6 +2991,8 @@ bbbzz
 bLE
 baa
 bEr
+bodies
+bronchogenic
 flutter
 from
 focus
@@ -3147,6 +3172,7 @@ faa
 faQ
 fggGGGO
 fdd
+fibers
 with
 wave
 which
@@ -3296,6 +3322,7 @@ wQQ
 wJJJ
 wqqqhh
 wwwI
+workers
 Whenever
 Widening
 William
@@ -3818,6 +3845,8 @@ sFFFDD
 sTe
 sJJ
 sPy
+septa
+shared
 QRS
 QT
 QDQ
@@ -4093,6 +4122,11 @@ lYYY
 lNLL
 lHHH
 lPu
+linings
+lactate
+limit
+laboratory
+latency
 Multifocal
 Mild
 Moderate
@@ -4419,6 +4453,9 @@ Duuubb
 DPf
 Dt
 Dkk
+Demolishers
+Dry
+Digital
 FFF
 Fib
 Fi
@@ -4561,6 +4598,7 @@ FGG
 Fgg
 Fpp
 FFg
+Ferruginous
 In
 It
 Intraventricular
@@ -4890,6 +4928,8 @@ PTT
 PPP
 PXX
 PzE
+Population
+Pleural
 ectopic
 elevation
 early
@@ -5079,6 +5119,7 @@ eiii
 eMM
 eYF
 eKT
+exudative
 Early
 Elevation
 Etiology
@@ -5228,6 +5269,7 @@ EFF
 EhP
 EuZQQ
 EDDT
+Exertional
 LEFT
 Lengthening
 Left
@@ -5377,6 +5419,7 @@ LL
 LIB
 LdBRT
 LLLLHHHbbb
+Light
 Hyperkalemia
 HIV
 HCV
@@ -5550,6 +5593,8 @@ HDF
 Ht
 HZZ
 HZJp
+Highly
+Has
 hyperkalemia
 hypertrophy
 hereditary
@@ -5728,6 +5773,7 @@ hJV
 hyyy
 hurss
 hCq
+histology
 peaked
 pattern
 precordial
@@ -5955,6 +6001,8 @@ pvv
 pWMM
 pooo
 prrj
+poor
+prognosis
 Unusual
 Usually
 Upc
@@ -6226,6 +6274,7 @@ Bbb
 Bnnnfff
 Bje
 BD
+Brake
 Characteristic
 CLL
 Clinical
@@ -6801,6 +6850,7 @@ uuuyyy
 uvv
 ujPP
 uxe
+upper
 quinine
 qz
 qM
