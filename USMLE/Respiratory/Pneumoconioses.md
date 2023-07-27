@@ -27,6 +27,7 @@ share: true
 	- Dry cough that transforms into productive cough
 	- Digital clubbing
 	- Ferruginous bodies in alveolar septa on histology 
+		- ![[Pasted image 20230727171328.png]]
 	- Complications
 		- [[Lung cancer]] (smoking increases the risk): bronchogenic carcinoma is most common
 		- [[Mesothelioma]]
@@ -34,6 +35,7 @@ share: true
 	- Diffuse bilateral infiltrates predominantly in the lower lobes
 	- Interstitial fibrosis
 	- Calcified pleural plaques (usually indicate benign pleural disease)
+	- ![[Pasted image 20230727171235.png]]
 - Etiology: 
 - Population at risk: 
 - Clinical features: 
