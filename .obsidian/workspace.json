@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Respiratory/Lung cancer.md"
               }
             }
           }
@@ -221,8 +221,9 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Atrial flutter.md",
+    "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/Respiratory/Pneumoconioses.md",
     "appendix/Pasted image 20230727171328.png",
     "appendix/Pasted image 20230727171235.png",
@@ -241,7 +242,6 @@
     "USMLE/Cardiology/Atrioventricular block.md",
     "appendix/Pasted image 20230723213037.png",
     "USMLE/Cardiology/Cardiology.md",
-    "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Blood.md",
     "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md",

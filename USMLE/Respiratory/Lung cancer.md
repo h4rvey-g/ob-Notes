@@ -38,6 +38,15 @@ share: true
 - Location: Peripheral
 - Characteristics
 	- Strong association with <mark style="background: #FFF3A34A;">smoking</mark>
+## Bronchial carcinoid tumor
+- Location: Central or peripheral
+- A rare type of neuroendocrine lung tumor that consists predominantly of neuroendocrine Kulchitsky cells
+- Neuroendocrine Kulchitsky cells [18]
+	- Rapid growth pattern
+	- Expressed tumor markers
+		- Chromogranin A
+		- Synaptophysin
+		- Neuron-specific enolase
 
 ---
 # Pathophysiology

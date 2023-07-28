@@ -2815,6 +2815,7 @@ construction
 criteria
 criterium
 cavities
+chemotherapy
 bypass
 block
 background
@@ -4938,6 +4939,7 @@ PXX
 PzE
 Population
 Pleural
+Poor
 ectopic
 elevation
 early
@@ -5429,6 +5431,7 @@ LdBRT
 LLLLHHHbbb
 Light
 LBBB
+Large
 Hyperkalemia
 HIV
 HCV
@@ -6152,6 +6155,7 @@ UNT
 UCVTT
 UWW
 UÖ
+Undifferentiated
 Bundle
 Branch
 Block
