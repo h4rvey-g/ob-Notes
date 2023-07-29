@@ -17,7 +17,19 @@ mutations in SERPINA1 gene
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Pulmonary manifestations 
+	- Cough, wheezing
+	- Dyspnea
+	- Diminished breath sounds
+	- Barrel chest
+ >[!tip] 
+ >Adolescents presenting with pulmonary symptoms without a history of smoking should raise suspicion for AAT deficiency.
+- Hepatic manifestations
+	- Prolonged neonatal jaundice
+	- Hepatitis
+	- Cirrhosis
+	- Increased risk of hepatocellular carcinoma (HCC)
+		- Patients with AAT deficiency are at risk of developing liver cirrhosis with subsequent HCC. HCC can also develop in the absence of cirrhosis.
 
 ---
 # Diagnostics
