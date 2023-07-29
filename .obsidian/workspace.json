@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md",
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md",
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md",
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md"
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
               }
             }
           }
@@ -221,8 +221,9 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
-    "USMLE/Blood/Anemia.md",
     "USMLE/GI/Celiac disease.md",
+    "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
+    "USMLE/Blood/Anemia.md",
     "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
     "appendix/Pasted image 20230729155030.png",
     "appendix/Pasted image 20230729153839.png",
@@ -256,7 +257,6 @@
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Cardiology/Cardiovascular examination.md",
-    "USMLE/Cardiology/Calcium Channel.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

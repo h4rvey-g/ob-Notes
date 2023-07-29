@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alpha-1 antitrypsin deficiency",
+      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
+    },
+    {
       "basename": "Celiac disease",
       "path": "USMLE/GI/Celiac disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/Infective disease/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/GI/index.md"
     }
   ],
   "omittedPaths": [],
