@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Atopic dermatitis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md"
+    },
+    {
+      "basename": "Atopy",
+      "path": "USMLE/Respiratory/Atopy.md"
+    },
+    {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Supraventricular tachycardia",
+      "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
+    },
+    {
+      "basename": "Atrioventricular block",
+      "path": "USMLE/Cardiology/Atrioventricular block.md"
+    },
+    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
     },
     {
       "basename": "Acute pericarditis",
       "path": "USMLE/Cardiology/Acute pericarditis.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Atrial flutter",
@@ -43,10 +59,6 @@
     {
       "basename": "Congestive heart failure",
       "path": "USMLE/Cardiology/Congestive heart failure.md"
-    },
-    {
-      "basename": "Atrioventricular block",
-      "path": "USMLE/Cardiology/Atrioventricular block.md"
     },
     {
       "basename": "Acute coronary syndrome",
@@ -157,10 +169,6 @@
       "path": "USMLE/Cardiology/Class IB antiarrhythmics.md"
     },
     {
-      "basename": "Supraventricular tachycardia",
-      "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
-    },
-    {
       "basename": "index",
       "path": "USMLE/index.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/Cardiology/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Books/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Blood/index.md"
     }
   ],
   "omittedPaths": [],

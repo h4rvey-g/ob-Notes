@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md"
               }
             }
           }
@@ -221,8 +221,16 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Acute pericarditis.md",
+    "appendix/Pasted image 20230729155030.png",
+    "appendix/Pasted image 20230729153839.png",
+    "USMLE/Respiratory/Atopy.md",
+    "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
+    "appendix/Pasted image 20230729152817.png",
     "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Supraventricular tachycardia.md",
+    "USMLE/Cardiology/Atrioventricular block.md",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/Respiratory/Pneumoconioses.md",
     "appendix/Pasted image 20230727171328.png",
@@ -233,13 +241,11 @@
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Questions.md",
     "appendix/Pasted image 20230620211202.png",
-    "USMLE/Respiratory/Lung cancer.md",
     "appendix/Pasted image 20230724161436.png",
     "appendix/Pasted image 20230724161428.png",
     "USMLE/Cardiology/Congestive heart failure.md",
     "USMLE/Blood/Lymphocyte.md",
     "USMLE/Cardiology/Torsades de pointes.md",
-    "USMLE/Cardiology/Atrioventricular block.md",
     "appendix/Pasted image 20230723213037.png",
     "USMLE/Cardiology/Cardiology.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
@@ -250,12 +256,7 @@
     "USMLE/Cardiology/Cardiovascular examination.md",
     "USMLE/Cardiology/Calcium Channel.md",
     "USMLE/Cardiology/Arteriolosclerosis.md",
-    "USMLE/Cardiology/Class IB antiarrhythmics.md",
-    "USMLE/Respiratory/Pneumonia.md",
-    "USMLE/Respiratory/Pulmonary embolism.md",
     "appendix/Pasted image 20230723155339.png",
-    "appendix/Pasted image 20230723154313.png",
-    "appendix/Pasted image 20230723153407.png",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
