@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Celiac disease",
+      "path": "USMLE/GI/Celiac disease.md"
+    },
+    {
       "basename": "Atopic dermatitis",
       "path": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/GI/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Cardiology/index.md"
     }
   ],
   "omittedPaths": [],

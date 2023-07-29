@@ -380,6 +380,7 @@ dez
 dehydrogenase
 develops
 different
+dermatitis
 of
 over
 originate
@@ -538,6 +539,7 @@ oXX
 oIvUU
 oTE
 ojjBq
+osteoporosis
 regular
 reentrant
 retrograde
@@ -890,6 +892,8 @@ nNOOO
 nnnb
 nyb
 neuroendocrine
+neuropathies
+numbness
 tachycardia
 tract
 the
@@ -1105,6 +1109,8 @@ tww
 tixx
 tgr
 transforms
+thrive
+tingling
 in
 includes
 involving
@@ -1313,6 +1319,8 @@ insulation
 increases
 infiltrates
 indicate
+iron
+irritability
 general
 giving
 generation
@@ -2423,6 +2431,9 @@ aii
 aNNN
 aC
 asbestos
+abdominal
+associations
+ataxia
 ventricular
 varying
 vaccines
@@ -3006,6 +3017,8 @@ baa
 bEr
 bodies
 bronchogenic
+bloating
+burning
 flutter
 from
 focus
@@ -3186,6 +3199,7 @@ faQ
 fggGGGO
 fdd
 fibers
+feet
 with
 wave
 which
@@ -3336,6 +3350,7 @@ wJJJ
 wqqqhh
 wwwI
 workers
+weight
 Whenever
 Widening
 William
@@ -3860,6 +3875,7 @@ sJJ
 sPy
 septa
 shared
+steatorrhea
 QRS
 QT
 QDQ
@@ -4318,6 +4334,7 @@ MJKKS
 Mff
 MKK
 MMMg
+Malabsorption
 Differentiate
 Drugs
 DDx
@@ -4473,6 +4490,7 @@ Digital
 Depression
 Downsloping
 Diffuse
+Dermatologic
 FFF
 Fib
 Fi
@@ -4616,6 +4634,7 @@ Fgg
 Fpp
 FFg
 Ferruginous
+Flatulence
 In
 It
 Intraventricular
@@ -5290,6 +5309,7 @@ EuZQQ
 EDDT
 Exertional
 Expressed
+Extraintestinal
 LEFT
 Lengthening
 Left
@@ -5798,6 +5818,8 @@ hurss
 hCq
 histology
 horizontal
+herpetiformis
+hands
 peaked
 pattern
 precordial
@@ -6029,6 +6051,7 @@ poor
 prognosis
 prolong
 prolongs
+puberty
 Unusual
 Usually
 Upc
@@ -7128,6 +7151,7 @@ GAD
 GDD
 GJJJTT
 Gcx
+Gastrointestinal
 Jervell
 JYo
 JO
@@ -7415,6 +7439,7 @@ NSTEMI
 Nonspecific
 Neuroendocrine
 Neuron
+Neuropsychiatric
 jEQ
 jL
 jO

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
+                "file": "USMLE/GI/Celiac disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
+                "file": "USMLE/GI/Celiac disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
+                "file": "USMLE/GI/Celiac disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md"
+                "file": "USMLE/GI/Celiac disease.md"
               }
             }
           }
@@ -221,10 +221,12 @@
   },
   "active": "c7953bf3e8e131a4",
   "lastOpenFiles": [
+    "USMLE/Blood/Anemia.md",
+    "USMLE/GI/Celiac disease.md",
+    "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
     "appendix/Pasted image 20230729155030.png",
     "appendix/Pasted image 20230729153839.png",
     "USMLE/Respiratory/Atopy.md",
-    "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
     "appendix/Pasted image 20230729152817.png",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
@@ -255,8 +257,6 @@
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Cardiology/Cardiovascular examination.md",
     "USMLE/Cardiology/Calcium Channel.md",
-    "USMLE/Cardiology/Arteriolosclerosis.md",
-    "appendix/Pasted image 20230723155339.png",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
