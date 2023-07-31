@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Histoplasmosis",
+      "path": "USMLE/Infective disease/Histoplasmosis.md"
+    },
+    {
+      "basename": "Polymyalgia rheumatica",
+      "path": "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md"
+    },
+    {
       "basename": "Alpha-1 antitrypsin deficiency",
       "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/Neurology/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Muscle, skin, and connective tissue/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Infective disease/index.md"
     }
   ],
   "omittedPaths": [],
