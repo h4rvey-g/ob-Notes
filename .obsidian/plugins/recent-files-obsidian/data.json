@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "How to Download Embedded Vimeo Videos",
+      "path": "Bioinformatics/How to Download Embedded Vimeo Videos.md"
+    },
+    {
       "basename": "Histoplasmosis",
       "path": "USMLE/Infective disease/Histoplasmosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/Ultrasound/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Neurology/index.md"
     }
   ],
   "omittedPaths": [],
