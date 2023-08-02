@@ -3,9 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "/appendix",
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "showLineNumber": true
 }
