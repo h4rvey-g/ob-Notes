@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatics/How to Download Embedded Vimeo Videos.md",
+                "file": "USMLE/Respiratory/Club cells.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,14 +114,6 @@
             }
           },
           {
-            "id": "82bcff38128f8ef3",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "20e46837baa36f69",
             "type": "leaf",
             "state": {
@@ -138,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "366784a71f0400fb",
@@ -151,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatics/How to Download Embedded Vimeo Videos.md",
+                "file": "USMLE/Respiratory/Club cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatics/How to Download Embedded Vimeo Videos.md",
+                "file": "USMLE/Respiratory/Club cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformatics/How to Download Embedded Vimeo Videos.md"
+                "file": "USMLE/Respiratory/Club cells.md"
               }
             }
           }
@@ -221,6 +213,13 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+    "USMLE/Respiratory/Club cells.md",
+    "appendix/Pasted image 20230802155407.png",
+    "USMLE/Respiratory/Lung cancer.md",
+    "appendix/Pasted image 20230802155248.png",
+    "appendix/Pasted image 20230802153912.png",
+    "template/USMLE-note.md",
     "Bioinformatics/How to Download Embedded Vimeo Videos.md",
     "USMLE/Infective disease/Histoplasmosis.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
@@ -235,7 +234,6 @@
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Cardiology/Atrioventricular block.md",
-    "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/Respiratory/Pneumoconioses.md",
@@ -247,16 +245,10 @@
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Questions.md",
     "appendix/Pasted image 20230620211202.png",
-    "appendix/Pasted image 20230724161436.png",
-    "appendix/Pasted image 20230724161428.png",
     "USMLE/Cardiology/Congestive heart failure.md",
     "USMLE/Blood/Lymphocyte.md",
     "USMLE/Cardiology/Torsades de pointes.md",
-    "appendix/Pasted image 20230723213037.png",
     "USMLE/Cardiology/Cardiology.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Blood.md",
-    "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

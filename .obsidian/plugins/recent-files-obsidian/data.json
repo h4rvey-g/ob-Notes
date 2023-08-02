@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Club cells",
+      "path": "USMLE/Respiratory/Club cells.md"
+    },
+    {
+      "basename": "Chronic obstructive pulmonary disease",
+      "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
+    },
+    {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
+      "basename": "USMLE-note",
+      "path": "template/USMLE-note.md"
+    },
+    {
       "basename": "How to Download Embedded Vimeo Videos",
       "path": "Bioinformatics/How to Download Embedded Vimeo Videos.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Atrioventricular block",
       "path": "USMLE/Cardiology/Atrioventricular block.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     },
     {
       "basename": "Acute pericarditis",
@@ -149,10 +161,6 @@
       "path": "USMLE/Infective disease/Mycobacteria.md"
     },
     {
-      "basename": "USMLE-note",
-      "path": "template/USMLE-note.md"
-    },
-    {
       "basename": "Common-note",
       "path": "template/Common-note.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Ultrasound/index.md"
     }
   ],
   "omittedPaths": [],

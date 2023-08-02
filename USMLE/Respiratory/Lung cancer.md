@@ -47,6 +47,7 @@ share: true
 		- Chromogranin A
 		- Synaptophysin
 		- Neuron-specific enolase
+	- ![[Pasted image 20230802155248.png]]
 
 ---
 # Pathophysiology
