@@ -383,6 +383,7 @@ different
 dermatitis
 digit
 desired
+defined
 of
 over
 originate
@@ -544,6 +545,8 @@ ojjBq
 osteoporosis
 oxidative
 oxygen
+overlap
+obstructive
 regular
 reentrant
 retrograde
@@ -902,6 +905,7 @@ neuropathies
 numbness
 number
 noxious
+numbers
 tachycardia
 tract
 the
@@ -1123,6 +1127,7 @@ tab
 try
 thickness
 tree
+three
 in
 includes
 involving
@@ -1894,6 +1899,7 @@ Select
 Search
 Save
 Smooth
+Since
 AVNRT
 Atrial
 AVRT
@@ -2460,6 +2466,7 @@ airway
 airways
 antitrypsin
 antiprotease
+applied
 ventricular
 varying
 vaccines
@@ -2869,6 +2876,8 @@ code
 cigarette
 ciliary
 cor
+clinically
+consecutive
 bypass
 block
 background
@@ -3057,6 +3066,7 @@ box
 browser
 bronchitis
 bloater
+bronchus
 flutter
 from
 focus
@@ -3927,6 +3937,8 @@ smoke
 species
 submucosal
 secreting
+submucosa
+smokers
 QRS
 QT
 QDQ
@@ -4212,6 +4224,7 @@ links
 load
 link
 location
+least
 Multifocal
 Mild
 Moderate
@@ -5226,6 +5239,7 @@ extension
 epithelium
 elastase
 elastic
+emphysema
 Early
 Elevation
 Etiology
@@ -6134,6 +6148,9 @@ proteases
 protease
 parenchyma
 puffer
+photomicrograph
+pathologic
+persistent
 Unusual
 Usually
 Upc

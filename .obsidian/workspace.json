@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Club cells.md",
-                "mode": "source",
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Club cells.md",
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Club cells.md",
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Club cells.md"
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
               }
             }
           }
@@ -213,8 +213,10 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+    "appendix/Pasted image 20230802171855.png",
+    "appendix/Pasted image 20230802170008.png",
     "USMLE/Respiratory/Club cells.md",
+    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "appendix/Pasted image 20230802155407.png",
     "USMLE/Respiratory/Lung cancer.md",
     "appendix/Pasted image 20230802155248.png",
@@ -244,11 +246,9 @@
     "appendix/Pasted image 20230727145202.png",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Questions.md",
-    "appendix/Pasted image 20230620211202.png",
     "USMLE/Cardiology/Congestive heart failure.md",
     "USMLE/Blood/Lymphocyte.md",
     "USMLE/Cardiology/Torsades de pointes.md",
-    "USMLE/Cardiology/Cardiology.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
