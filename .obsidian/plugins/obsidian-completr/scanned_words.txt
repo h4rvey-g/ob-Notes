@@ -3433,6 +3433,7 @@ ODYX
 OmmLo
 OCI
 Osl
+Obstructive
 atrio
 and
 atrial
@@ -3805,6 +3806,7 @@ acetylglucosamine
 availability
 although
 assuming
+aises
 ventricular
 varying
 vaccines
@@ -4703,6 +4705,7 @@ bdb
 bed
 beyond
 bloodstream
+bscures
 flutter
 from
 focus
@@ -7296,6 +7299,8 @@ Fallot
 FKS
 Fsg
 Flutter
+FEV
+FVC
 In
 It
 Intraventricular
@@ -8182,6 +8187,7 @@ exposes
 exposed
 either
 examine
+emains
 Early
 Elevation
 Etiology
@@ -10560,6 +10566,7 @@ RLs
 RsK
 Reversible
 Recognition
+Restrictive
 Voltage
 VFV
 VoNW

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Chronic obstructive pulmonary disease",
+      "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -13,16 +21,8 @@
       "path": "USMLE/Respiratory/Asthma.md"
     },
     {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
-    },
-    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
-    },
-    {
-      "basename": "Chronic obstructive pulmonary disease",
-      "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
     },
     {
       "basename": "Club cells",

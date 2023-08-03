@@ -20,6 +20,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 
 >[!tip] 
 >Compared with TB, which has caseating granulomas.
+>![[Pasted image 20230803213835.png]]
 
 - Calcium dysregulation: activated pulmonary alveolar macrophages → ↑ 1-alpha hydroxylase expression and activity → ↑ 1,25-dihydroxyvitamin D (calcitriol) → hypervitaminosis D → hyperphosphatemia, [[hypercalcemia]], and, possibly, renal failure
 
@@ -29,6 +30,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 - Lungs are the most commonly affected organ (90% of affected individuals).
 - Often asymptomatic in the early stages
 - Classic finding is hilar lymphadenopathy
+	- ![[Pasted image 20230803213638.png]]
 - Interstitial fibrosis
 	- Cough, exertional dyspnea, chest pain
 	- Mild rales on pulmonary auscultation
