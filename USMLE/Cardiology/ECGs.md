@@ -77,6 +77,8 @@ on the LEFT, the T wave repolarization looks like a continuation of the S wave. 
 # Bundle Branch Block
 mnemonic: William Marrow
 ![[Pasted image 20230622220505.png]]
+In left bundle branch block
+- The R wave in the lateral leads may be either “M-shaped”, notched, monophasic, or an RS complex![[Pasted image 20230803202721.png]]
 In right bundle branch block, the right precordial leads will show <mark style="background: #FFF3A34A;">ST-segment depression and T-wave inversion</mark>. Similarly, in left bundle branch block, ST-segment depression and T-wave inversion can be seen in the left lateral leads.
 # Mitral stenosis
 Characteristic findings include:

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Atrial flutter",
+      "path": "USMLE/Cardiology/Atrial flutter.md"
+    },
+    {
       "basename": "Asthma",
       "path": "USMLE/Respiratory/Asthma.md"
     },
@@ -53,10 +61,6 @@
       "path": "USMLE/Respiratory/Atopy.md"
     },
     {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
-    },
-    {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Acute pericarditis",
       "path": "USMLE/Cardiology/Acute pericarditis.md"
-    },
-    {
-      "basename": "Atrial flutter",
-      "path": "USMLE/Cardiology/Atrial flutter.md"
     },
     {
       "basename": "Pneumoconioses",
