@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Asthma",
+      "path": "USMLE/Respiratory/Asthma.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
       "basename": "Chronic obstructive pulmonary disease",
       "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
     },
     {
       "basename": "Club cells",
       "path": "USMLE/Respiratory/Club cells.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     },
     {
       "basename": "USMLE-note",
@@ -129,10 +137,6 @@
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
     },
     {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
-    },
-    {
       "basename": "Pneumonia",
       "path": "USMLE/Respiratory/Pneumonia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Class IB antiarrhythmics",
       "path": "USMLE/Cardiology/Class IB antiarrhythmics.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/index.md"
     }
   ],
   "omittedPaths": [],

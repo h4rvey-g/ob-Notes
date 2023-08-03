@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
-                "mode": "preview",
+                "file": "USMLE/Respiratory/Asthma.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+                "file": "USMLE/Respiratory/Asthma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+                "file": "USMLE/Respiratory/Asthma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
+                "file": "USMLE/Respiratory/Asthma.md"
               }
             }
           }
@@ -213,12 +213,18 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230803144309.png",
+    "appendix/Pasted image 20230803144240.png",
+    "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
+    "USMLE/Respiratory/Asthma.md",
+    "appendix/Pasted image 20230729153839.png",
+    "USMLE/Respiratory/Sarcoidosis.md",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "appendix/Pasted image 20230802171855.png",
     "appendix/Pasted image 20230802170008.png",
     "USMLE/Respiratory/Club cells.md",
-    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "appendix/Pasted image 20230802155407.png",
-    "USMLE/Respiratory/Lung cancer.md",
     "appendix/Pasted image 20230802155248.png",
     "appendix/Pasted image 20230802153912.png",
     "template/USMLE-note.md",
@@ -228,9 +234,7 @@
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "USMLE/GI/Celiac disease.md",
     "USMLE/Blood/Anemia.md",
-    "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
     "appendix/Pasted image 20230729155030.png",
-    "appendix/Pasted image 20230729153839.png",
     "USMLE/Respiratory/Atopy.md",
     "appendix/Pasted image 20230729152817.png",
     "USMLE/Cardiology/ECGs.md",
@@ -240,15 +244,11 @@
     "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/Respiratory/Pneumoconioses.md",
     "appendix/Pasted image 20230727171328.png",
-    "appendix/Pasted image 20230727171235.png",
     "USMLE/Respiratory/Mesothelioma.md",
     "USMLE/Blood/Pleural effusion.md",
-    "appendix/Pasted image 20230727145202.png",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Questions.md",
     "USMLE/Cardiology/Congestive heart failure.md",
-    "USMLE/Blood/Lymphocyte.md",
-    "USMLE/Cardiology/Torsades de pointes.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
