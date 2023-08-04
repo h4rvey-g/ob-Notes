@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Type I hypersensitivity reaction",
+      "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
+    },
+    {
       "basename": "IgA protease",
       "path": "USMLE/Infective disease/IgA protease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "cars",
       "path": "Bioinformatics/hmm/cars.md"
-    },
-    {
-      "basename": "Cardio",
-      "path": "Bioinformatics/hmm/Cardio.md"
     }
   ],
   "omittedPaths": [],
