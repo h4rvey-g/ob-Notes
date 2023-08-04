@@ -121,5 +121,29 @@
       ],
       "key": "F"
     }
+  ],
+  "templater-obsidian:template/Common-note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "templater-obsidian:template/callout-tip.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "templater-obsidian:template/callout-mnemonic.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
   ]
 }

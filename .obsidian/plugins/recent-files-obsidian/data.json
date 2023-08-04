@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Cystic fibrosis",
+      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
+    },
+    {
       "basename": "Bronchiectasis",
       "path": "USMLE/Respiratory/Bronchiectasis.md"
+    },
+    {
+      "basename": "callout-mnemonic",
+      "path": "template/callout-mnemonic.md"
+    },
+    {
+      "basename": "USMLE-note",
+      "path": "template/USMLE-note.md"
+    },
+    {
+      "basename": "callout-tip",
+      "path": "template/callout-tip.md"
+    },
+    {
+      "basename": "Common-note",
+      "path": "template/Common-note.md"
     },
     {
       "basename": "Chronic obstructive pulmonary disease",
@@ -31,10 +51,6 @@
     {
       "basename": "Club cells",
       "path": "USMLE/Respiratory/Club cells.md"
-    },
-    {
-      "basename": "USMLE-note",
-      "path": "template/USMLE-note.md"
     },
     {
       "basename": "How to Download Embedded Vimeo Videos",
@@ -169,10 +185,6 @@
       "path": "USMLE/Infective disease/Mycobacteria.md"
     },
     {
-      "basename": "Common-note",
-      "path": "template/Common-note.md"
-    },
-    {
       "basename": "cars",
       "path": "Bioinformatics/hmm/cars.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/Respiratory/index.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "tables/Untitled.loom"
-    },
-    {
-      "basename": "ectopic atrial rhythm",
-      "path": "USMLE/Cardiology/ectopic atrial rhythm.md"
-    },
-    {
-      "basename": "Long QT syndromes",
-      "path": "USMLE/Cardiology/Long QT syndromes.md"
     }
   ],
   "omittedPaths": [],

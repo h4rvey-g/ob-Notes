@@ -264,6 +264,8 @@ Transfusion
 These
 Tips
 Turn
+Tumors
+Thickened
 differentials
 differential
 diagnosis
@@ -623,6 +625,11 @@ defective
 development
 down
 discerned
+defenses
+dilation
+dyskinesia
+dilated
+diagnostic
 of
 over
 originate
@@ -1205,6 +1212,10 @@ receptors
 residues
 recognized
 relationship
+requires
+rhonchi
+resolution
+ring
 narrow
 negative
 not
@@ -1462,6 +1473,7 @@ nwjwk
 nrP
 neutrophils
 notched
+narrowing
 tachycardia
 tract
 the
@@ -1823,6 +1835,11 @@ transfusion
 transfused
 their
 techniques
+taking
+tomography
+tubular
+tram
+track
 in
 includes
 involving
@@ -2174,6 +2191,11 @@ irritant
 immunodeficiency
 intervals
 identical
+important
+inadequate
+imaging
+identify
+identified
 general
 giving
 generation
@@ -2398,6 +2420,7 @@ gAP
 gCy
 gbG
 genetic
+grade
 major
 mechanisms
 mark
@@ -2736,6 +2759,9 @@ mechanism
 monophasic
 multiples
 mathematical
+mucous
+motility
+mucopurulent
 Sinus
 ST
 Segment
@@ -3000,6 +3026,8 @@ SZG
 Silver
 Samter
 Spotting
+Smoking
+Saccular
 AVNRT
 Atrial
 AVRT
@@ -3268,6 +3296,9 @@ Anomalous
 ARS
 Absolute
 Adenosine
+ABPA
+Aspiration
+Additional
 Orthodromic
 On
 Often
@@ -3807,6 +3838,10 @@ availability
 although
 assuming
 aises
+aspergillosis
+aeruginosa
+amounts
+arterial
 ventricular
 varying
 vaccines
@@ -4407,6 +4442,11 @@ clustering
 closely
 cardiovert
 completely
+copious
+confirmed
+computed
+confirmatory
+cystic
 bypass
 block
 background
@@ -4706,6 +4746,10 @@ bed
 beyond
 bloodstream
 bscures
+bronchi
+bronchiectasis
+bronchopulmonary
+bouts
 flutter
 from
 focus
@@ -5436,6 +5480,7 @@ WJz
 WZH
 WKa
 WwK
+Wheezing
 you
 young
 ybif
@@ -6034,6 +6079,13 @@ shape
 shaped
 sporadically
 strip
+secretions
+sections
+suspected
+studies
+scan
+signet
+stage
 QRS
 QT
 QDQ
@@ -6505,6 +6557,9 @@ leukocyte
 leukotrienes
 leading
 limits
+local
+lasting
+late
 Multifocal
 Mild
 Moderate
@@ -7061,6 +7116,7 @@ DIaD
 DiGeorge
 Diagnosis
 Detection
+Disorders
 FFF
 Fib
 Fi
@@ -7301,6 +7357,8 @@ Fsg
 Flutter
 FEV
 FVC
+Frequently
+Features
 In
 It
 Intraventricular
@@ -7644,6 +7702,8 @@ IXv
 Irritant
 Inhibition
 IVIG
+Immunodeficiency
+Imaging
 PACs
 Primary
 Pathophysiology
@@ -7901,6 +7961,8 @@ PCP
 PPS
 Possible
 Platelets
+PCD
+Pseudomonas
 ectopic
 elevation
 early
@@ -8434,6 +8496,7 @@ EeE
 Efc
 Endobronchial
 Emg
+Exacerbations
 LEFT
 Lengthening
 Left
@@ -8926,6 +8989,8 @@ HrK
 Hypertrophy
 Hypoparathyroidism
 Handy
+Hemoptysis
+HRCT
 hyperkalemia
 hypertrophy
 hereditary
@@ -9226,6 +9291,8 @@ hIde
 hyperresponsiveness
 hypersensitivity
 histamine
+hypogammaglobulinemia
+honeycombing
 peaked
 pattern
 precordial
@@ -9582,6 +9649,12 @@ parathyroids
 purposes
 phagocytosis
 patterns
+place
+permanent
+plugging
+preferably
+provide
+parallel
 Unusual
 Usually
 Upc
@@ -10046,6 +10119,7 @@ Bdi
 BwRg
 BrI
 BnL
+Bronchiectasis
 Characteristic
 CLL
 Clinical
@@ -10302,6 +10376,8 @@ COX
 Conotruncal
 Cleft
 CXR
+Cystic
+Cylindrical
 Right
 Retrograde
 Rates
@@ -10567,6 +10643,7 @@ RsK
 Reversible
 Recognition
 Restrictive
+Recurrent
 Voltage
 VFV
 VoNW
@@ -10784,6 +10861,7 @@ VxY
 VLB
 VTg
 Vagal
+Varicose
 up
 unusual
 usually
@@ -11017,6 +11095,7 @@ undefined
 upside
 unlike
 unmasked
+useful
 quinine
 qz
 qM
@@ -12645,6 +12724,7 @@ KJX
 KCkL
 KVF
 Kph
+Kartagener
 zh
 zx
 zo

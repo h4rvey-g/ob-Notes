@@ -37,7 +37,7 @@ These processes result in the permanent dilation of airways.
 - Dyspnea
 - Hemoptysis
 - Exacerbations of bronchiectasis
-    - Recurrent bouts of pneumonia and acute bacterial infection of sections of dilated bronchi
+    - Recurrent bouts of [[pneumonia]] and acute bacterial infection of sections of dilated bronchi
     - Frequently due to Pseudomonas aeruginosa
     - Features
         - Increased production of mucous above baseline
@@ -46,14 +46,24 @@ These processes result in the permanent dilation of airways.
 > [!NOTE] Note
 > Bronchiectasis should be suspected in patients with a chronic cough that produces large amounts of sputum.
 
-
-
 ---
 # Diagnostics
-
+>[!tip] 
+>In patients with suspected bronchiectasis, diagnosis is confirmed using imaging studies, preferably a HRCT scan. Additional diagnostic studies are useful to identify the underlying cause and possibly provide specific treatment.
+## Imaging
+High-resolution computed tomography (HRCT) chest: confirmatory test
+- Bronchial dilation
+	- **Cylindrical or tubular (most common) : parallel tram track sign and signet ring sign**  ![[Pasted image 20230804144028.png]]
+	- Varicose 
+	- Saccular or cystic (most severe form) 
+	- Bronchial dilation can be identified with a bronchial/arterial ratio > 1
+- Thickened bronchial walls, mucus plugging, honeycombing (suggests late-stage bronchiectasis)
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## General measures
+- Smoking cessation
+- Bronchopulmonary hygiene and chest physiotherapy: e.g., cupping and clapping, postural drainage, directed cough, hydration
+- Administer vaccinations (i.e., seasonal influenza vaccine, pneumococcal vaccine).
 
 ---

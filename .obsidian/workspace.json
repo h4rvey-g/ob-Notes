@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md",
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md",
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md",
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md"
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md"
               }
             }
           }
@@ -211,10 +211,17 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c813a401241b3114",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Respiratory/Bronchiectasis.md",
+    "USMLE/Biochemistry/Cystic fibrosis.md",
+    "USMLE/Biochemistry",
+    "appendix/Pasted image 20230804144028.png",
+    "template/callout-mnemonic.md",
+    "template/USMLE-note.md",
+    "template/Common-note.md",
+    "template/callout-tip.md",
+    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230803213835.png",
     "appendix/Pasted image 20230803213638.png",
@@ -236,8 +243,6 @@
     "appendix/Pasted image 20230802170008.png",
     "USMLE/Respiratory/Club cells.md",
     "appendix/Pasted image 20230802155407.png",
-    "appendix/Pasted image 20230802155248.png",
-    "template/USMLE-note.md",
     "Bioinformatics/How to Download Embedded Vimeo Videos.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
@@ -245,10 +250,6 @@
     "USMLE/Respiratory/Atopy.md",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Cardiology/Atrioventricular block.md",
-    "USMLE/Respiratory/Pneumoconioses.md",
-    "USMLE/Respiratory/Mesothelioma.md",
-    "USMLE/Blood/Pleural effusion.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
@@ -258,7 +259,6 @@
     "USMLE/sedZOsCKQ",
     "USMLE/temp_file",
     "USMLE/temp",
-    "USMLE/metadata.txt",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
