@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA protease",
+      "path": "USMLE/Infective disease/IgA protease.md"
+    },
+    {
+      "basename": "Corynebacterium diphtheriae",
+      "path": "USMLE/Infective disease/Corynebacterium diphtheriae.md"
+    },
+    {
       "basename": "Pneumonia",
       "path": "USMLE/Respiratory/Pneumonia.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Cardio",
       "path": "Bioinformatics/hmm/Cardio.md"
-    },
-    {
-      "basename": "Ultrasound",
-      "path": "USMLE/Ultrasound/Ultrasound.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Respiratory/index.md"
     }
   ],
   "omittedPaths": [],

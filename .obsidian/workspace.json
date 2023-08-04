@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md",
+                "file": "USMLE/Infective disease/IgA protease.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md",
+                "file": "USMLE/Infective disease/IgA protease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md",
+                "file": "USMLE/Infective disease/IgA protease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md"
+                "file": "USMLE/Infective disease/IgA protease.md"
               }
             }
           }
@@ -213,6 +213,9 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "USMLE/Infective disease/Corynebacterium diphtheriae.md",
+    "USMLE/Infective disease/IgA protease.md",
+    "USMLE/Respiratory/Pneumonia.md",
     "appendix/Pasted image 20230804160535.png",
     "appendix/Pasted image 20230804160433.png",
     "USMLE/Biochemistry/Cystic fibrosis.md",
@@ -242,14 +245,11 @@
     "appendix/Pasted image 20230729153839.png",
     "USMLE/Respiratory/Lung cancer.md",
     "appendix/Pasted image 20230802171855.png",
-    "appendix/Pasted image 20230802170008.png",
     "USMLE/Respiratory/Club cells.md",
     "Bioinformatics/How to Download Embedded Vimeo Videos.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "USMLE/Blood/Anemia.md",
-    "USMLE/Respiratory/Atopy.md",
-    "USMLE/Cardiology/Supraventricular tachycardia.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
