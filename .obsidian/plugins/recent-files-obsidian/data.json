@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bronchiectasis",
+      "path": "USMLE/Respiratory/Bronchiectasis.md"
+    },
+    {
       "basename": "Chronic obstructive pulmonary disease",
       "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Long QT syndromes",
       "path": "USMLE/Cardiology/Long QT syndromes.md"
-    },
-    {
-      "basename": "Class IB antiarrhythmics",
-      "path": "USMLE/Cardiology/Class IB antiarrhythmics.md"
     }
   ],
   "omittedPaths": [],

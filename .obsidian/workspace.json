@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
-                "mode": "preview",
+                "file": "USMLE/Respiratory/Bronchiectasis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+                "file": "USMLE/Respiratory/Bronchiectasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+                "file": "USMLE/Respiratory/Bronchiectasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
+                "file": "USMLE/Respiratory/Bronchiectasis.md"
               }
             }
           }
@@ -213,6 +213,8 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+    "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230803213835.png",
     "appendix/Pasted image 20230803213638.png",
@@ -230,7 +232,6 @@
     "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
     "appendix/Pasted image 20230729153839.png",
     "USMLE/Respiratory/Lung cancer.md",
-    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "appendix/Pasted image 20230802171855.png",
     "appendix/Pasted image 20230802170008.png",
     "USMLE/Respiratory/Club cells.md",
