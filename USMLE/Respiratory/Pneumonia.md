@@ -19,7 +19,7 @@ Typical pneumonia is characterized by a sudden onset of symptoms caused by lobar
 	- Dullness on percussion 
 - Tachypnea and dyspnea (nasal flaring, thoracic retractions) 
 
-<mark style="background: #BBFABBA6;">Suspect bacterial pneumonia in immunocompromised patients with acute high fever and pleural effusion.</mark>
+<mark style="background: #BBFABBA6;">Suspect bacterial pneumonia in immunocompromised patients with acute high fever and [[pleural effusion]].</mark>
 ## Atypical pneumonia
 Atypical pneumonia typically has an indolent course (slow onset) and commonly manifests with <mark style="background: #FFF3A34A;">extrapulmonary symptoms</mark>.
 - <mark style="background: #FFF3A34A;">Nonproductive, dry cough</mark>
@@ -42,3 +42,22 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 - Subclinical hemolytic [[anemia]]: associated with elevated cold agglutinin titers (IgM)
 - Interstitial pneumonia, often with a reticulonodular pattern on chest x-ray
 - Chest x-ray can show extensive pulmonary involvement in patients with mild pneumonia.
+# Aspiration pneumonia
+## Definitions
+- Aspiration pneumonia: a type of pneumonia that occurs as a result of oropharyngeal secretions and/or gastric contents aspiration
+- Aspiration pneumonitis
+	- Aspiration of gastric acid that initially causes tracheobronchitis, with rapid progression to chemical pneumonitis
+	- May cause ARDS in extreme cases
+## Clinical features
+- Aspiration pneumonitis
+	- Immediate symptoms: bronchospasms , dyspnea, wheezing and/or crackles, hypoxemia
+	- Late symptoms: fever, shortness of breath, cough
+- Aspiration pneumonia
+	- Immediate symptoms: often none 
+	- Late symptoms: fever, shortness of breath, cough with foul-smelling sputum
+## Diagnostics
+Imaging: The lung region in which the infiltrates are seen depends on the patient's position on aspiration.
+- Supine position: superior segment of the right lower lobe (most common site of aspiration)
+- Standing/sitting: posterior basal segment of the right lower lobe
+- Right lateral decubitus position: posterior segment of the right upper lobe or right middle lobe
+![[Pasted image 20230804160535.png]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pneumonia",
+      "path": "USMLE/Respiratory/Pneumonia.md"
+    },
+    {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "Arteriolosclerosis",
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
-    },
-    {
-      "basename": "Pneumonia",
-      "path": "USMLE/Respiratory/Pneumonia.md"
     },
     {
       "basename": "Pulmonary embolism",

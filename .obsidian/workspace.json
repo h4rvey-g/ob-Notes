@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md"
+                "file": "USMLE/Respiratory/Pneumonia.md"
               }
             }
           }
@@ -211,10 +211,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "c813a401241b3114",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Bronchiectasis.md",
+    "appendix/Pasted image 20230804160535.png",
+    "appendix/Pasted image 20230804160433.png",
     "USMLE/Biochemistry/Cystic fibrosis.md",
+    "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Biochemistry",
     "appendix/Pasted image 20230804144028.png",
     "template/callout-mnemonic.md",
@@ -242,14 +244,12 @@
     "appendix/Pasted image 20230802171855.png",
     "appendix/Pasted image 20230802170008.png",
     "USMLE/Respiratory/Club cells.md",
-    "appendix/Pasted image 20230802155407.png",
     "Bioinformatics/How to Download Embedded Vimeo Videos.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "USMLE/Blood/Anemia.md",
     "USMLE/Respiratory/Atopy.md",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
-    "USMLE/Cardiology/Atrioventricular block.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
