@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+                "file": "USMLE/Respiratory/Pneumonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
+                "file": "USMLE/Respiratory/Pneumonia.md"
               }
             }
           }
@@ -213,9 +213,12 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Löffler endocarditis.md",
-    "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+    "USMLE/Infective disease/Eaton agar.md",
+    "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Respiratory/Miscellaneous.md",
+    "appendix/Pasted image 20230806165400.png",
+    "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+    "USMLE/Cardiology/Löffler endocarditis.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230805182633.png",
     "USMLE/Immunology/Chronic granulomatous disease.md",
@@ -233,7 +236,6 @@
     "USMLE/Infective disease/Corynebacterium diphtheriae.md",
     "USMLE/Infective disease/IgA protease.md",
     "USMLE/Immunology",
-    "USMLE/Respiratory/Pneumonia.md",
     "appendix/Pasted image 20230804160535.png",
     "appendix/Pasted image 20230804160433.png",
     "USMLE/Biochemistry/Cystic fibrosis.md",
@@ -244,13 +246,11 @@
     "template/USMLE-note.md",
     "template/callout-tip.md",
     "appendix/Pasted image 20230803213835.png",
-    "appendix/Pasted image 20230803213638.png",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Atrial flutter.md",
     "USMLE/GI/Celiac disease.md",
     "USMLE/Blood/Transfusion.md",
     "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
-    "USMLE/Cardiology/Acute pericarditis.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

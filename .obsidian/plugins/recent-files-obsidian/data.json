@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pneumonia",
+      "path": "USMLE/Respiratory/Pneumonia.md"
+    },
+    {
+      "basename": "Eaton agar",
+      "path": "USMLE/Infective disease/Eaton agar.md"
+    },
+    {
       "basename": "Restrictive cardiomyopathy",
       "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Corynebacterium diphtheriae",
       "path": "USMLE/Infective disease/Corynebacterium diphtheriae.md"
-    },
-    {
-      "basename": "Pneumonia",
-      "path": "USMLE/Respiratory/Pneumonia.md"
     },
     {
       "basename": "Cystic fibrosis",
@@ -195,10 +199,6 @@
     {
       "basename": "Arteriolosclerosis",
       "path": "USMLE/Cardiology/Arteriolosclerosis.md"
-    },
-    {
-      "basename": "Pulmonary embolism",
-      "path": "USMLE/Respiratory/Pulmonary embolism.md"
     }
   ],
   "omittedPaths": [],

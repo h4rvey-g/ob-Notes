@@ -30,6 +30,10 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 <mark style="background: #BBFABBA6;">This classification does not have a major impact on patient management because it is not always possible to clearly distinguish between typical and atypical pneumonia.</mark>
 # Pathogen-specific pneumonia
 ## Mycoplasma pneumonia
+### Microbiology
+- Incomplete/absent cell wall (not visible on gram stain) 
+- Bacterial membrane stabilized by cholesterol (obtained from host cell)
+- <mark style="background: #FFF3A34A;">Grows on [[Eaton agar]] → “fried egg” appearance</mark>![[Pasted image 20230806165400.png]]
 ### Epidemiology
 - One of the most common causes of atypical pneumonia
 - More common in school-aged children and adolescents

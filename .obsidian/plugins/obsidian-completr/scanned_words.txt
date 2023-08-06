@@ -632,6 +632,7 @@ dyskinesia
 dilated
 diagnostic
 diastolic
+decubitus
 of
 over
 originate
@@ -879,6 +880,9 @@ oPvü
 oJKN
 obstruction
 ooS
+occurs
+oropharyngeal
+obtained
 regular
 reentrant
 retrograde
@@ -1220,6 +1224,7 @@ resolution
 ring
 reactions
 restrictive
+region
 narrow
 negative
 not
@@ -1846,6 +1851,7 @@ tram
 track
 tellurite
 trachea
+tracheobronchitis
 in
 includes
 involving
@@ -2430,6 +2436,7 @@ genetic
 grade
 glycogen
 greatest
+gastric
 major
 mechanisms
 mark
@@ -2772,6 +2779,7 @@ mucous
 motility
 mucopurulent
 material
+middle
 Sinus
 ST
 Segment
@@ -3038,6 +3046,8 @@ Samter
 Spotting
 Smoking
 Saccular
+Supine
+Standing
 AVNRT
 Atrial
 AVRT
@@ -3311,6 +3321,7 @@ Aspiration
 Additional
 Amyloidosis
 Airway
+ARDS
 Orthodromic
 On
 Often
@@ -3854,6 +3865,8 @@ aspergillosis
 aeruginosa
 amounts
 arterial
+aspiration
+acid
 ventricular
 varying
 vaccines
@@ -4467,6 +4480,10 @@ connective
 compliance
 contributors
 cross
+contents
+chemical
+containing
+culture
 bypass
 block
 background
@@ -4771,6 +4788,8 @@ bronchiectasis
 bronchopulmonary
 bouts
 bronchioles
+bronchospasms
+basal
 flutter
 from
 focus
@@ -5078,6 +5097,7 @@ ffaf
 functionality
 fibroelastosis
 fibrotic
+foul
 with
 wave
 which
@@ -5302,6 +5322,7 @@ wrI
 wTaW
 wing
 would
+wheezing
 Whenever
 Widening
 William
@@ -6112,6 +6133,9 @@ stage
 size
 segmental
 sectional
+smelling
+superior
+sitting
 QRS
 QT
 QDQ
@@ -6588,6 +6612,7 @@ lasting
 late
 lowest
 larger
+lobe
 Multifocal
 Mild
 Moderate
@@ -6869,6 +6894,7 @@ MId
 Mucosal
 Micrognathia
 Maneuvers
+Microbiology
 Differentiate
 Drugs
 DDx
@@ -7145,6 +7171,7 @@ DiGeorge
 Diagnosis
 Detection
 Disorders
+Definitions
 FFF
 Fib
 Fi
@@ -7733,6 +7760,7 @@ IVIG
 Immunodeficiency
 Imaging
 Intermediate
+Immediate
 PACs
 Primary
 Pathophysiology
@@ -8288,6 +8316,7 @@ eosinophils
 elasticity
 eosinophilic
 eosinophil
+extreme
 Early
 Elevation
 Etiology
@@ -8765,6 +8794,7 @@ LKv
 LZZY
 Look
 Löffler
+Late
 Hyperkalemia
 HIV
 HCV
@@ -9340,6 +9370,7 @@ hypogammaglobulinemia
 honeycombing
 highest
 hypereosinophilic
+hypoxemia
 peaked
 pattern
 precordial
@@ -9702,6 +9733,8 @@ plugging
 preferably
 provide
 parallel
+pneumonitis
+position
 Unusual
 Usually
 Upc
@@ -9923,6 +9956,7 @@ UQl
 UDHN
 UpR
 UgH
+Used
 Bundle
 Branch
 Block
@@ -11573,6 +11607,7 @@ GgO
 Giwkg
 Gss
 GPIb
+Grows
 Jervell
 JYo
 JO
