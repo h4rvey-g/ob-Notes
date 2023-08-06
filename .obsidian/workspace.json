@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md",
+                "file": "USMLE/Blood/Pleural effusion.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md",
+                "file": "USMLE/Blood/Pleural effusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md",
+                "file": "USMLE/Blood/Pleural effusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Pneumonia.md"
+                "file": "USMLE/Blood/Pleural effusion.md"
               }
             }
           }
@@ -213,8 +213,14 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
-    "USMLE/Infective disease/Eaton agar.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Blood/Pleural effusion.md",
+    "USMLE/Respiratory/Bronchiectasis.md",
+    "USMLE/Cardiology/Atrioventricular block.md",
+    "USMLE/Cardiology/ECGs.md",
     "USMLE/Respiratory/Pneumonia.md",
+    "template/Common-note.md",
+    "USMLE/Infective disease/Eaton agar.md",
     "USMLE/Respiratory/Miscellaneous.md",
     "appendix/Pasted image 20230806165400.png",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
@@ -232,25 +238,19 @@
     "appendix/Pasted image 20230805163027.png",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
-    "template/Common-note.md",
     "USMLE/Infective disease/Corynebacterium diphtheriae.md",
     "USMLE/Infective disease/IgA protease.md",
     "USMLE/Immunology",
     "appendix/Pasted image 20230804160535.png",
     "appendix/Pasted image 20230804160433.png",
     "USMLE/Biochemistry/Cystic fibrosis.md",
-    "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Biochemistry",
     "appendix/Pasted image 20230804144028.png",
     "template/callout-mnemonic.md",
     "template/USMLE-note.md",
     "template/callout-tip.md",
     "appendix/Pasted image 20230803213835.png",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Atrial flutter.md",
-    "USMLE/GI/Celiac disease.md",
-    "USMLE/Blood/Transfusion.md",
-    "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

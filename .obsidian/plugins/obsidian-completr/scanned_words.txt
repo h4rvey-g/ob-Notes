@@ -633,6 +633,7 @@ dilated
 diagnostic
 diastolic
 decubitus
+drainage
 of
 over
 originate
@@ -2209,6 +2210,7 @@ imaging
 identify
 identified
 infiltrative
+influenza
 general
 giving
 generation
@@ -4110,6 +4112,8 @@ vCo
 virostatics
 viability
 vitro
+vaccinations
+vaccine
 conduction
 concealed
 complex
@@ -4484,6 +4488,9 @@ contents
 chemical
 containing
 culture
+cessation
+cupping
+clapping
 bypass
 block
 background
@@ -6136,6 +6143,7 @@ sectional
 smelling
 superior
 sitting
+seasonal
 QRS
 QT
 QDQ
@@ -8795,6 +8803,7 @@ LZZY
 Look
 Löffler
 Late
+LDH
 Hyperkalemia
 HIV
 HCV
@@ -9371,6 +9380,8 @@ honeycombing
 highest
 hypereosinophilic
 hypoxemia
+hygiene
+hydration
 peaked
 pattern
 precordial
@@ -9735,6 +9746,9 @@ provide
 parallel
 pneumonitis
 position
+physiotherapy
+postural
+pneumococcal
 Unusual
 Usually
 Upc
@@ -11608,6 +11622,7 @@ Giwkg
 Gss
 GPIb
 Grows
+General
 Jervell
 JYo
 JO
