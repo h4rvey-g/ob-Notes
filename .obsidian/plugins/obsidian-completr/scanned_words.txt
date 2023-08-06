@@ -631,6 +631,7 @@ dilation
 dyskinesia
 dilated
 diagnostic
+diastolic
 of
 over
 originate
@@ -1218,6 +1219,7 @@ rhonchi
 resolution
 ring
 reactions
+restrictive
 narrow
 negative
 not
@@ -1843,6 +1845,7 @@ tubular
 tram
 track
 tellurite
+trachea
 in
 includes
 involving
@@ -2199,6 +2202,7 @@ inadequate
 imaging
 identify
 identified
+infiltrative
 general
 giving
 generation
@@ -2424,6 +2428,8 @@ gCy
 gbG
 genetic
 grade
+glycogen
+greatest
 major
 mechanisms
 mark
@@ -2765,6 +2771,7 @@ mathematical
 mucous
 motility
 mucopurulent
+material
 Sinus
 ST
 Segment
@@ -3302,6 +3309,8 @@ Adenosine
 ABPA
 Aspiration
 Additional
+Amyloidosis
+Airway
 Orthodromic
 On
 Often
@@ -4453,6 +4462,11 @@ confirmatory
 cystic
 colonies
 cystine
+cardiomyopathy
+connective
+compliance
+contributors
+cross
 bypass
 block
 background
@@ -4756,6 +4770,7 @@ bronchi
 bronchiectasis
 bronchopulmonary
 bouts
+bronchioles
 flutter
 from
 focus
@@ -5061,6 +5076,8 @@ fba
 fungal
 ffaf
 functionality
+fibroelastosis
+fibrotic
 with
 wave
 which
@@ -6092,6 +6109,9 @@ studies
 scan
 signet
 stage
+size
+segmental
+sectional
 QRS
 QT
 QDQ
@@ -6566,6 +6586,8 @@ limits
 local
 lasting
 late
+lowest
+larger
 Multifocal
 Mild
 Moderate
@@ -7710,6 +7732,7 @@ Inhibition
 IVIG
 Immunodeficiency
 Imaging
+Intermediate
 PACs
 Primary
 Pathophysiology
@@ -7969,6 +7992,10 @@ Possible
 Platelets
 PCD
 Pseudomonas
+PLEASe
+Postradiation
+Postsurgery
+Part
 ectopic
 elevation
 early
@@ -8256,6 +8283,11 @@ exposed
 either
 examine
 emains
+endocarditis
+eosinophils
+elasticity
+eosinophilic
+eosinophil
 Early
 Elevation
 Etiology
@@ -8504,6 +8536,8 @@ Endobronchial
 Emg
 Exacerbations
 Elevated
+Endocardial
+Endocarditis
 LEFT
 Lengthening
 Left
@@ -8730,6 +8764,7 @@ LPo
 LKv
 LZZY
 Look
+Löffler
 Hyperkalemia
 HIV
 HCV
@@ -8999,6 +9034,8 @@ Handy
 Hemoptysis
 HRCT
 Hypersensitivity
+Help
+Hemochromatosis
 hyperkalemia
 hypertrophy
 hereditary
@@ -9301,6 +9338,8 @@ hypersensitivity
 histamine
 hypogammaglobulinemia
 honeycombing
+highest
+hypereosinophilic
 peaked
 pattern
 precordial

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Miscellaneous.md",
+                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Miscellaneous.md",
+                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Miscellaneous.md",
+                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Miscellaneous.md"
+                "file": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
               }
             }
           }
@@ -213,9 +213,12 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Löffler endocarditis.md",
+    "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+    "USMLE/Respiratory/Miscellaneous.md",
+    "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230805182633.png",
     "USMLE/Immunology/Chronic granulomatous disease.md",
-    "USMLE/Respiratory/Miscellaneous.md",
     "USMLE/Respiratory/Aspergillosis.md",
     "appendix/Pasted image 20230805174338.png",
     "appendix/Pasted image 20230805173531.png",
@@ -240,7 +243,6 @@
     "template/callout-mnemonic.md",
     "template/USMLE-note.md",
     "template/callout-tip.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230803213835.png",
     "appendix/Pasted image 20230803213638.png",
     "USMLE/Cardiology/ECGs.md",
@@ -248,9 +250,7 @@
     "USMLE/GI/Celiac disease.md",
     "USMLE/Blood/Transfusion.md",
     "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
-    "appendix/Pasted image 20230803202721.png",
     "USMLE/Cardiology/Acute pericarditis.md",
-    "USMLE/Infective disease/Histoplasmosis.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

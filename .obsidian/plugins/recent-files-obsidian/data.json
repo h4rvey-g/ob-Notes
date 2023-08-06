@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Restrictive cardiomyopathy",
+      "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
+    },
+    {
+      "basename": "Löffler endocarditis",
+      "path": "USMLE/Cardiology/Löffler endocarditis.md"
+    },
+    {
       "basename": "Miscellaneous",
       "path": "USMLE/Respiratory/Miscellaneous.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pulmonary embolism",
       "path": "USMLE/Respiratory/Pulmonary embolism.md"
-    },
-    {
-      "basename": "Neonatal respiratory distress syndrome",
-      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
-    },
-    {
-      "basename": "Absorption",
-      "path": "USMLE/GI/Absorption.md"
     }
   ],
   "omittedPaths": [],
