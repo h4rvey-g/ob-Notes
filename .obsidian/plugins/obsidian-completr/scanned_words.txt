@@ -266,6 +266,7 @@ Tips
 Turn
 Tumors
 Thickened
+Tryptase
 differentials
 differential
 diagnosis
@@ -1216,6 +1217,7 @@ requires
 rhonchi
 resolution
 ring
+reactions
 narrow
 negative
 not
@@ -1840,6 +1842,7 @@ tomography
 tubular
 tram
 track
+tellurite
 in
 includes
 involving
@@ -4084,6 +4087,7 @@ vwz
 vCo
 virostatics
 viability
+vitro
 conduction
 concealed
 complex
@@ -4447,6 +4451,8 @@ confirmed
 computed
 confirmatory
 cystic
+colonies
+cystine
 bypass
 block
 background
@@ -8497,6 +8503,7 @@ Efc
 Endobronchial
 Emg
 Exacerbations
+Elevated
 LEFT
 Lengthening
 Left
@@ -8991,6 +8998,7 @@ Hypoparathyroidism
 Handy
 Hemoptysis
 HRCT
+Hypersensitivity
 hyperkalemia
 hypertrophy
 hereditary
@@ -10120,6 +10128,7 @@ BwRg
 BrI
 BnL
 Bronchiectasis
+Black
 Characteristic
 CLL
 Clinical

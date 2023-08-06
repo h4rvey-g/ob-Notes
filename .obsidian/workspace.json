@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md",
-                "mode": "source",
+                "file": "USMLE/Respiratory/Miscellaneous.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md",
+                "file": "USMLE/Respiratory/Miscellaneous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md",
+                "file": "USMLE/Respiratory/Miscellaneous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md"
+                "file": "USMLE/Respiratory/Miscellaneous.md"
               }
             }
           }
@@ -213,10 +213,23 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
-    "USMLE/Infective disease/IgA protease.md",
+    "appendix/Pasted image 20230805182633.png",
+    "USMLE/Immunology/Chronic granulomatous disease.md",
+    "USMLE/Respiratory/Miscellaneous.md",
+    "USMLE/Respiratory/Aspergillosis.md",
+    "appendix/Pasted image 20230805174338.png",
+    "appendix/Pasted image 20230805173531.png",
+    "USMLE/单抗记忆.md",
+    "USMLE/Respiratory/Asthma.md",
+    "USMLE/Respiratory/Pneumoconioses.md",
+    "appendix/Pasted image 20230805164438.png",
+    "appendix/Pasted image 20230805163027.png",
+    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
-    "USMLE/Immunology",
+    "template/Common-note.md",
     "USMLE/Infective disease/Corynebacterium diphtheriae.md",
+    "USMLE/Infective disease/IgA protease.md",
+    "USMLE/Immunology",
     "USMLE/Respiratory/Pneumonia.md",
     "appendix/Pasted image 20230804160535.png",
     "appendix/Pasted image 20230804160433.png",
@@ -226,9 +239,7 @@
     "appendix/Pasted image 20230804144028.png",
     "template/callout-mnemonic.md",
     "template/USMLE-note.md",
-    "template/Common-note.md",
     "template/callout-tip.md",
-    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230803213835.png",
     "appendix/Pasted image 20230803213638.png",
@@ -238,19 +249,8 @@
     "USMLE/Blood/Transfusion.md",
     "SimpRead/Congenital immunodeficiency disorders - AMBOSS.md",
     "appendix/Pasted image 20230803202721.png",
-    "USMLE/Respiratory/Asthma.md",
     "USMLE/Cardiology/Acute pericarditis.md",
     "USMLE/Infective disease/Histoplasmosis.md",
-    "appendix/Pasted image 20230803144309.png",
-    "appendix/Pasted image 20230803144240.png",
-    "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md",
-    "appendix/Pasted image 20230729153839.png",
-    "USMLE/Respiratory/Lung cancer.md",
-    "appendix/Pasted image 20230802171855.png",
-    "USMLE/Respiratory/Club cells.md",
-    "Bioinformatics/How to Download Embedded Vimeo Videos.md",
-    "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
-    "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

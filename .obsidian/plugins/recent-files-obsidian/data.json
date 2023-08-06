@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Miscellaneous",
+      "path": "USMLE/Respiratory/Miscellaneous.md"
+    },
+    {
+      "basename": "Chronic granulomatous disease",
+      "path": "USMLE/Immunology/Chronic granulomatous disease.md"
+    },
+    {
+      "basename": "Aspergillosis",
+      "path": "USMLE/Respiratory/Aspergillosis.md"
+    },
+    {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+    },
+    {
+      "basename": "Asthma",
+      "path": "USMLE/Respiratory/Asthma.md"
+    },
+    {
+      "basename": "Pneumoconioses",
+      "path": "USMLE/Respiratory/Pneumoconioses.md"
+    },
+    {
+      "basename": "Chronic obstructive pulmonary disease",
+      "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
+    },
+    {
       "basename": "Type I hypersensitivity reaction",
       "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
     },
@@ -41,10 +69,6 @@
       "path": "template/Common-note.md"
     },
     {
-      "basename": "Chronic obstructive pulmonary disease",
-      "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
-    },
-    {
       "basename": "Sarcoidosis",
       "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
@@ -55,10 +79,6 @@
     {
       "basename": "Atrial flutter",
       "path": "USMLE/Cardiology/Atrial flutter.md"
-    },
-    {
-      "basename": "Asthma",
-      "path": "USMLE/Respiratory/Asthma.md"
     },
     {
       "basename": "Lung cancer",
@@ -107,10 +127,6 @@
     {
       "basename": "Acute pericarditis",
       "path": "USMLE/Cardiology/Acute pericarditis.md"
-    },
-    {
-      "basename": "Pneumoconioses",
-      "path": "USMLE/Respiratory/Pneumoconioses.md"
     },
     {
       "basename": "Mesothelioma",
@@ -183,22 +199,6 @@
     {
       "basename": "Absorption",
       "path": "USMLE/GI/Absorption.md"
-    },
-    {
-      "basename": "Pancreatic cancer",
-      "path": "USMLE/GI/Pancreatic cancer.md"
-    },
-    {
-      "basename": "Legionnaires' disease",
-      "path": "USMLE/Infective disease/Legionnaires' disease.md"
-    },
-    {
-      "basename": "Mycobacteria",
-      "path": "USMLE/Infective disease/Mycobacteria.md"
-    },
-    {
-      "basename": "cars",
-      "path": "Bioinformatics/hmm/cars.md"
     }
   ],
   "omittedPaths": [],

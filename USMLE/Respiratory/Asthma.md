@@ -43,14 +43,40 @@ Asthma is an inflammatory disease driven by [T-helper](https://next.amboss.com/
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## Leukotriene receptor antagonists (LTRAs)
+- Montelukast, Zafirlukast
+- Uses
+	- Exercise-induced
+	- Prevent leukotrienes from binding to their receptors (CysLT1)→ ↓ bronchoconstriction and inflammation
+	- Asthma aspirin-induced asthma
+	- Long-term maintenance treatment (particularly in children)
+## Long-acting muscarinic antagonists (LAMA)
+- Tiotropium bromide（噻托溴铵）
+- Long-term maintenance treatment
+## Leukotriene pathway modifiers
+- Zileuton
+- Inhibit 5-lipoxygenase → ↓ production of leukotrienes → ↓ bronchoconstriction and inflammation
+- Uses
+	- Exercise-induced asthma
+	- Aspirin-induced asthma
+## Biologics
+### Anti-IgE antibodies
+- Omalizumab [[单抗记忆]]
+- Binds to serum IgE → ↓ expression of high-affinity IgE receptors (FcεRI) on mast cells and basophils
+- Uses
+	- Select cases of severe asthma
+### IL-5 antibodies
+-  mepolizumab, reslizumab,benralizumab
+- Block the effects of IL-5 on eosinophils → ↓ chemotaxis and ↓ cell differentiation, maturation, and activation
+- Uses
+	- Refractory severe eosinophilic asthma
 
 ---
