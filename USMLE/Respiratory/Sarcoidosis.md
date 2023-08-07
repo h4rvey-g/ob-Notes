@@ -22,6 +22,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 >Compared with TB, which has caseating granulomas.
 >![[Pasted image 20230803213835.png]]
 
+- Asteroid bodies: star-shaped, eosinophilic inclusion bodies consisting of various lipids (e.g., from sarcoidosis, foreign body reactions)![[Pasted image 20230807213802.png]]
 - Calcium dysregulation: activated pulmonary alveolar macrophages → ↑ 1-alpha hydroxylase expression and activity → ↑ 1,25-dihydroxyvitamin D (calcitriol) → hypervitaminosis D → hyperphosphatemia, [[hypercalcemia]], and, possibly, renal failure
 
 ---

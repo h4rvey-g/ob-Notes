@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/flow-volume loop.md",
-                "mode": "source",
+                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/flow-volume loop.md",
+                "file": "USMLE/Respiratory/Sarcoidosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/flow-volume loop.md",
+                "file": "USMLE/Respiratory/Sarcoidosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/flow-volume loop.md"
+                "file": "USMLE/Respiratory/Sarcoidosis.md"
               }
             }
           }
@@ -211,11 +211,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230807213802.png",
+    "USMLE/Respiratory/flow-volume loop.md",
     "appendix/Pasted image 20230807173432.png",
     "USMLE/Respiratory/DLCO.md",
-    "USMLE/Respiratory/flow-volume loop.md",
     "USMLE/Infective disease/Bacillus anthracis.md",
     "appendix/Pasted image 20230807170545.png",
     "USMLE/Respiratory/Pneumoconioses.md",
@@ -245,7 +246,6 @@
     "USMLE/单抗记忆.md",
     "USMLE/Respiratory/Asthma.md",
     "appendix/Pasted image 20230805164438.png",
-    "appendix/Pasted image 20230805163027.png",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Infective disease/Corynebacterium diphtheriae.md",

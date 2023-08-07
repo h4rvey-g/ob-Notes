@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
       "basename": "flow-volume loop",
       "path": "USMLE/Respiratory/flow-volume loop.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Common-note",
       "path": "template/Common-note.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
       "basename": "Atrial flutter",
