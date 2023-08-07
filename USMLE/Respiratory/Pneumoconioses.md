@@ -30,8 +30,8 @@ share: true
 		- asbestos fiber becomes coated with iron and calcium![[Pasted image 20230727171328.png]]
 		> Ingestion of these fibers by macrophages sets off a fibrogenic response via release of growth factors that promote collagen deposition by fibroblasts.
 	- Complications
-		- [[Lung cancer]] (smoking increases the risk): bronchogenic carcinoma is most common
-		- [[Mesothelioma]]
+		- [[Lung cancer]] (smoking increases the risk): <mark style="background: #FFF3A34A;">bronchogenic carcinoma is most common</mark>
+		- [[Mesothelioma]]: rarely occurs without a history of asbestos exposure
 - Chest x-ray: 
 	- Diffuse bilateral infiltrates predominantly in the lower lobes
 	- Interstitial fibrosis

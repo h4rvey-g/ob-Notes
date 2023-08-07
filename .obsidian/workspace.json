@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Respiratory/Pneumoconioses.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Respiratory/Pneumoconioses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Respiratory/Pneumoconioses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md"
+                "file": "USMLE/Respiratory/Pneumoconioses.md"
               }
             }
           }
@@ -213,8 +213,9 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Infective disease/Mycobacteria.md",
     "USMLE/Blood/Pleural effusion.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Cardiology/Atrioventricular block.md",
     "USMLE/Cardiology/ECGs.md",
@@ -250,7 +251,6 @@
     "template/USMLE-note.md",
     "template/callout-tip.md",
     "appendix/Pasted image 20230803213835.png",
-    "USMLE/Cardiology/Atrial flutter.md",
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",

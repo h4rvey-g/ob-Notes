@@ -634,6 +634,9 @@ diagnostic
 diastolic
 decubitus
 drainage
+deposition
+doing
+diameter
 of
 over
 originate
@@ -884,6 +887,9 @@ ooS
 occurs
 oropharyngeal
 obtained
+off
+occupations
+opacities
 regular
 reentrant
 retrograde
@@ -1226,6 +1232,11 @@ ring
 reactions
 restrictive
 region
+remodelling
+reconstruction
+rheumatoid
+rims
+rounded
 narrow
 negative
 not
@@ -1484,6 +1495,7 @@ nrP
 neutrophils
 notched
 narrowing
+nodules
 tachycardia
 tract
 the
@@ -1853,6 +1865,8 @@ track
 tellurite
 trachea
 tracheobronchitis
+thin
+taken
 in
 includes
 involving
@@ -2439,6 +2453,8 @@ grade
 glycogen
 greatest
 gastric
+ground
+glass
 major
 mechanisms
 mark
@@ -2782,6 +2798,8 @@ motility
 mucopurulent
 material
 middle
+materials
+mining
 Sinus
 ST
 Segment
@@ -3050,6 +3068,8 @@ Smoking
 Saccular
 Supine
 Standing
+Some
+Silicosis
 AVNRT
 Atrial
 AVRT
@@ -3869,6 +3889,7 @@ amounts
 arterial
 aspiration
 acid
+asbestosis
 ventricular
 varying
 vaccines
@@ -4114,6 +4135,7 @@ viability
 vitro
 vaccinations
 vaccine
+ventilation
 conduction
 concealed
 complex
@@ -4491,6 +4513,11 @@ culture
 cessation
 cupping
 clapping
+coated
+collagen
+care
+crystalline
+calcification
 bypass
 block
 background
@@ -4797,6 +4824,9 @@ bouts
 bronchioles
 bronchospasms
 basal
+business
+building
+basilar
 flutter
 from
 focus
@@ -5105,6 +5135,10 @@ functionality
 fibroelastosis
 fibrotic
 foul
+fiber
+fibrogenic
+fibroblasts
+foundries
 with
 wave
 which
@@ -5330,6 +5364,8 @@ wTaW
 wing
 would
 wheezing
+working
+window
 Whenever
 Widening
 William
@@ -6144,6 +6180,15 @@ smelling
 superior
 sitting
 seasonal
+sets
+still
+silica
+silicosis
+sandblasting
+sand
+sill
+sickle
+solitary
 QRS
 QT
 QDQ
@@ -6621,6 +6666,7 @@ late
 lowest
 larger
 lobe
+lymph
 Multifocal
 Mild
 Moderate
@@ -7769,6 +7815,8 @@ Immunodeficiency
 Imaging
 Intermediate
 Immediate
+Ingestion
+Inhalation
 PACs
 Primary
 Pathophysiology
@@ -8575,6 +8623,7 @@ Exacerbations
 Elevated
 Endocardial
 Endocarditis
+Eggshell
 LEFT
 Lengthening
 Left
@@ -9382,6 +9431,7 @@ hypereosinophilic
 hypoxemia
 hygiene
 hydration
+houses
 peaked
 pattern
 precordial
@@ -9749,6 +9799,9 @@ position
 physiotherapy
 postural
 pneumococcal
+promote
+products
+pneumoconiosis
 Unusual
 Usually
 Upc
@@ -10216,6 +10269,7 @@ BrI
 BnL
 Bronchiectasis
 Black
+Bilateral
 Characteristic
 CLL
 Clinical
@@ -10474,6 +10528,7 @@ Cleft
 CXR
 Cystic
 Cylindrical
+Caplan
 Right
 Retrograde
 Rates

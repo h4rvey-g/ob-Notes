@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pneumoconioses",
+      "path": "USMLE/Respiratory/Pneumoconioses.md"
+    },
+    {
+      "basename": "Mycobacteria",
+      "path": "USMLE/Infective disease/Mycobacteria.md"
+    },
+    {
       "basename": "Pleural effusion",
       "path": "USMLE/Blood/Pleural effusion.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Asthma",
       "path": "USMLE/Respiratory/Asthma.md"
-    },
-    {
-      "basename": "Pneumoconioses",
-      "path": "USMLE/Respiratory/Pneumoconioses.md"
     },
     {
       "basename": "Chronic obstructive pulmonary disease",
@@ -195,10 +199,6 @@
     {
       "basename": "Calcium Channel",
       "path": "USMLE/Cardiology/Calcium Channel.md"
-    },
-    {
-      "basename": "Arteriolosclerosis",
-      "path": "USMLE/Cardiology/Arteriolosclerosis.md"
     }
   ],
   "omittedPaths": [],
