@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "flow-volume loop",
+      "path": "USMLE/Respiratory/flow-volume loop.md"
+    },
+    {
+      "basename": "DLCO",
+      "path": "USMLE/Respiratory/DLCO.md"
+    },
+    {
+      "basename": "Bacillus anthracis",
+      "path": "USMLE/Infective disease/Bacillus anthracis.md"
+    },
+    {
       "basename": "Pneumoconioses",
       "path": "USMLE/Respiratory/Pneumoconioses.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Paraneoplastic syndromes",
       "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
-    },
-    {
-      "basename": "Lymphocyte",
-      "path": "USMLE/Blood/Lymphocyte.md"
-    },
-    {
-      "basename": "Blood",
-      "path": "USMLE/Blood.md"
-    },
-    {
-      "basename": "Cardiovascular examination",
-      "path": "USMLE/Cardiology/Cardiovascular examination.md"
     }
   ],
   "omittedPaths": [],
