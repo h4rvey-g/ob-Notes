@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Actinomyces israelii",
+      "path": "USMLE/Infective disease/Actinomyces israelii.md"
+    },
+    {
       "basename": "Pneumoconioses",
       "path": "USMLE/Respiratory/Pneumoconioses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cardiovascular examination",
       "path": "USMLE/Cardiology/Cardiovascular examination.md"
-    },
-    {
-      "basename": "Calcium Channel",
-      "path": "USMLE/Cardiology/Calcium Channel.md"
     }
   ],
   "omittedPaths": [],
