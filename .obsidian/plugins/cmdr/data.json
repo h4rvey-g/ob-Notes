@@ -8,6 +8,12 @@
       "icon": "book",
       "name": "Annotator: Toggle Annotation/Markdown Mode",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-mkdocs-publisher:publisher-one",
+      "icon": "upload-cloud",
+      "name": "Github Publisher: Upload single current active note",
+      "mode": "any"
     }
   ],
   "fileMenu": [
