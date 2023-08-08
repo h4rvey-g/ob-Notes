@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
-                "mode": "preview",
+                "file": "USMLE/Respiratory/Atelectasis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "USMLE/Respiratory/Atelectasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "USMLE/Respiratory/Atelectasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md"
+                "file": "USMLE/Respiratory/Atelectasis.md"
               }
             }
           }
@@ -213,8 +213,10 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
-    "appendix/Pasted image 20230807213802.png",
     "USMLE/Respiratory/flow-volume loop.md",
+    "USMLE/Respiratory/Atelectasis.md",
+    "USMLE/Respiratory/Sarcoidosis.md",
+    "appendix/Pasted image 20230807213802.png",
     "appendix/Pasted image 20230807173432.png",
     "USMLE/Respiratory/DLCO.md",
     "USMLE/Infective disease/Bacillus anthracis.md",
@@ -237,7 +239,6 @@
     "appendix/Pasted image 20230806165400.png",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
     "USMLE/Cardiology/Löffler endocarditis.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230805182633.png",
     "USMLE/Immunology/Chronic granulomatous disease.md",
     "USMLE/Respiratory/Aspergillosis.md",
@@ -245,7 +246,6 @@
     "appendix/Pasted image 20230805173531.png",
     "USMLE/单抗记忆.md",
     "USMLE/Respiratory/Asthma.md",
-    "appendix/Pasted image 20230805164438.png",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Infective disease/Corynebacterium diphtheriae.md",

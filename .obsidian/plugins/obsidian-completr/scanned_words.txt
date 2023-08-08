@@ -267,6 +267,7 @@ Turn
 Tumors
 Thickened
 Tryptase
+Therefore
 differentials
 differential
 diagnosis
@@ -637,6 +638,8 @@ drainage
 deposition
 doing
 diameter
+declines
+diagram
 of
 over
 originate
@@ -890,6 +893,10 @@ obtained
 off
 occupations
 opacities
+obstructed
+open
+obesity
+obese
 regular
 reentrant
 retrograde
@@ -1237,6 +1244,12 @@ reconstruction
 rheumatoid
 rims
 rounded
+representation
+reaches
+residual
+return
+recoil
+rates
 narrow
 negative
 not
@@ -1496,6 +1509,8 @@ neutrophils
 notched
 narrowing
 nodules
+narrowed
+neuromuscular
 tachycardia
 tract
 the
@@ -1867,6 +1882,9 @@ trachea
 tracheobronchitis
 thin
 taken
+takes
+toward
+trapping
 in
 includes
 involving
@@ -2225,6 +2243,10 @@ identify
 identified
 infiltrative
 influenza
+inspiratory
+inspiration
+inhaled
+impeded
 general
 giving
 generation
@@ -2455,6 +2477,9 @@ greatest
 gastric
 ground
 glass
+graphical
+greater
+greatly
 major
 mechanisms
 mark
@@ -2800,6 +2825,9 @@ material
 middle
 materials
 mining
+maximal
+mainstem
+mechanical
 Sinus
 ST
 Segment
@@ -3890,6 +3918,7 @@ arterial
 aspiration
 acid
 asbestosis
+approx
 ventricular
 varying
 vaccines
@@ -4518,6 +4547,10 @@ collagen
 care
 crystalline
 calcification
+capacity
+concave
+collapse
+compared
 bypass
 block
 background
@@ -4827,6 +4860,7 @@ basal
 business
 building
 basilar
+beginning
 flutter
 from
 focus
@@ -5139,6 +5173,12 @@ fiber
 fibrogenic
 fibroblasts
 foundries
+flow
+forced
+forcefully
+full
+fixed
+fully
 with
 wave
 which
@@ -6189,6 +6229,10 @@ sand
 sill
 sickle
 solitary
+spirometry
+slightly
+scooped
+substantially
 QRS
 QT
 QDQ
@@ -6667,6 +6711,9 @@ lowest
 larger
 lobe
 lymph
+loop
+linearly
+limitation
 Multifocal
 Mild
 Moderate
@@ -8373,6 +8420,11 @@ elasticity
 eosinophilic
 eosinophil
 extreme
+expiratory
+expiration
+exhales
+enter
+expand
 Early
 Elevation
 Etiology
@@ -8624,6 +8676,7 @@ Elevated
 Endocardial
 Endocarditis
 Eggshell
+Expiratory
 LEFT
 Lengthening
 Left
@@ -9802,6 +9855,9 @@ pneumococcal
 promote
 products
 pneumoconiosis
+plots
+prevented
+portion
 Unusual
 Usually
 Upc
@@ -10795,6 +10851,7 @@ Reversible
 Recognition
 Restrictive
 Recurrent
+Respiratory
 Voltage
 VFV
 VoNW
@@ -11247,6 +11304,8 @@ upside
 unlike
 unmasked
 useful
+used
+unilateral
 quinine
 qz
 qM
@@ -11458,6 +11517,7 @@ qvA
 qsc
 qiijaa
 qiK
+quickly
 GpIIb
 GpIb
 Gg
@@ -13099,6 +13159,7 @@ zmy
 zDV
 zDi
 zBI
+zero
 YCZ
 YL
 Yt

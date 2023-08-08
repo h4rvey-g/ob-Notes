@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
+      "basename": "Atelectasis",
+      "path": "USMLE/Respiratory/Atelectasis.md"
     },
     {
       "basename": "flow-volume loop",
       "path": "USMLE/Respiratory/flow-volume loop.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
       "basename": "DLCO",
@@ -195,10 +199,6 @@
     {
       "basename": "Set Up ` tmux` as default shell in VS code",
       "path": "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md"
-    },
-    {
-      "basename": "Paraneoplastic syndromes",
-      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
     }
   ],
   "omittedPaths": [],
