@@ -643,6 +643,7 @@ diagram
 destructive
 depend
 diminished
+div
 of
 over
 originate
@@ -1258,6 +1259,7 @@ rates
 reabsorption
 radiation
 retained
+residency
 narrow
 negative
 not
@@ -1900,6 +1902,7 @@ tongue
 tachypnea
 tracheal
 towards
+theme
 in
 includes
 involving
@@ -2499,6 +2502,7 @@ graphical
 greater
 greatly
 gas
+gaia
 major
 mechanisms
 mark
@@ -2847,6 +2851,7 @@ mining
 maximal
 mainstem
 mechanical
+marp
 Sinus
 ST
 Segment
@@ -3393,6 +3398,7 @@ Airway
 ARDS
 Adhesive
 Atelectasis
+Abroad
 Orthodromic
 On
 Often
@@ -3943,6 +3949,8 @@ approx
 atelectasis
 anesthetic
 acuity
+attending
+align
 ventricular
 varying
 vaccines
@@ -4580,6 +4588,7 @@ compresses
 complications
 coughing
 cyanosis
+class
 bypass
 block
 background
@@ -4891,6 +4900,8 @@ building
 basilar
 beginning
 breathing
+backgroundColor
+backgroundImage
 flutter
 from
 focus
@@ -5210,6 +5221,7 @@ full
 fixed
 fully
 foreign
+fff
 with
 wave
 which
@@ -7552,6 +7564,7 @@ FEV
 FVC
 Frequently
 Features
+Fellowship
 In
 It
 Intraventricular
@@ -7901,6 +7914,7 @@ Intermediate
 Immediate
 Ingestion
 Inhalation
+IntroducingUSMLE
 PACs
 Primary
 Pathophysiology
@@ -8165,6 +8179,7 @@ Postradiation
 Postsurgery
 Part
 Postoperative
+Practice
 ectopic
 elevation
 early
@@ -9216,6 +9231,7 @@ HRCT
 Hypersensitivity
 Help
 Hemochromatosis
+Hospitalist
 hyperkalemia
 hypertrophy
 hereditary
@@ -9906,6 +9922,9 @@ pneumothorax
 precipitated
 postoperative
 prolapse
+paginate
+program
+png
 Unusual
 Usually
 Upc

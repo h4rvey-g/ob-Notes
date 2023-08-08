@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Congestive heart failure",
+      "path": "USMLE/Cardiology/Congestive heart failure.md"
+    },
+    {
+      "basename": "Pulmonary embolism",
+      "path": "USMLE/Respiratory/Pulmonary embolism.md"
+    },
+    {
+      "basename": "Questions",
+      "path": "USMLE/Questions.md"
+    },
+    {
+      "basename": "Introducing USMLE",
+      "path": "USMLE/Introducing USMLE.md"
+    },
+    {
       "basename": "Atelectasis",
       "path": "USMLE/Respiratory/Atelectasis.md"
     },
@@ -177,28 +193,12 @@
       "path": "USMLE/Respiratory/Mesothelioma.md"
     },
     {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
-    },
-    {
       "basename": "Pasted image 20230620211202",
       "path": "appendix/Pasted image 20230620211202.png"
     },
     {
-      "basename": "Congestive heart failure",
-      "path": "USMLE/Cardiology/Congestive heart failure.md"
-    },
-    {
       "basename": "Acute coronary syndrome",
       "path": "USMLE/Cardiology/Acute coronary syndrome.md"
-    },
-    {
-      "basename": "Torsades de pointes",
-      "path": "USMLE/Cardiology/Torsades de pointes.md"
-    },
-    {
-      "basename": "Set Up ` tmux` as default shell in VS code",
-      "path": "Bioinformatics/Linux tricks/Set Up ` tmux` as default shell in VS code.md"
     }
   ],
   "omittedPaths": [],

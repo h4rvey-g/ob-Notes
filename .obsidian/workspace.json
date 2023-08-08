@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Atelectasis.md",
-                "mode": "source",
+                "file": "USMLE/Cardiology/Congestive heart failure.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Atelectasis.md",
+                "file": "USMLE/Cardiology/Congestive heart failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Atelectasis.md",
+                "file": "USMLE/Cardiology/Congestive heart failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Atelectasis.md"
+                "file": "USMLE/Cardiology/Congestive heart failure.md"
               }
             }
           }
@@ -213,7 +213,14 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Pulmonary embolism.md",
+    "appendix/Pasted image 20230808202409.png",
+    "USMLE/Questions.md",
+    "USMLE/Cardiology/ECGs.md",
     "USMLE/Respiratory/flow-volume loop.md",
+    "USMLE/Blood.md",
+    "USMLE/Untitled-1.md",
+    "USMLE/Introducing USMLE.md",
     "USMLE/Respiratory/Atelectasis.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230807213802.png",
@@ -231,7 +238,6 @@
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Cardiology/Atrioventricular block.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Respiratory/Pneumonia.md",
     "template/Common-note.md",
     "USMLE/Infective disease/Eaton agar.md",
@@ -243,12 +249,6 @@
     "USMLE/Immunology/Chronic granulomatous disease.md",
     "USMLE/Respiratory/Aspergillosis.md",
     "appendix/Pasted image 20230805174338.png",
-    "appendix/Pasted image 20230805173531.png",
-    "USMLE/单抗记忆.md",
-    "USMLE/Respiratory/Asthma.md",
-    "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
-    "USMLE/Immunology/Type I hypersensitivity reaction.md",
-    "USMLE/Infective disease/Corynebacterium diphtheriae.md",
     "USMLE/Immunology",
     "USMLE/Biochemistry",
     "tables/Untitled.loom",
