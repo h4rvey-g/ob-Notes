@@ -640,6 +640,9 @@ doing
 diameter
 declines
 diagram
+destructive
+depend
+diminished
 of
 over
 originate
@@ -897,6 +900,8 @@ obstructed
 open
 obesity
 obese
+occupying
+operative
 regular
 reentrant
 retrograde
@@ -1250,6 +1255,9 @@ residual
 return
 recoil
 rates
+reabsorption
+radiation
+retained
 narrow
 negative
 not
@@ -1511,6 +1519,8 @@ narrowing
 nodules
 narrowed
 neuromuscular
+nonventilated
+note
 tachycardia
 tract
 the
@@ -1885,6 +1895,11 @@ taken
 takes
 toward
 trapping
+tension
+tongue
+tachypnea
+tracheal
+towards
 in
 includes
 involving
@@ -2247,6 +2262,9 @@ inspiratory
 inspiration
 inhaled
 impeded
+instability
+infants
+interfere
 general
 giving
 generation
@@ -2480,6 +2498,7 @@ glass
 graphical
 greater
 greatly
+gas
 major
 mechanisms
 mark
@@ -3372,6 +3391,8 @@ Additional
 Amyloidosis
 Airway
 ARDS
+Adhesive
+Atelectasis
 Orthodromic
 On
 Often
@@ -3919,6 +3940,9 @@ aspiration
 acid
 asbestosis
 approx
+atelectasis
+anesthetic
+acuity
 ventricular
 varying
 vaccines
@@ -4165,6 +4189,7 @@ vitro
 vaccinations
 vaccine
 ventilation
+visceral
 conduction
 concealed
 complex
@@ -4551,6 +4576,10 @@ capacity
 concave
 collapse
 compared
+compresses
+complications
+coughing
+cyanosis
 bypass
 block
 background
@@ -4861,6 +4890,7 @@ business
 building
 basilar
 beginning
+breathing
 flutter
 from
 focus
@@ -5179,6 +5209,7 @@ forcefully
 full
 fixed
 fully
+foreign
 with
 wave
 which
@@ -6233,6 +6264,10 @@ spirometry
 slightly
 scooped
 substantially
+space
+scarring
+such
+surgery
 QRS
 QT
 QDQ
@@ -6714,6 +6749,7 @@ lymph
 loop
 linearly
 limitation
+lesion
 Multifocal
 Mild
 Moderate
@@ -7273,6 +7309,7 @@ Diagnosis
 Detection
 Disorders
 Definitions
+Dull
 FFF
 Fib
 Fi
@@ -8127,6 +8164,7 @@ PLEASe
 Postradiation
 Postsurgery
 Part
+Postoperative
 ectopic
 elevation
 early
@@ -8425,6 +8463,7 @@ expiration
 exhales
 enter
 expand
+extent
 Early
 Elevation
 Etiology
@@ -9858,6 +9897,15 @@ pneumoconiosis
 plots
 prevented
 portion
+plug
+poststenotic
+pushes
+parenchymal
+parietal
+pneumothorax
+precipitated
+postoperative
+prolapse
 Unusual
 Usually
 Upc
@@ -10585,6 +10633,8 @@ CXR
 Cystic
 Cylindrical
 Caplan
+Compression
+Cicatrization
 Right
 Retrograde
 Rates
@@ -10852,6 +10902,7 @@ Recognition
 Restrictive
 Recurrent
 Respiratory
+Relaxation
 Voltage
 VFV
 VoNW
@@ -12290,6 +12341,7 @@ NJI
 Nonallergic
 NSAID
 NMS
+Nonobstructive
 jEQ
 jL
 jO
