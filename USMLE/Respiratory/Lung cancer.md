@@ -22,7 +22,7 @@ share: true
 		- EGFR gene 
 		- ALK gene 
 		- KRAS gene
-	- Common finding: hypertrophic osteoarthropathy (digital clubbing)
+	- <mark style="background: #FFF3A34A;">Common finding: hypertrophic osteoarthropathy (digital clubbing)</mark>
 	- Most common type of lung cancer that originates in pulmonary scars [10]
 	- Prognosis is usually better than in other types of lung cancer
  >[!note] 

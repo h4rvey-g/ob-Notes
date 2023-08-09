@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md",
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md",
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md",
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Congestive heart failure.md"
+                "file": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
               }
             }
           }
@@ -213,6 +213,9 @@
   },
   "active": "c813a401241b3114",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Asthma.md",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/Cardiology/Congestive heart failure.md",
     "USMLE/Respiratory/Pulmonary embolism.md",
     "appendix/Pasted image 20230808202409.png",
     "USMLE/Questions.md",
@@ -244,10 +247,7 @@
     "USMLE/Respiratory/Miscellaneous.md",
     "appendix/Pasted image 20230806165400.png",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
-    "USMLE/Cardiology/Löffler endocarditis.md",
     "appendix/Pasted image 20230805182633.png",
-    "USMLE/Immunology/Chronic granulomatous disease.md",
-    "USMLE/Respiratory/Aspergillosis.md",
     "appendix/Pasted image 20230805174338.png",
     "USMLE/Immunology",
     "USMLE/Biochemistry",

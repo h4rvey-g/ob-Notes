@@ -268,6 +268,7 @@ Tumors
 Thickened
 Tryptase
 Therefore
+Tiotropium
 differentials
 differential
 diagnosis
@@ -644,6 +645,9 @@ destructive
 depend
 diminished
 div
+differentiation
+dysfunctional
+developing
 of
 over
 originate
@@ -1260,6 +1264,8 @@ reabsorption
 radiation
 retained
 residency
+reticulum
+raise
 narrow
 negative
 not
@@ -1523,6 +1529,8 @@ narrowed
 neuromuscular
 nonventilated
 note
+neutrophil
+neonatal
 tachycardia
 tract
 the
@@ -2268,6 +2276,7 @@ impeded
 instability
 infants
 interfere
+induces
 general
 giving
 generation
@@ -2852,6 +2861,10 @@ maximal
 mainstem
 mechanical
 marp
+maintenance
+muscarinic
+modifiers
+maturation
 Sinus
 ST
 Segment
@@ -3122,6 +3135,7 @@ Supine
 Standing
 Some
 Silicosis
+SERPINA
 AVNRT
 Atrial
 AVRT
@@ -3399,6 +3413,9 @@ ARDS
 Adhesive
 Atelectasis
 Abroad
+Alpha
+AAT
+Adolescents
 Orthodromic
 On
 Often
@@ -3951,6 +3968,10 @@ anesthetic
 acuity
 attending
 align
+antagonists
+aspirin
+acting
+accumulation
 ventricular
 varying
 vaccines
@@ -4589,6 +4610,9 @@ complications
 coughing
 cyanosis
 class
+chemotaxis
+conformational
+cirrhosis
 bypass
 block
 background
@@ -4902,6 +4926,11 @@ beginning
 breathing
 backgroundColor
 backgroundImage
+bronchoconstriction
+bromide
+basophils
+benralizumab
+breakdown
 flutter
 from
 focus
@@ -6280,6 +6309,9 @@ space
 scarring
 such
 surgery
+synthesized
+structure
+suspicion
 QRS
 QT
 QDQ
@@ -6762,6 +6794,7 @@ loop
 linearly
 limitation
 lesion
+lipoxygenase
 Multifocal
 Mild
 Moderate
@@ -7044,6 +7077,7 @@ Mucosal
 Micrognathia
 Maneuvers
 Microbiology
+Montelukast
 Differentiate
 Drugs
 DDx
@@ -7322,6 +7356,7 @@ Detection
 Disorders
 Definitions
 Dull
+Diminished
 FFF
 Fib
 Fi
@@ -8180,6 +8215,8 @@ Postsurgery
 Part
 Postoperative
 Practice
+Prevent
+Patients
 ectopic
 elevation
 early
@@ -8479,6 +8516,7 @@ exhales
 enter
 expand
 extent
+endoplasmic
 Early
 Elevation
 Etiology
@@ -8731,6 +8769,8 @@ Endocardial
 Endocarditis
 Eggshell
 Expiratory
+Exercise
+Effect
 LEFT
 Lengthening
 Left
@@ -8960,6 +9000,9 @@ Look
 Löffler
 Late
 LDH
+Leukotriene
+LTRAs
+LAMA
 Hyperkalemia
 HIV
 HCV
@@ -9232,6 +9275,9 @@ Hypersensitivity
 Help
 Hemochromatosis
 Hospitalist
+Hepatic
+Hepatitis
+HCC
 hyperkalemia
 hypertrophy
 hereditary
@@ -9540,6 +9586,8 @@ hypoxemia
 hygiene
 hydration
 houses
+hepatocellular
+hepatocyte
 peaked
 pattern
 precordial
@@ -9925,6 +9973,9 @@ prolapse
 paginate
 program
 png
+protects
+panacinar
+presenting
 Unusual
 Usually
 Upc
@@ -10147,6 +10198,7 @@ UDHN
 UpR
 UgH
 Used
+Uses
 Bundle
 Branch
 Block
@@ -10393,6 +10445,9 @@ BnL
 Bronchiectasis
 Black
 Bilateral
+Biologics
+Binds
+Barrel
 Characteristic
 CLL
 Clinical
@@ -10654,6 +10709,8 @@ Cylindrical
 Caplan
 Compression
 Cicatrization
+CysLT
+Cirrhosis
 Right
 Retrograde
 Rates
@@ -10922,6 +10979,7 @@ Restrictive
 Recurrent
 Respiratory
 Relaxation
+Refractory
 Voltage
 VFV
 VoNW
@@ -11376,6 +11434,7 @@ unmasked
 useful
 used
 unilateral
+uninhibited
 quinine
 qz
 qM
@@ -11808,6 +11867,7 @@ Gss
 GPIb
 Grows
 General
+Gene
 Jervell
 JYo
 JO
@@ -12595,6 +12655,7 @@ jMH
 jPI
 jWb
 jgg
+jaundice
 kO
 kWCQ
 ky
@@ -13831,6 +13892,8 @@ ZÄ
 Zlk
 Zfc
 Zcd
+Zafirlukast
+Zileuton
 xa
 xC
 xS
