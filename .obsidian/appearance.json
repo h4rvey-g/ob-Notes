@@ -5,5 +5,7 @@
   "enabledCssSnippets": [
     "mnemonic-callout"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "textFontFamily": "Calibri,Roboto",
+  "baseFontSize": 18
 }

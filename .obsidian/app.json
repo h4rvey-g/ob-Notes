@@ -4,5 +4,6 @@
   "attachmentFolderPath": "/appendix",
   "alwaysUpdateLinks": true,
   "spellcheckLanguages": null,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": true
 }

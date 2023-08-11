@@ -14,5 +14,7 @@
   "minimal-style@@h5-color@@dark": "#1C9099",
   "minimal-style@@h6-color@@dark": "#016C59",
   "floating-toc-styles@@toggle-floating-toc-header-color": true,
-  "floating-toc-styles@@floating-toc-font-size": 1
+  "floating-toc-styles@@floating-toc-font-size": 1,
+  "minimal-style@@bold-weight": 800,
+  "minimal-style@@maximize-tables-off": "maximize-tables-auto"
 }

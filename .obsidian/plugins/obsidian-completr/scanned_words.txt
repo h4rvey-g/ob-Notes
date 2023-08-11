@@ -698,6 +698,7 @@ dNp
 dkc
 diii
 dCW
+dipstick
 of
 over
 originate
@@ -1680,6 +1681,8 @@ noo
 nvW
 niq
 nvd
+nitrites
+nitrates
 tachycardia
 tract
 the
@@ -2491,6 +2494,9 @@ iDQ
 iZs
 idHOF
 iTQ
+irrespective
+including
+indicator
 general
 giving
 generation
@@ -3140,6 +3146,7 @@ mqyiieyu
 mzE
 mgekDvLgZ
 mmmd
+microhematuria
 Sinus
 ST
 Segment
@@ -4354,6 +4361,7 @@ aÜm
 apq
 aWU
 angina
+ascending
 ventricular
 varying
 vaccines
@@ -5070,6 +5078,9 @@ cSiV
 csd
 cGO
 cmw
+cystitis
+convert
+casts
 bypass
 block
 background
@@ -5409,6 +5420,8 @@ bOb
 bqZ
 bhY
 bJh
+bladder
+bacteria
 flutter
 from
 focus
@@ -5758,6 +5771,8 @@ fEQP
 fnvbjrbjrjfzrzjjfzqy
 fAD
 fcb
+fevers
+flank
 with
 wave
 which
@@ -6249,6 +6264,8 @@ WuyV
 WoI
 WDx
 WUx
+WBCs
+WBC
 you
 young
 ybif
@@ -6949,6 +6966,7 @@ sLi
 seU
 sGv
 shB
+strong
 QRS
 QT
 QDQ
@@ -9069,6 +9087,7 @@ PqB
 PSS
 PSiU
 Prinzmetal
+Pyuria
 ectopic
 elevation
 early
@@ -9406,6 +9425,7 @@ eYnm
 eFdS
 eBR
 eZU
+esterase
 Early
 Elevation
 Etiology
@@ -9955,6 +9975,7 @@ LWV
 LpL
 LVm
 LlG
+Leukocyturia
 Hyperkalemia
 HIV
 HCV
@@ -10253,6 +10274,7 @@ HiW
 HjER
 Hwa
 HOS
+Hematuria
 hyperkalemia
 hypertrophy
 hereditary
@@ -10596,6 +10618,7 @@ hAF
 hiV
 hZr
 hMM
+hpf
 peaked
 pattern
 precordial
@@ -11014,6 +11037,7 @@ pqm
 plDH
 pvLK
 poK
+pyelonephritis
 Unusual
 Usually
 Upc
@@ -11276,6 +11300,8 @@ UXvL
 UAp
 UOo
 UoN
+Urinalysis
+UTI
 Bundle
 Branch
 Block
@@ -11547,6 +11573,7 @@ BQN
 BUUsj
 BpL
 BrR
+Bacteriuria
 Characteristic
 CLL
 Clinical
@@ -12651,6 +12678,7 @@ umZ
 ueb
 uso
 uDCe
+urinary
 quinine
 qz
 qM
