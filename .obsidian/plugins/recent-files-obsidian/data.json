@@ -5,6 +5,14 @@
       "path": "USMLE/Cardiology/ECGs.md"
     },
     {
+      "basename": "Atrioventricular block",
+      "path": "USMLE/Cardiology/Atrioventricular block.md"
+    },
+    {
+      "basename": "Atrial flutter",
+      "path": "USMLE/Cardiology/Atrial flutter.md"
+    },
+    {
       "basename": "Questions",
       "path": "USMLE/Questions.md"
     },
@@ -77,10 +85,6 @@
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
     {
-      "basename": "Atrioventricular block",
-      "path": "USMLE/Cardiology/Atrioventricular block.md"
-    },
-    {
       "basename": "Pneumonia",
       "path": "USMLE/Respiratory/Pneumonia.md"
     },
@@ -151,10 +155,6 @@
     {
       "basename": "Common-note",
       "path": "template/Common-note.md"
-    },
-    {
-      "basename": "Atrial flutter",
-      "path": "USMLE/Cardiology/Atrial flutter.md"
     },
     {
       "basename": "Club cells",
