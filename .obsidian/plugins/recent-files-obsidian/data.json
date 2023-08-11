@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
+    },
+    {
       "basename": "Tumor lysis syndrome",
       "path": "USMLE/Renal/Tumor lysis syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
-    },
-    {
-      "basename": "Acute pericarditis",
-      "path": "USMLE/Cardiology/Acute pericarditis.md"
     }
   ],
   "omittedPaths": [],
