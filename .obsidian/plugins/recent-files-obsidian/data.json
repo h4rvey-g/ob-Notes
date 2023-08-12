@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A Handy Shell Tool for Easily Opening or Closing Proxies",
+      "path": "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md"
+    },
+    {
       "basename": "Urinary incontinence",
       "path": "USMLE/Renal/Urinary incontinence.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Polymyalgia rheumatica",
       "path": "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md"
-    },
-    {
-      "basename": "Celiac disease",
-      "path": "USMLE/GI/Celiac disease.md"
-    },
-    {
-      "basename": "Atopic dermatitis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md"
     }
   ],
   "omittedPaths": [],
