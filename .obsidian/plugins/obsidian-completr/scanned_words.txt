@@ -1383,6 +1383,9 @@ rGfU
 reversible
 removal
 retention
+runs
+refractory
+resultant
 narrow
 negative
 not
@@ -1698,6 +1701,7 @@ nitrites
 nitrates
 necessary
 neurogenic
+new
 tachycardia
 tract
 the
@@ -2108,6 +2112,7 @@ txl
 tRI
 tfq
 transurethral
+transmitted
 in
 includes
 involving
@@ -2520,6 +2525,8 @@ intravesical
 involuntary
 indwelling
 insertion
+isolated
+impulse
 general
 giving
 generation
@@ -3173,6 +3180,7 @@ microhematuria
 mixed
 male
 mobility
+morphologically
 Sinus
 ST
 Segment
@@ -3780,6 +3788,9 @@ AjN
 Aju
 AKK
 Atrophic
+Aberrant
+Afib
+Ashman
 Orthodromic
 On
 Often
@@ -4395,6 +4406,7 @@ aWU
 angina
 ascending
 atrophic
+aberrant
 ventricular
 varying
 vaccines
@@ -6311,6 +6323,7 @@ WDx
 WUx
 WBCs
 WBC
+Wide
 you
 young
 ybif
@@ -7014,6 +7027,9 @@ shB
 strong
 sphincter
 scheduled
+seconds
+situations
+shorter
 QRS
 QT
 QDQ
@@ -11105,6 +11121,8 @@ poK
 pyelonephritis
 pelvic
 prevention
+preexcitation
+preexcited
 Unusual
 Usually
 Upc
@@ -11940,6 +11958,7 @@ Cyg
 CaZ
 CiX
 Cxr
+Complete
 Right
 Retrograde
 Rates
@@ -12237,6 +12256,7 @@ RGt
 RTK
 RVWW
 Restricted
+RBBB
 Voltage
 VFV
 VoNW

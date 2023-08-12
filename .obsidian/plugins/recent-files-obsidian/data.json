@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Atrial fibrillation",
+      "path": "USMLE/Cardiology/Atrial fibrillation.md"
+    },
+    {
+      "basename": "Atrial flutter",
+      "path": "USMLE/Cardiology/Atrial flutter.md"
+    },
+    {
+      "basename": "Ashman phenomenon",
+      "path": "USMLE/Cardiology/Ashman phenomenon.md"
+    },
+    {
       "basename": "A Handy Shell Tool for Easily Opening or Closing Proxies",
       "path": "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Atrioventricular block",
       "path": "USMLE/Cardiology/Atrioventricular block.md"
-    },
-    {
-      "basename": "Atrial flutter",
-      "path": "USMLE/Cardiology/Atrial flutter.md"
     },
     {
       "basename": "Questions",
@@ -191,10 +199,6 @@
     {
       "basename": "Histoplasmosis",
       "path": "USMLE/Infective disease/Histoplasmosis.md"
-    },
-    {
-      "basename": "Polymyalgia rheumatica",
-      "path": "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md"
     }
   ],
   "omittedPaths": [],
