@@ -300,6 +300,8 @@ TqNi
 TmF
 Tdhe
 TPHS
+Trauma
+Transient
 differentials
 differential
 diagnosis
@@ -699,6 +701,11 @@ dkc
 diii
 dCW
 dipstick
+detrusor
+diuretics
+distended
+dribbling
+day
 of
 over
 originate
@@ -981,6 +988,9 @@ oll
 owo
 oxa
 oyo
+outlet
+overfilling
+order
 regular
 reentrant
 retrograde
@@ -1370,6 +1380,9 @@ rttt
 roV
 rpJ
 rGfU
+reversible
+removal
+retention
 narrow
 negative
 not
@@ -1683,6 +1696,8 @@ niq
 nvd
 nitrites
 nitrates
+necessary
+neurogenic
 tachycardia
 tract
 the
@@ -2092,6 +2107,7 @@ tHZ
 txl
 tRI
 tfq
+transurethral
 in
 includes
 involving
@@ -2497,6 +2513,13 @@ iTQ
 irrespective
 including
 indicator
+incontinence
+impaction
+incomplete
+intravesical
+involuntary
+indwelling
+insertion
 general
 giving
 generation
@@ -3147,6 +3170,9 @@ mzE
 mgekDvLgZ
 mmmd
 microhematuria
+mixed
+male
+mobility
 Sinus
 ST
 Segment
@@ -3444,6 +3470,9 @@ SIS
 SdYF
 SLv
 SGS
+Stress
+Spinal
+Stool
 AVNRT
 Atrial
 AVRT
@@ -3750,6 +3779,7 @@ AOh
 AjN
 Aju
 AKK
+Atrophic
 Orthodromic
 On
 Often
@@ -3940,6 +3970,8 @@ OHv
 Omxv
 ObBW
 OPcea
+Overflow
+Occurs
 atrio
 and
 atrial
@@ -4362,6 +4394,7 @@ apq
 aWU
 angina
 ascending
+atrophic
 ventricular
 varying
 vaccines
@@ -4655,6 +4688,7 @@ vcd
 vGg
 vWC
 vagal
+vaginitis
 conduction
 concealed
 complex
@@ -5081,6 +5115,12 @@ cmw
 cystitis
 convert
 casts
+contractility
+chronically
+continuous
+catherization
+catheter
+catheters
 bypass
 block
 background
@@ -5773,6 +5813,10 @@ fAD
 fcb
 fevers
 flank
+female
+floor
+favored
+fewer
 with
 wave
 which
@@ -6027,6 +6071,7 @@ wsQ
 wrz
 wPW
 wgwWWOwo
+weak
 Whenever
 Widening
 William
@@ -6967,6 +7012,8 @@ seU
 sGv
 shB
 strong
+sphincter
+scheduled
 QRS
 QT
 QDQ
@@ -7509,6 +7556,7 @@ lWNk
 lhx
 lCU
 lMM
+leak
 Multifocal
 Mild
 Moderate
@@ -7821,6 +7869,7 @@ MaO
 MyGS
 MIlF
 Murow
+Mechanism
 Differentiate
 Drugs
 DDx
@@ -8136,6 +8185,8 @@ Dhd
 DYj
 DTppp
 DmL
+DIAPPERS
+Delirium
 FFF
 Fib
 Fi
@@ -8407,6 +8458,7 @@ FoUJg
 Fcai
 FOF
 FQd
+Frequent
 In
 It
 Intraventricular
@@ -8786,6 +8838,9 @@ IcD
 Icm
 Igs
 IEP
+Intrinsic
+Impaired
+Intermittent
 PACs
 Primary
 Pathophysiology
@@ -9088,6 +9143,11 @@ PSS
 PSiU
 Prinzmetal
 Pyuria
+Pelvic
+Postmenopausal
+Psychiatric
+Pharmaceutical
+Postvoid
 ectopic
 elevation
 early
@@ -9426,6 +9486,8 @@ eFdS
 eBR
 eZU
 esterase
+emptying
+empty
 Early
 Elevation
 Etiology
@@ -10619,6 +10681,9 @@ hiV
 hZr
 hMM
 hpf
+hydrocephalus
+hypermobility
+hyperglycemia
 peaked
 pattern
 precordial
@@ -11038,6 +11103,8 @@ plDH
 pvLK
 poK
 pyelonephritis
+pelvic
+prevention
 Unusual
 Usually
 Upc
@@ -11302,6 +11369,10 @@ UOo
 UoN
 Urinalysis
 UTI
+Urge
+Urethral
+Urinary
+UTIs
 Bundle
 Branch
 Block
@@ -11574,6 +11645,9 @@ BUUsj
 BpL
 BrR
 Bacteriuria
+Bladder
+BPH
+Both
 Characteristic
 CLL
 Clinical
@@ -12162,6 +12236,7 @@ RLX
 RGt
 RTK
 RVWW
+Restricted
 Voltage
 VFV
 VoNW
@@ -12679,6 +12754,9 @@ ueb
 uso
 uDCe
 urinary
+urethritis
+urge
+urinate
 quinine
 qz
 qM
@@ -13165,6 +13243,7 @@ Goy
 Gsa
 GDK
 GdtK
+Genitourinary
 Jervell
 JYo
 JO

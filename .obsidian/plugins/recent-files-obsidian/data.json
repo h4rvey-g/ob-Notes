@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Urinary incontinence",
+      "path": "USMLE/Renal/Urinary incontinence.md"
+    },
+    {
+      "basename": "Intermittent catheterization",
+      "path": "USMLE/Renal/Intermittent catheterization.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Atopic dermatitis",
       "path": "USMLE/Muscle, skin, and connective tissue/Atopic dermatitis.md"
-    },
-    {
-      "basename": "Atopy",
-      "path": "USMLE/Respiratory/Atopy.md"
-    },
-    {
-      "basename": "Supraventricular tachycardia",
-      "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
     }
   ],
   "omittedPaths": [],
