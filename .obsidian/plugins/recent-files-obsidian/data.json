@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Goodpasture syndrome",
+      "path": "USMLE/Renal/Goodpasture syndrome.md"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Common-note",
       "path": "template/Common-note.md"
-    },
-    {
-      "basename": "Club cells",
-      "path": "USMLE/Respiratory/Club cells.md"
     }
   ],
   "omittedPaths": [],
