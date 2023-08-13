@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Club cells",
       "path": "USMLE/Respiratory/Club cells.md"
-    },
-    {
-      "basename": "How to Download Embedded Vimeo Videos",
-      "path": "Bioinformatics/How to Download Embedded Vimeo Videos.md"
     }
   ],
   "omittedPaths": [],
