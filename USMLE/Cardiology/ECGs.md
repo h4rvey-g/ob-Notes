@@ -24,6 +24,12 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 #  Early repolarization
 ![[Pasted image 20230617214946.png]]
 on the LEFT, the T wave repolarization looks like a continuation of the S wave. This is not ST elevation and is seen often in young adults. It is called benign early repolarization. On the right, you clearly see the completion of the S wave and a clear ST Segment which allows you to do an accurate ST Elevation measurement.
+# Premature Atrial Complex (PAC)
+A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">premature beat arising from ectopic pacemaking tissue within the atria</mark>. There is an abnormal P wave, usually followed by a normal QRS complex. AKA: Atrial ectopics, atrial extrasystoles, atrial premature beats, atrial premature depolarisations.
+>[!tip] 
+>- Abnormal (non-sinus) P wave usually followed by a normal QRS complex (< 120 ms)
+>- Post-extrasystolic pauses may be present — PACs that reach the SA node may depolarise it, causing the SA node to be “reset”, with a longer-than-normal interval before the next sinus beat arrives
+>- PACs may also be conducted aberrantly (usually RBBB morphology), or not conducted at all. P waves will still be visible in both cases
 # Hyperkalemia
 | 高钾血症：三低一高 | 低钾血症：三高一低 |
 |:------------------:|:------------------:|
@@ -99,8 +105,8 @@ Bottom: pathological Q wave with a duration ≥0.04 s and depth >¼ of R wave am
 # ECG Motion Artefacts
 ## **Parkinsonian tremor:**
 ![[Pasted image 20230722214804.png]]
-- The irregular baseline in this ECG gives the appearance of atrial fibrillation
-- The slow regular rhythm even suggests the possibility of atrial fibrillation with complete heart block and a junctional escape rhythm
+- The irregular baseline in this ECG gives the appearance of [[atrial fibrillation]]
+- The slow regular rhythm even suggests the possibility of [[atrial fibrillation]] with complete heart block and a junctional escape rhythm
 - However, on closer inspection there are visible P waves in V3 (circled)
 - This patient had sinus bradycardia and a resting tremor due to Parkinson’s disease
 # Miscellaneous
@@ -135,6 +141,6 @@ The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hy
 Prolonged QT: Congenital [[Long QT syndromes]], Drug side effects (e.g., antiarrhythmic agents, antidepressants, antipsychotics, phenothiazines, 1st-generation antihistamines, some antibiotics), Electrolyte disturbances (e.g., <mark style="background: #FFF3A34A;">[[Hypocalcemia]], hypokalemia, hypomagnesemia</mark>), Cardiac abnormalities (e.g., inflammatory heart diseases, bradycardia, myocardial ischemia), Arsenic poisoning
 ## Rates
 - [[Atrial flutter]]: 250-300/min -- about 1 small block
-- Atrial fibrillation: 350-400/min -- less than 1 small block
+- [[Atrial fibrillation]]: 350-400/min -- less than 1 small block
 - Atrial tachycardia, AVNRT: 130-240 -- 1-2 small block
 

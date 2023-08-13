@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
       "basename": "Nephritic syndrome",
       "path": "USMLE/Renal/Nephritic syndrome.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Atrial fibrillation",
