@@ -1,6 +1,6 @@
 {
   "shouldDebug": true,
-  "createAtObsidianAttachmentFolder": false,
+  "createAtObsidianAttachmentFolder": true,
   "customFolderForNewFiles": "",
   "exportRenderMarkdown": true,
   "defaultEmbedWidth": "100%",

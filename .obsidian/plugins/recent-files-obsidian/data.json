@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute rheumatic fever",
+      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "appendix/Untitled 1.loom"
+    },
+    {
+      "basename": "Rheumatic heart disease",
+      "path": "USMLE/Cardiology/Rheumatic heart disease.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "IgA protease",
       "path": "USMLE/Infective disease/IgA protease.md"
-    },
-    {
-      "basename": "Corynebacterium diphtheriae",
-      "path": "USMLE/Infective disease/Corynebacterium diphtheriae.md"
-    },
-    {
-      "basename": "Bronchiectasis",
-      "path": "USMLE/Respiratory/Bronchiectasis.md"
-    },
-    {
-      "basename": "callout-mnemonic",
-      "path": "template/callout-mnemonic.md"
     }
   ],
   "omittedPaths": [],
