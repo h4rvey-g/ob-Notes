@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "How to Download Embedded Vimeo Videos",
       "path": "Bioinformatics/How to Download Embedded Vimeo Videos.md"
-    },
-    {
-      "basename": "Histoplasmosis",
-      "path": "USMLE/Infective disease/Histoplasmosis.md"
     }
   ],
   "omittedPaths": [],

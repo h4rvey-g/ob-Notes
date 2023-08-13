@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
-                "mode": "preview",
+                "file": "USMLE/Lab Values.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Lab Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Lab Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md"
+                "file": "USMLE/Lab Values.md"
               }
             }
           }
@@ -213,6 +213,9 @@
   },
   "active": "9f7a64da40d69f44",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230813153046.png",
+    "USMLE/Renal/Urinary incontinence.md",
+    "USMLE/Lab Values.md",
     "appendix/Pasted image 20230813145615.png",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/Cardiology/Atrial fibrillation.md",
@@ -225,7 +228,6 @@
     "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md",
     "Bioinformatics/hmm/cars.md",
     "Bioinformatics/hmm/Cardio.md",
-    "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Renal/Tumor lysis syndrome.md",
     "USMLE/Renal/Pyelonephritis.md",
@@ -243,13 +245,11 @@
     "USMLE/Blood.md",
     "USMLE/Untitled-1.md",
     "USMLE/Introducing USMLE.md",
-    "USMLE/Respiratory/Atelectasis.md",
     "appendix/Pasted image 20230807213802.png",
     "appendix/Pasted image 20230807173432.png",
     "appendix/Pasted image 20230807170545.png",
     "appendix/Pasted image 20230807151432.png",
     "appendix/Pasted image 20230807151256.png",
-    "appendix/Pasted image 20230807151234.png",
     "USMLE/Immunology",
     "USMLE/Biochemistry",
     "tables/Untitled.loom",
