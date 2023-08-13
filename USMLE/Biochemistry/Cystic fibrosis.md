@@ -58,10 +58,11 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
+
 
 ---

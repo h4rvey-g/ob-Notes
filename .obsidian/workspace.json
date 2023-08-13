@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Renal/Urinary incontinence.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Renal/Urinary incontinence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Renal/Urinary incontinence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md"
+                "file": "USMLE/Renal/Urinary incontinence.md"
               }
             }
           }
@@ -213,10 +213,13 @@
   },
   "active": "9f7a64da40d69f44",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230813145615.png",
+    "USMLE/Biochemistry/Cystic fibrosis.md",
+    "USMLE/Cardiology/Atrial fibrillation.md",
+    "appendix/Pasted image 20230813144806.png",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Renal/Intermittent catheterization.md",
-    "USMLE/Cardiology/Atrial fibrillation.md",
     "USMLE/Cardiology/Ashman phenomenon.md",
     "USMLE/Cardiology/Atrial flutter.md",
     "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md",
@@ -241,15 +244,12 @@
     "USMLE/Untitled-1.md",
     "USMLE/Introducing USMLE.md",
     "USMLE/Respiratory/Atelectasis.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230807213802.png",
     "appendix/Pasted image 20230807173432.png",
-    "USMLE/Respiratory/DLCO.md",
     "appendix/Pasted image 20230807170545.png",
     "appendix/Pasted image 20230807151432.png",
     "appendix/Pasted image 20230807151256.png",
     "appendix/Pasted image 20230807151234.png",
-    "appendix/Pasted image 20230806165400.png",
     "USMLE/Immunology",
     "USMLE/Biochemistry",
     "tables/Untitled.loom",
