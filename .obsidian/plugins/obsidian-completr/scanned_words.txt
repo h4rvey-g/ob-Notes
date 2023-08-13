@@ -302,6 +302,7 @@ Tdhe
 TPHS
 Trauma
 Transient
+Trick
 differentials
 differential
 diagnosis
@@ -710,6 +711,7 @@ ductsj
 distention
 duct
 deferens
+digits
 of
 over
 originate
@@ -2127,6 +2129,8 @@ transmitted
 transmembrane
 transport
 transepithelial
+toes
+totals
 in
 includes
 involving
@@ -3204,6 +3208,7 @@ morphologically
 misfolded
 malabsorption
 meconium
+metabolic
 Sinus
 ST
 Segment
@@ -4439,6 +4444,7 @@ arm
 across
 aureus
 azoospermia
+assesses
 ventricular
 varying
 vaccines
@@ -5172,6 +5178,7 @@ catheters
 conductance
 chloride
 charge
+creatinine
 bypass
 block
 background
@@ -5514,6 +5521,9 @@ bJh
 bladder
 bacteria
 bile
+basic
+bun
+bunion
 flutter
 from
 focus
@@ -6127,6 +6137,7 @@ wPW
 wgwWWOwo
 weak
 wasting
+word
 Whenever
 Widening
 William
@@ -9570,6 +9581,7 @@ epithelial
 epithelia
 exocrine
 esophageal
+extremity
 Early
 Elevation
 Etiology
@@ -10770,6 +10782,7 @@ hydrocephalus
 hypermobility
 hyperglycemia
 hyperviscous
+help
 peaked
 pattern
 precordial
@@ -11199,6 +11212,8 @@ pancreatic
 portal
 palpable
 polyps
+panel
+per
 Unusual
 Usually
 Upc
@@ -11467,6 +11482,7 @@ Urge
 Urethral
 Urinary
 UTIs
+Urea
 Bundle
 Branch
 Block
@@ -11743,6 +11759,9 @@ Bladder
 BPH
 Both
 Biliary
+Basic
+BUN
+Bunions
 Characteristic
 CLL
 Clinical
@@ -13943,6 +13962,7 @@ NLOLMb
 NnA
 NKT
 NaCl
+Nitrogen
 jEQ
 jL
 jO

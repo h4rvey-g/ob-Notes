@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/BUN-creatinine ratio.md",
+                "file": "USMLE/Lab Values.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/BUN-creatinine ratio.md",
+                "file": "USMLE/Lab Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/BUN-creatinine ratio.md",
+                "file": "USMLE/Lab Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/BUN-creatinine ratio.md"
+                "file": "USMLE/Lab Values.md"
               }
             }
           }
@@ -213,8 +213,8 @@
   },
   "active": "9f7a64da40d69f44",
   "lastOpenFiles": [
-    "USMLE/Lab Values.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
+    "USMLE/Lab Values.md",
     "appendix/Pasted image 20230813153046.png",
     "USMLE/Renal/Urinary incontinence.md",
     "appendix/Pasted image 20230813145615.png",
