@@ -1,0 +1,66 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-annotator:toggle-annotation-mode",
+      "icon": "book",
+      "name": "Annotator: Toggle Annotation/Markdown Mode",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-mkdocs-publisher:publisher-one",
+      "icon": "upload-cloud",
+      "name": "Github Publisher: Upload single current active note",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "obsidian-mkdocs-publisher:publisher-upload-all-edited-new",
+      "icon": "hand-metal",
+      "name": "Github Publisher: Refresh published and upload new notes",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "obsidian-mkdocs-publisher:publisher-upload-all-edited-new",
+      "icon": "hand-metal",
+      "name": "Github Publisher: Refresh published and upload new notes",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "file-plus",
+      "name": "Templater: Create new note from template",
+      "mode": "any"
+    }
+  ],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "BRAT",
+      "Copilot Chat"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

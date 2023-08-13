@@ -706,6 +706,10 @@ diuretics
 distended
 dribbling
 day
+ductsj
+distention
+duct
+deferens
 of
 over
 originate
@@ -991,6 +995,7 @@ oyo
 outlet
 overfilling
 order
+organs
 regular
 reentrant
 retrograde
@@ -1386,6 +1391,11 @@ retention
 runs
 refractory
 resultant
+regulator
+rER
+reproductive
+reabsorb
+remodeling
 narrow
 negative
 not
@@ -1702,6 +1712,7 @@ nitrates
 necessary
 neurogenic
 new
+newborns
 tachycardia
 tract
 the
@@ -2113,6 +2124,9 @@ tRI
 tfq
 transurethral
 transmitted
+transmembrane
+transport
+transepithelial
 in
 includes
 involving
@@ -2527,6 +2541,12 @@ indwelling
 insertion
 isolated
 impulse
+intestinal
+inability
+ileus
+infancy
+infertile
+intact
 general
 giving
 generation
@@ -3181,6 +3201,9 @@ mixed
 male
 mobility
 morphologically
+misfolded
+malabsorption
+meconium
 Sinus
 ST
 Segment
@@ -3481,6 +3504,8 @@ SGS
 Stress
 Spinal
 Stool
+Signs
+Sweat
 AVNRT
 Atrial
 AVRT
@@ -3791,6 +3816,8 @@ Atrophic
 Aberrant
 Afib
 Ashman
+ATP
+Abdominal
 Orthodromic
 On
 Often
@@ -4407,6 +4434,11 @@ angina
 ascending
 atrophic
 aberrant
+autosomal
+arm
+across
+aureus
+azoospermia
 ventricular
 varying
 vaccines
@@ -4701,6 +4733,10 @@ vGg
 vWC
 vagal
 vaginitis
+vitamins
+varices
+vulnerability
+vas
 conduction
 concealed
 complex
@@ -5133,6 +5169,9 @@ continuous
 catherization
 catheter
 catheters
+conductance
+chloride
+charge
 bypass
 block
 background
@@ -5474,6 +5513,7 @@ bhY
 bJh
 bladder
 bacteria
+bile
 flutter
 from
 focus
@@ -5829,6 +5869,8 @@ female
 floor
 favored
 fewer
+fatty
+fertility
 with
 wave
 which
@@ -6084,6 +6126,7 @@ wrz
 wPW
 wgwWWOwo
 weak
+wasting
 Whenever
 Widening
 William
@@ -6324,6 +6367,7 @@ WUx
 WBCs
 WBC
 Wide
+Women
 you
 young
 ybif
@@ -7030,6 +7074,13 @@ scheduled
 seconds
 situations
 shorter
+sweat
+salt
+stools
+soluble
+sinusitis
+salty
+spermatogenesis
 QRS
 QT
 QDQ
@@ -7573,6 +7624,8 @@ lhx
 lCU
 lMM
 leak
+located
+lumen
 Multifocal
 Mild
 Moderate
@@ -7886,6 +7939,9 @@ MyGS
 MIlF
 Murow
 Mechanism
+Mutated
+Meconium
+Men
 Differentiate
 Drugs
 DDx
@@ -8203,6 +8259,7 @@ DTppp
 DmL
 DIAPPERS
 Delirium
+Defective
 FFF
 Fib
 Fi
@@ -8475,6 +8532,8 @@ Fcai
 FOF
 FQd
 Frequent
+Failure
+Foul
 In
 It
 Intraventricular
@@ -8857,6 +8916,7 @@ IEP
 Intrinsic
 Impaired
 Intermittent
+Intestinal
 PACs
 Primary
 Pathophysiology
@@ -9164,6 +9224,8 @@ Postmenopausal
 Psychiatric
 Pharmaceutical
 Postvoid
+Pancreatitis
+Particularly
 ectopic
 elevation
 early
@@ -9504,6 +9566,10 @@ eZU
 esterase
 emptying
 empty
+epithelial
+epithelia
+exocrine
+esophageal
 Early
 Elevation
 Etiology
@@ -9800,6 +9866,8 @@ EbH
 ElX
 Ehrh
 EvM
+ENaC
+Exocrine
 LEFT
 Lengthening
 Left
@@ -10353,6 +10421,7 @@ HjER
 Hwa
 HOS
 Hematuria
+Hypoproteinemia
 hyperkalemia
 hypertrophy
 hereditary
@@ -10700,6 +10769,7 @@ hpf
 hydrocephalus
 hypermobility
 hyperglycemia
+hyperviscous
 peaked
 pattern
 precordial
@@ -11123,6 +11193,12 @@ pelvic
 prevention
 preexcitation
 preexcited
+pancreas
+passages
+pancreatic
+portal
+palpable
+polyps
 Unusual
 Usually
 Upc
@@ -11666,6 +11742,7 @@ Bacteriuria
 Bladder
 BPH
 Both
+Biliary
 Characteristic
 CLL
 Clinical
@@ -11959,6 +12036,8 @@ CaZ
 CiX
 Cxr
 Complete
+CFTR
+CFRD
 Right
 Retrograde
 Rates
@@ -12257,6 +12336,7 @@ RTK
 RVWW
 Restricted
 RBBB
+Rectal
 Voltage
 VFV
 VoNW
@@ -13264,6 +13344,7 @@ Gsa
 GDK
 GdtK
 Genitourinary
+Genital
 Jervell
 JYo
 JO
@@ -13861,6 +13942,7 @@ NJv
 NLOLMb
 NnA
 NKT
+NaCl
 jEQ
 jL
 jO

@@ -14,7 +14,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 - In sweat glands
 	- Defective ATP-gated chloride channel → inability to reabsorb Cl- from the lumen of the sweat glands → reduced reabsorption of Na<sup>+</sup> and H<sup>2</sup>O → excessive loss of salt and elevated levels of NaCl in sweat
 - In all other exocrine glands (e.g., in the GI tract or lungs)
-	- Defective ATP-gated chloride channel → inability to transport intracellular Cl- across the cell membrane → reduced secretion of Cl- and H2O → accumulation of intracellular Cl- → ↑ Na+ reabsorption (via ENaC)  → ↑ H2O reabsorption  → formation of hyperviscous mucus → accumulation of secretions and blockage of small passages of affected organs → chronic inflammation and remodeling → organ damage (see “Clinical features” below) 
+	- Defective ATP-gated chloride channel → inability to transport intracellular Cl- across the cell membrane → reduced secretion of Cl- and H2O → accumulation of intracellular Cl- → ↑ Na+ reabsorption (via ENaC)  → ↑ H2O reabsorption  →<mark style="background: #FFF3A34A;"> formation of hyperviscous mucus → accumulation of secretions and blockage of small passages of affected organs → chronic inflammation and remodeling </mark>→ organ damage (see “Clinical features” below) 
 	- ↑ Na+ reabsorption → transepithelial potential difference between interstitial fluid and the epithelial surface increases (i.e., negative charge increases; e.g., from normal -13 mv to abnormal -25 mv)
 
 ---

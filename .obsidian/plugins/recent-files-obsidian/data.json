@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Cystic fibrosis",
+      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
+    },
+    {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Asthma",
       "path": "USMLE/Respiratory/Asthma.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     },
     {
       "basename": "Congestive heart failure",
@@ -163,10 +167,6 @@
     {
       "basename": "Corynebacterium diphtheriae",
       "path": "USMLE/Infective disease/Corynebacterium diphtheriae.md"
-    },
-    {
-      "basename": "Cystic fibrosis",
-      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     },
     {
       "basename": "Bronchiectasis",
