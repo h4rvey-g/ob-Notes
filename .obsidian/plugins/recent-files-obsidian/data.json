@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephritic syndrome",
+      "path": "USMLE/Renal/Nephritic syndrome.md"
+    },
+    {
+      "basename": "Diffuse proliferative glomerulonephritis",
+      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
+    },
+    {
       "basename": "Goodpasture syndrome",
       "path": "USMLE/Renal/Goodpasture syndrome.md"
+    },
+    {
+      "basename": "Rapidly progressive glomerulonephritis",
+      "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     },
     {
       "basename": "Lab Values",
@@ -187,18 +199,6 @@
     {
       "basename": "callout-mnemonic",
       "path": "template/callout-mnemonic.md"
-    },
-    {
-      "basename": "USMLE-note",
-      "path": "template/USMLE-note.md"
-    },
-    {
-      "basename": "callout-tip",
-      "path": "template/callout-tip.md"
-    },
-    {
-      "basename": "Common-note",
-      "path": "template/Common-note.md"
     }
   ],
   "omittedPaths": [],

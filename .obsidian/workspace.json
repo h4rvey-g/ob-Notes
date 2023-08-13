@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Goodpasture syndrome.md",
+                "file": "USMLE/Renal/Nephritic syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Goodpasture syndrome.md",
+                "file": "USMLE/Renal/Nephritic syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Goodpasture syndrome.md",
+                "file": "USMLE/Renal/Nephritic syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Goodpasture syndrome.md"
+                "file": "USMLE/Renal/Nephritic syndrome.md"
               }
             }
           }
@@ -213,8 +213,11 @@
   },
   "active": "9f7a64da40d69f44",
   "lastOpenFiles": [
-    "USMLE/Lab Values.md",
+    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+    "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Goodpasture syndrome.md",
+    "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
+    "USMLE/Lab Values.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "appendix/Pasted image 20230813153046.png",
     "USMLE/Renal/Urinary incontinence.md",
@@ -243,9 +246,6 @@
     "USMLE/Cardiology/Congestive heart failure.md",
     "USMLE/Respiratory/Pulmonary embolism.md",
     "appendix/Pasted image 20230808202409.png",
-    "USMLE/Respiratory/flow-volume loop.md",
-    "USMLE/Blood.md",
-    "USMLE/Untitled-1.md",
     "appendix/Pasted image 20230807213802.png",
     "appendix/Pasted image 20230807173432.png",
     "appendix/Pasted image 20230807170545.png",

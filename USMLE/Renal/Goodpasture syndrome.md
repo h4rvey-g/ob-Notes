@@ -19,7 +19,7 @@ share: true
 - Cough
 - Dyspnea
 - Nephritic syndrome
-	- Usually presents as RPGN type 1
+	- Usually presents as [[Rapidly progressive glomerulonephritis|RPGN]] type 1
 	- Proliferative glomerulonephritis
 
 ---
