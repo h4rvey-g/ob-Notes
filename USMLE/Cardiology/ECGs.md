@@ -26,8 +26,11 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 on the LEFT, the T wave repolarization looks like a continuation of the S wave. This is not ST elevation and is seen often in young adults. It is called benign early repolarization. On the right, you clearly see the completion of the S wave and a clear ST Segment which allows you to do an accurate ST Elevation measurement.
 # Premature Atrial Complex (PAC)
 A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">premature beat arising from ectopic pacemaking tissue within the atria</mark>. There is an abnormal P wave, usually followed by a normal QRS complex. AKA: Atrial ectopics, atrial extrasystoles, atrial premature beats, atrial premature depolarisations.
+![[Pasted image 20230813210013.png]]
 >[!tip] 
 >- Abnormal (non-sinus) P wave usually followed by a normal QRS complex (< 120 ms)
+>	- PACs arising close to the AV node (“low atrial” ectopics) cause <mark style="background: #FFF3A34A;">retrograde activation</mark> of the atria, producing an<mark style="background: #FFF3A34A;"> inverted P wave</mark> with a relatively short PR interval ≥ 120 ms (PR interval < 120 ms is classified as a PJC)
+>	- The abnormal P wave may be hidden in the preceding T wave, producing a “peaked” or “camel hump” appearance
 >- Post-extrasystolic pauses may be present — PACs that reach the SA node may depolarise it, causing the SA node to be “reset”, with a longer-than-normal interval before the next sinus beat arrives
 >- PACs may also be conducted aberrantly (usually RBBB morphology), or not conducted at all. P waves will still be visible in both cases
 # Hyperkalemia
@@ -130,11 +133,29 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 - Secondary repolarization abnormalities: Ventricular hypertrophy, LBBB
 - Nonspecific ST-segment depression: Hypokalemia
 ## T wave
+### Pathophysiology of abnormalities
+- Ventricular repolarization vector directed away from the electrode of the ECG lead
+- Changes in myocardial cellular electrophysiology (e.g., during ischemia or infarction)
+- Changes in the sequence of ventricular activation (e.g., in bundle branch blocks or cardiac hypertrophy)
+### Classifications
 - Peaked T wave
 	- Hyperkalemia
 	- High vagal tone
 	- Early stages of a STEMI
 	- Prinzmetal angina
+- T wave inversion (inverted T wave)
+	- May be a normal finding in:
+		- Leads III, aVR, or V1
+		- Children
+	- <mark style="background: #FFF3A34A;">Coronary artery disease (myocardial ischemia)</mark>
+	- Bundle branch blocks
+	- [[Pulmonary embolism]]  
+	- <mark style="background: #FFF3A34A;">Perimyocarditis </mark>
+	- <mark style="background: #FFF3A34A;">Ventricular hypertrophy</mark>
+	- Digoxin
+	- Intracranial hemorrhage  
+	- Persistent juvenile T-wave pattern
+	- Wellens syndrome
 ## QT interval
 The QT interval includes the QRS complex, the ST segment, and the T wave.
 The two chief causes of a short QT are <mark style="background: #FFF3A34A;">[[hypercalcemia]]</mark> and <mark style="background: #FFF3A34A;">digoxin therapy</mark> (associated with characteristic "scooping" of the ST-T complex). A third and relatively rare cause is <mark style="background: #FFF3A34A;">hereditary short QT</mark> ("channelopathy"-related) that may be associated with ventricular arrhythmia and sudden cardiac arrest.

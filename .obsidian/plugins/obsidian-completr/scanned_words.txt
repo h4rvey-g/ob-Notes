@@ -303,6 +303,7 @@ TPHS
 Trauma
 Transient
 Trick
+There
 differentials
 differential
 diagnosis
@@ -712,6 +713,8 @@ distention
 duct
 deferens
 digits
+depolarisations
+depolarise
 of
 over
 originate
@@ -1398,6 +1401,7 @@ rER
 reproductive
 reabsorb
 remodeling
+reset
 narrow
 negative
 not
@@ -1715,6 +1719,9 @@ necessary
 neurogenic
 new
 newborns
+next
+neither
+nor
 tachycardia
 tract
 the
@@ -3829,6 +3836,7 @@ Ashman
 ATP
 Abdominal
 Auto
+AKA
 Orthodromic
 On
 Often
@@ -4451,6 +4459,10 @@ across
 aureus
 azoospermia
 assesses
+arising
+arrives
+aberrantly
+away
 ventricular
 varying
 vaccines
@@ -4749,6 +4761,7 @@ vitamins
 varices
 vulnerability
 vas
+vector
 conduction
 concealed
 complex
@@ -5190,6 +5203,9 @@ cytokines
 clots
 crescent
 compression
+conducted
+close
+camel
 bypass
 block
 background
@@ -5536,6 +5552,7 @@ basic
 bun
 bunion
 basement
+beats
 flutter
 from
 focus
@@ -6392,6 +6409,7 @@ WBCs
 WBC
 Wide
 Women
+Wellens
 you
 young
 ybif
@@ -7105,6 +7123,8 @@ soluble
 sinusitis
 salty
 spermatogenesis
+sub
+sensitive
 QRS
 QT
 QDQ
@@ -7650,6 +7670,7 @@ lMM
 leak
 located
 lumen
+longer
 Multifocal
 Mild
 Moderate
@@ -8941,6 +8962,7 @@ Intrinsic
 Impaired
 Intermittent
 Intestinal
+Intracranial
 PACs
 Primary
 Pathophysiology
@@ -9252,6 +9274,10 @@ Pancreatitis
 Particularly
 Proliferative
 PAC
+Post
+PJC
+Perimyocarditis
+Persistent
 ectopic
 elevation
 early
@@ -9597,6 +9623,11 @@ epithelia
 exocrine
 esophageal
 extremity
+ectopics
+extrasystoles
+extrasystolic
+electrode
+electrophysiology
 Early
 Elevation
 Etiology
@@ -10149,6 +10180,7 @@ LpL
 LVm
 LlG
 Leukocyturia
+Leads
 Hyperkalemia
 HIV
 HCV
@@ -10799,6 +10831,9 @@ hypermobility
 hyperglycemia
 hyperviscous
 help
+hidden
+hump
+hemorrhage
 peaked
 pattern
 precordial
@@ -11233,6 +11268,9 @@ per
 presents
 plasma
 passage
+pacemaking
+pauses
+preceding
 Unusual
 Usually
 Upc
@@ -12079,6 +12117,9 @@ Complete
 CFTR
 CFRD
 Complex
+Changes
+Children
+Coronary
 Right
 Retrograde
 Rates
@@ -14261,6 +14302,7 @@ jwQ
 jjjr
 jka
 joy
+juvenile
 kO
 kWCQ
 ky
