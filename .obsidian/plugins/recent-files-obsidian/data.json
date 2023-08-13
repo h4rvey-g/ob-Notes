@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
       "basename": "Atrial fibrillation",
       "path": "USMLE/Cardiology/Atrial fibrillation.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Intermittent catheterization",
       "path": "USMLE/Renal/Intermittent catheterization.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Nephrolithiasis",
