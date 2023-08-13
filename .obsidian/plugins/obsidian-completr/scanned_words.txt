@@ -1404,6 +1404,7 @@ reabsorb
 remodeling
 reset
 rheumatic
+readily
 narrow
 negative
 not
@@ -3223,6 +3224,11 @@ malabsorption
 meconium
 metabolic
 moon
+monoarthritis
+marginatum
+monoarthralgia
+marked
+mitral
 Sinus
 ST
 Segment
@@ -3525,6 +3531,8 @@ Spinal
 Stool
 Signs
 Sweat
+SPACE
+Subcutaneous
 AVNRT
 Atrial
 AVRT
@@ -3840,6 +3848,9 @@ Abdominal
 Auto
 AKA
 ARF
+Arthritis
+Arthralgia
+Accelerated
 Orthodromic
 On
 Often
@@ -4467,6 +4478,9 @@ arrives
 aberrantly
 away
 ages
+additional
+abnormality
+account
 ventricular
 varying
 vaccines
@@ -7992,6 +8006,8 @@ Mechanism
 Mutated
 Meconium
 Men
+Major
+Minor
 Differentiate
 Drugs
 DDx
@@ -9283,6 +9299,10 @@ Post
 PJC
 Perimyocarditis
 Persistent
+Pancarditis
+Polyarthritis
+Polyarthralgia
+Potential
 ectopic
 elevation
 early
@@ -9932,6 +9952,7 @@ Ehrh
 EvM
 ENaC
 Exocrine
+ESR
 LEFT
 Lengthening
 Left
@@ -10187,6 +10208,7 @@ LVm
 LlG
 Leukocyturia
 Leads
+LEAF
 Hyperkalemia
 HIV
 HCV
@@ -11278,6 +11300,8 @@ pacemaking
 pauses
 preceding
 people
+population
+presence
 Unusual
 Usually
 Upc
@@ -12127,6 +12151,8 @@ Complex
 Changes
 Children
 Coronary
+Chorea
+CRP
 Right
 Retrograde
 Rates
@@ -13194,6 +13220,7 @@ quGRmN
 qtNN
 qqff
 qRL
+qualifies
 GpIIb
 GpIb
 Gg

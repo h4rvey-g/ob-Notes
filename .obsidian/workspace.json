@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Acute rheumatic fever.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Acute rheumatic fever.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Acute rheumatic fever.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Acute rheumatic fever.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -213,17 +213,17 @@
   },
   "active": "9f7a64da40d69f44",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Acute rheumatic fever.md",
+    "USMLE/Renal/Nephritic syndrome.md",
     "appendix/Pasted image 20230813213303.png",
     "appendix/Pasted image 20230813213137.png",
     "appendix/Untitled 1.loom",
-    "USMLE/Cardiology/Acute rheumatic fever.md",
     "USMLE/Cardiology/Rheumatic heart disease.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Pulmonary embolism.md",
     "appendix/Pasted image 20230813210013.png",
     "USMLE/Cardiology/ectopic atrial rhythm.md",
-    "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Lab Values.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Renal/Goodpasture syndrome.md",
@@ -250,7 +250,6 @@
     "Pasted image 20230617214946.png",
     "appendix/Pasted image 20230808202409.png",
     "appendix/Pasted image 20230807213802.png",
-    "appendix/Pasted image 20230807173432.png",
     "USMLE/Immunology",
     "USMLE/Biochemistry",
     "tables/Untitled.loom",
