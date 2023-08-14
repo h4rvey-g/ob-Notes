@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Pericardial effusion.md",
-                "mode": "source",
+                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Pericardial effusion.md",
+                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Pericardial effusion.md",
+                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Pericardial effusion.md"
+                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md"
               }
             }
           }
@@ -213,9 +213,10 @@
   },
   "active": "9f7a64da40d69f44",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Pericardial effusion.md",
+    "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
     "appendix/Pasted image 20230813220122.png",
     "USMLE/Cardiology/ECGs.md",
-    "USMLE/Cardiology/Pericardial effusion.md",
     "USMLE/Cardiology/Acute rheumatic fever.md",
     "USMLE/Renal/Nephritic syndrome.md",
     "appendix/Pasted image 20230813213303.png",
@@ -250,7 +251,6 @@
     "USMLE/Renal",
     "Pasted image 20230617214946.png",
     "appendix/Pasted image 20230808202409.png",
-    "appendix/Pasted image 20230807213802.png",
     "USMLE/Immunology",
     "USMLE/Biochemistry",
     "tables/Untitled.loom",

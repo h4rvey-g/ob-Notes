@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drug-induced lupus erythematosus",
+      "path": "USMLE/Cardiology/Drug-induced lupus erythematosus.md"
+    },
+    {
       "basename": "Pericardial effusion",
       "path": "USMLE/Cardiology/Pericardial effusion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chronic obstructive pulmonary disease",
       "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
-    },
-    {
-      "basename": "Type I hypersensitivity reaction",
-      "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
     }
   ],
   "omittedPaths": [],
