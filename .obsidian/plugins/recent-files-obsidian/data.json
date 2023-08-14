@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pericardial effusion",
+      "path": "USMLE/Cardiology/Pericardial effusion.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Type I hypersensitivity reaction",
       "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
-    },
-    {
-      "basename": "IgA protease",
-      "path": "USMLE/Infective disease/IgA protease.md"
     }
   ],
   "omittedPaths": [],
