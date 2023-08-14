@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
-                "mode": "preview",
+                "file": "USMLE/Renal/Horseshoe kidney.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
+                "file": "USMLE/Renal/Horseshoe kidney.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
+                "file": "USMLE/Renal/Horseshoe kidney.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Drug-induced lupus erythematosus.md"
+                "file": "USMLE/Renal/Horseshoe kidney.md"
               }
             }
           }
@@ -213,8 +213,10 @@
   },
   "active": "9f7a64da40d69f44",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Pericardial effusion.md",
+    "appendix/Pasted image 20230814153201.png",
     "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
+    "USMLE/Renal/Horseshoe kidney.md",
+    "USMLE/Cardiology/Pericardial effusion.md",
     "appendix/Pasted image 20230813220122.png",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Acute rheumatic fever.md",
@@ -245,8 +247,6 @@
     "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md",
     "Bioinformatics/hmm/cars.md",
     "Bioinformatics/hmm/Cardio.md",
-    "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/Renal/Tumor lysis syndrome.md",
     "appendix/Pasted image 20230811161233.png",
     "USMLE/Renal",
     "Pasted image 20230617214946.png",
