@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Fractional excretion of sodium",
-      "path": "USMLE/Renal/Fractional excretion of sodium.md"
-    },
-    {
-      "basename": "Diagnostic evaluation of the kidney and urinary tract",
-      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
+      "basename": "Acute kidney injury",
+      "path": "USMLE/Renal/Acute kidney injury.md"
     },
     {
       "basename": "BUN-creatinine ratio",
       "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
+      "basename": "Fractional excretion of sodium",
+      "path": "USMLE/Renal/Fractional excretion of sodium.md"
+    },
+    {
+      "basename": "USMLE-note",
+      "path": "template/USMLE-note.md"
+    },
+    {
+      "basename": "highlight-yellow",
+      "path": "template/highlight-yellow.md"
+    },
+    {
+      "basename": "callout-mnemonic",
+      "path": "template/callout-mnemonic.md"
+    },
+    {
+      "basename": "Diagnostic evaluation of the kidney and urinary tract",
+      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
     },
     {
       "basename": "Horseshoe kidney",
@@ -183,22 +199,6 @@
     {
       "basename": "Restrictive cardiomyopathy",
       "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
-    },
-    {
-      "basename": "Löffler endocarditis",
-      "path": "USMLE/Cardiology/Löffler endocarditis.md"
-    },
-    {
-      "basename": "Miscellaneous",
-      "path": "USMLE/Respiratory/Miscellaneous.md"
-    },
-    {
-      "basename": "Chronic granulomatous disease",
-      "path": "USMLE/Immunology/Chronic granulomatous disease.md"
-    },
-    {
-      "basename": "Aspergillosis",
-      "path": "USMLE/Respiratory/Aspergillosis.md"
     }
   ],
   "omittedPaths": [],

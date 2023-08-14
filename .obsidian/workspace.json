@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Fractional excretion of sodium.md",
+                "file": "USMLE/Renal/Acute kidney injury.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Fractional excretion of sodium.md",
+                "file": "USMLE/Renal/Acute kidney injury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Fractional excretion of sodium.md",
+                "file": "USMLE/Renal/Acute kidney injury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Fractional excretion of sodium.md"
+                "file": "USMLE/Renal/Acute kidney injury.md"
               }
             }
           }
@@ -211,17 +211,21 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9f7a64da40d69f44",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
+    "USMLE/Renal/BUN-creatinine ratio.md",
+    "USMLE/Renal/Acute kidney injury.md",
+    "USMLE/Renal/Fractional excretion of sodium.md",
+    "template/USMLE-note.md",
+    "template/highlight-yellow.md",
+    "USMLE/Cardiology/ECGs.md",
+    "template/callout-mnemonic.md",
     "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
     "USMLE/Cardiology/Acute rheumatic fever.md",
-    "USMLE/Renal/Fractional excretion of sodium.md",
-    "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/Lab Values.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Renal/Nephritic syndrome.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Rheumatic heart disease.md",
     "appendix/Untitled 1.loom",
     "USMLE/Cardiology/Pericardial effusion.md",
@@ -244,10 +248,6 @@
     "appendix/Pasted image 20230813144806.png",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Renal/Intermittent catheterization.md",
-    "USMLE/Cardiology/Ashman phenomenon.md",
-    "USMLE/Cardiology/Atrial flutter.md",
-    "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md",
-    "Bioinformatics/hmm/cars.md",
     "appendix/Pasted image 20230811161233.png",
     "USMLE/Renal",
     "Pasted image 20230617214946.png",

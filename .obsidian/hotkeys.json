@@ -27,28 +27,12 @@
       "key": "R"
     }
   ],
-  "highlightr-plugin:Green": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "3"
-    }
-  ],
   "editing-toolbar:center": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "E"
-    }
-  ],
-  "highlightr-plugin:Yellow-Light": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "2"
     }
   ],
   "templater-obsidian:insert-templater": [],
@@ -145,6 +129,14 @@
         "Shift"
       ],
       "key": "-"
+    }
+  ],
+  "templater-obsidian:template/highlight-yellow.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
     }
   ]
 }
