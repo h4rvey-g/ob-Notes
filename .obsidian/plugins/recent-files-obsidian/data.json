@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Urine osmolality",
+      "path": "USMLE/Renal/Urine osmolality.md"
+    },
+    {
       "basename": "Acute kidney injury",
       "path": "USMLE/Renal/Acute kidney injury.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Eaton agar",
       "path": "USMLE/Infective disease/Eaton agar.md"
-    },
-    {
-      "basename": "Restrictive cardiomyopathy",
-      "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
     }
   ],
   "omittedPaths": [],
