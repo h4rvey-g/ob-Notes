@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Fractional excretion of sodium",
+      "path": "USMLE/Renal/Fractional excretion of sodium.md"
+    },
+    {
+      "basename": "Diagnostic evaluation of the kidney and urinary tract",
+      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
+    },
+    {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
       "basename": "Horseshoe kidney",
       "path": "USMLE/Renal/Horseshoe kidney.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "Acute rheumatic fever",
       "path": "USMLE/Cardiology/Acute rheumatic fever.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "appendix/Untitled 1.loom"
     },
     {
       "basename": "Rheumatic heart disease",
@@ -47,10 +55,6 @@
     {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
     },
     {
       "basename": "Cystic fibrosis",
@@ -195,10 +199,6 @@
     {
       "basename": "Aspergillosis",
       "path": "USMLE/Respiratory/Aspergillosis.md"
-    },
-    {
-      "basename": "单抗记忆",
-      "path": "USMLE/单抗记忆.md"
     }
   ],
   "omittedPaths": [],
