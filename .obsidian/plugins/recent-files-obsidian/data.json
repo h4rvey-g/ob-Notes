@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Urine specific gravity",
+      "path": "USMLE/Renal/Urine specific gravity.md"
+    },
+    {
+      "basename": "Diagnostic evaluation of the kidney and urinary tract",
+      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
+    },
+    {
       "basename": "Urine osmolality",
       "path": "USMLE/Renal/Urine osmolality.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "callout-mnemonic",
       "path": "template/callout-mnemonic.md"
-    },
-    {
-      "basename": "Diagnostic evaluation of the kidney and urinary tract",
-      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
     },
     {
       "basename": "Horseshoe kidney",
@@ -195,10 +199,6 @@
     {
       "basename": "Pneumonia",
       "path": "USMLE/Respiratory/Pneumonia.md"
-    },
-    {
-      "basename": "Eaton agar",
-      "path": "USMLE/Infective disease/Eaton agar.md"
     }
   ],
   "omittedPaths": [],

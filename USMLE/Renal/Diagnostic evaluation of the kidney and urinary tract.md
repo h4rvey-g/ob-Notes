@@ -7,3 +7,5 @@ share: true
 ---
 1. [[BUN-creatinine ratio]]
 2. [[Fractional excretion of sodium|FeNa]]
+3. [[Urine specific gravity]]
+4. [[Urine osmolality]]
