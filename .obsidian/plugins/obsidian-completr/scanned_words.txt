@@ -736,6 +736,8 @@ dZe
 dJNN
 dRR
 distal
+dissolved
+diet
 of
 over
 originate
@@ -1451,6 +1453,11 @@ ryppp
 rhI
 rrrZZ
 reOOOwww
+rhomboid
+radiolucent
+rather
+ric
+radiol
 narrow
 negative
 not
@@ -1777,6 +1784,7 @@ nephrotic
 nephron
 nBP
 nnniii
+needle
 tachycardia
 tract
 the
@@ -2199,6 +2207,7 @@ twwG
 tMB
 tbF
 tubule
+turnover
 in
 includes
 involving
@@ -3317,6 +3326,8 @@ mrrrZZZ
 muu
 mNN
 macroscopic
+microscopy
+minimally
 Sinus
 ST
 Segment
@@ -3957,6 +3968,7 @@ ADD
 Ahh
 ApjFF
 AaC
+Allopurinol
 Orthodromic
 On
 Often
@@ -4609,6 +4621,9 @@ aLL
 abH
 aGG
 affecting
+alkalinization
+alkalizing
+accelerate
 ventricular
 varying
 vaccines
@@ -5379,6 +5394,9 @@ coli
 crystals
 convoluted
 collecting
+chemolitholysis
+citrate
+cent
 bypass
 block
 background
@@ -7366,6 +7384,7 @@ struvite
 sediment
 saprophyticus
 structures
+stones
 QRS
 QT
 QDQ
@@ -8581,6 +8600,7 @@ DmQ
 DZFX
 Dboo
 Dbkk
+Diabetes
 FFF
 Fib
 Fi
@@ -9959,6 +9979,7 @@ eHF
 eeeQW
 eeeu
 enzyme
+excretion
 Early
 Elevation
 Etiology
@@ -10842,6 +10863,8 @@ HOOwww
 Hxx
 HmV
 HHHhhh
+Hyperuricemia
+Hydration
 hyperkalemia
 hypertrophy
 hereditary
@@ -11211,6 +11234,7 @@ hkk
 hNIu
 hcc
 hematuria
+hyperuricosuria
 peaked
 pattern
 precordial
@@ -11668,6 +11692,9 @@ pWv
 pssS
 pCK
 pQL
+prophylaxis
+purine
+probenecid
 Unusual
 Usually
 Upc
@@ -11943,6 +11970,9 @@ UAA
 Uaa
 UUUUvv
 UTQQ
+Uric
+Urine
+Uricosuric
 Bundle
 Branch
 Block
@@ -13385,6 +13415,8 @@ uYXX
 uJXQU
 uss
 urease
+unique
+uric
 quinine
 qz
 qM
@@ -13880,6 +13912,7 @@ Genitourinary
 Genital
 GFR
 GUUU
+Gout
 Jervell
 JYo
 JO
