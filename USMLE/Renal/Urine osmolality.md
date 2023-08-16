@@ -7,4 +7,4 @@ share: true
 ---
 - Can be used to evaluate <span style="background:rgba(240, 200, 0, 0.2)">urine concentration</span>
 - Decrease when urine concentration is damaged (e.g. Intrinsic renal failure)
-- More accurate than the dipstick measurement for **specific gravity** (not affected by large molecules)
+- More accurate than the dipstick measurement for **[[urine specific gravity]]** (not affected by large molecules)
