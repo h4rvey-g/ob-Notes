@@ -24,6 +24,10 @@ share: true
 	- ≥ 5 WBC/HPF
 - Bacteriuria: presence of bacteria in the urine [26]
 	- Positive urinary nitrites: indicate bacteria that convert nitrates to nitrites (most commonly gram-negative bacteria; e.g., E.coli)
+- Other findings
+	- Leukocyte casts may indicate [[pyelonephritis]].
+	- Micro- or macroscopic hematuria may be present. 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Alkaline urine (pH > 8) and struvite crystals in sediment: indicate urease-producing organisms (e.g., Proteus, Klebsiella, Staphylococcus saprophyticus)</span>
 
 ---
 # Treatment

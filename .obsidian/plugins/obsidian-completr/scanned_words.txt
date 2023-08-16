@@ -1028,6 +1028,7 @@ onff
 ogee
 oVV
 ovvv
+organisms
 regular
 reentrant
 retrograde
@@ -3311,6 +3312,7 @@ media
 mrrrZZZ
 muu
 mNN
+macroscopic
 Sinus
 ST
 Segment
@@ -3624,6 +3626,7 @@ Srss
 Sbbb
 Sbr
 STF
+Staphylococcus
 AVNRT
 Atrial
 AVRT
@@ -5367,6 +5370,8 @@ caa
 clgf
 cQA
 ciE
+coli
+crystals
 bypass
 block
 background
@@ -6365,6 +6370,7 @@ waa
 wrss
 wxx
 wXn
+white
 Whenever
 Widening
 William
@@ -7349,6 +7355,9 @@ sVp
 ssso
 sgA
 sLEC
+struvite
+sediment
+saprophyticus
 QRS
 QT
 QDQ
@@ -8233,6 +8242,7 @@ Measures
 Mbb
 Mpn
 MII
+Micro
 Differentiate
 Drugs
 DDx
@@ -9574,6 +9584,8 @@ PLB
 Pay
 Pvp
 Pft
+Pyelonephritis
+Proteus
 ectopic
 elevation
 early
@@ -9938,6 +9950,7 @@ emT
 eHF
 eeeQW
 eeeu
+enzyme
 Early
 Elevation
 Etiology
@@ -10511,6 +10524,7 @@ LAi
 LLb
 LHH
 LVd
+Leukocyte
 Hyperkalemia
 HIV
 HCV
@@ -11188,6 +11202,7 @@ hYd
 hkk
 hNIu
 hcc
+hematuria
 peaked
 pattern
 precordial
@@ -12523,6 +12538,7 @@ Cyyy
 CYYYHH
 CPTT
 CYT
+Cystitis
 Right
 Retrograde
 Rates
@@ -13360,6 +13376,7 @@ uqq
 uYXX
 uJXQU
 uss
+urease
 quinine
 qz
 qM
@@ -15254,6 +15271,7 @@ KTTT
 KJJJ
 KIIA
 KZZ
+Klebsiella
 zh
 zx
 zo
