@@ -314,6 +314,7 @@ TpS
 Tbb
 TBJ
 TuAA
+Tubular
 differentials
 differential
 diagnosis
@@ -734,6 +735,7 @@ dgZ
 dZe
 dJNN
 dRR
+distal
 of
 over
 originate
@@ -2196,6 +2198,7 @@ tvvv
 twwG
 tMB
 tbF
+tubule
 in
 includes
 involving
@@ -2629,6 +2632,7 @@ iQPP
 iNI
 iRdd
 iZff
+indicative
 general
 giving
 generation
@@ -4604,6 +4608,7 @@ aTT
 aLL
 abH
 aGG
+affecting
 ventricular
 varying
 vaccines
@@ -5372,6 +5377,8 @@ cQA
 ciE
 coli
 crystals
+convoluted
+collecting
 bypass
 block
 background
@@ -7358,6 +7365,7 @@ sLEC
 struvite
 sediment
 saprophyticus
+structures
 QRS
 QT
 QDQ

@@ -1,0 +1,279 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "242be060-b50d-4d59-8b80-9535be2bbde3",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "da32e250-b906-4855-b684-b276bf6d90f7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "d8952b8a-4939-4318-af75-2213f97b2e15",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "5a20b8cb-c121-46c1-a5a0-b9caabf31cc8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "d32d539f-6bb3-461e-bb5f-986d1268eae9"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "e7fd61a6-f3ea-4ea3-9353-7b1f18a71814",
+        "index": 0,
+        "creationTime": 1692175115289,
+        "lastEditedTime": 1692175261433
+      },
+      {
+        "id": "bd5b5a47-c85c-4b0d-bfd2-7dda99a7fb48",
+        "index": 1,
+        "creationTime": 1692175286338,
+        "lastEditedTime": 1692175286338
+      },
+      {
+        "id": "2c4141dc-5022-4329-8745-b687aaaf8792",
+        "index": 2,
+        "creationTime": 1692175363091,
+        "lastEditedTime": 1692175363091
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "66684f58-521d-422c-9620-e0314bf4b4c2"
+      },
+      {
+        "id": "b2f7ba65-3017-4e34-8fe1-4d8b8d167a57"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "3b148794-c596-4769-a69d-9909b0239d7e",
+        "columnId": "242be060-b50d-4d59-8b80-9535be2bbde3",
+        "rowId": "d32d539f-6bb3-461e-bb5f-986d1268eae9",
+        "markdown": "Casts"
+      },
+      {
+        "id": "c9e2f80d-f03e-4a7f-9c3a-b5cdf8b92f13",
+        "columnId": "da32e250-b906-4855-b684-b276bf6d90f7",
+        "rowId": "d32d539f-6bb3-461e-bb5f-986d1268eae9",
+        "markdown": "Structure"
+      },
+      {
+        "id": "c61725a7-33a5-4fe3-94f6-8fab94ddcc06",
+        "columnId": "d8952b8a-4939-4318-af75-2213f97b2e15",
+        "rowId": "d32d539f-6bb3-461e-bb5f-986d1268eae9",
+        "markdown": "Microscopy"
+      },
+      {
+        "id": "c59e99af-392e-4d3b-a13d-46004df07c3d",
+        "columnId": "5a20b8cb-c121-46c1-a5a0-b9caabf31cc8",
+        "rowId": "d32d539f-6bb3-461e-bb5f-986d1268eae9",
+        "markdown": "Interpretation"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "6f109e11-90ff-4fd3-a251-793b0a7b4a3b",
+        "isExternalLink": false,
+        "columnId": "242be060-b50d-4d59-8b80-9535be2bbde3",
+        "rowId": "e7fd61a6-f3ea-4ea3-9353-7b1f18a71814",
+        "dateTime": null,
+        "markdown": "Waxy casts",
+        "tagIds": []
+      },
+      {
+        "id": "4af5aabc-40ec-4a9d-b390-d01216ef66ae",
+        "isExternalLink": false,
+        "columnId": "da32e250-b906-4855-b684-b276bf6d90f7",
+        "rowId": "e7fd61a6-f3ea-4ea3-9353-7b1f18a71814",
+        "dateTime": null,
+        "markdown": "Degenerating granular cast",
+        "tagIds": []
+      },
+      {
+        "id": "83fb59f4-d4cd-49dd-8248-ac421e34999f",
+        "isExternalLink": false,
+        "columnId": "d8952b8a-4939-4318-af75-2213f97b2e15",
+        "rowId": "e7fd61a6-f3ea-4ea3-9353-7b1f18a71814",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "a7917453-8e4f-43a7-9087-80dbb95408e8",
+        "isExternalLink": false,
+        "columnId": "5a20b8cb-c121-46c1-a5a0-b9caabf31cc8",
+        "rowId": "e7fd61a6-f3ea-4ea3-9353-7b1f18a71814",
+        "dateTime": null,
+        "markdown": "- Indicate renal stasis\n- Nonspecific finding\n- May be seen in both acute and chronic kidney disease (end-stage renal disease)",
+        "tagIds": []
+      },
+      {
+        "id": "868a64d8-cd19-463a-9c8e-3b05f856f115",
+        "isExternalLink": false,
+        "columnId": "242be060-b50d-4d59-8b80-9535be2bbde3",
+        "rowId": "bd5b5a47-c85c-4b0d-bfd2-7dda99a7fb48",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "7c35a1df-e21b-434c-a91c-07d401f2e453",
+        "isExternalLink": false,
+        "columnId": "da32e250-b906-4855-b684-b276bf6d90f7",
+        "rowId": "bd5b5a47-c85c-4b0d-bfd2-7dda99a7fb48",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "e039ccda-b384-4e8e-ad2b-f72532af4921",
+        "isExternalLink": false,
+        "columnId": "d8952b8a-4939-4318-af75-2213f97b2e15",
+        "rowId": "bd5b5a47-c85c-4b0d-bfd2-7dda99a7fb48",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "5cac5dc7-47b7-4d23-8a07-32e26afe9a89",
+        "isExternalLink": false,
+        "columnId": "5a20b8cb-c121-46c1-a5a0-b9caabf31cc8",
+        "rowId": "bd5b5a47-c85c-4b0d-bfd2-7dda99a7fb48",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "79c8aa12-be03-41dd-abeb-e96d57ecdd2b",
+        "isExternalLink": false,
+        "columnId": "242be060-b50d-4d59-8b80-9535be2bbde3",
+        "rowId": "2c4141dc-5022-4329-8745-b687aaaf8792",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "e3e548b2-85f4-4a29-93bf-5c59ee19cd99",
+        "isExternalLink": false,
+        "columnId": "da32e250-b906-4855-b684-b276bf6d90f7",
+        "rowId": "2c4141dc-5022-4329-8745-b687aaaf8792",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "103130c1-98cd-4975-af01-947cd32f7488",
+        "isExternalLink": false,
+        "columnId": "d8952b8a-4939-4318-af75-2213f97b2e15",
+        "rowId": "2c4141dc-5022-4329-8745-b687aaaf8792",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "bde5d47d-1186-421b-bf37-49bc194e5c89",
+        "isExternalLink": false,
+        "columnId": "5a20b8cb-c121-46c1-a5a0-b9caabf31cc8",
+        "rowId": "2c4141dc-5022-4329-8745-b687aaaf8792",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "04d30de2-ffcd-4917-91d2-86c687f06a41",
+        "columnId": "242be060-b50d-4d59-8b80-9535be2bbde3",
+        "rowId": "66684f58-521d-422c-9620-e0314bf4b4c2"
+      },
+      {
+        "id": "4bb3a350-b3cd-49b8-9f10-4d04a435f4d0",
+        "columnId": "242be060-b50d-4d59-8b80-9535be2bbde3",
+        "rowId": "b2f7ba65-3017-4e34-8fe1-4d8b8d167a57"
+      },
+      {
+        "id": "4852049c-ac84-40c9-8d35-8d679f7bb4cf",
+        "columnId": "da32e250-b906-4855-b684-b276bf6d90f7",
+        "rowId": "66684f58-521d-422c-9620-e0314bf4b4c2"
+      },
+      {
+        "id": "5896af9f-1357-44e2-85ce-fdd74f234321",
+        "columnId": "da32e250-b906-4855-b684-b276bf6d90f7",
+        "rowId": "b2f7ba65-3017-4e34-8fe1-4d8b8d167a57"
+      },
+      {
+        "id": "186fcee2-66ad-4d8a-8a76-cfff3d5ff5a0",
+        "columnId": "d8952b8a-4939-4318-af75-2213f97b2e15",
+        "rowId": "66684f58-521d-422c-9620-e0314bf4b4c2"
+      },
+      {
+        "id": "da5185c0-9d7d-4e5a-8497-ae5b782081d2",
+        "columnId": "d8952b8a-4939-4318-af75-2213f97b2e15",
+        "rowId": "b2f7ba65-3017-4e34-8fe1-4d8b8d167a57"
+      },
+      {
+        "id": "4d26227f-615e-4386-8eb4-f2faf5ea6f71",
+        "columnId": "5a20b8cb-c121-46c1-a5a0-b9caabf31cc8",
+        "rowId": "66684f58-521d-422c-9620-e0314bf4b4c2"
+      },
+      {
+        "id": "2af05f0c-a543-4597-ae14-b9540f1cee4a",
+        "columnId": "5a20b8cb-c121-46c1-a5a0-b9caabf31cc8",
+        "rowId": "b2f7ba65-3017-4e34-8fe1-4d8b8d167a57"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "8.1.0"
+}

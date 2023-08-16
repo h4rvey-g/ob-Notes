@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Urine sediment",
+      "path": "USMLE/Renal/Urine sediment.md"
+    },
+    {
       "basename": "Urinary tract infections",
       "path": "USMLE/Renal/Urinary tract infections.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mycobacteria",
       "path": "USMLE/Infective disease/Mycobacteria.md"
-    },
-    {
-      "basename": "Pleural effusion",
-      "path": "USMLE/Blood/Pleural effusion.md"
     }
   ],
   "omittedPaths": [],
