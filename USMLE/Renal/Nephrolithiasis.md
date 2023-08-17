@@ -10,6 +10,12 @@ share: true
 
 ---
 # Classifications
+## Calcium oxalate stones
+### Etiology
+- Hypercalciuria
+- Hyperoxaluria
+- Hypocitraturia
+- Associated with inflammatory bowel disease, i.e., ulcerative colitis and <span style="background:rgba(240, 200, 0, 0.2)">Crohn disease due to malabsorption</span>
 ## Uric acid stones
 ### Etiology
 - Hyperuricemia and hyperuricosuria
@@ -40,7 +46,7 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
