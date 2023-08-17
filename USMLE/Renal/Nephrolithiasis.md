@@ -10,6 +10,8 @@ share: true
 
 ---
 # Classifications
+>[!Mnemonic] 
+>![[Pasted image 20230817160901.png]]
 ## Calcium oxalate stones
 ### Etiology
 - Hypercalciuria
@@ -38,7 +40,7 @@ share: true
 - Diabetes mellitus, metabolic syndrome
 - Chronic diarrhea
 ### Diagnosis
-- Urine microscopy: rhomboid/needle-shaped crystals 
+- Urine microscopy: rhomboid/needle-shaped crystals ![[Pasted image 20230817160628.png]]
 - X-ray: radiolucent stones
 - CT: can be visible but are usually only minimally visible (not as visible as calcium stones)
 ### Treatment
