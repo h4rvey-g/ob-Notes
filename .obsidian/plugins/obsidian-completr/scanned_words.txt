@@ -738,6 +738,8 @@ dRR
 distal
 dissolved
 diet
+dietary
+dumbbell
 of
 over
 originate
@@ -1033,6 +1035,8 @@ ogee
 oVV
 ovvv
 organisms
+oxalate
+octahedron
 regular
 reentrant
 retrograde
@@ -1458,6 +1462,7 @@ radiolucent
 rather
 ric
 radiol
+radiopaque
 narrow
 negative
 not
@@ -2208,6 +2213,7 @@ tMB
 tbF
 tubule
 turnover
+toxicity
 in
 includes
 involving
@@ -3328,6 +3334,7 @@ mNN
 macroscopic
 microscopy
 minimally
+metabolized
 Sinus
 ST
 Segment
@@ -4624,6 +4631,7 @@ affecting
 alkalinization
 alkalizing
 accelerate
+absorption
 ventricular
 varying
 vaccines
@@ -4930,6 +4938,7 @@ veee
 vNN
 vxyy
 vMJJJOO
+vomiting
 conduction
 concealed
 complex
@@ -5397,6 +5406,7 @@ collecting
 chemolitholysis
 citrate
 cent
+colitis
 bypass
 block
 background
@@ -5754,6 +5764,7 @@ bND
 bccs
 bkk
 bsz
+bowel
 flutter
 from
 focus
@@ -10865,6 +10876,9 @@ HmV
 HHHhhh
 Hyperuricemia
 Hydration
+Hypercalciuria
+Hyperoxaluria
+Hypocitraturia
 hyperkalemia
 hypertrophy
 hereditary
@@ -11235,6 +11249,7 @@ hNIu
 hcc
 hematuria
 hyperuricosuria
+hemochromatosis
 peaked
 pattern
 precordial
@@ -13131,6 +13146,7 @@ VsQ
 VkFF
 Vaa
 VFF
+Vitamin
 up
 unusual
 usually
@@ -13417,6 +13433,7 @@ uss
 urease
 unique
 uric
+ulcerative
 quinine
 qz
 qM
@@ -14534,6 +14551,7 @@ Nyyy
 NII
 NRV
 Nhh
+Nausea
 jEQ
 jL
 jO

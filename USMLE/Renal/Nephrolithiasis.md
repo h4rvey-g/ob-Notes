@@ -14,8 +14,22 @@ share: true
 ### Etiology
 - Hypercalciuria
 - Hyperoxaluria
+	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., Crohn disease, ulcerative colitis, short bowel syndrome)
+	 - [[Vitamin C# Vitamin C toxicity]]
+		 - Vitamin C is metabolized to oxalate
 - Hypocitraturia
-- Associated with inflammatory bowel disease, i.e., ulcerative colitis and <span style="background:rgba(240, 200, 0, 0.2)">Crohn disease due to malabsorption</span>
+### Diagnosis
+- Urine microscopy: dumbbell-shaped or octahedron-shaped crystals ![[Pasted image 20230817154316.png]]
+- X-ray (or CT): radiopaque stones
+### Treatment
+- Hydration
+- Dietary modification
+	- Reduced intake of salt (mainly sodium) and animal protein *(Low sodium enhances renal tubular reabsorption of sodium and calcium, decreasing urinary calcium levels. Animal protein consumption increases calcium excretion in urine.)*
+	- Reduced intake of oxalate-rich foods and supplemental [[vitamin C]]
+	- Calcium intake should not be restricted (restriction increases risk of hyperoxaluria, and thereby, the risk for osteoporosis) 
+- Thiazide diuretics for recurrent calcium-containing stones with idiopathic hypercalciuria (i.e., no [[hypercalcemia]]) 
+- Urine alkalinization (e.g., with potassium citrate)
+- Possibly citrate supplementation
 ## Uric acid stones
 ### Etiology
 - Hyperuricemia and hyperuricosuria
