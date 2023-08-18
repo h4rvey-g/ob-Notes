@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA nephropathy",
+      "path": "USMLE/Renal/IgA nephropathy.md"
+    },
+    {
+      "basename": "highlight-yellow",
+      "path": "template/highlight-yellow.md"
+    },
+    {
       "basename": "Acute tubulointerstitial nephritis",
       "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "USMLE-note",
       "path": "template/USMLE-note.md"
-    },
-    {
-      "basename": "highlight-yellow",
-      "path": "template/highlight-yellow.md"
     },
     {
       "basename": "callout-mnemonic",
@@ -195,10 +199,6 @@
     {
       "basename": "DLCO",
       "path": "USMLE/Respiratory/DLCO.md"
-    },
-    {
-      "basename": "Bacillus anthracis",
-      "path": "USMLE/Infective disease/Bacillus anthracis.md"
     }
   ],
   "omittedPaths": [],

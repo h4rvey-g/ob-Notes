@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Acute tubulointerstitial nephritis.md",
-                "mode": "source",
+                "file": "USMLE/Renal/IgA nephropathy.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Acute tubulointerstitial nephritis.md",
+                "file": "USMLE/Renal/IgA nephropathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Acute tubulointerstitial nephritis.md",
+                "file": "USMLE/Renal/IgA nephropathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
+                "file": "USMLE/Renal/IgA nephropathy.md"
               }
             }
           }
@@ -210,10 +210,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Thiazides.md",
+    "template/highlight-yellow.md",
+    "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Acute tubulointerstitial nephritis.md",
+    "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
+    "USMLE/Cardiology/Thiazides.md",
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "appendix/Pasted image 20230817160901.png",
@@ -234,7 +237,6 @@
     "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
     "template/USMLE-note.md",
     "appendix/Pasted image 20230814165601.png",
-    "template/highlight-yellow.md",
     "USMLE/Cardiology/ECGs.md",
     "template/callout-mnemonic.md",
     "USMLE/Cardiology/Acute rheumatic fever.md",
@@ -242,9 +244,7 @@
     "USMLE/Lab Values.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Renal/Nephritic syndrome.md",
-    "USMLE/Cardiology/Rheumatic heart disease.md",
     "appendix/Untitled 1.loom",
-    "USMLE/Cardiology/Pericardial effusion.md",
     "appendix/Pasted image 20230814153201.png",
     "appendix/Pasted image 20230813220122.png",
     "appendix/Pasted image 20230813213303.png",

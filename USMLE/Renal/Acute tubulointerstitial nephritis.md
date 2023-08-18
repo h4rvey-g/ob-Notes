@@ -49,6 +49,9 @@ Clinical features of [[acute kidney injury]], with or without:
 		- WBC casts , RBC casts , waxy casts , granular casts , tubular epithelial casts
 		- Urine eosinophils (low sensitivity and specificity for ATIN)
 
+>[!tip] 
+>Although frequently cited as a diagnostic clue, in clinical practice, urine eosinophils lack sensitivity and specificity for reliably confirming ATIN.
+
 ---
 # Treatment
 <% tp.file.cursor() %>
