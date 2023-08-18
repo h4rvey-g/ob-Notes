@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Urinary tract cancer",
+      "path": "USMLE/Renal/Urinary tract cancer.md"
+    },
+    {
       "basename": "Nephrolithiasis",
       "path": "USMLE/Renal/Nephrolithiasis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pneumoconioses",
       "path": "USMLE/Respiratory/Pneumoconioses.md"
-    },
-    {
-      "basename": "Actinomyces israelii",
-      "path": "USMLE/Infective disease/Actinomyces israelii.md"
     }
   ],
   "omittedPaths": [],

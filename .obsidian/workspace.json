@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
-                "mode": "preview",
+                "file": "USMLE/Renal/Urinary tract cancer.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "USMLE/Renal/Urinary tract cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "USMLE/Renal/Urinary tract cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md"
+                "file": "USMLE/Renal/Urinary tract cancer.md"
               }
             }
           }
@@ -213,11 +213,12 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
+    "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Renal/Urinary tract cancer.md",
     "appendix/Pasted image 20230817160901.png",
     "appendix/Pasted image 20230817160628.png",
     "appendix/Pasted image 20230817154316.png",
     "USMLE/Biochemistry/Vitamin C.md",
-    "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Renal/Urine sediment.md",
     "USMLE/Renal/Urinary tract infections.md",
     "appendix/Untitled 2.loom",
@@ -250,7 +251,6 @@
     "appendix/Pasted image 20230813213137.png",
     "USMLE/Cardiology/Hypercalcemia.md",
     "appendix/Pasted image 20230813210013.png",
-    "appendix/Pasted image 20230813153046.png",
     "USMLE/Renal",
     "USMLE/Immunology",
     "USMLE/Biochemistry",
