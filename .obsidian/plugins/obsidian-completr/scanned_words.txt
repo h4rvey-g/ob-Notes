@@ -4681,6 +4681,7 @@ allopurinol
 accepted
 adenocarcinomas
 arise
+acidosis
 ventricular
 varying
 vaccines
@@ -9711,6 +9712,7 @@ Phenacetin
 Proton
 Peak
 Palpable
+PCT
 ectopic
 elevation
 early
@@ -10973,6 +10975,7 @@ Hypocitraturia
 Heavy
 Hypernephroma
 Hippel
+HCO
 hyperkalemia
 hypertrophy
 hereditary
@@ -13551,6 +13554,7 @@ unique
 uric
 ulcerative
 urothelial
+unable
 quinine
 qz
 qM

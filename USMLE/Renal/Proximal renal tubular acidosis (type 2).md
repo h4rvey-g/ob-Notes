@@ -10,7 +10,7 @@ share: true
 
 ---
 # Pathophysiology
-Type 2 renal tubular acidosis is characterized by a dysfunctional proximal convoluted tubule (PCT) that is unable to reabsorb HCO3-.
+Type 2 renal tubular acidosis is characterized by a dysfunctional proximal convoluted tubule (PCT) that is unable to reabsorb HCO3<sup>-</sup>.
 ![[Pasted image 20230819170056.png]]
 
 ---

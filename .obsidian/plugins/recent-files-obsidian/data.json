@@ -5,6 +5,14 @@
       "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
     },
     {
+      "basename": "Urine osmolality",
+      "path": "USMLE/Renal/Urine osmolality.md"
+    },
+    {
+      "basename": "Intermittent catheterization",
+      "path": "USMLE/Renal/Intermittent catheterization.md"
+    },
+    {
       "basename": "Renal tubular disorders",
       "path": "USMLE/Renal/Renal tubular disorders.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Diagnostic evaluation of the kidney and urinary tract",
       "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
-    },
-    {
-      "basename": "Urine osmolality",
-      "path": "USMLE/Renal/Urine osmolality.md"
     },
     {
       "basename": "Acute kidney injury",
@@ -151,10 +155,6 @@
     {
       "basename": "Urinary incontinence",
       "path": "USMLE/Renal/Urinary incontinence.md"
-    },
-    {
-      "basename": "Intermittent catheterization",
-      "path": "USMLE/Renal/Intermittent catheterization.md"
     },
     {
       "basename": "Tumor lysis syndrome",
