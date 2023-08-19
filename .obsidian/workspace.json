@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/Renal/Renal cell carcinoma.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -210,7 +210,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Renal/Renal cell carcinoma.md",

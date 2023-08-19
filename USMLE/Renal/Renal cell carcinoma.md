@@ -11,7 +11,13 @@ share: true
 
 
 ---
-# Pathophysiology
+# Pathology
+Renal cell carcinomas are adenocarcinomas that usually arise from the epithelial cells of the <span style="background:rgba(240, 200, 0, 0.2)">proximal convoluted tubule</span> (80%).
+- Clear cell renal cell carcinoma
+	- Frequency: 70%
+	- Etiology: Sporadic or inherited mutation of VHL gene on chromosome 3p
+ >[!Mnemonic] 
+>Rule of **3**: A mutation in the **VHL** (von Hippel-Lindau) gene on chromosome **3** causes **RCC** (renal cell carcinoma).
 
 
 ---
@@ -27,7 +33,7 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
