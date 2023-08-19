@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Proximal renal tubular acidosis (type 2)",
+      "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
+    },
+    {
+      "basename": "Renal tubular disorders",
+      "path": "USMLE/Renal/Renal tubular disorders.md"
+    },
+    {
       "basename": "Renal cell carcinoma",
       "path": "USMLE/Renal/Renal cell carcinoma.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Atelectasis",
       "path": "USMLE/Respiratory/Atelectasis.md"
-    },
-    {
-      "basename": "flow-volume loop",
-      "path": "USMLE/Respiratory/flow-volume loop.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     }
   ],
   "omittedPaths": [],

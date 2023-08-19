@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
-                "mode": "preview",
+                "file": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md"
+                "file": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
               }
             }
           }
@@ -212,8 +212,12 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
-    "USMLE/Renal/Urinary tract cancer.md",
+    "appendix/Pasted image 20230819170056.png",
+    "USMLE/Renal/Renal tubular disorders.md",
+    "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Renal/Renal cell carcinoma.md",
+    "USMLE/Renal/Goodpasture syndrome.md",
+    "USMLE/Renal/Urinary tract cancer.md",
     "appendix/Pasted image 20230819151707.png",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
@@ -242,10 +246,6 @@
     "appendix/Pasted image 20230814165601.png",
     "USMLE/Cardiology/ECGs.md",
     "template/callout-mnemonic.md",
-    "USMLE/Cardiology/Acute rheumatic fever.md",
-    "USMLE/Biochemistry/Cystic fibrosis.md",
-    "USMLE/Lab Values.md",
-    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "appendix/Untitled 1.loom",
     "appendix/Pasted image 20230814153201.png",
     "appendix/Pasted image 20230813220122.png",

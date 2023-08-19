@@ -16,6 +16,7 @@ Renal cell carcinomas are adenocarcinomas that usually arise from the epithelial
 - Clear cell renal cell carcinoma
 	- Frequency: 70%
 	- Etiology: Sporadic or inherited mutation of VHL gene on chromosome 3p
+ 
  >[!Mnemonic] 
 >Rule of **3**: A mutation in the **VHL** (von Hippel-Lindau) gene on chromosome **3** causes **RCC** (renal cell carcinoma).
 
