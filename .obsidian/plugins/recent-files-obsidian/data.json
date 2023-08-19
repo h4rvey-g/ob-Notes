@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Renal cell carcinoma",
+      "path": "USMLE/Renal/Renal cell carcinoma.md"
+    },
+    {
       "basename": "Urinary tract cancer",
       "path": "USMLE/Renal/Urinary tract cancer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sarcoidosis",
       "path": "USMLE/Respiratory/Sarcoidosis.md"
-    },
-    {
-      "basename": "DLCO",
-      "path": "USMLE/Respiratory/DLCO.md"
     }
   ],
   "omittedPaths": [],
