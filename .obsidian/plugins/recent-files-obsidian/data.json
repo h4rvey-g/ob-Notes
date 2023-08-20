@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Renal cell carcinoma",
+      "path": "USMLE/Renal/Renal cell carcinoma.md"
+    },
+    {
+      "basename": "Proximal renal tubular acidosis (type 2)",
+      "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
+    },
+    {
       "basename": "Acute coronary syndrome",
       "path": "USMLE/Cardiology/Acute coronary syndrome.md"
     },
     {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
-    },
-    {
-      "basename": "Proximal renal tubular acidosis (type 2)",
-      "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
     },
     {
       "basename": "Urine osmolality",
@@ -23,10 +27,6 @@
     {
       "basename": "Renal tubular disorders",
       "path": "USMLE/Renal/Renal tubular disorders.md"
-    },
-    {
-      "basename": "Renal cell carcinoma",
-      "path": "USMLE/Renal/Renal cell carcinoma.md"
     },
     {
       "basename": "Urinary tract cancer",
