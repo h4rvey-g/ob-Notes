@@ -749,6 +749,9 @@ drinking
 diuretic
 decline
 deposit
+direction
+deflected
+delta
 of
 over
 originate
@@ -1047,6 +1050,7 @@ organisms
 oxalate
 octahedron
 obstruct
+opposite
 regular
 reentrant
 retrograde
@@ -1805,6 +1809,7 @@ nnniii
 needle
 naphthylamine
 night
+negatively
 tachycardia
 tract
 the
@@ -3362,6 +3367,7 @@ morbilliform
 mesangium
 mesangial
 membranoproliferative
+mimicking
 Sinus
 ST
 Segment
@@ -7470,6 +7476,8 @@ sensitivity
 specificity
 systems
 sweats
+slurring
+slurred
 QRS
 QT
 QDQ
@@ -8691,6 +8699,8 @@ DZFX
 Dboo
 Dbkk
 Diabetes
+Delta
+Discordant
 FFF
 Fib
 Fi
@@ -9713,6 +9723,7 @@ Proton
 Peak
 Palpable
 PCT
+Pseudo
 ectopic
 elevation
 early
@@ -13555,6 +13566,7 @@ uric
 ulcerative
 urothelial
 unable
+upstroke
 quinine
 qz
 qM

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Supraventricular tachycardia",
+      "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
+    },
+    {
       "basename": "Proximal renal tubular acidosis (type 2)",
       "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Introducing USMLE",
       "path": "USMLE/Introducing USMLE.md"
-    },
-    {
-      "basename": "Atelectasis",
-      "path": "USMLE/Respiratory/Atelectasis.md"
     }
   ],
   "omittedPaths": [],
