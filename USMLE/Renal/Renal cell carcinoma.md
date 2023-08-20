@@ -37,6 +37,22 @@ Renal cell carcinomas are adenocarcinomas that usually arise from the epithelial
 
 
 ---
+# Differential diagnosis
+## Benign renal masses
+### Oncocytoma
+- Definition: benign epithelial tumor arising from the intercalated tubular cells in the collecting duct
+- Clinical features 
+	- Painless hematuria
+	- Abdominal mass
+	- Flank pain
+- Pathology
+	- Macroscopy: smooth, clearly defined brown tumor with central radial scar ![[Pasted image 20230820154628.png]]
+	- Microscopy
+	- Large acidophilic cells 
+	- Excessive amount of mitochondria → acidophilic, granular cytoplasm without perinuclear clearing (unlike chromophobe RCC)
+- Treatment
+	- Often resected in order to exclude RCC
+	- Surveillance
 # Treatment
 <% tp.file.cursor() %>
 
