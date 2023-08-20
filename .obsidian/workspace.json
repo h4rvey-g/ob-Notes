@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Lab Values.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Lab Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Lab Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md"
+                "file": "USMLE/Lab Values.md"
               }
             }
           }
@@ -212,9 +212,13 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
-    "USMLE/Renal/Renal tubular disorders.md",
+    "appendix/Pasted image 20230820152459.png",
     "USMLE/Renal/Renal cell carcinoma.md",
+    "USMLE/Renal/Parathyroid hormone-related protein.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Respiratory/Paraneoplastic syndromes.md",
+    "USMLE/Renal/Renal tubular disorders.md",
     "USMLE/Renal/Intermittent catheterization.md",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
@@ -245,10 +249,6 @@
     "USMLE/Renal/Pyelonephritis.md",
     "appendix/Pasted image 20230811161233.png",
     "USMLE/Renal/Urine specific gravity.md",
-    "USMLE/Renal/Fractional excretion of sodium.md",
-    "USMLE/Renal/Acute kidney injury.md",
-    "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
-    "template/USMLE-note.md",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",
     "USMLE/Immunology",

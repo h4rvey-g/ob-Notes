@@ -43,8 +43,8 @@ Renal cell carcinomas are adenocarcinomas that usually arise from the epithelial
 ---
 
 # Complications
-Complications caused by paraneoplastic syndromes
-Secondary hypercortisolism: due to ectopic ACTH release
-Secondary polycythemia: due to ectopic erythropoietin (EPO) secretion
-Hypertension: due to the release of renin
-Hypercalcemia: due to the release of PTHrP (parathyroid hormone-related protein)
+## Complications caused by [[paraneoplastic syndromes]]
+- Secondary hypercortisolism: due to ectopic ACTH release
+- Secondary polycythemia: due to ectopic erythropoietin (EPO) secretion
+- Hypertension: due to the release of renin
+- [[Hypercalcemia]]: due to the release of [[Parathyroid hormone-related protein|PTHrP]] (parathyroid hormone-related protein)

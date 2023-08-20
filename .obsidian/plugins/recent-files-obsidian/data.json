@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Renal cell carcinoma",
       "path": "USMLE/Renal/Renal cell carcinoma.md"
+    },
+    {
+      "basename": "Parathyroid hormone-related protein",
+      "path": "USMLE/Renal/Parathyroid hormone-related protein.md"
     },
     {
       "basename": "Proximal renal tubular acidosis (type 2)",
@@ -133,10 +141,6 @@
       "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     },
     {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
-    },
-    {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Congestive heart failure",
       "path": "USMLE/Cardiology/Congestive heart failure.md"
-    },
-    {
-      "basename": "Pulmonary embolism",
-      "path": "USMLE/Respiratory/Pulmonary embolism.md"
     }
   ],
   "omittedPaths": [],
