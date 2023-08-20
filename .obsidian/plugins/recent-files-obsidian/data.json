@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute coronary syndrome",
+      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
+    },
+    {
       "basename": "Supraventricular tachycardia",
       "path": "USMLE/Cardiology/Supraventricular tachycardia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pulmonary embolism",
       "path": "USMLE/Respiratory/Pulmonary embolism.md"
-    },
-    {
-      "basename": "Introducing USMLE",
-      "path": "USMLE/Introducing USMLE.md"
     }
   ],
   "omittedPaths": [],

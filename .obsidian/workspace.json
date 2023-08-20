@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md"
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md"
               }
             }
           }
@@ -212,6 +212,7 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Supraventricular tachycardia.md",
     "appendix/Pasted image 20230819222745.png",
     "appendix/Pasted image 20230819222341.png",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
@@ -247,7 +248,6 @@
     "USMLE/Renal/Acute kidney injury.md",
     "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
     "template/USMLE-note.md",
-    "appendix/Pasted image 20230814165601.png",
     "USMLE/Cardiology/ECGs.md",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",
