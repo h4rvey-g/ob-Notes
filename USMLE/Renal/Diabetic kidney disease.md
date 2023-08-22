@@ -19,12 +19,23 @@ major cause of ESRD
 <span style="background:rgba(240, 200, 0, 0.2)">Chronic hyperglycemia → glycation (also called non-enzymatic glycosylation or NEG) of the basement membrane (protein glycation) → increased permeability and thickening of the basement membrane and stiffening of the efferent arteriole → hyperfiltration (increase in GFR) → increase in intraglomerular pressure  → progressive glomerular hypertrophy, increase in renal size, and glomerular scarring (glomerulosclerosis) → worsening of filtration capacity</span>
 
 ---
-# Clinical features
+# Pathology
+- Mesangial expansion
+- Glomerular basement membrane thickening
+- Glomerulosclerosis (later stages)
+	- Diffuse hyalinization (most common) or
+	- Pathognomonic nodular glomerulosclerosis (Kimmelstiel-Wilson nodules): 
+		- Glomerular capillary hypertension and hyperfiltration → increase in mesangial matrix → eosinophilic hyaline material in the area of glomerular capillary loops
+		- Can progressively consume the entire glomerulus → hypofiltration (↓ GFR)
 
+---
+# Clinical features
+- Patients are usually asymptomatic in the early stages; some may report <span style="background:rgba(240, 200, 0, 0.2)">foamy urine</span>. [6][7]
+- In the later stages, clinical features of chronic kidney disease (e.g., hypertension, volume overload) may be present.
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
