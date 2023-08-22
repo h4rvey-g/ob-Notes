@@ -6,7 +6,7 @@ aliases: Untitled
 share: true
 ---
 # Epidemiology
-- Stress incontinence and mixed incontinence are the most common types of incontinence in female patients.
+- [[Stress incontinence]] and mixed incontinence are the most common types of incontinence in female patients.
 - Urge incontinence is the most common type in male patients.
 
 ---
@@ -48,7 +48,7 @@ share: true
 ### Treatment
 - [[Intermittent catheterization]]: for scheduled bladder emptying
 	- Intermittent -> prevention of catheter-associated UTIs and is favored by most patients; indwelling catheters may be considered if necessary.
-## Stress incontinence
+## [[Stress incontinence]]
  
 
 

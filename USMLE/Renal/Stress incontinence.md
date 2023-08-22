@@ -29,14 +29,21 @@ Prevalence increases with age.
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Physical activity that causes increased intra-abdominal pressure (e.g., laughing, sneezing, coughing, exercising) leads to loss of urine
+- Frequent, predictable, small-volume urine losses with no urge to urinate prior to the leakage
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+# Conservative treatment
+- Kegel exercises 
+- Lifestyle changes (e.g., weight loss, avoiding alcohol and caffeine, smoking cessation)
+- Vaginal pessary
+# Surgical procedures
+- Indicated if conservative treatment does not provide sufficient improvement of symptoms
+- Procedure of choice: midurethral sling to elevate the urethra
 
 ---

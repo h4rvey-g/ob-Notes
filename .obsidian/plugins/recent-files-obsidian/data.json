@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Stress incontinence",
-      "path": "USMLE/Renal/Stress incontinence.md"
+      "basename": "Thymoma",
+      "path": "USMLE/Muscle, skin, and connective tissue/Thymoma.md"
     },
     {
       "basename": "Urinary incontinence",
       "path": "USMLE/Renal/Urinary incontinence.md"
+    },
+    {
+      "basename": "Stress incontinence",
+      "path": "USMLE/Renal/Stress incontinence.md"
     },
     {
       "basename": "Myelodysplastic syndromes",
@@ -191,14 +195,6 @@
     {
       "basename": "Atrioventricular block",
       "path": "USMLE/Cardiology/Atrioventricular block.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "USMLE/Questions.md"
-    },
-    {
-      "basename": "Pasted image 20230617214946",
-      "path": "Pasted image 20230617214946.png"
     }
   ],
   "omittedPaths": [],
