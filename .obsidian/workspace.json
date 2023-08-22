@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+                "file": "USMLE/Renal/Goodpasture syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+                "file": "USMLE/Renal/Goodpasture syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+                "file": "USMLE/Renal/Goodpasture syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
+                "file": "USMLE/Renal/Goodpasture syndrome.md"
               }
             }
           }
@@ -210,8 +210,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b1c25e7f56fc0876",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
+    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Renal/Urinary incontinence.md",
@@ -243,7 +244,6 @@
     "appendix/Pasted image 20230820152459.png",
     "USMLE/Renal/Parathyroid hormone-related protein.md",
     "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "appendix/Pasted image 20230819222745.png",
     "appendix/Pasted image 20230819222341.png",
     "Pasted image 20230617214946.png",
