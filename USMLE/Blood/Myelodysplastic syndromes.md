@@ -12,7 +12,7 @@ share: true
 
 ---
 # Pathophysiology
-
+Myelodysplastic syndromes (MDS) are a group of hematological cancers in which malfunctioning pluripotent stem cells lead to hypercellularity and dysplasia of the bone marrow. This, in turn, leads to cytopenia of one or more cell lines (thrombocytopenia, erythrocytopenia, leukocytopenia).
 
 ---
 # Clinical features
@@ -24,10 +24,18 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+- Normocytic or macrocytic anemia (rarely microcytic) of refractory type (refractory anemia)
+- Leukocytopenia and/or thrombocytopenia
+- Nucleated RBCs
+- <span style="background:rgba(240, 200, 0, 0.2)">Pseudo-Pelger-Huet anomaly</span>
+	- Neutrophils with hyposegmented nuclei (usually bilobed) ![[Pasted image 20230822134549.png]]
+	- Seen in peripheral blood smears of patients undergoing chemotherapy
+- Bone marrow biopsy: hypercellular, dysplastic bone marrow
+	- <span style="background:rgba(240, 200, 0, 0.2)">Ringed sideroblasts</span>
+- Chromosome analysis: In > 50% of patients, chromosomal aberrations can be detected at the time of diagnosis
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
