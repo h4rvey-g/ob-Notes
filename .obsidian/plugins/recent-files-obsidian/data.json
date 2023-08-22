@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
       "basename": "Goodpasture syndrome",
       "path": "USMLE/Renal/Goodpasture syndrome.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "Pericardial effusion",
       "path": "USMLE/Cardiology/Pericardial effusion.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Acute rheumatic fever",
