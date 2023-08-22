@@ -15,7 +15,7 @@ share: true
 
 ---
 # Clinical features
-- Can also be nephritic with nephrotic-range proteinuria (nephritic-nephrotic syndrome)
+- Can also be nephritic with nephrotic-range proteinuria (nephritic-[[nephrotic syndrome]])
 - Can lead to immune complex [[Rapidly progressive glomerulonephritis|RPGN]]
 
 ---
@@ -23,7 +23,7 @@ share: true
 - ↓ Serum C3 complement levels
 - ANA, anti-dsDNA antibodies
 - LM
-	- <mark style="background: #FFF3A34A;">Thickening of glomerular capillaries (appear as wire loops) </mark>
+	- <mark style="background: #FFF3A34A;">Thickening of glomerular capillaries (appear as wire loops) </mark>![[Pasted image 20230822213646.png]]
 	- Characterized by increased glomerular cellularity in more than half of the glomeruli
 - EM
 	- Most commonly subendothelial immune deposits (IgG immune complexes, C3, and C1q)
