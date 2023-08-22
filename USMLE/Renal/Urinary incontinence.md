@@ -24,15 +24,15 @@ share: true
 	- Pelvic floor weakness
 - Transient causes of urinary incontinence
 	- Drugs (e.g., diuretics)
-	- Urinary tract infections
+	- [[Urinary tract infections]]
 	- Postmenopausal atrophic urethritis
 	- Psychiatric causes (especially depression, delirium/confused state)
 	- Excessive urinary output (in conditions like hyperglycemia, [[hypercalcemia]], CHF)
 	- Stool impaction
 - General risk factors
-	- Recurrent urinary tract infections
+	- Recurrent [[urinary tract infections]]
  >[!Mnemonic] 
->To remember the reversible causes of acute urinary incontinence, think DIAPPERS: Delirium/confusion, Infection, Atrophic urethritis/vaginitis, Pharmaceutical, Psychiatric causes (especially depression), Excessive urinary output (hyperglycemia, hypercalcemia, CHF), Restricted mobility, Stool impaction.
+>To remember the reversible causes of acute urinary incontinence, think DIAPPERS: Delirium/confusion, Infection, Atrophic urethritis/vaginitis, Pharmaceutical, Psychiatric causes (especially depression), Excessive urinary output (hyperglycemia, [[hypercalcemia]], CHF), Restricted mobility, Stool impaction.
 
 ---
 # Classifications
@@ -48,6 +48,8 @@ share: true
 ### Treatment
 - [[Intermittent catheterization]]: for scheduled bladder emptying
 	- Intermittent -> prevention of catheter-associated UTIs and is favored by most patients; indwelling catheters may be considered if necessary.
+## Stress incontinence
+ 
 
 
 ---

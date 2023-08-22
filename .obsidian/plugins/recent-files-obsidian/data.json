@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Stress incontinence",
+      "path": "USMLE/Renal/Stress incontinence.md"
+    },
+    {
+      "basename": "Urinary incontinence",
+      "path": "USMLE/Renal/Urinary incontinence.md"
+    },
+    {
       "basename": "Myelodysplastic syndromes",
       "path": "USMLE/Blood/Myelodysplastic syndromes.md"
     },
@@ -173,10 +181,6 @@
       "path": "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md"
     },
     {
-      "basename": "Urinary incontinence",
-      "path": "USMLE/Renal/Urinary incontinence.md"
-    },
-    {
       "basename": "Tumor lysis syndrome",
       "path": "USMLE/Renal/Tumor lysis syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230617214946",
       "path": "Pasted image 20230617214946.png"
-    },
-    {
-      "basename": "Alpha-1 antitrypsin deficiency",
-      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
     }
   ],
   "omittedPaths": [],
