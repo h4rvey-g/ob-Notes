@@ -33,6 +33,15 @@ A premature atrial complex (PAC) is a <mark style="background: #FFF3A34A;">prema
 >	- The abnormal P wave may be hidden in the preceding T wave, producing a “peaked” or “camel hump” appearance
 >- Post-extrasystolic pauses may be present — PACs that reach the SA node may depolarise it, causing the SA node to be “reset”, with a longer-than-normal interval before the next sinus beat arrives
 >- PACs may also be conducted aberrantly (usually RBBB morphology), or not conducted at all. P waves will still be visible in both cases
+
+# Premature Ventricular Complex (PVC)
+- Broad QRS complex (≥ 120 ms) with abnormal morphology
+- Premature — i.e. occurs earlier than would be expected for the next sinus impulse
+- Discordant ST segment and T wave changes.
+	-  ST segment and T wave are directed opposite to the main vector of the QRS complex
+- Usually followed by a full compensatory pause
+- Retrograde capture of the atria may or may not occur
+![[Pasted image 20230822211003.png]]
 # Hyperkalemia
 | 高钾血症：三低一高 | 低钾血症：三高一低 |
 |:------------------:|:------------------:|

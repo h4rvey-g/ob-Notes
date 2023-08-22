@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephrotic syndrome",
+      "path": "USMLE/Renal/Nephrotic syndrome.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tumor lysis syndrome",
       "path": "USMLE/Renal/Tumor lysis syndrome.md"
-    },
-    {
-      "basename": "Pyelonephritis",
-      "path": "USMLE/Renal/Pyelonephritis.md"
     }
   ],
   "omittedPaths": [],
