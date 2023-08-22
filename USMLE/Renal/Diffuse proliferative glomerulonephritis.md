@@ -7,7 +7,7 @@ share: true
 ---
 # Epidemiology
 - Most common and severe manifestation of <mark style="background: #FFF3A34A;">lupus nephritis in systemic lupus erythematosus (SLE)</mark>
-- Also seen with IgA nephropathy and with other inflammatory, autoimmune, or infectious diseases
+- Also seen with [[IgA nephropathy]] and with other inflammatory, autoimmune, or infectious diseases
 
 ---
 # Pathophysiology

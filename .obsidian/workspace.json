@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md",
+                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md",
+                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md",
+                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md"
+                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
               }
             }
           }
@@ -212,8 +212,8 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
-    "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Renal/Diabetic kidney disease.md",
+    "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Renal/Urge incontinence.md",
     "USMLE/Renal/Intermittent catheterization.md",
