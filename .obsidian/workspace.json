@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Blood/Myelodysplastic syndromes.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Blood/Myelodysplastic syndromes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md",
+                "file": "USMLE/Blood/Myelodysplastic syndromes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Renal cell carcinoma.md"
+                "file": "USMLE/Blood/Myelodysplastic syndromes.md"
               }
             }
           }
@@ -212,6 +211,11 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
+    "USMLE/单抗记忆.md",
+    "USMLE/Blood/Myelodysplastic syndromes.md",
+    "USMLE/Hematology and Oncology",
+    "USMLE/Untitled.md",
+    "USMLE/Renal/Renal cell carcinoma.md",
     "appendix/Pasted image 20230820154953.png",
     "appendix/Pasted image 20230820154628.png",
     "USMLE/Lab Values.md",
@@ -220,7 +224,6 @@
     "USMLE/Renal/Urine osmolality.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "appendix/Pasted image 20230820152459.png",
-    "USMLE/Renal/Renal cell carcinoma.md",
     "USMLE/Renal/Parathyroid hormone-related protein.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
@@ -241,14 +244,11 @@
     "USMLE/Cardiology/Thiazides.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "appendix/Pasted image 20230817160901.png",
-    "appendix/Pasted image 20230817160628.png",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Renal/Urine sediment.md",
     "USMLE/Renal/Urinary tract infections.md",
     "appendix/Untitled 2.loom",
     "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
-    "USMLE/Renal/BUN-creatinine ratio.md",
-    "USMLE/Renal/Pyelonephritis.md",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",
     "USMLE/Immunology",
@@ -257,7 +257,6 @@
     "tables",
     "USMLE/image/IntroducingUSMLE",
     "USMLE/image",
-    "Bioinformatics/Linux tricks",
     "未命名 1.canvas",
     "未命名.canvas"
   ]

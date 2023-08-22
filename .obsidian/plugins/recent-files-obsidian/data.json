@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Myelodysplastic syndromes",
+      "path": "USMLE/Blood/Myelodysplastic syndromes.md"
+    },
+    {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+    },
+    {
       "basename": "Renal cell carcinoma",
       "path": "USMLE/Renal/Renal cell carcinoma.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Alpha-1 antitrypsin deficiency",
       "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
-    },
-    {
-      "basename": "Asthma",
-      "path": "USMLE/Respiratory/Asthma.md"
-    },
-    {
-      "basename": "Congestive heart failure",
-      "path": "USMLE/Cardiology/Congestive heart failure.md"
     }
   ],
   "omittedPaths": [],
