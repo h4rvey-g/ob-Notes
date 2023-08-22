@@ -348,6 +348,8 @@ TFDD
 TSSs
 Tfv
 Thymoma
+Tends
+Thrombocytopenia
 differentials
 differential
 diagnosis
@@ -826,6 +828,8 @@ dAS
 dHZZ
 dLDt
 deliveries
+dysplasia
+dysplastic
 of
 over
 originate
@@ -1964,6 +1968,7 @@ niTj
 nQy
 nnnBB
 npYMM
+nuclei
 tachycardia
 tract
 the
@@ -2418,6 +2423,7 @@ tFa
 tcvv
 thymoma
 thymomas
+turn
 in
 includes
 involving
@@ -3640,6 +3646,9 @@ measure
 musculature
 midurethral
 mediastinal
+malfunctioning
+macrocytic
+microcytic
 Sinus
 ST
 Segment
@@ -3990,6 +3999,7 @@ Sdto
 Srr
 Surgical
 Symptomatic
+Seen
 AVNRT
 Atrial
 AVRT
@@ -5074,6 +5084,9 @@ aWa
 avoiding
 alcohol
 appears
+anomaly
+analysis
+aberrations
 ventricular
 varying
 vaccines
@@ -5911,6 +5924,8 @@ cle
 ccS
 cjUEe
 caffeine
+cytopenia
+chromosomal
 bypass
 block
 background
@@ -6309,6 +6324,7 @@ bkl
 bcu
 bGE
 bLU
+bilobed
 flutter
 from
 focus
@@ -8095,6 +8111,9 @@ support
 sneezing
 sufficient
 sling
+susceptibility
+smears
+sideroblasts
 QRS
 QT
 QDQ
@@ -8727,6 +8746,8 @@ lMy
 lng
 laughing
 losses
+lines
+leukocytopenia
 Multifocal
 Mild
 Moderate
@@ -9081,6 +9102,7 @@ MGZ
 MIM
 Multipara
 Menopause
+Myelodysplastic
 Differentiate
 Drugs
 DDx
@@ -9449,6 +9471,7 @@ DCCüy
 DAJ
 Dmtp
 Dmm
+Depending
 FFF
 Fib
 Fi
@@ -10576,6 +10599,7 @@ Pathomechanism
 Prostate
 Physical
 Procedure
+Pelger
 ectopic
 elevation
 early
@@ -10970,6 +10994,9 @@ erythropoietic
 exercising
 exercises
 elevate
+elderly
+exogenous
+erythrocytopenia
 Early
 Elevation
 Etiology
@@ -11303,6 +11330,7 @@ EdIg
 EQbcc
 EryÄ
 EQO
+Erythrocytopenia
 LEFT
 Lengthening
 Left
@@ -11599,6 +11627,7 @@ LCd
 LIMM
 LOOOII
 Lifestyle
+Leukocytopenia
 Hyperkalemia
 HIV
 HCV
@@ -11951,6 +11980,8 @@ Huu
 HBnL
 HXd
 HII
+Hepatosplenomegaly
+Huet
 hyperkalemia
 hypertrophy
 hereditary
@@ -12356,6 +12387,10 @@ hPfPs
 haemolytic
 haematological
 hopping
+hematological
+hypercellularity
+hyposegmented
+hypercellular
 peaked
 pattern
 precordial
@@ -12858,6 +12893,8 @@ paa
 predictable
 pessary
 paraneoplastic
+pluripotent
+petechial
 Unusual
 Usually
 Upc
@@ -13827,6 +13864,7 @@ CKw
 CXDI
 Cgq
 Conservative
+Chromosome
 Right
 Retrograde
 Rates
@@ -14176,6 +14214,8 @@ RfT
 Rnk
 RUQYY
 RXXx
+RBCs
+Ringed
 Voltage
 VFV
 VoNW
@@ -14786,6 +14826,7 @@ uuuH
 ujFFFjj
 uuA
 urethra
+undergoing
 quinine
 qz
 qM
@@ -16005,6 +16046,7 @@ Nok
 NMNNNKK
 Nucleated
 NRBCs
+Neutrophils
 jEQ
 jL
 jO

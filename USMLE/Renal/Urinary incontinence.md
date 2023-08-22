@@ -48,7 +48,7 @@ share: true
 ### Treatment
 - [[Intermittent catheterization]]: for scheduled bladder emptying
 	- Intermittent -> prevention of catheter-associated UTIs and is favored by most patients; indwelling catheters may be considered if necessary.
-## [[Stress incontinence]]
+## ![[Stress incontinence]]
  
 
 
