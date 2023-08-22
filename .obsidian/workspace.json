@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Renal/Diabetic kidney disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Renal/Diabetic kidney disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Renal/Diabetic kidney disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md"
+                "file": "USMLE/Renal/Diabetic kidney disease.md"
               }
             }
           }
@@ -210,10 +210,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
-    "USMLE/Renal/Urge incontinence.md",
+    "USMLE/Renal/BUN-creatinine ratio.md",
+    "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Renal/Urinary incontinence.md",
+    "USMLE/Renal/Urge incontinence.md",
     "USMLE/Renal/Intermittent catheterization.md",
     "USMLE/Renal/Stress incontinence.md",
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
@@ -242,8 +244,6 @@
     "USMLE/Renal/Parathyroid hormone-related protein.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
-    "USMLE/Renal/Renal tubular disorders.md",
-    "USMLE/Cardiology/Supraventricular tachycardia.md",
     "appendix/Pasted image 20230819222745.png",
     "appendix/Pasted image 20230819222341.png",
     "Pasted image 20230617214946.png",

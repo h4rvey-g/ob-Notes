@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetic kidney disease",
+      "path": "USMLE/Renal/Diabetic kidney disease.md"
+    },
+    {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
       "basename": "Urinary incontinence",
       "path": "USMLE/Renal/Urinary incontinence.md"
     },
@@ -113,10 +121,6 @@
       "path": "USMLE/Renal/Acute kidney injury.md"
     },
     {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
       "basename": "USMLE-note",
       "path": "template/USMLE-note.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pyelonephritis",
       "path": "USMLE/Renal/Pyelonephritis.md"
-    },
-    {
-      "basename": "Atrioventricular block",
-      "path": "USMLE/Cardiology/Atrioventricular block.md"
     }
   ],
   "omittedPaths": [],

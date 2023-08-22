@@ -50,8 +50,16 @@ share: true
 	- Intermittent -> prevention of catheter-associated UTIs and is favored by most patients; indwelling catheters may be considered if necessary.
 ## ![[Stress incontinence]]
 ## ![[Urge incontinence]]
- ## Neurogenic bladder dysfunction
- 
+## Neurogenic bladder dysfunction
+### Mechanism
+detrusor sphincter dyssynergia
+- <span style="background:rgba(240, 200, 0, 0.2)">Simultaneous contractions of the detrusor muscle and involuntary activation of the urethral sphincter → blockage of bladder outlet</span> → small amounts of urine are pressed through the contracted sphincter muscle → high intravesical pressure along with inappropriate contraction of the urethral sphincter
+- Commonly seen in <span style="background:rgba(240, 200, 0, 0.2)">multiple sclerosis and spinal cord injury </span>
+### Clinical features
+- Voiding and/or storage dysfunction, intermittent voiding, urinary retention
+- Irregular, small volume incontinence without an associated urge to void (sometimes referred to as reflex incontinence)
+## Total incontinence
+<span style="background:rgba(240, 200, 0, 0.2)">Complete loss of sphincter function (due to previous surgery, nerve damage, metastasis) → Urinary leakage occurs at all times</span>
 
 
 ---
