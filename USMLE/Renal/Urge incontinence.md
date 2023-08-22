@@ -5,8 +5,14 @@ modified: 2023-08-22 15:21
 aliases: Untitled
 share: true
 ---
-# Etiology
+# Epidemiology
+Prevalence increases with age
 
+---
+# Etiology
+The condition is caused by sensory or motor dysfunction.
+- Idiopathic (most common)
+- Neurological conditions
 
 ---
 # Pathophysiology
@@ -14,14 +20,16 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Urinary urgency: sudden urge to urinate 
+- Loss of urine without exertion, with urinary tenesmus  → frequent episodes, with variable volumes of urine voided each time 
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+>[!Mnemonic] 
+>Oxybutynin treats Overactive bladder.
 
 ---

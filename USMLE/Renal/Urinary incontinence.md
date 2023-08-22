@@ -7,7 +7,7 @@ share: true
 ---
 # Epidemiology
 - [[Stress incontinence]] and mixed incontinence are the most common types of incontinence in female patients.
-- Urge incontinence is the most common type in male patients.
+- [[Urge incontinence]] is the most common type in male patients.
 
 ---
 # Etiology
@@ -49,6 +49,8 @@ share: true
 - [[Intermittent catheterization]]: for scheduled bladder emptying
 	- Intermittent -> prevention of catheter-associated UTIs and is favored by most patients; indwelling catheters may be considered if necessary.
 ## ![[Stress incontinence]]
+## ![[Urge incontinence]]
+ ## Neurogenic bladder dysfunction
  
 
 
@@ -69,6 +71,6 @@ share: true
 >The use of muscarinic agonists may lead to urinary urgency, while the use of sympathomimetics or muscarinic antagonists may lead to urinary retention, especially if there is an untreated outlet obstruction.
 
 >[!tip] 
->No pharmacological therapies are FDA-approved for stress incontinence; treatment is primarily conservative with surgery.
+>No pharmacological therapies are FDA-approved for [[stress incontinence]]; treatment is primarily conservative with surgery.
 
 ---
