@@ -1614,6 +1614,7 @@ raW
 rLs
 running
 radiotherapy
+report
 narrow
 negative
 not
@@ -2898,6 +2899,7 @@ incompetence
 intra
 improvement
 incidental
+intraglomerular
 general
 giving
 generation
@@ -3193,6 +3195,9 @@ gGZ
 glt
 gLM
 gland
+glycation
+glycosylation
+glomerulosclerosis
 major
 mechanisms
 mark
@@ -3649,6 +3654,7 @@ mediastinal
 malfunctioning
 macrocytic
 microcytic
+matrix
 Sinus
 ST
 Segment
@@ -5926,6 +5932,7 @@ cjUEe
 caffeine
 cytopenia
 chromosomal
+consume
 bypass
 block
 background
@@ -6731,6 +6738,8 @@ fYY
 fKKKg
 fgn
 fwy
+filtration
+foamy
 with
 wave
 which
@@ -7029,6 +7038,7 @@ wzuo
 wnn
 wNi
 wDi
+worsening
 Whenever
 Widening
 William
@@ -7302,6 +7312,7 @@ Www
 WcI
 WTTD
 WVq
+Wilson
 you
 young
 ybif
@@ -8114,6 +8125,7 @@ sling
 susceptibility
 smears
 sideroblasts
+stiffening
 QRS
 QT
 QDQ
@@ -9103,6 +9115,7 @@ MIM
 Multipara
 Menopause
 Myelodysplastic
+Mesangial
 Differentiate
 Drugs
 DDx
@@ -9472,6 +9485,7 @@ DAJ
 Dmtp
 Dmm
 Depending
+Diabetic
 FFF
 Fib
 Fi
@@ -10600,6 +10614,7 @@ Prostate
 Physical
 Procedure
 Pelger
+Pathognomonic
 ectopic
 elevation
 early
@@ -10997,6 +11012,10 @@ elevate
 elderly
 exogenous
 erythrocytopenia
+enzymatic
+efferent
+expansion
+entire
 Early
 Elevation
 Etiology
@@ -11331,6 +11350,7 @@ EQbcc
 EryÄ
 EQO
 Erythrocytopenia
+ESRD
 LEFT
 Lengthening
 Left
@@ -12391,6 +12411,9 @@ hematological
 hypercellularity
 hyposegmented
 hypercellular
+hyperfiltration
+hyalinization
+hypofiltration
 peaked
 pattern
 precordial
@@ -12895,6 +12918,9 @@ pessary
 paraneoplastic
 pluripotent
 petechial
+permeability
+progressive
+progressively
 Unusual
 Usually
 Upc
@@ -15365,6 +15391,8 @@ GZK
 GPUu
 Gin
 GIB
+Glomerular
+Glomerulosclerosis
 Jervell
 JYo
 JO
@@ -16908,6 +16936,7 @@ Kej
 KMMMKKknn
 KGD
 Kegel
+Kimmelstiel
 zh
 zx
 zo

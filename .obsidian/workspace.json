@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
-                "mode": "preview",
+                "file": "USMLE/Renal/Diabetic kidney disease.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+                "file": "USMLE/Renal/Diabetic kidney disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+                "file": "USMLE/Renal/Diabetic kidney disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
+                "file": "USMLE/Renal/Diabetic kidney disease.md"
               }
             }
           }
@@ -212,12 +212,12 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
+    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "appendix/Pasted image 20230822213646.png",
     "USMLE/Renal/Nephrotic syndrome.md",
     "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230822211003.png",
     "USMLE/Renal/Goodpasture syndrome.md",
-    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Renal/Urinary incontinence.md",
@@ -248,7 +248,6 @@
     "appendix/Pasted image 20230819222745.png",
     "appendix/Pasted image 20230819222341.png",
     "Pasted image 20230617214946.png",
-    "appendix/Pasted image 20230819170056.png",
     "appendix/Untitled 2.loom",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",
