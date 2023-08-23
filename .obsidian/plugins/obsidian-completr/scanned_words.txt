@@ -350,6 +350,7 @@ Tfv
 Thymoma
 Tends
 Thrombocytopenia
+Tongue
 differentials
 differential
 diagnosis
@@ -830,6 +831,8 @@ dLDt
 deliveries
 dysplasia
 dysplastic
+dyscrasia
+dyssynergia
 of
 over
 originate
@@ -1154,6 +1157,7 @@ oMRA
 onn
 oRE
 options
+osteomyelitis
 regular
 reentrant
 retrograde
@@ -1615,6 +1619,8 @@ rLs
 running
 radiotherapy
 report
+reflex
+reactant
 narrow
 negative
 not
@@ -1970,6 +1976,8 @@ nQy
 nnnBB
 npYMM
 nuclei
+nephrogenic
+nervous
 tachycardia
 tract
 the
@@ -2425,6 +2433,7 @@ tcvv
 thymoma
 thymomas
 turn
+tunnel
 in
 includes
 involving
@@ -2900,6 +2909,9 @@ intra
 improvement
 incidental
 intraglomerular
+insoluble
+immunoglobulins
+inappropriate
 general
 giving
 generation
@@ -3655,6 +3667,9 @@ malfunctioning
 macrocytic
 microcytic
 matrix
+macroglobulinemia
+macroglossia
+metastasis
 Sinus
 ST
 Segment
@@ -4006,6 +4021,8 @@ Srr
 Surgical
 Symptomatic
 Seen
+Simultaneous
+SAA
 AVNRT
 Atrial
 AVRT
@@ -4368,6 +4385,8 @@ AyQ
 Aryf
 ADQ
 AHNN
+Amyloid
+Autonomic
 Orthodromic
 On
 Often
@@ -5093,6 +5112,10 @@ appears
 anomaly
 analysis
 aberrations
+amyloid
+amyloidosis
+apnea
+autonomic
 ventricular
 varying
 vaccines
@@ -5435,6 +5458,8 @@ vPp
 vhp
 vMj
 vUX
+voiding
+void
 conduction
 concealed
 complex
@@ -5933,6 +5958,8 @@ caffeine
 cytopenia
 chromosomal
 consume
+chain
+contracted
 bypass
 block
 background
@@ -6740,6 +6767,9 @@ fgn
 fwy
 filtration
 foamy
+fragments
+familial
+feature
 with
 wave
 which
@@ -7313,6 +7343,7 @@ WcI
 WTTD
 WVq
 Wilson
+Waldenstrom
 you
 young
 ybif
@@ -8126,6 +8157,9 @@ susceptibility
 smears
 sideroblasts
 stiffening
+sleep
+spinal
+sometimes
 QRS
 QT
 QDQ
@@ -9116,6 +9150,8 @@ Multipara
 Menopause
 Myelodysplastic
 Mesangial
+Musculoskeletal
+Mediterranean
 Differentiate
 Drugs
 DDx
@@ -10240,6 +10276,8 @@ IOVgXS
 IBX
 Ibh
 Indicated
+Irregular
+IBD
 PACs
 Primary
 Pathophysiology
@@ -11016,6 +11054,7 @@ enzymatic
 efferent
 expansion
 entire
+extracellular
 Early
 Elevation
 Etiology
@@ -12002,6 +12041,8 @@ HXd
 HII
 Hepatosplenomegaly
 Huet
+Heart
+HFpEF
 hyperkalemia
 hypertrophy
 hereditary
@@ -12414,6 +12455,7 @@ hypercellular
 hyperfiltration
 hyalinization
 hypofiltration
+hepatomegaly
 peaked
 pattern
 precordial
@@ -12921,6 +12963,9 @@ petechial
 permeability
 progressive
 progressively
+pressed
+previous
+process
 Unusual
 Usually
 Upc
@@ -13891,6 +13936,9 @@ CXDI
 Cgq
 Conservative
 Chromosome
+Carpal
+Commonly
+CKD
 Right
 Retrograde
 Rates
@@ -14525,6 +14573,7 @@ VUPT
 VTh
 VVv
 Vaginal
+Voiding
 up
 unusual
 usually
@@ -14853,6 +14902,7 @@ ujFFFjj
 uuA
 urethra
 undergoing
+urethral
 quinine
 qz
 qM
@@ -16075,6 +16125,7 @@ NMNNNKK
 Nucleated
 NRBCs
 Neutrophils
+Neurogenic
 jEQ
 jL
 jO
@@ -16937,6 +16988,7 @@ KMMMKKknn
 KGD
 Kegel
 Kimmelstiel
+Kidney
 zh
 zx
 zo
