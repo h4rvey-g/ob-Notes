@@ -5,6 +5,10 @@
       "path": "USMLE/Pathology/Amyloidosis.md"
     },
     {
+      "basename": "Restrictive cardiomyopathy",
+      "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
+    },
+    {
       "basename": "Diabetic kidney disease",
       "path": "USMLE/Renal/Diabetic kidney disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ashman phenomenon",
       "path": "USMLE/Cardiology/Ashman phenomenon.md"
-    },
-    {
-      "basename": "A Handy Shell Tool for Easily Opening or Closing Proxies",
-      "path": "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md"
     }
   ],
   "omittedPaths": [],

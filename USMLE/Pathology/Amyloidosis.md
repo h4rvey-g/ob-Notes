@@ -54,7 +54,8 @@ AA amyloidosis is secondary to a chronic disease, such as:
 
 ---
 ## Diagnostics
-
+>[!tip] 
+>Amyloidosis should always be considered in patients who present with kidney, liver, or GI involvement in the setting of chronic inflammatory and/or infectious disease.
 
 ---
 ## Treatment
