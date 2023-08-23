@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Reproductive/Oligohydramnios.md",
-                "mode": "preview",
+                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Reproductive/Oligohydramnios.md",
+                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Reproductive/Oligohydramnios.md",
+                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Reproductive/Oligohydramnios.md"
+                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
               }
             }
           }
@@ -212,8 +212,9 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
-    "USMLE/Renal/Potter sequence.md",
     "USMLE/Reproductive/Oligohydramnios.md",
+    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+    "USMLE/Renal/Potter sequence.md",
     "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Reproductive",
     "USMLE/Blood/Anticoagulants.md",
@@ -243,7 +244,6 @@
     "USMLE/Muscle, skin, and connective tissue/Thymoma.md",
     "USMLE/Blood/Myelodysplastic syndromes.md",
     "USMLE/Respiratory/Atelectasis.md",
-    "USMLE/Blood/Pleural effusion.md",
     "appendix/Pasted image 20230813145615.png",
     "appendix/Pasted image 20230822134549.png",
     "USMLE/Hematology and Oncology",

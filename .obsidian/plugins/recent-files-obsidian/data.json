@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Poststreptococcal glomerulonephritis",
+      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
+    },
+    {
       "basename": "Oligohydramnios",
       "path": "USMLE/Reproductive/Oligohydramnios.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     }
   ],
   "omittedPaths": [],
