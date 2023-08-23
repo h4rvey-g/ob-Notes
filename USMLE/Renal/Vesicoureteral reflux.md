@@ -11,8 +11,10 @@ share: true
 ---
 # Etiology
 ## Primary VUR (most common type)
-Short intramural ureter → vesicoureteric junction (VUJ) fails to close completely during bladder contraction → VUR
-## 
+Short intramural ureter → vesicoureteric junction (VUJ) fails to close completely during bladder contraction → VUR![[Pasted image 20230823171919.png]]
+## Secondary VUR
+- Bladder outlet obstruction (anatomic/functional): high pressure within the bladder → reflux of urine through the VUJ![[Pasted image 20230823172334.png]]
+- Anatomic: posterior urethral valves ; urethral meatal stenosis
 
 ---
 # Pathophysiology
