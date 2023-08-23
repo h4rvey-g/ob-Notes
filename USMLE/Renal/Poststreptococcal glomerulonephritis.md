@@ -18,11 +18,29 @@ Infection with nephritogenic strains of group A beta-hemolytic streptococci → 
 
 ---
 # Clinical features
-
+Approx. 50% of patients remain asymptomatic. Symptoms occur approximately 1–6 weeks following an acute infection.
+- [[Nephritic syndrome]]
+	- Hematuria: tea- or cola-colored urine
+	- Hypertension: can lead to headaches
+	- Edema (prominent facial edema) 
+	- Oliguria
+- Influenza-like symptoms 
+- Flank pain
 
 ---
 # Diagnostics
+## Initial evaluation
+- Urinalysis with microscopy: nephritic sediment
+- C3 complement, C4 complement levels: classically shows ↓ C3 complement with normal C4 complement
+>[!tip] 
+>If both C3 and C4 complement levels are decreased, consider other causes of glomerulonephritis with low serum complement levels and possible nonrenal causes of low complement levels (e.g., liver failure, nonrenal protein-losing conditions).
 
+## Evidence of preceding GAS infection
+- Antistreptococcal antibody titers
+	- Findings: ↑ ASO, ↑ anti-DNase B antibodies
+- Isolation of group A beta-hemolytic streptococci
+	- Pharyngitis: rapid strep test, throat culture
+	- Skin lesions: wound cultures
 
 ---
 # Treatment
