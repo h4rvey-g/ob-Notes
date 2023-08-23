@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetic kidney disease",
+      "path": "USMLE/Renal/Diabetic kidney disease.md"
+    },
+    {
+      "basename": "Nephrotic syndrome",
+      "path": "USMLE/Renal/Nephrotic syndrome.md"
+    },
+    {
+      "basename": "Focal segmental glomerulosclerosis",
+      "path": "USMLE/Renal/Focal segmental glomerulosclerosis.md"
+    },
+    {
+      "basename": "USMLE-note",
+      "path": "template/USMLE-note.md"
+    },
+    {
       "basename": "Amyloidosis",
       "path": "USMLE/Pathology/Amyloidosis.md"
     },
@@ -9,16 +25,8 @@
       "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
     },
     {
-      "basename": "Diabetic kidney disease",
-      "path": "USMLE/Renal/Diabetic kidney disease.md"
-    },
-    {
       "basename": "Diffuse proliferative glomerulonephritis",
       "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
-    },
-    {
-      "basename": "Nephrotic syndrome",
-      "path": "USMLE/Renal/Nephrotic syndrome.md"
     },
     {
       "basename": "ECGs",
@@ -145,10 +153,6 @@
       "path": "USMLE/Renal/Acute kidney injury.md"
     },
     {
-      "basename": "USMLE-note",
-      "path": "template/USMLE-note.md"
-    },
-    {
       "basename": "callout-mnemonic",
       "path": "template/callout-mnemonic.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Atrial flutter",
       "path": "USMLE/Cardiology/Atrial flutter.md"
-    },
-    {
-      "basename": "Ashman phenomenon",
-      "path": "USMLE/Cardiology/Ashman phenomenon.md"
     }
   ],
   "omittedPaths": [],

@@ -351,6 +351,7 @@ Thymoma
 Tends
 Thrombocytopenia
 Tongue
+Tooth
 differentials
 differential
 diagnosis
@@ -2915,6 +2916,7 @@ immunoglobulins
 inappropriate
 inclusion
 intramembranous
+immunosuppressive
 general
 giving
 generation
@@ -3673,6 +3675,7 @@ matrix
 macroglobulinemia
 macroglossia
 metastasis
+malformations
 Sinus
 ST
 Segment
@@ -4027,6 +4030,7 @@ Seen
 Simultaneous
 SAA
 Splenomegaly
+Sickle
 AVNRT
 Atrial
 AVRT
@@ -4392,6 +4396,10 @@ AHNN
 Amyloid
 Autonomic
 Asteroid
+African
+American
+ACEI
+ARB
 Orthodromic
 On
 Often
@@ -6776,6 +6784,7 @@ foamy
 fragments
 familial
 feature
+foot
 with
 wave
 which
@@ -8170,6 +8179,7 @@ setting
 star
 subepithelial
 spike
+supportive
 QRS
 QT
 QDQ
@@ -9165,6 +9175,8 @@ Musculoskeletal
 Mediterranean
 Membranous
 Membranoproliferative
+Massive
+Marie
 Differentiate
 Drugs
 DDx
@@ -9852,6 +9864,9 @@ FWE
 Fak
 Feu
 FeiY
+FSGC
+Focal
+FSGS
 In
 It
 Intraventricular
@@ -10291,6 +10306,8 @@ Ibh
 Indicated
 Irregular
 IBD
+Interferon
+Initial
 PACs
 Primary
 Pathophysiology
@@ -10666,6 +10683,7 @@ Physical
 Procedure
 Pelger
 Pathognomonic
+Prednisone
 ectopic
 elevation
 early
@@ -11068,6 +11086,7 @@ efferent
 expansion
 entire
 extracellular
+effacement
 Early
 Elevation
 Etiology
@@ -12056,6 +12075,8 @@ Hepatosplenomegaly
 Huet
 Heart
 HFpEF
+Hispanic
+Heroin
 hyperkalemia
 hypertrophy
 hereditary
@@ -12469,6 +12490,7 @@ hyperfiltration
 hyalinization
 hypofiltration
 hepatomegaly
+hyalinosis
 peaked
 pattern
 precordial
@@ -12979,6 +13001,9 @@ progressively
 pressed
 previous
 process
+populations
+podocytes
+podocyte
 Unusual
 Usually
 Upc
@@ -13952,6 +13977,7 @@ Chromosome
 Carpal
 Commonly
 CKD
+Charcot
 Right
 Retrograde
 Rates
@@ -14303,6 +14329,7 @@ RUQYY
 RXXx
 RBCs
 Ringed
+RAAS
 Voltage
 VFV
 VoNW

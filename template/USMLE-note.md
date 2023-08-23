@@ -5,6 +5,10 @@ modified: <% tp.file.last_modified_date() %>
 aliases: <% tp.file.title %>
 share: true
 ---
+# Epidemiology
+<% tp.file.cursor() %>
+
+---
 # Etiology
 <% tp.file.cursor() %>
 

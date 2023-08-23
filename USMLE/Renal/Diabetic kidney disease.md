@@ -24,7 +24,7 @@ major cause of ESRD
 - Glomerular basement membrane thickening
 - <span style="background:rgba(240, 200, 0, 0.2)">Glomerulosclerosis</span> (later stages)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Diffuse hyalinization</span> (most common) or
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pathognomonic nodular glomerulosclerosis (Kimmelstiel-Wilson nodules)</span>: 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pathognomonic nodular glomerulosclerosis (Kimmelstiel-Wilson nodules)</span>: ![[Pasted image 20230823155435.png]]
 		- Glomerular capillary hypertension and hyperfiltration → increase in mesangial matrix → eosinophilic hyaline material in the area of glomerular capillary loops
 		- Can progressively consume the entire glomerulus → hypofiltration (↓ GFR)
 
