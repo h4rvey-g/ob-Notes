@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Amyloidosis",
+      "path": "USMLE/Pathology/Amyloidosis.md"
+    },
+    {
       "basename": "Diabetic kidney disease",
       "path": "USMLE/Renal/Diabetic kidney disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A Handy Shell Tool for Easily Opening or Closing Proxies",
       "path": "Bioinformatics/A Handy Shell Tool for Easily Opening or Closing Proxies.md"
-    },
-    {
-      "basename": "Tumor lysis syndrome",
-      "path": "USMLE/Renal/Tumor lysis syndrome.md"
     }
   ],
   "omittedPaths": [],

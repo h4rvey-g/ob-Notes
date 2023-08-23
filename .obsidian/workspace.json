@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md",
+                "file": "USMLE/Pathology/Amyloidosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md",
+                "file": "USMLE/Pathology/Amyloidosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md",
+                "file": "USMLE/Pathology/Amyloidosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Diabetic kidney disease.md"
+                "file": "USMLE/Pathology/Amyloidosis.md"
               }
             }
           }
@@ -212,13 +212,15 @@
   },
   "active": "b1c25e7f56fc0876",
   "lastOpenFiles": [
+    "USMLE/Renal/Diabetic kidney disease.md",
+    "USMLE/Pathology/Amyloidosis.md",
+    "USMLE/Pathology",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "appendix/Pasted image 20230822213646.png",
     "USMLE/Renal/Nephrotic syndrome.md",
     "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230822211003.png",
     "USMLE/Renal/Goodpasture syndrome.md",
-    "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Renal/Urge incontinence.md",
@@ -256,7 +258,6 @@
     "tables/Untitled.loom",
     "tables",
     "USMLE/image/IntroducingUSMLE",
-    "USMLE/image",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
