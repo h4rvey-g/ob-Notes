@@ -352,6 +352,7 @@ Tends
 Thrombocytopenia
 Tongue
 Tooth
+Twisted
 differentials
 differential
 diagnosis
@@ -835,6 +836,8 @@ dysplastic
 dyscrasia
 dyssynergia
 dome
+deformations
+defects
 of
 over
 originate
@@ -1623,6 +1626,9 @@ radiotherapy
 report
 reflex
 reactant
+rupture
+restriction
+receding
 narrow
 negative
 not
@@ -2436,6 +2442,8 @@ thymoma
 thymomas
 turn
 tunnel
+tool
+trigger
 in
 includes
 involving
@@ -2917,6 +2925,10 @@ inappropriate
 inclusion
 intramembranous
 immunosuppressive
+intrauterine
+ingestions
+internal
+infraorbital
 general
 giving
 generation
@@ -3215,6 +3227,7 @@ gland
 glycation
 glycosylation
 glomerulosclerosis
+gestation
 major
 mechanisms
 mark
@@ -3676,6 +3689,7 @@ macroglobulinemia
 macroglossia
 metastasis
 malformations
+membranes
 Sinus
 ST
 Segment
@@ -4400,6 +4414,10 @@ African
 American
 ACEI
 ARB
+Anticoagulants
+Amniotic
+AFI
+ARPKD
 Orthodromic
 On
 Often
@@ -4625,6 +4643,7 @@ OJLHJL
 Ovuu
 ODD
 Obesity
+Oligohydramnios
 atrio
 and
 atrial
@@ -5129,6 +5148,9 @@ amyloid
 amyloidosis
 apnea
 autonomic
+agenesis
+assess
+amniotic
 ventricular
 varying
 vaccines
@@ -5473,6 +5495,7 @@ vMj
 vUX
 voiding
 void
+valves
 conduction
 concealed
 complex
@@ -5974,6 +5997,7 @@ consume
 chain
 contracted
 consisting
+clubbed
 bypass
 block
 background
@@ -6373,6 +6397,8 @@ bcu
 bGE
 bLU
 bilobed
+bowed
+babies
 flutter
 from
 focus
@@ -7359,6 +7385,7 @@ WTTD
 WVq
 Wilson
 Waldenstrom
+Wrinkling
 you
 young
 ybif
@@ -8180,6 +8207,7 @@ star
 subepithelial
 spike
 supportive
+semiquantitative
 QRS
 QT
 QDQ
@@ -8815,6 +8843,7 @@ losses
 lines
 leukocytopenia
 lipids
+legs
 Multifocal
 Mild
 Moderate
@@ -9867,6 +9896,7 @@ FeiY
 FSGC
 Focal
 FSGS
+Fetal
 In
 It
 Intraventricular
@@ -10308,6 +10338,7 @@ Irregular
 IBD
 Interferon
 Initial
+Intrauterine
 PACs
 Primary
 Pathophysiology
@@ -10684,6 +10715,10 @@ Procedure
 Pelger
 Pathognomonic
 Prednisone
+Placental
+Potter
+Pee
+POTTER
 ectopic
 elevation
 early
@@ -11087,6 +11122,7 @@ expansion
 entire
 extracellular
 effacement
+epicanthal
 Early
 Elevation
 Etiology
@@ -11422,6 +11458,7 @@ EryÄ
 EQO
 Erythrocytopenia
 ESRD
+Extremity
 LEFT
 Lengthening
 Left
@@ -11719,6 +11756,7 @@ LIMM
 LOOOII
 Lifestyle
 Leukocytopenia
+Limb
 Hyperkalemia
 HIV
 HCV
@@ -12491,6 +12529,7 @@ hyalinization
 hypofiltration
 hepatomegaly
 hyalinosis
+hypoplasia
 peaked
 pattern
 precordial
@@ -13004,6 +13043,8 @@ process
 populations
 podocytes
 podocyte
+postterm
+placental
 Unusual
 Usually
 Upc
@@ -13637,6 +13678,7 @@ BYyeQYyYyeEEUueMiqY
 Balll
 BSP
 BBBNN
+Birth
 Characteristic
 CLL
 Clinical
@@ -13978,6 +14020,7 @@ Carpal
 Commonly
 CKD
 Charcot
+Craniofacial
 Right
 Retrograde
 Rates
@@ -14943,6 +14986,8 @@ uuA
 urethra
 undergoing
 urethral
+umbilical
+utero
 quinine
 qz
 qM

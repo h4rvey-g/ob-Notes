@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Oligohydramnios",
+      "path": "USMLE/Reproductive/Oligohydramnios.md"
+    },
+    {
+      "basename": "Potter sequence",
+      "path": "USMLE/Renal/Potter sequence.md"
+    },
+    {
       "basename": "Diabetic kidney disease",
       "path": "USMLE/Renal/Diabetic kidney disease.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
-    },
-    {
-      "basename": "Atrial fibrillation",
-      "path": "USMLE/Cardiology/Atrial fibrillation.md"
-    },
-    {
-      "basename": "Atrial flutter",
-      "path": "USMLE/Cardiology/Atrial flutter.md"
     }
   ],
   "omittedPaths": [],
