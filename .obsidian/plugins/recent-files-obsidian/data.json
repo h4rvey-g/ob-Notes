@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Polycystic kidney disease",
+      "path": "USMLE/Renal/Polycystic kidney disease.md"
+    },
+    {
       "basename": "IgA nephropathy",
       "path": "USMLE/Renal/IgA nephropathy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pericardial effusion",
       "path": "USMLE/Cardiology/Pericardial effusion.md"
-    },
-    {
-      "basename": "Acute rheumatic fever",
-      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
     }
   ],
   "omittedPaths": [],
