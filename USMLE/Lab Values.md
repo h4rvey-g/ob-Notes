@@ -15,6 +15,8 @@ The Trick:
 Use the word “bun” to think of bunion. 
 Bunions are typically located on the toes or digits, and we have 5 digits per extremity which totals 20 digits. 
 This will help you remember the normal range for BUN is 5-20 mg/dL. 
+
+---
 ## Calcium
 Calcium is another electrolyte measured in a BMP. 
 The normal range for calcium is 8.5-10.5 mg/dL.
@@ -25,6 +27,17 @@ A gallon of milk weighs about 8.5 pounds.
 Then think of 2% milk to help you remember to add 2 to the 8.5. 
 This will give you the normal range for calcium of 8.5-10.5 mg/dL.
 
+---
+## Glucose
+A BMP also measures glucose. 
+A normal glucose level is 70-100 mg/dL.
+
+The Trick:
+When you think of glucose, think of energy.
+Our energy starts to decline during our elderly years, especially when we are 70-100 years old.
+This will help you remember the normal range for glucose is 70-100 mg/dL.
+
+---
 # PTH
 - 230 - 630 $pg/mL$
 - ![[Pasted image 20230820152459.png]]

@@ -56,6 +56,7 @@ formation and expansion of cysts in the renal cortex and medulla → <span style
 	- In adults: enlarged kidneys with multiple cysts bilaterally of <span style="background:rgba(240, 200, 0, 0.2)">varying sizes </span>(anechoic masses)
 - ARPKD
 	- Enlarged kidneys with multiple cysts bilaterally of <span style="background:rgba(240, 200, 0, 0.2)">equal size</span>
+
 ![[Pasted image 20230824155118.png]]
 ---
 # Treatment
