@@ -29,7 +29,7 @@ Mycosis fungoides is an indolent, CD4+ cutaneous T-cell lymphoma that presents o
 ---
 # Diagnostics
 - <span style="background:rgba(240, 200, 0, 0.2)">Atypical CD4+ T-cells with cerebriform nuclei (from clumped chromatin) infiltrating the dermis and epidermis</span>![[Pasted image 20230824140505.png]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Pautrier microabscesses: aggregates of atypical CD4+ T-cells within the epidermis that are indicative of the disease</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Pautrier microabscesses: aggregates of atypical CD4+ T-cells within the epidermis that are indicative of the disease</span>![[Pasted image 20230824141702.png]]
 
 ---
 # Differential diagnosis
