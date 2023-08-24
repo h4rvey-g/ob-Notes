@@ -1632,6 +1632,7 @@ rupture
 restriction
 receding
 remain
+reflux
 narrow
 negative
 not
@@ -2936,6 +2937,7 @@ ingestions
 internal
 infraorbital
 infiltrating
+intramural
 general
 giving
 generation
@@ -3700,6 +3702,7 @@ membranes
 microabscesses
 mutated
 mycosis
+meatal
 Sinus
 ST
 Segment
@@ -4059,6 +4062,7 @@ Skin
 Sex
 Subsequently
 Systemic
+Short
 AVNRT
 Atrial
 AVRT
@@ -4435,6 +4439,7 @@ ARPKD
 Approx
 Antistreptococcal
 ASO
+Anatomic
 Orthodromic
 On
 Often
@@ -5173,6 +5178,7 @@ approximately
 aggregates
 advanced
 accompanied
+anatomic
 ventricular
 varying
 vaccines
@@ -5518,6 +5524,7 @@ vUX
 voiding
 void
 valves
+vesicoureteric
 conduction
 concealed
 complex
@@ -6845,6 +6852,7 @@ feature
 foot
 facial
 fungoides
+fails
 with
 wave
 which
@@ -14726,6 +14734,8 @@ VTh
 VVv
 Vaginal
 Voiding
+VUR
+VUJ
 up
 unusual
 usually
@@ -15057,6 +15067,7 @@ undergoing
 urethral
 umbilical
 utero
+ureter
 quinine
 qz
 qM
@@ -16602,6 +16613,7 @@ jVY
 jvV
 jkkw
 jumping
+junction
 kO
 kWCQ
 ky
