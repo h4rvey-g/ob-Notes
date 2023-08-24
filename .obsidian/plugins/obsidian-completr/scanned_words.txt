@@ -6054,6 +6054,8 @@ clumped
 chromatin
 cysts
 cortex
+compensatory
+capture
 bypass
 block
 background
@@ -10808,6 +10810,7 @@ Pharyngitis
 Pautrier
 PKD
 Protruding
+PVC
 ectopic
 elevation
 early
@@ -11217,6 +11220,8 @@ epidermis
 enlarged
 exam
 equal
+earlier
+expected
 Early
 Elevation
 Etiology
@@ -13152,6 +13157,7 @@ patches
 palmar
 plantar
 prevalence
+pause
 Unusual
 Usually
 Upc
@@ -13787,6 +13793,7 @@ BSP
 BBBNN
 Birth
 Bimodal
+Broad
 Characteristic
 CLL
 Clinical

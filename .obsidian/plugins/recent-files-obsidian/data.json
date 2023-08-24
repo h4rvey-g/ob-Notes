@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Acute rheumatic fever",
+      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
+    },
+    {
       "basename": "Membranous nephropathy",
       "path": "USMLE/Renal/Membranous nephropathy.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Restrictive cardiomyopathy",
       "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Goodpasture syndrome",
@@ -195,10 +199,6 @@
     {
       "basename": "Acute kidney injury",
       "path": "USMLE/Renal/Acute kidney injury.md"
-    },
-    {
-      "basename": "callout-mnemonic",
-      "path": "template/callout-mnemonic.md"
     }
   ],
   "omittedPaths": [],
