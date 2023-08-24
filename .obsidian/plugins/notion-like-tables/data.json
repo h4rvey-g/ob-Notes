@@ -9,6 +9,7 @@
   "showWelcomeModal": false,
   "showDonationModal": true,
   "showWhatsNewModal": true,
-  "pluginVersion": "8.1.0",
+  "defaultFrozenColumnCount": 1,
+  "pluginVersion": "8.2.2",
   "customFolderForNewTables": "tables"
 }

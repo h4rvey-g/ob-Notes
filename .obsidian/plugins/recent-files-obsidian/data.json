@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Asthma",
+      "path": "USMLE/Respiratory/Asthma.md"
+    },
+    {
       "basename": "Vesicoureteral reflux",
       "path": "USMLE/Renal/Vesicoureteral reflux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nephritic syndrome",
       "path": "USMLE/Renal/Nephritic syndrome.md"
-    },
-    {
-      "basename": "Rapidly progressive glomerulonephritis",
-      "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     }
   ],
   "omittedPaths": [],

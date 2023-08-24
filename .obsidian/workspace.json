@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Vesicoureteral reflux.md",
-                "mode": "source",
+                "file": "USMLE/Respiratory/Asthma.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "366784a71f0400fb",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Vesicoureteral reflux.md",
+                "file": "USMLE/Respiratory/Asthma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Vesicoureteral reflux.md",
+                "file": "USMLE/Respiratory/Asthma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Vesicoureteral reflux.md"
+                "file": "USMLE/Respiratory/Asthma.md"
               }
             }
           }
@@ -206,17 +206,17 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "notion-like-tables:Create new loom": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "notion-like-tables:Create new loom": false
     }
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
+    "USMLE/Renal/Vesicoureteral reflux.md",
     "appendix/Pasted image 20230823172334.png",
     "appendix/Pasted image 20230823171919.png",
     "appendix/Pasted image 20230823171252.png",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
-    "USMLE/Renal/Vesicoureteral reflux.md",
     "USMLE/Reproductive/Oligohydramnios.md",
     "USMLE/Renal/Potter sequence.md",
     "USMLE/Renal/Diabetic kidney disease.md",
@@ -250,7 +250,6 @@
     "appendix/Pasted image 20230822134549.png",
     "USMLE/Hematology and Oncology",
     "appendix/Pasted image 20230820154953.png",
-    "appendix/Pasted image 20230820154628.png",
     "appendix/Untitled 2.loom",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",
