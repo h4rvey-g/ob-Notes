@@ -838,6 +838,8 @@ dyssynergia
 dome
 deformations
 defects
+dissemination
+distinguishes
 of
 over
 originate
@@ -1989,6 +1991,7 @@ nephrogenic
 nervous
 nephritogenic
 nonrenal
+novo
 tachycardia
 tract
 the
@@ -2932,6 +2935,7 @@ intrauterine
 ingestions
 internal
 infraorbital
+infiltrating
 general
 giving
 generation
@@ -3693,6 +3697,9 @@ macroglossia
 metastasis
 malformations
 membranes
+microabscesses
+mutated
+mycosis
 Sinus
 ST
 Segment
@@ -4049,6 +4056,9 @@ SAA
 Splenomegaly
 Sickle
 Skin
+Sex
+Subsequently
+Systemic
 AVNRT
 Atrial
 AVRT
@@ -5160,6 +5170,9 @@ agenesis
 assess
 amniotic
 approximately
+aggregates
+advanced
+accompanied
 ventricular
 varying
 vaccines
@@ -6013,6 +6026,9 @@ colored
 classically
 consider
 cultures
+cerebriform
+clumped
+chromatin
 bypass
 block
 background
@@ -6414,6 +6430,7 @@ bLU
 bilobed
 bowed
 babies
+brownish
 flutter
 from
 focus
@@ -6827,6 +6844,7 @@ familial
 feature
 foot
 facial
+fungoides
 with
 wave
 which
@@ -8229,6 +8247,8 @@ streptococci
 strains
 streptococcal
 strep
+spread
+smear
 QRS
 QT
 QDQ
@@ -8866,6 +8886,8 @@ leukocytopenia
 lipids
 legs
 losing
+lymphomas
+leukemic
 Multifocal
 Mild
 Moderate
@@ -9228,6 +9250,7 @@ Membranous
 Membranoproliferative
 Massive
 Marie
+Mycosis
 Differentiate
 Drugs
 DDx
@@ -10365,6 +10388,9 @@ Initial
 Intrauterine
 Influenza
 Isolation
+Incidence
+Initially
+Intense
 PACs
 Primary
 Pathophysiology
@@ -10748,6 +10774,7 @@ POTTER
 PSGN
 Prior
 Pharyngitis
+Pautrier
 ectopic
 elevation
 early
@@ -11153,6 +11180,7 @@ extracellular
 effacement
 epicanthal
 evaluation
+epidermis
 Early
 Elevation
 Etiology
@@ -11491,6 +11519,7 @@ ESRD
 Extremity
 Edema
 Evidence
+Erythroderma
 LEFT
 Lengthening
 Left
@@ -12562,6 +12591,8 @@ hypofiltration
 hepatomegaly
 hyalinosis
 hypoplasia
+hepatosplenomegaly
+hyperkeratosis
 peaked
 pattern
 precordial
@@ -13077,6 +13108,10 @@ podocytes
 podocyte
 postterm
 placental
+pruritic
+patches
+palmar
+plantar
 Unusual
 Usually
 Upc
@@ -14054,6 +14089,7 @@ Commonly
 CKD
 Charcot
 Craniofacial
+CTCL
 Right
 Retrograde
 Rates
@@ -17404,6 +17440,7 @@ zyo
 zMk
 zYmG
 zzzVV
+zary
 YCZ
 YL
 Yt

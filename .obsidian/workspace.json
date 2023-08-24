@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md",
-                "mode": "preview",
+                "file": "USMLE/Blood/Mycosis fungoides.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "366784a71f0400fb",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md",
+                "file": "USMLE/Blood/Mycosis fungoides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md",
+                "file": "USMLE/Blood/Mycosis fungoides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md"
+                "file": "USMLE/Blood/Mycosis fungoides.md"
               }
             }
           }
@@ -212,8 +212,13 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
-    "USMLE/单抗记忆.md",
+    "USMLE/Blood/Sézary syndrome.md",
+    "USMLE/Blood/Mycosis fungoides.md",
+    "appendix/Pasted image 20230824140830.png",
+    "appendix/Pasted image 20230824140505.png",
+    "appendix/Pasted image 20230824140023.png",
     "USMLE/Respiratory/Asthma.md",
+    "USMLE/单抗记忆.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Vesicoureteral reflux.md",
     "appendix/Pasted image 20230823172334.png",
@@ -244,13 +249,7 @@
     "appendix/Pasted image 20230822211003.png",
     "USMLE/Renal/Goodpasture syndrome.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
-    "USMLE/Renal/Urge incontinence.md",
-    "USMLE/Renal/Intermittent catheterization.md",
-    "USMLE/Renal/Stress incontinence.md",
-    "appendix/Pasted image 20230813145615.png",
-    "appendix/Pasted image 20230822134549.png",
     "USMLE/Hematology and Oncology",
-    "appendix/Pasted image 20230820154953.png",
     "appendix/Untitled 2.loom",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",

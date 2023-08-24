@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mycosis fungoides",
+      "path": "USMLE/Blood/Mycosis fungoides.md"
+    },
+    {
+      "basename": "Sézary syndrome",
+      "path": "USMLE/Blood/Sézary syndrome.md"
+    },
+    {
       "basename": "Asthma",
       "path": "USMLE/Respiratory/Asthma.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Acute rheumatic fever",
       "path": "USMLE/Cardiology/Acute rheumatic fever.md"
-    },
-    {
-      "basename": "Rheumatic heart disease",
-      "path": "USMLE/Cardiology/Rheumatic heart disease.md"
-    },
-    {
-      "basename": "Nephritic syndrome",
-      "path": "USMLE/Renal/Nephritic syndrome.md"
     }
   ],
   "omittedPaths": [],
