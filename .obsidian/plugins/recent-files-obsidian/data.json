@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Poststreptococcal glomerulonephritis",
+      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
+    },
+    {
+      "basename": "Nephritic syndrome",
+      "path": "USMLE/Renal/Nephritic syndrome.md"
+    },
+    {
+      "basename": "Diffuse proliferative glomerulonephritis",
+      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
+    },
+    {
+      "basename": "Focal segmental glomerulosclerosis",
+      "path": "USMLE/Renal/Focal segmental glomerulosclerosis.md"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -37,10 +53,6 @@
       "path": "USMLE/Respiratory/Asthma.md"
     },
     {
-      "basename": "Poststreptococcal glomerulonephritis",
-      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
-    },
-    {
       "basename": "Oligohydramnios",
       "path": "USMLE/Reproductive/Oligohydramnios.md"
     },
@@ -57,10 +69,6 @@
       "path": "USMLE/Renal/Nephrotic syndrome.md"
     },
     {
-      "basename": "Focal segmental glomerulosclerosis",
-      "path": "USMLE/Renal/Focal segmental glomerulosclerosis.md"
-    },
-    {
       "basename": "USMLE-note",
       "path": "template/USMLE-note.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "Restrictive cardiomyopathy",
       "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
-    },
-    {
-      "basename": "Diffuse proliferative glomerulonephritis",
-      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
     },
     {
       "basename": "ECGs",
@@ -195,10 +199,6 @@
     {
       "basename": "Drug-induced lupus erythematosus",
       "path": "USMLE/Cardiology/Drug-induced lupus erythematosus.md"
-    },
-    {
-      "basename": "Pericardial effusion",
-      "path": "USMLE/Cardiology/Pericardial effusion.md"
     }
   ],
   "omittedPaths": [],

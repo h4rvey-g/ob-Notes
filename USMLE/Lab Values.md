@@ -6,6 +6,7 @@ aliases: Untitled
 share: true
 ---
 # Basic metabolic panel
+[Tricks to Remember Normal Lab Values: Nursing Chart, NCLEX, USMLE Cheat Sheet — EZmed (ezmedlearning.com)](https://www.ezmedlearning.com/blog/lab-value-nursing-chart-nclex)
 ![[Pasted image 20230813153046.png]]
 ## BUN (Blood Urea Nitrogen)
 The basic metabolic panel also assesses renal function, which includes a BUN and creatinine. 
