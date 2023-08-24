@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA nephropathy",
+      "path": "USMLE/Renal/IgA nephropathy.md"
+    },
+    {
+      "basename": "Acute tubulointerstitial nephritis",
+      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
+    },
+    {
       "basename": "Vesicoureteral reflux",
       "path": "USMLE/Renal/Vesicoureteral reflux.md"
     },
@@ -133,16 +141,8 @@
       "path": "USMLE/Renal/Urinary tract cancer.md"
     },
     {
-      "basename": "IgA nephropathy",
-      "path": "USMLE/Renal/IgA nephropathy.md"
-    },
-    {
       "basename": "highlight-yellow",
       "path": "template/highlight-yellow.md"
-    },
-    {
-      "basename": "Acute tubulointerstitial nephritis",
-      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
     },
     {
       "basename": "Nephrolithiasis",
