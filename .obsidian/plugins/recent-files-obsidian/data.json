@@ -5,6 +5,10 @@
       "path": "USMLE/Renal/Polycystic kidney disease.md"
     },
     {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
       "basename": "IgA nephropathy",
       "path": "USMLE/Renal/IgA nephropathy.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Goodpasture syndrome",
       "path": "USMLE/Renal/Goodpasture syndrome.md"
-    },
-    {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
     },
     {
       "basename": "Urinary incontinence",

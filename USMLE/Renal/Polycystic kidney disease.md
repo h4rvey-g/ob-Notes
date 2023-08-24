@@ -21,6 +21,7 @@ formation and expansion of cysts in the renal cortex and medulla → <span style
 # Clinical features
 ## ADPKD
 - Symptom onset: <span style="background:rgba(240, 200, 0, 0.2)">occur after 30 years of age</span>, but the disease may also manifest during childhood.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cysts develop over many years</span>.
 - Renal manifestations
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gross hematuria</span>
 	- Flank or abdominal pain
@@ -51,8 +52,11 @@ formation and expansion of cysts in the renal cortex and medulla → <span style
 
 ---
 # Diagnostics
-
-
+- ADPKD
+	- In adults: enlarged kidneys with multiple cysts bilaterally of <span style="background:rgba(240, 200, 0, 0.2)">varying sizes </span>(anechoic masses)
+- ARPKD
+	- Enlarged kidneys with multiple cysts bilaterally of <span style="background:rgba(240, 200, 0, 0.2)">equal size</span>
+![[Pasted image 20230824155118.png]]
 ---
 # Treatment
 
