@@ -112,6 +112,10 @@ AIVR, also known as Accelerated Ventricular Rhythm, results when the <span style
 - Rate typically 50-120 bpm
 - Three or more ventricular complexes; QRS duration > 120ms
 - Fusion and capture beats
+## Pathophysiology
+- Proposed mechanism is <span style="background:rgba(240, 200, 0, 0.2)">enhanced automaticity of ventricular pacemaker</span>, although triggered activity may play a role, particularly in ischemia and digoxin toxicity
+- <span style="background:rgba(240, 200, 0, 0.2)">AIVR is classically seen in the reperfusion phase of an acute STEMI, e.g. post thrombolysis</span>
+- Usually a well-tolerated, benign, self-limiting arrhythmia
 # STEMI
 ![[Pasted image 20230623220754.png]]
 Timeline of ECG changes in STEMI
@@ -161,7 +165,7 @@ Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all 
 	- Prinzmetal angina
 - T wave inversion (inverted T wave)
 	- May be a normal finding in:
-		- Leads III, aVR, or V1
+		- Leads III, aVR, or <span style="background:rgba(240, 200, 0, 0.2)">V1</span>
 		- Children
 	- <mark style="background: #FFF3A34A;">Coronary artery disease (myocardial ischemia)</mark>
 	- Bundle branch blocks
