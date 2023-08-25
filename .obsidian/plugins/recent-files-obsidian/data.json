@@ -5,12 +5,12 @@
       "path": "USMLE/Renal/Immunofluorescence.md"
     },
     {
-      "basename": "Membranous nephropathy",
-      "path": "USMLE/Renal/Membranous nephropathy.md"
-    },
-    {
       "basename": "Nephrotic syndrome",
       "path": "USMLE/Renal/Nephrotic syndrome.md"
+    },
+    {
+      "basename": "Membranous nephropathy",
+      "path": "USMLE/Renal/Membranous nephropathy.md"
     },
     {
       "basename": "ECGs",

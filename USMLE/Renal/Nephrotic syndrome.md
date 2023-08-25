@@ -13,6 +13,6 @@ share: true
 >3. Membranoproliferative glomerulonephritis Type I: subendothelial & 'tram track'
 
 >[!warning] 
->epithelium = podocyte
+>podocyte = visceral epithelial cell
 # Classifications
 1. ![[Focal segmental glomerulosclerosis]]
