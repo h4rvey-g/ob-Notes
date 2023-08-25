@@ -8,5 +8,6 @@ share: true
 # Nephrotic syndrome
 ## Membranous nephropathy
 - Granular subepithelial deposits  of IgG and C3 (dense deposits) → spike and dome appearance
-- ![[Pasted image 20230824164256.png]]
+- ![[Pasted image 20230825144153.png]]
 - ![[Pasted image 20230824164048.png]]
+## Membranoproliferative glomerulonephritis

@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
-    },
-    {
-      "basename": "Acute rheumatic fever",
-      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
+      "basename": "Immunofluorescence",
+      "path": "USMLE/Renal/Immunofluorescence.md"
     },
     {
       "basename": "Membranous nephropathy",
@@ -17,12 +13,16 @@
       "path": "USMLE/Renal/Nephrotic syndrome.md"
     },
     {
-      "basename": "Poststreptococcal glomerulonephritis",
-      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
-      "basename": "Immunofluorescence",
-      "path": "USMLE/Renal/Immunofluorescence.md"
+      "basename": "Acute rheumatic fever",
+      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
+    },
+    {
+      "basename": "Poststreptococcal glomerulonephritis",
+      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
     },
     {
       "basename": "Nephritic syndrome",

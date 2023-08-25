@@ -3244,6 +3244,7 @@ glycation
 glycosylation
 glomerulosclerosis
 gestation
+gold
 major
 mechanisms
 mark
@@ -3714,6 +3715,7 @@ medulla
 might
 morning
 maternal
+malaria
 Sinus
 ST
 Segment
@@ -9284,6 +9286,7 @@ Membranoproliferative
 Massive
 Marie
 Mycosis
+Middle
 Differentiate
 Drugs
 DDx
@@ -10424,6 +10427,7 @@ Isolation
 Incidence
 Initially
 Intense
+Infections
 PACs
 Primary
 Pathophysiology
@@ -10811,6 +10815,7 @@ Pautrier
 PKD
 Protruding
 PVC
+PLA
 ectopic
 elevation
 early
@@ -11563,6 +11568,8 @@ Evidence
 Erythroderma
 Extrarenal
 Enlarged
+European
+Eastern
 LEFT
 Lengthening
 Left
@@ -12219,6 +12226,7 @@ Heart
 HFpEF
 Hispanic
 Heroin
+HBV
 hyperkalemia
 hypertrophy
 hereditary
@@ -13158,6 +13166,8 @@ palmar
 plantar
 prevalence
 pause
+prostate
+penicillamine
 Unusual
 Usually
 Upc
@@ -15651,6 +15661,7 @@ GIB
 Glomerular
 Glomerulosclerosis
 GAS
+Granular
 Jervell
 JYo
 JO
@@ -16334,6 +16345,8 @@ Nucleated
 NRBCs
 Neutrophils
 Neurogenic
+North
+Nephrotic
 jEQ
 jL
 jO
