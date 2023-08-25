@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Jugular venous pulse",
+      "path": "USMLE/Cardiology/Jugular venous pulse.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Urine specific gravity",
       "path": "USMLE/Renal/Urine specific gravity.md"
-    },
-    {
-      "basename": "Fractional excretion of sodium",
-      "path": "USMLE/Renal/Fractional excretion of sodium.md"
     }
   ],
   "omittedPaths": [],

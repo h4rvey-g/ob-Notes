@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
-                "mode": "preview",
+                "file": "USMLE/Cardiology/Jugular venous pulse.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Jugular venous pulse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Jugular venous pulse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Cardiology/Jugular venous pulse.md"
               }
             }
           }
@@ -212,11 +212,13 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230825214925.png",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Jugular venous pulse.md",
     "USMLE/Cardiology/Atrial fibrillation.md",
     "USMLE/Cardiology/Ashman phenomenon.md",
     "appendix/Pasted image 20230825210145.png",
     "USMLE/Cardiology/Acute rheumatic fever.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Renal/Immunofluorescence.md",
     "appendix/Pasted image 20230825153751.png",
     "appendix/Pasted image 20230825153718.png",
@@ -246,7 +248,6 @@
     "USMLE/单抗记忆.md",
     "USMLE/Reproductive/Oligohydramnios.md",
     "USMLE/Renal/Potter sequence.md",
-    "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
