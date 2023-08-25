@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -212,17 +212,20 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Atrial fibrillation.md",
+    "USMLE/Cardiology/Ashman phenomenon.md",
+    "appendix/Pasted image 20230825210145.png",
+    "USMLE/Cardiology/Acute rheumatic fever.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Renal/Immunofluorescence.md",
     "appendix/Pasted image 20230825153751.png",
     "appendix/Pasted image 20230825153718.png",
     "appendix/Pasted image 20230825152436.png",
     "appendix/Pasted image 20230825151926.png",
     "USMLE/Renal/Membranous nephropathy.md",
-    "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Nephrotic syndrome.md",
-    "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230825144153.png",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
-    "USMLE/Cardiology/Acute rheumatic fever.md",
     "appendix/Pasted image 20230824164256.png",
     "appendix/Pasted image 20230824164048.png",
     "USMLE/Renal/Nephritic syndrome.md",
@@ -240,15 +243,11 @@
     "USMLE/Blood/Mycosis fungoides.md",
     "USMLE/Blood/Sézary syndrome.md",
     "appendix/Pasted image 20230824141702.png",
-    "appendix/Pasted image 20230824140830.png",
-    "appendix/Pasted image 20230824140505.png",
     "USMLE/单抗记忆.md",
     "USMLE/Reproductive/Oligohydramnios.md",
     "USMLE/Renal/Potter sequence.md",
     "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Reproductive",
-    "USMLE/Blood/Anticoagulants.md",
-    "template/USMLE-note.md",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
     "appendix/Untitled 2.loom",

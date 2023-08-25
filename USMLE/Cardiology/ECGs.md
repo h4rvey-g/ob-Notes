@@ -105,6 +105,13 @@ Characteristic findings include:
 - Right ventricular hypertrophy (e.g., right axis deviation, dominant R wave in lead V1) 
 ![[Pasted image 20230622223520.png]]
 ![[Pasted image 20230622223723.png]]
+# Accelerated Idioventricular Rhythm
+AIVR, also known as Accelerated Ventricular Rhythm, results when the <span style="background:rgba(240, 200, 0, 0.2)">rate of an ectopic ventricular pacemaker exceeds that of the sinus node</span>. Often associated with <span style="background:rgba(240, 200, 0, 0.2)">increased vagal tone and decreased sympathetic tone</span>.
+## Features
+- Regular rhythm
+- Rate typically 50-120 bpm
+- Three or more ventricular complexes; QRS duration > 120ms
+- Fusion and capture beats
 # STEMI
 ![[Pasted image 20230623220754.png]]
 Timeline of ECG changes in STEMI
@@ -173,4 +180,5 @@ Prolonged QT: Congenital [[Long QT syndromes]], Drug side effects (e.g., antiarr
 - [[Atrial flutter]]: 250-300/min -- about 1 small block
 - [[Atrial fibrillation]]: 350-400/min -- less than 1 small block
 - Atrial tachycardia, AVNRT: 130-240 -- 1-2 small block
+- Ventricular tachycardia: >100 -- less than 3 small blocks
 
