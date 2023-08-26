@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
-                "mode": "source",
+                "file": "USMLE/Renal/Polycystic kidney disease.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Renal/Polycystic kidney disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Renal/Polycystic kidney disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md"
+                "file": "USMLE/Renal/Polycystic kidney disease.md"
               }
             }
           }
@@ -212,10 +212,17 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
+    "USMLE/Reproductive/Oligohydramnios.md",
+    "USMLE/Renal/Polycystic kidney disease.md",
+    "USMLE/Lab Values.md",
+    "USMLE/Blood/Myelodysplastic syndromes.md",
+    "USMLE/Renal/Urinary incontinence.md",
+    "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+    "USMLE/Blood/Sézary syndrome.md",
+    "USMLE/Renal/Immunofluorescence.md",
     "appendix/Pasted image 20230826155137.png",
     "appendix/Pasted image 20230826154120.png",
     "appendix/Pasted image 20230826151448.png",
-    "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
@@ -223,7 +230,6 @@
     "USMLE/Cardiology/Ashman phenomenon.md",
     "USMLE/Cardiology/Atrial fibrillation.md",
     "USMLE/Cardiology/Jugular venous pulse.md",
-    "USMLE/Renal/Polycystic kidney disease.md",
     "appendix/Pasted image 20230825214925.png",
     "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230825210145.png",
@@ -234,20 +240,14 @@
     "appendix/Pasted image 20230825151926.png",
     "USMLE/Renal/Membranous nephropathy.md",
     "appendix/Pasted image 20230825144153.png",
-    "appendix/Pasted image 20230824164256.png",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Renal/Focal segmental glomerulosclerosis.md",
-    "USMLE/Lab Values.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Renal/Urinary tract infections.md",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Acute tubulointerstitial nephritis.md",
     "USMLE/Renal/Vesicoureteral reflux.md",
     "USMLE/Respiratory/Asthma.md",
-    "USMLE/Blood/Mycosis fungoides.md",
-    "USMLE/Blood/Sézary syndrome.md",
-    "USMLE/单抗记忆.md",
-    "USMLE/Reproductive/Oligohydramnios.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",

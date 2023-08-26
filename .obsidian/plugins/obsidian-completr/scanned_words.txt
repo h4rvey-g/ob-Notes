@@ -1192,6 +1192,7 @@ oUU
 oWvb
 owT
 oYY
+our
 regular
 reentrant
 retrograde
@@ -4755,6 +4756,7 @@ Owo
 OpU
 OidSx
 OJGJ
+Our
 atrio
 and
 atrial
@@ -8428,6 +8430,7 @@ sZGH
 sFzq
 sIn
 sVJ
+starts
 QRS
 QT
 QDQ
@@ -11435,6 +11438,7 @@ efA
 eMN
 ehrjr
 eTdU
+energy
 Early
 Elevation
 Etiology
@@ -15958,6 +15962,7 @@ GGW
 GcUt
 GuY
 GOIJJz
+Glucose
 Jervell
 JYo
 JO

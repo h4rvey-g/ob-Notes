@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Polycystic kidney disease",
+      "path": "USMLE/Renal/Polycystic kidney disease.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Immunofluorescence",
       "path": "USMLE/Renal/Immunofluorescence.md"
     },
@@ -51,14 +59,6 @@
     {
       "basename": "Focal segmental glomerulosclerosis",
       "path": "USMLE/Renal/Focal segmental glomerulosclerosis.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Polycystic kidney disease",
-      "path": "USMLE/Renal/Polycystic kidney disease.md"
     },
     {
       "basename": "BUN-creatinine ratio",
