@@ -6,7 +6,7 @@ aliases: MPGN
 share: true
 ---
 >[!tip] 
->
+>Membranoproliferative = mesangial cell proliferate
 - Primary disease occurs mainly in children
 # Classifications
 - Immunoglobulin (IG)-mediated membranoproliferative glomerulonephritis (type 1 MPGN)

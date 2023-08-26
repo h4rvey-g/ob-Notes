@@ -10,7 +10,12 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Subepithelial (aka on basement membrane)</span> deposits of IgG and C3 (dense deposits) → spike and dome appearance
 - ![[Pasted image 20230825144153.png]]![[Pasted image 20230825151926.png]]
 - ![[Pasted image 20230824164048.png]]
-## Membranoproliferative glomerulonephritis
+
+---
+# Nephritic syndrome
+## [[Poststreptococcal glomerulonephritis]]
+![[Pasted image 20230826151448.png]]
+## [[Membranoproliferative glomerulonephritis]]
 ![[Pasted image 20230825152436.png]]
 ### Type I MPGN:
 - Electron microscopy: Characterized by the presence of discrete subendothelial electron dense deposits![[Pasted image 20230825153718.png]]
