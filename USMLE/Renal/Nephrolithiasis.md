@@ -12,6 +12,10 @@ share: true
 # Classifications
 >[!Mnemonic] 
 >![[Pasted image 20230817160901.png]]
+
+>[!tip] PH
+>Elevated: Struvite stones, Calcium phosphate stones
+>Decreased: Else
 ## Calcium oxalate stones
 ### Etiology
 - Hypercalciuria
@@ -23,6 +27,8 @@ share: true
 ### Diagnosis
 - Urine microscopy: dumbbell-shaped or octahedron-shaped crystals ![[Pasted image 20230817154316.png]]
 - X-ray (or CT): radiopaque stones
+>[!tip] 
+>Serum calcium can be normal or elevated.
 ### Treatment
 - Hydration
 - Dietary modification
@@ -57,8 +63,15 @@ share: true
 ## Cystine stones
 ### Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Autosomal recessive defect in cystine-reabsorbing PCT transporter</span> → impaired proximal renal tubular absorption of dibasic amino acids → cystinuria → cystine stone formation (as cystine is poorly soluble)
-- Develop in persistently acidic urine
-Clinical features: recurrent kidney stones (manifesting with e.g., flank pain) starting in childhood
+- Develop in <span style="background:rgba(240, 200, 0, 0.2)">persistently acidic urine</span>
+### Clinical features
+<span style="background:rgba(240, 200, 0, 0.2)">Recurrent kidney stones (manifesting with e.g., flank pain) starting <u>in childhood</u></span>
+### Diagnosis
+- Urine microscopy: hexagonal crystals 
+- X-ray (or CT)
+	- Weakly radiopaque stones
+	- Possibly staghorn calculi
+- Positive cyanide nitroprusside test
 
 ---
 # Pathophysiology
@@ -74,6 +87,6 @@ Clinical features: recurrent kidney stones (manifesting with e.g., flank pain) s
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
