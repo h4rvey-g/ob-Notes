@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Membranoproliferative glomerulonephritis",
+      "path": "USMLE/Renal/Membranoproliferative glomerulonephritis.md"
+    },
+    {
+      "basename": "Immunofluorescence",
+      "path": "USMLE/Renal/Immunofluorescence.md"
+    },
+    {
       "basename": "Jugular venous pulse",
       "path": "USMLE/Cardiology/Jugular venous pulse.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Ashman phenomenon",
       "path": "USMLE/Cardiology/Ashman phenomenon.md"
-    },
-    {
-      "basename": "Immunofluorescence",
-      "path": "USMLE/Renal/Immunofluorescence.md"
     },
     {
       "basename": "Nephrotic syndrome",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230811161233",
       "path": "appendix/Pasted image 20230811161233.png"
-    },
-    {
-      "basename": "Urine specific gravity",
-      "path": "USMLE/Renal/Urine specific gravity.md"
     }
   ],
   "omittedPaths": [],
