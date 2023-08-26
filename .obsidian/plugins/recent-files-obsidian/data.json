@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA nephropathy",
+      "path": "USMLE/Renal/IgA nephropathy.md"
+    },
+    {
+      "basename": "Immunofluorescence",
+      "path": "USMLE/Renal/Immunofluorescence.md"
+    },
+    {
       "basename": "Polycystic kidney disease",
       "path": "USMLE/Renal/Polycystic kidney disease.md"
     },
     {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Immunofluorescence",
-      "path": "USMLE/Renal/Immunofluorescence.md"
     },
     {
       "basename": "Membranoproliferative glomerulonephritis",
@@ -63,10 +67,6 @@
     {
       "basename": "BUN-creatinine ratio",
       "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
-      "basename": "IgA nephropathy",
-      "path": "USMLE/Renal/IgA nephropathy.md"
     },
     {
       "basename": "Acute tubulointerstitial nephritis",

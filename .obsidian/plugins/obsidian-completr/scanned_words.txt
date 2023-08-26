@@ -859,6 +859,7 @@ dywe
 dsJ
 dNloW
 dIDq
+dull
 of
 over
 originate
@@ -2493,6 +2494,7 @@ trigger
 testicles
 tGV
 tGb
+thought
 in
 includes
 involving
@@ -6156,6 +6158,7 @@ cXo
 coX
 cö
 cpJ
+cyst
 bypass
 block
 background
@@ -6566,6 +6569,7 @@ bVHF
 bod
 bOV
 bUt
+bumpy
 flutter
 from
 focus
@@ -8431,6 +8435,8 @@ sFzq
 sIn
 sVJ
 starts
+stretching
+staining
 QRS
 QT
 QDQ
@@ -9086,6 +9092,7 @@ lRAP
 lxXf
 ldp
 lLkP
+lumpy
 Multifocal
 Mild
 Moderate
