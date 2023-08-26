@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
       "basename": "Nephrolithiasis",
       "path": "USMLE/Renal/Nephrolithiasis.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Jugular venous pulse",
       "path": "USMLE/Cardiology/Jugular venous pulse.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     },
     {
       "basename": "Atrial fibrillation",

@@ -358,6 +358,7 @@ TiTw
 Trp
 TzY
 Thiazide
+Three
 differentials
 differential
 diagnosis
@@ -862,6 +863,7 @@ dNloW
 dIDq
 dull
 decreasing
+dibasic
 of
 over
 originate
@@ -1673,6 +1675,9 @@ radial
 resected
 rich
 restricted
+reabsorbing
+role
+reperfusion
 narrow
 negative
 not
@@ -2039,6 +2044,7 @@ nEn
 nwr
 nXW
 nkY
+nitroprusside
 tachycardia
 tract
 the
@@ -2501,6 +2507,9 @@ testicles
 tGV
 tGb
 thought
+transporter
+thrombolysis
+tolerated
 in
 includes
 involving
@@ -3788,6 +3797,7 @@ mfHO
 maU
 mitochondria
 modification
+manifesting
 Sinus
 ST
 Segment
@@ -4155,6 +4165,7 @@ Snw
 SySn
 Sfi
 Surveillance
+Struvite
 AVNRT
 Atrial
 AVRT
@@ -4536,6 +4547,8 @@ ADPKD
 Aae
 Abhl
 Animal
+Autosomal
+AIVR
 Orthodromic
 On
 Often
@@ -5293,6 +5306,10 @@ azm
 azz
 acidophilic
 animal
+amino
+acids
+acidic
+automaticity
 ventricular
 varying
 vaccines
@@ -6176,6 +6193,9 @@ cpJ
 cyst
 clearing
 chromophobe
+cystinuria
+calculi
+cyanide
 bypass
 block
 background
@@ -7602,6 +7622,7 @@ Wgw
 Wfc
 WWuHzo
 Wrb
+Weakly
 you
 young
 ybif
@@ -8458,6 +8479,8 @@ stretching
 staining
 scar
 supplemental
+starting
+staghorn
 QRS
 QT
 QDQ
@@ -9866,6 +9889,7 @@ DÜ
 DNm
 DlX
 Dietary
+Develop
 FFF
 Fib
 Fi
@@ -10195,6 +10219,7 @@ FeG
 Fic
 FRu
 FmE
+Fusion
 In
 It
 Intraventricular
@@ -10654,6 +10679,7 @@ ILb
 IdF
 IJI
 IDx
+Idioventricular
 PACs
 Primary
 Pathophysiology
@@ -11050,6 +11076,7 @@ Pop
 Ptk
 Pkzc
 Painless
+Proposed
 ectopic
 elevation
 early
@@ -11473,6 +11500,7 @@ eTdU
 energy
 exclude
 enhances
+exceeds
 Early
 Elevation
 Etiology
@@ -11829,6 +11857,7 @@ EQcxO
 EEwR
 EUP
 EHd
+Else
 LEFT
 Lengthening
 Left
@@ -12922,6 +12951,7 @@ hxB
 hjo
 hyperoxaluria
 hypercalciuria
+hexagonal
 peaked
 pattern
 precordial
@@ -13460,6 +13490,11 @@ pbw
 poV
 pHh
 perinuclear
+phosphate
+poorly
+persistently
+pacemaker
+play
 Unusual
 Usually
 Upc
@@ -14461,6 +14496,7 @@ CYy
 CEr
 CPE
 CNF
+Cystine
 Right
 Retrograde
 Rates
@@ -14817,6 +14853,8 @@ RVp
 RVN
 Rtwa
 Rfrn
+Rhythm
+Rate
 Voltage
 VFV
 VoNW
@@ -17294,6 +17332,7 @@ kSo
 kUN
 ksy
 kfF
+known
 KB
 KR
 KA
