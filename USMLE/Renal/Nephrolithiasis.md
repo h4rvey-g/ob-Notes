@@ -18,7 +18,7 @@ share: true
 - Hyperoxaluria
 	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., Crohn disease, ulcerative colitis, short bowel syndrome)
 	 - [[Vitamin C# Vitamin C toxicity]]
-		 - Vitamin C is metabolized to oxalate
+		 - [[Vitamin C]] is metabolized to oxalate
 - Hypocitraturia
 ### Diagnosis
 - Urine microscopy: dumbbell-shaped or octahedron-shaped crystals ![[Pasted image 20230817154316.png]]
@@ -36,7 +36,7 @@ share: true
 ### Etiology
 - Hyperuricemia and hyperuricosuria
 	- Gout
-	- High cell turnover (e.g., [[tumor lysis syndrome]], myelodysplastic syndrome)
+	- High cell turnover (e.g., [[tumor lysis syndrome]], [[Myelodysplastic syndromes|myelodysplastic syndrome]])
 - Diabetes mellitus, metabolic syndrome
 - Chronic diarrhea
 ### Diagnosis
@@ -54,7 +54,11 @@ share: true
 
 >[!warning] 
 >Uricosuric agents (e.g., probenecid) increase the excretion of uric acid, which can accelerate the formation of stones.
-
+## Cystine stones
+### Etiology
+- <span style="background:rgba(240, 200, 0, 0.2)">Autosomal recessive defect in cystine-reabsorbing PCT transporter</span> → impaired proximal renal tubular absorption of dibasic amino acids → cystinuria → cystine stone formation (as cystine is poorly soluble)
+- Develop in persistently acidic urine
+Clinical features: recurrent kidney stones (manifesting with e.g., flank pain) starting in childhood
 
 ---
 # Pathophysiology
@@ -66,7 +70,7 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment

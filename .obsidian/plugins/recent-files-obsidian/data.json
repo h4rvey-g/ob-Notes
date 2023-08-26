@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
+    },
+    {
+      "basename": "Minimal change disease",
+      "path": "USMLE/Renal/Minimal change disease.md"
+    },
+    {
+      "basename": "Renal cell carcinoma",
+      "path": "USMLE/Renal/Renal cell carcinoma.md"
+    },
+    {
       "basename": "IgA nephropathy",
       "path": "USMLE/Renal/IgA nephropathy.md"
     },
@@ -141,10 +153,6 @@
       "path": "USMLE/单抗记忆.md"
     },
     {
-      "basename": "Renal cell carcinoma",
-      "path": "USMLE/Renal/Renal cell carcinoma.md"
-    },
-    {
       "basename": "Parathyroid hormone-related protein",
       "path": "USMLE/Renal/Parathyroid hormone-related protein.md"
     },
@@ -181,10 +189,6 @@
       "path": "template/highlight-yellow.md"
     },
     {
-      "basename": "Nephrolithiasis",
-      "path": "USMLE/Renal/Nephrolithiasis.md"
-    },
-    {
       "basename": "Vitamin C",
       "path": "USMLE/Biochemistry/Vitamin C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Urinary tract infections",
       "path": "USMLE/Renal/Urinary tract infections.md"
-    },
-    {
-      "basename": "Pasted image 20230811161233",
-      "path": "appendix/Pasted image 20230811161233.png"
     }
   ],
   "omittedPaths": [],

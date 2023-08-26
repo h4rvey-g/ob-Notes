@@ -357,6 +357,7 @@ TDS
 TiTw
 Trp
 TzY
+Thiazide
 differentials
 differential
 diagnosis
@@ -860,6 +861,7 @@ dsJ
 dNloW
 dIDq
 dull
+decreasing
 of
 over
 originate
@@ -1667,6 +1669,10 @@ rfb
 rXoP
 rGex
 rUh
+radial
+resected
+rich
+restricted
 narrow
 negative
 not
@@ -2993,6 +2999,8 @@ ijlxx
 iug
 iphhH
 icr
+intercalated
+intake
 general
 giving
 generation
@@ -3778,6 +3786,8 @@ mRQ
 mVG
 mfHO
 maU
+mitochondria
+modification
 Sinus
 ST
 Segment
@@ -4144,6 +4154,7 @@ SAv
 Snw
 SySn
 Sfi
+Surveillance
 AVNRT
 Atrial
 AVRT
@@ -4524,6 +4535,7 @@ Anatomic
 ADPKD
 Aae
 Abhl
+Animal
 Orthodromic
 On
 Often
@@ -4759,6 +4771,7 @@ OpU
 OidSx
 OJGJ
 Our
+Oncocytoma
 atrio
 and
 atrial
@@ -5278,6 +5291,8 @@ aWH
 aei
 azm
 azz
+acidophilic
+animal
 ventricular
 varying
 vaccines
@@ -6159,6 +6174,8 @@ coX
 cö
 cpJ
 cyst
+clearing
+chromophobe
 bypass
 block
 background
@@ -6570,6 +6587,7 @@ bod
 bOV
 bUt
 bumpy
+brown
 flutter
 from
 focus
@@ -6991,6 +7009,7 @@ fUi
 ffv
 ftx
 fdff
+foods
 with
 wave
 which
@@ -8437,6 +8456,8 @@ sVJ
 starts
 stretching
 staining
+scar
+supplemental
 QRS
 QT
 QDQ
@@ -9463,6 +9484,8 @@ Mbn
 MXy
 Mgd
 MiE
+Macroscopy
+Microscopy
 Differentiate
 Drugs
 DDx
@@ -9842,6 +9865,7 @@ DVB
 DÜ
 DNm
 DlX
+Dietary
 FFF
 Fib
 Fi
@@ -11025,6 +11049,7 @@ Phh
 Pop
 Ptk
 Pkzc
+Painless
 ectopic
 elevation
 early
@@ -11446,6 +11471,8 @@ eMN
 ehrjr
 eTdU
 energy
+exclude
+enhances
 Early
 Elevation
 Etiology
@@ -12893,6 +12920,8 @@ hzs
 hZR
 hxB
 hjo
+hyperoxaluria
+hypercalciuria
 peaked
 pattern
 precordial
@@ -13430,6 +13459,7 @@ pXd
 pbw
 poV
 pHh
+perinuclear
 Unusual
 Usually
 Upc
@@ -14080,6 +14110,7 @@ BZd
 BCCW
 BCP
 BbV
+Benign
 Characteristic
 CLL
 Clinical
