@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Autoimmune hemolytic anemia",
+      "path": "USMLE/Blood/Autoimmune hemolytic anemia.md"
+    },
+    {
+      "basename": "Acute coronary syndrome",
+      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -165,10 +173,6 @@
       "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
     },
     {
-      "basename": "Acute coronary syndrome",
-      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
-    },
-    {
       "basename": "Urine osmolality",
       "path": "USMLE/Renal/Urine osmolality.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Urine sediment",
       "path": "USMLE/Renal/Urine sediment.md"
-    },
-    {
-      "basename": "Urinary tract infections",
-      "path": "USMLE/Renal/Urinary tract infections.md"
     }
   ],
   "omittedPaths": [],
