@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Supraventricular tachycardia.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -212,6 +212,9 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230827215152.png",
+    "USMLE/Cardiology/Supraventricular tachycardia.md",
+    "appendix/Pasted image 20230827214147.png",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Renal/IgA nephropathy.md",
@@ -244,10 +247,7 @@
     "appendix/Pasted image 20230825152436.png",
     "appendix/Pasted image 20230825151926.png",
     "USMLE/Renal/Membranous nephropathy.md",
-    "appendix/Pasted image 20230825144153.png",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
-    "USMLE/Renal/Focal segmental glomerulosclerosis.md",
-    "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",

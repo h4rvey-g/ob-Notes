@@ -125,6 +125,8 @@ The sequence of ECG changes over several hours to days: hyperacute T wave → ST
 Top: normal Q wave  
 Bottom: pathological Q wave with a duration ≥0.04 s and depth >¼ of R wave amplitude (red and green overlays)
 ![[Pasted image 20230628215219.png]]
+## Ventricular aneurysm
+The pattern of <span style="background:rgba(240, 200, 0, 0.2)">persistent anterior ST elevation (> 2 weeks after STEMI)</span> plus <span style="background:rgba(240, 200, 0, 0.2)">pathological Q waves</span> has a sensitivity of 38% and a specificity of 84% for the diagnosis of ventricular aneurysm.![[Pasted image 20230827215152.png]]
 # ECG Motion Artefacts
 ## **Parkinsonian tremor:**
 ![[Pasted image 20230722214804.png]]

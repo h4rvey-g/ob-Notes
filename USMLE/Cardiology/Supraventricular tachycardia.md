@@ -22,7 +22,7 @@ WPW syndrome is a specific form of pre-excitation syndrome characterized by a <m
 >[!tip] 
 >- Regular tachycardia ~140-280 bpm
 >- Narrow QRS complexes (< 120ms) unless there is co-existing bundle branch block, accessory pathway, or rate-related aberrant conduction
->- P waves if visible exhibit retrograde conduction with P-wave inversion in leads II, III, aVF. They may be buried within, visible after, or very rarely visible before the QRS complex
+>- P waves if visible exhibit retrograde conduction with P-wave inversion in leads II, III, aVF. They may be buried within, visible after, or very rarely visible before the QRS complex![[Pasted image 20230827214147.png]]
 # SVT vs Sinus tachycardia
 The real difference is the rate, practically.
 SVT is generally 150 and above. Sinus tach is 100-150.
