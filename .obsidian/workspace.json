@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Cardiology/Supraventricular tachycardia.md"
               }
             }
           }
@@ -212,6 +212,7 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
+    "USMLE/Cardiology/ECGs.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Minimal change disease.md",
@@ -236,7 +237,6 @@
     "USMLE/Cardiology/Atrial fibrillation.md",
     "USMLE/Cardiology/Jugular venous pulse.md",
     "appendix/Pasted image 20230825214925.png",
-    "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230825210145.png",
     "USMLE/Cardiology/Acute rheumatic fever.md",
     "appendix/Pasted image 20230825153751.png",
