@@ -2521,6 +2521,7 @@ troponin
 thiazide
 those
 tetany
+transported
 in
 includes
 involving
@@ -4188,6 +4189,7 @@ Sfi
 Surveillance
 Struvite
 SLC
+Sodium
 AVNRT
 Atrial
 AVRT
@@ -6638,6 +6640,7 @@ bUt
 bumpy
 brown
 basically
+basolateral
 flutter
 from
 focus
@@ -9174,6 +9177,7 @@ ldp
 lLkP
 lumpy
 leukocytosis
+luminal
 Multifocal
 Mild
 Moderate
@@ -11548,6 +11552,7 @@ extravascular
 erythropoiesis
 erythrocyte
 exact
+exchanger
 Early
 Elevation
 Etiology
