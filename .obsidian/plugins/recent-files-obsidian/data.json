@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
       "basename": "Autoimmune hemolytic anemia",
       "path": "USMLE/Blood/Autoimmune hemolytic anemia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitamin C",
       "path": "USMLE/Biochemistry/Vitamin C.md"
-    },
-    {
-      "basename": "Urine sediment",
-      "path": "USMLE/Renal/Urine sediment.md"
     }
   ],
   "omittedPaths": [],
