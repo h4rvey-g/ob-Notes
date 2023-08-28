@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gitelman syndrome",
+      "path": "USMLE/Renal/Gitelman syndrome.md"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Renal tubular disorders",
       "path": "USMLE/Renal/Renal tubular disorders.md"
-    },
-    {
-      "basename": "Urinary tract cancer",
-      "path": "USMLE/Renal/Urinary tract cancer.md"
     }
   ],
   "omittedPaths": [],

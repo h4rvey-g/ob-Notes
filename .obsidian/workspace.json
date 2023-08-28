@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Lab Values.md",
-                "mode": "preview",
+                "file": "USMLE/Renal/Gitelman syndrome.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Renal/Gitelman syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Renal/Gitelman syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Lab Values.md"
+                "file": "USMLE/Renal/Gitelman syndrome.md"
               }
             }
           }
@@ -210,10 +210,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "1049fb85c82400ae",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Blood/Thalassemia.md",
     "USMLE/Lab Values.md",
+    "USMLE/Renal/Gitelman syndrome.md",
+    "USMLE/Blood/Thalassemia.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Blood/Hemoglobin Barts.md",
     "USMLE/Blood/Anemia.md",
@@ -242,7 +243,6 @@
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
-    "USMLE/Renal/Nephrotic syndrome.md",
     "appendix/Pasted image 20230825214925.png",
     "appendix/Pasted image 20230825210145.png",
     "appendix/Pasted image 20230825153751.png",
