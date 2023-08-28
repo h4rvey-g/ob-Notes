@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Thalassemia",
+      "path": "USMLE/Blood/Thalassemia.md"
+    },
+    {
+      "basename": "Hemoglobin Barts",
+      "path": "USMLE/Blood/Hemoglobin Barts.md"
+    },
+    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Urinary tract cancer",
       "path": "USMLE/Renal/Urinary tract cancer.md"
-    },
-    {
-      "basename": "highlight-yellow",
-      "path": "template/highlight-yellow.md"
-    },
-    {
-      "basename": "Vitamin C",
-      "path": "USMLE/Biochemistry/Vitamin C.md"
     }
   ],
   "omittedPaths": [],

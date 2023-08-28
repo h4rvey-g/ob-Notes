@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
-                "mode": "source",
+                "file": "USMLE/Blood/Thalassemia.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Blood/Thalassemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Blood/Thalassemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md"
+                "file": "USMLE/Blood/Thalassemia.md"
               }
             }
           }
@@ -212,6 +212,10 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
+    "USMLE/Blood/Hemoglobin Barts.md",
+    "USMLE/Blood/Thalassemia.md",
+    "USMLE/Blood/Anemia.md",
+    "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Blood/Autoimmune hemolytic anemia.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
@@ -239,12 +243,8 @@
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
     "USMLE/Renal/Nephrotic syndrome.md",
-    "USMLE/Cardiology/Ashman phenomenon.md",
-    "USMLE/Cardiology/Atrial fibrillation.md",
-    "USMLE/Cardiology/Jugular venous pulse.md",
     "appendix/Pasted image 20230825214925.png",
     "appendix/Pasted image 20230825210145.png",
-    "USMLE/Cardiology/Acute rheumatic fever.md",
     "appendix/Pasted image 20230825153751.png",
     "appendix/Pasted image 20230825153718.png",
     "appendix/Pasted image 20230825152436.png",
