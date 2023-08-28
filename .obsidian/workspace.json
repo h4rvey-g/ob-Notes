@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md",
+                "file": "USMLE/Lab Values.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md",
+                "file": "USMLE/Lab Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md",
+                "file": "USMLE/Lab Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md"
+                "file": "USMLE/Lab Values.md"
               }
             }
           }
@@ -212,12 +212,13 @@
   },
   "active": "1049fb85c82400ae",
   "lastOpenFiles": [
-    "USMLE/Blood/Hemoglobin Barts.md",
     "USMLE/Blood/Thalassemia.md",
+    "USMLE/Lab Values.md",
+    "USMLE/Cardiology/Acute coronary syndrome.md",
+    "USMLE/Blood/Hemoglobin Barts.md",
     "USMLE/Blood/Anemia.md",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Blood/Autoimmune hemolytic anemia.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
     "USMLE/Cardiology/ECGs.md",
     "appendix/Pasted image 20230827215152.png",
@@ -232,7 +233,6 @@
     "USMLE/Renal/Polycystic kidney disease.md",
     "USMLE/Blood/Myelodysplastic syndromes.md",
     "USMLE/Reproductive/Oligohydramnios.md",
-    "USMLE/Lab Values.md",
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
     "USMLE/Blood/Sézary syndrome.md",

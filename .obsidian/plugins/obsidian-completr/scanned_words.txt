@@ -1681,6 +1681,7 @@ restricted
 reabsorbing
 role
 reperfusion
+rub
 narrow
 negative
 not
@@ -2515,6 +2516,7 @@ thrombolysis
 tolerated
 thalassemia
 thalassemias
+troponin
 in
 includes
 involving
@@ -3019,6 +3021,7 @@ intravascular
 inside
 intermedia
 inclusions
+infective
 general
 giving
 generation
@@ -6215,6 +6218,7 @@ chromophobe
 cystinuria
 calculi
 cyanide
+colchicine
 bypass
 block
 background
@@ -7052,6 +7056,7 @@ fdff
 foods
 fits
 faulty
+friction
 with
 wave
 which
@@ -9162,6 +9167,7 @@ lxXf
 ldp
 lLkP
 lumpy
+leukocytosis
 Multifocal
 Mild
 Moderate
@@ -9915,6 +9921,7 @@ DNm
 DlX
 Dietary
 Develop
+Dressler
 FFF
 Fib
 Fi
@@ -11103,6 +11110,8 @@ Ptk
 Pkzc
 Painless
 Proposed
+Postmyocardial
+Pericarditis
 ectopic
 elevation
 early
@@ -12985,6 +12994,7 @@ hyperoxaluria
 hypercalciuria
 hexagonal
 hydrops
+hemopericardium
 peaked
 pattern
 precordial
@@ -13530,6 +13540,7 @@ pacemaker
 play
 pairing
 precipitate
+pleuritic
 Unusual
 Usually
 Upc
