@@ -17,3 +17,8 @@ share: true
 	- Amino acids
 	- Uric acid
 	- Na+, Cl-, K+, HCO3-, PO43-, and H2O<span style="background:rgba(240, 200, 0, 0.2)"> (All together with Na+ !!!)</span>![[Pasted image 20230829152436.png]]
+## Distal convoluted tubule (DCT)
+1. Magnesium and Calcium are reabsorbed paracellularly.
+2. Ca2+ is reabsorbed using Ca2+ channels on the luminal surface and Na+/Ca2+ antiporters (exchangers) on the basolateral surface.![[Pasted image 20230829155253.png]]
+	1. PTH up-regulates the Ca2+/Na+ antiporter resulting in increased reabsorption of Ca2+.
+## Collecting duct
