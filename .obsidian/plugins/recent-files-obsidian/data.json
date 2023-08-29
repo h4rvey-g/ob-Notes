@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Renal physiology",
+      "path": "USMLE/Renal/Renal physiology.md"
+    },
+    {
       "basename": "Proximal renal tubular acidosis (type 2)",
       "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Intermittent catheterization",
       "path": "USMLE/Renal/Intermittent catheterization.md"
-    },
-    {
-      "basename": "Renal tubular disorders",
-      "path": "USMLE/Renal/Renal tubular disorders.md"
     }
   ],
   "omittedPaths": [],
