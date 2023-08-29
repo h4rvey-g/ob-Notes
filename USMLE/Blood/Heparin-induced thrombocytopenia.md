@@ -34,6 +34,9 @@ share: true
 
 ---
 # Treatment
-
+## Empirical management of HIT
+- Stop all heparin exposure immediately (including heparin flushes and heparin-coated catheters).
+- Patients on vitamin K antagonists (e.g., warfarin): Stop the medication and consider reversal with vitamin K. DOSAGE 
+- Initiate nonheparin anticoagulation
 
 ---
