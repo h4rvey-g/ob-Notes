@@ -30,3 +30,4 @@ share: true
 	1. Have a K+/H+ exchanger on the luminal surface to secrete H+ and reabsorb K+
 	2. Have a H+-ATPase which actively secretes H+. On the basolateral surface, the cells have a HCO3 -/Cl- exchanger to reabsorb HCO3 -.
 	3. <span style="background:rgba(240, 200, 0, 0.2)">Aldosterone upregulates H+ secretion via H<sup>+</sup>-ATPase. Increased H+ secretion will lead to increased HCO<sup>3-</sup> reabsorption.</span>![[Pasted image 20230829160412.png]]
+3. ADH also stimulates reabsorption of urea in collecting ducts to maximize corticopapillary osmotic gradient.
