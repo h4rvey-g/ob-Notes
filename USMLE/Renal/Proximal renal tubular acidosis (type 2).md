@@ -5,6 +5,8 @@ modified: 2023-08-19 16:58
 aliases: Fanconi syndrome
 share: true
 ---
+>[!Mnemonic] Remember these alphabetically 
+>![[Pasted image 20230829160609.png]]
 # Etiology
 
 

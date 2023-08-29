@@ -865,6 +865,7 @@ dull
 decreasing
 dibasic
 deformities
+decreases
 of
 over
 originate
@@ -1682,6 +1683,9 @@ reabsorbing
 role
 reperfusion
 rub
+resorption
+reabsorbed
+regulates
 narrow
 negative
 not
@@ -4190,6 +4194,7 @@ Surveillance
 Struvite
 SLC
 Sodium
+SGLT
 AVNRT
 Atrial
 AVRT
@@ -4577,6 +4582,11 @@ AIHA
 Asian
 Asia
 Africa
+Absorb
+Angiotensin
+Amino
+ATPase
+Aldosterone
 Orthodromic
 On
 Often
@@ -5339,6 +5349,10 @@ acids
 acidic
 automaticity
 alleles
+absorb
+antiporters
+antiporter
+actively
 ventricular
 varying
 vaccines
@@ -8520,6 +8534,8 @@ starting
 staghorn
 splenic
 stay
+secrete
+secretes
 QRS
 QT
 QDQ
@@ -9551,6 +9567,7 @@ MiE
 Macroscopy
 Microscopy
 Metabolic
+Magnesium
 Differentiate
 Drugs
 DDx
@@ -9934,6 +9951,9 @@ Dietary
 Develop
 Dressler
 Due
+Don
+Distal
+DCT
 FFF
 Fib
 Fi
@@ -11124,6 +11144,8 @@ Painless
 Proposed
 Postmyocardial
 Pericarditis
+Proximal
+Parathormone
 ectopic
 elevation
 early
@@ -11553,6 +11575,7 @@ erythropoiesis
 erythrocyte
 exact
 exchanger
+exchangers
 Early
 Elevation
 Etiology
@@ -12578,6 +12601,7 @@ HCq
 HbF
 HbA
 HbH
+Have
 hyperkalemia
 hypertrophy
 hereditary
@@ -13557,6 +13581,7 @@ pairing
 precipitate
 pleuritic
 polyuria
+paracellularly
 Unusual
 Usually
 Upc
@@ -14212,6 +14237,8 @@ But
 Beta
 Bart
 Barts
+Bicarbonate
+Brush
 Characteristic
 CLL
 Clinical
@@ -14563,6 +14590,7 @@ CEr
 CPE
 CNF
 Cystine
+Collecting
 Right
 Retrograde
 Rates
@@ -15551,6 +15579,8 @@ ujf
 ufZ
 ulh
 understood
+ultrafiltrate
+upregulates
 quinine
 qz
 qM

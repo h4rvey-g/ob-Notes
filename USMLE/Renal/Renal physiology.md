@@ -22,3 +22,11 @@ share: true
 2. Ca2+ is reabsorbed using Ca2+ channels on the luminal surface and Na+/Ca2+ antiporters (exchangers) on the basolateral surface.![[Pasted image 20230829155253.png]]
 	1. PTH up-regulates the Ca2+/Na+ antiporter resulting in increased reabsorption of Ca2+.
 ## Collecting duct
+1. Principal cells
+	1. Reabsorb Na+ and H2O, but secrete K+
+	2. When acted upon by ADH, principal cells will increase the number of aquaporins (water channels) on the luminal membrane → increased H2O reabsorption.
+	3. When acted upon by aldosterone, principal cells increase activity of Na+/K+ exchangers → increased Na+ reabsorption and increased K+ secretion.![[Pasted image 20230829161022.png]]
+2. Alpha-intercalated cells
+	1. Have a K+/H+ exchanger on the luminal surface to secrete H+ and reabsorb K+
+	2. Have a H+-ATPase which actively secretes H+. On the basolateral surface, the cells have a HCO3 -/Cl- exchanger to reabsorb HCO3 -.
+	3. <span style="background:rgba(240, 200, 0, 0.2)">Aldosterone upregulates H+ secretion via H<sup>+</sup>-ATPase. Increased H+ secretion will lead to increased HCO<sup>3-</sup> reabsorption.</span>![[Pasted image 20230829160412.png]]
