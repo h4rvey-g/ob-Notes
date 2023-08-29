@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Heparin-induced thrombocytopenia",
+      "path": "USMLE/Blood/Heparin-induced thrombocytopenia.md"
+    },
+    {
+      "basename": "Blood",
+      "path": "USMLE/Blood/Blood.md"
+    },
+    {
+      "basename": "Hypercalcemia",
+      "path": "USMLE/Cardiology/Hypercalcemia.md"
+    },
+    {
       "basename": "Autoimmune hemolytic anemia",
       "path": "USMLE/Blood/Autoimmune hemolytic anemia.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Urinary tract cancer",
       "path": "USMLE/Renal/Urinary tract cancer.md"
-    },
-    {
-      "basename": "highlight-yellow",
-      "path": "template/highlight-yellow.md"
-    },
-    {
-      "basename": "Vitamin C",
-      "path": "USMLE/Biochemistry/Vitamin C.md"
-    },
-    {
-      "basename": "Urine sediment",
-      "path": "USMLE/Renal/Urine sediment.md"
     }
   ],
   "omittedPaths": [],
