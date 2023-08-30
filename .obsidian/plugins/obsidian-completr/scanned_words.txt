@@ -1700,6 +1700,7 @@ replace
 reason
 required
 reversal
+replication
 narrow
 negative
 not
@@ -4611,6 +4612,7 @@ Amino
 ATPase
 Aldosterone
 Arterial
+Agents
 Orthodromic
 On
 Often
@@ -4847,6 +4849,9 @@ OidSx
 OJGJ
 Our
 Oncocytoma
+Oxaliplatin
+Osteosarcoma
+Ototoxicity
 atrio
 and
 atrial
@@ -6283,6 +6288,7 @@ check
 counts
 creating
 corticopapillary
+cisplatin
 bypass
 block
 background
@@ -8586,6 +8592,7 @@ strongly
 simple
 swelling
 stimulates
+strands
 QRS
 QT
 QDQ
@@ -10800,6 +10807,7 @@ Idioventricular
 Inefficient
 Instructions
 Initiate
+Indications
 PACs
 Primary
 Pathophysiology
@@ -11634,6 +11642,7 @@ exact
 exchanger
 exchangers
 each
+exchange
 Early
 Elevation
 Etiology
@@ -12296,6 +12305,7 @@ Ler
 LzzzNN
 LoA
 Localized
+Lymphomas
 Hyperkalemia
 HIV
 HCV
@@ -14660,6 +14670,9 @@ Cystine
 Collecting
 Conflicts
 Calf
+Cisplatin
+Carboplatin
+Cross
 Right
 Retrograde
 Rates
@@ -16908,6 +16921,8 @@ Naj
 NqF
 NNR
 NKCC
+Nephrotoxicity
+Neurotoxicity
 jEQ
 jL
 jO
