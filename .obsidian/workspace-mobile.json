@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "34dfe114635a4ef4",
+        "id": "8c9bf53551cecf01",
         "type": "tabs",
         "children": [
           {
-            "id": "932a03185d286a10",
+            "id": "6a783152b61b4f52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,9 +84,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 1,
-    "pinned": true
+    ]
   },
   "right": {
     "id": "0568b3b46729059e",
@@ -102,7 +96,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/Cardiology/Hypercalcemia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +112,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/Cardiology/Hypercalcemia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,9 +122,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "USMLE/Cardiology/Hypercalcemia.md"
-          }
+          "state": {}
         }
       },
       {
@@ -164,6 +154,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "notion-like-tables:Create new loom": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
@@ -175,8 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "932a03185d286a10",
+  "active": "6a783152b61b4f52",
   "lastOpenFiles": [
+    "USMLE/Blood/Heparin-induced thrombocytopenia.md",
+    "USMLE/Blood/Blood.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
     "USMLE/单抗记忆.md",
     "USMLE/Respiratory"
