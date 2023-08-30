@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Chronic obstructive pulmonary disease",
+      "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
+    },
+    {
       "basename": "Renal physiology",
       "path": "USMLE/Renal/Renal physiology.md"
     },
     {
       "basename": "Heparin-induced thrombocytopenia",
       "path": "USMLE/Blood/Heparin-induced thrombocytopenia.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Proximal renal tubular acidosis (type 2)",
@@ -195,10 +195,6 @@
     {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
-    },
-    {
-      "basename": "Parathyroid hormone-related protein",
-      "path": "USMLE/Renal/Parathyroid hormone-related protein.md"
     }
   ],
   "omittedPaths": [],

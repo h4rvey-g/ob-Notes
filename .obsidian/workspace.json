@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e548df0b2e9227",
+        "id": "fa7571f6ba354772",
         "type": "tabs",
         "children": [
           {
-            "id": "1049fb85c82400ae",
+            "id": "a6bfaecce769cd77",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/recent-files-obsidian/data.json",
-                "staged": false
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -142,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
+              }
             }
           }
         ],
@@ -205,14 +210,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "20e46837baa36f69",
+  "active": "a6bfaecce769cd77",
   "lastOpenFiles": [
+    "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Renal/Renal physiology.md",
     "USMLE/Blood/Heparin-induced thrombocytopenia.md",
     "conflict-files-obsidian-git.md",
     "USMLE/Blood/Blood.md",
     "appendix/Pasted image 20230829161022.png",
-    "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "appendix/Pasted image 20230829160609.png",
     "appendix/Pasted image 20230829160412.png",
     "appendix/Pasted image 20230829160114.png",
