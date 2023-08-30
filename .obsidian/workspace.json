@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Platinum-based agents.md",
-                "mode": "preview",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Platinum-based agents.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Platinum-based agents.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Platinum-based agents.md"
+                "file": "USMLE/Blood/Chemotherapeutic agents.md"
               }
             }
           }
@@ -210,10 +210,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "a6bfaecce769cd77",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Blood/Platinum-based agents.md",
+    "USMLE/Blood/Chemotherapeutic agents.md",
+    "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Renal/Gitelman syndrome.md",
     "USMLE/Renal/Renal physiology.md",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
@@ -247,7 +248,6 @@
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Polycystic kidney disease.md",
-    "USMLE/Blood/Myelodysplastic syndromes.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
