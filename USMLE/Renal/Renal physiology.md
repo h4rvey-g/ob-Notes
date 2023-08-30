@@ -17,6 +17,8 @@ share: true
 	- Amino acids
 	- Uric acid
 	- Na+, Cl-, K+, HCO3-, PO43-, and H2O<span style="background:rgba(240, 200, 0, 0.2)"> (All together with Na+ !!!)</span>![[Pasted image 20230829152436.png]]
+## Thick ascending loop of Henle
+1. <span style="background:rgba(240, 200, 0, 0.2)">ADH stimulates the activity of NKCC2</span>. Increased NKCC2 activity aids in water reabsorption in the collecting duct through aquaporin 2 channels by creating a hypo-osmotic filtrate.
 ## Distal convoluted tubule (DCT)
 1. Magnesium and Calcium are reabsorbed paracellularly.
 2. Ca2+ is reabsorbed using Ca2+ channels on the luminal surface and Na+/Ca2+ antiporters (exchangers) on the basolateral surface.![[Pasted image 20230829155253.png]]
