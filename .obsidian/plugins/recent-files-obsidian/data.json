@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Eosin methylene blue agar",
+      "path": "USMLE/Infective disease/Eosin methylene blue agar.md"
+    },
+    {
       "basename": "Urine sediment",
       "path": "USMLE/Renal/Urine sediment.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Amyloidosis",
       "path": "USMLE/Pathology/Amyloidosis.md"
-    },
-    {
-      "basename": "Restrictive cardiomyopathy",
-      "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
     }
   ],
   "omittedPaths": [],
