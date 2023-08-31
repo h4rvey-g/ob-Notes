@@ -14,7 +14,7 @@ These processes result in the permanent dilation of airways.
 - Disorders of secretion clearance or mucous plugging
 	- [[Cystic fibrosis]] (CF)  (Most common congenital cause of bronchiectasis)
 	- Primary ciliary dyskinesia (PCD)
-	- Allergic bronchopulmonary aspergillosis (ABPA)
+	- Allergic bronchopulmonary [[aspergillosis]] (ABPA)
 	- Kartagener syndrome
 	- Smoking: associated with poor ciliary motility
 - Bronchial narrowing or other forms of obstruction

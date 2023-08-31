@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md",
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md",
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md",
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
+                "file": "USMLE/Biochemistry/Cystic fibrosis.md"
               }
             }
           }
@@ -212,8 +212,12 @@
   },
   "active": "a6bfaecce769cd77",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Pneumonia.md",
+    "USMLE/Respiratory/Bronchiectasis.md",
+    "USMLE/Biochemistry/Cystic fibrosis.md",
+    "appendix/Pasted image 20230824155118.png",
+    "USMLE/Respiratory/Asthma.md",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
+    "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Blood/Platinum-based agents.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
@@ -241,13 +245,9 @@
     "USMLE/Blood/Autoimmune hemolytic anemia.md",
     "USMLE/Cardiology/Class IB antiarrhythmics.md",
     "USMLE/Cardiology/ECGs.md",
-    "appendix/Pasted image 20230827215152.png",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Renal/IgA nephropathy.md",
-    "USMLE/Renal/Minimal change disease.md",
-    "USMLE/Renal/Renal cell carcinoma.md",
-    "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",

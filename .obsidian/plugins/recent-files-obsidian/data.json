@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Cystic fibrosis",
+      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
+    },
+    {
+      "basename": "Pasted image 20230824155118",
+      "path": "appendix/Pasted image 20230824155118.png"
+    },
+    {
+      "basename": "Asthma",
+      "path": "USMLE/Respiratory/Asthma.md"
+    },
+    {
       "basename": "Acute respiratory distress syndrome",
       "path": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
     },
@@ -153,10 +165,6 @@
       "path": "USMLE/Blood/Sézary syndrome.md"
     },
     {
-      "basename": "Asthma",
-      "path": "USMLE/Respiratory/Asthma.md"
-    },
-    {
       "basename": "Oligohydramnios",
       "path": "USMLE/Reproductive/Oligohydramnios.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Urge incontinence",
       "path": "USMLE/Renal/Urge incontinence.md"
-    },
-    {
-      "basename": "Stress incontinence",
-      "path": "USMLE/Renal/Stress incontinence.md"
-    },
-    {
-      "basename": "Thymoma",
-      "path": "USMLE/Muscle, skin, and connective tissue/Thymoma.md"
     }
   ],
   "omittedPaths": [],
