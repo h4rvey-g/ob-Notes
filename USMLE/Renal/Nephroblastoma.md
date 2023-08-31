@@ -38,6 +38,16 @@ Can be associated with loss-of-function mutations of tumor suppressor genes WT1 
 	- Unilateral and large but not crossing midline 
 	- Smooth and firm
 - Abdominal pain (∼ 40% of cases)
+## Other signs and symptoms
+- Hematuria (∼ 25% of cases)
+- Hypertension (∼ 25% of cases)
+
+>[!tip] 
+>Nephroblastoma should be suspected in a toddler with a non-tender abdominal mass, especially if it is firm, smooth, and associated with hematuria and/or hypertension.
+
+>[!warning] 
+>Careless palpation of a nephroblastoma can result in rupture of the renal capsule and tumor spillage!
+
 
 ---
 # Diagnostics
