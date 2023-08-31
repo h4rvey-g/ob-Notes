@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephroblastoma",
+      "path": "USMLE/Renal/Nephroblastoma.md"
+    },
+    {
+      "basename": "Renal cell carcinoma",
+      "path": "USMLE/Renal/Renal cell carcinoma.md"
+    },
+    {
       "basename": "Urine sediment",
       "path": "USMLE/Renal/Urine sediment.md"
     },
@@ -121,10 +129,6 @@
       "path": "USMLE/Renal/Minimal change disease.md"
     },
     {
-      "basename": "Renal cell carcinoma",
-      "path": "USMLE/Renal/Renal cell carcinoma.md"
-    },
-    {
       "basename": "IgA nephropathy",
       "path": "USMLE/Renal/IgA nephropathy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mycosis fungoides",
       "path": "USMLE/Blood/Mycosis fungoides.md"
-    },
-    {
-      "basename": "Sézary syndrome",
-      "path": "USMLE/Blood/Sézary syndrome.md"
     }
   ],
   "omittedPaths": [],

@@ -41,6 +41,8 @@ Renal cell carcinomas are adenocarcinomas that usually arise from the epithelial
 ## Benign renal masses
 ### Oncocytoma
 - Definition: benign epithelial tumor arising from the intercalated tubular cells in the <span style="background:rgba(240, 200, 0, 0.2)">collecting duct</span>
+>[!Mnemonic] 
+>**<u>c</u>**ollecting ducts, well-**<u>c</u>**ircumscribed mass with <u>c</u>entral scar
 - Clinical features 
 	- Painless hematuria
 	- Abdominal mass
@@ -48,7 +50,7 @@ Renal cell carcinomas are adenocarcinomas that usually arise from the epithelial
 - Pathology
 	- Macroscopy: smooth, clearly defined brown tumor with <span style="background:rgba(240, 200, 0, 0.2)">central radial scar</span> ![[Pasted image 20230820154628.png]]
 	- Microscopy
-		- <span style="background:rgba(240, 200, 0, 0.2)">Large acidophilic cells</span> ![[Pasted image 20230820154953.png]]
+		- <span style="background:rgba(240, 200, 0, 0.2)">Large eosinophilic cells with abundant mitochondria without perinuclear clearing</span> (Compared with chromophobe renal cell carcinoma) ![[Pasted image 20230820154953.png]]
 		- Excessive amount of mitochondria → acidophilic, granular cytoplasm without perinuclear clearing (unlike chromophobe RCC)
 - Treatment
 	- Often resected in order to exclude RCC
@@ -63,4 +65,4 @@ Renal cell carcinomas are adenocarcinomas that usually arise from the epithelial
 - Secondary hypercortisolism: due to ectopic ACTH release
 - Secondary polycythemia: due to ectopic erythropoietin (EPO) secretion
 - Hypertension: due to the release of renin
-- [[Hypercalcemia]]: due to the release of [[Parathyroid hormone-related protein|PTHrP]] (parathyroid hormone-related protein)
+- [[Hypercalcemia]]: due to the release of [[Parathyroid hormone-related protein|PTHrP]] ([[parathyroid hormone-related protein]])

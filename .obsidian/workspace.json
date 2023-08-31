@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Urine sediment.md",
+                "file": "USMLE/Renal/Nephroblastoma.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Urine sediment.md",
+                "file": "USMLE/Renal/Nephroblastoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Urine sediment.md",
+                "file": "USMLE/Renal/Nephroblastoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Urine sediment.md"
+                "file": "USMLE/Renal/Nephroblastoma.md"
               }
             }
           }
@@ -223,10 +223,13 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "64c2080635d617cb",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Infective disease/Eosin methylene blue agar.md",
+    "USMLE/Renal/Renal cell carcinoma.md",
+    "USMLE/Renal/Nephroblastoma.md",
+    "appendix/Pasted image 20230820154628.png",
     "USMLE/Renal/Urine sediment.md",
+    "USMLE/Infective disease/Eosin methylene blue agar.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Renal/Diabetes insipidus.md",
     "USMLE/Renal/Urine osmolality.md",
@@ -257,10 +260,7 @@
     "appendix/Pasted image 20230829160114.png",
     "appendix/Pasted image 20230829155253.png",
     "appendix/Pasted image 20230829155153.png",
-    "appendix/Pasted image 20230829152436.png",
     "USMLE/Lab Values.md",
-    "USMLE/Blood/Thalassemia.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
