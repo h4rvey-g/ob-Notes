@@ -24,3 +24,6 @@ share: true
 	- Leucovorin (folinic acid)
 		- Precursor of tetrahydrofolate
 		- Application 24 h after the administration of antifolates
+- Anthracyclines
+	- Prevent Cardiotoxicity
+	- Dexrazoxane: iron chelating agent
