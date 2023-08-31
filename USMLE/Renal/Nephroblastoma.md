@@ -20,7 +20,7 @@ Can be associated with loss-of-function mutations of tumor suppressor genes WT1 
 		- Pseudohermaphroditism, undescended testes in males (due to gonadal dysgenesis)
 		- Early-onset [[nephrotic syndrome]]
 	- Range of intellectual disability
-- <span style="background:rgba(240, 200, 0, 0.2)">Denys-Drash syndrome</span>: point mutation in WT1 gene, which encodes a zinc finger transcription factor [7]
+- <span style="background:rgba(240, 200, 0, 0.2)">Denys-Drash syndrome</span>: <span style="background:rgba(240, 200, 0, 0.2)">a mild form of WAGR without aniridia or intellectual disability.</span>
 	- Nephroblastoma
 	- Pseudohermaphroditism, undescended testes in males (due to gonadal dysgenesis)
 	- Early-onset [[nephrotic syndrome]] caused by diffuse mesangial sclerosis
@@ -32,11 +32,16 @@ Can be associated with loss-of-function mutations of tumor suppressor genes WT1 
 
 ---
 # Clinical features
-
+## Abdominal symptoms
+- Palpable abdominal mass (often found incidentally)
+	- Non-tender
+	- Unilateral and large but not crossing midline 
+	- Smooth and firm
+- Abdominal pain (∼ 40% of cases)
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
