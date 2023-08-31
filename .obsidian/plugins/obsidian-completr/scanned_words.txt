@@ -2138,6 +2138,7 @@ nkjn
 nIKI
 nbj
 nephrons
+nonfermenters
 tachycardia
 tract
 the
@@ -2630,6 +2631,7 @@ tcU
 tyc
 tails
 telescoped
+turns
 in
 includes
 involving
@@ -3968,6 +3970,7 @@ mTL
 mkM
 mVs
 mMQT
+metallic
 Sinus
 ST
 Segment
@@ -6490,6 +6493,9 @@ cervical
 cast
 cylindroids
 coarsely
+colonized
+colorless
+cultured
 bypass
 block
 background
@@ -7366,6 +7372,7 @@ favor
 flushed
 finely
 few
+fermenters
 with
 wave
 which
@@ -8888,6 +8895,7 @@ sRm
 sperm
 stick
 scant
+sheen
 QRS
 QT
 QDQ
@@ -9569,6 +9577,7 @@ lnn
 lkj
 lcb
 lmq
+lactose
 Multifocal
 Mild
 Moderate
@@ -12388,6 +12397,8 @@ EHd
 Else
 Empirical
 EIb
+EMB
+Escherichia
 LEFT
 Lengthening
 Left
@@ -14100,6 +14111,7 @@ peL
 precipitation
 profusion
 produce
+purple
 Unusual
 Usually
 Upc
