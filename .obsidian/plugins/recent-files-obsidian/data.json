@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sickle cell disease",
+      "path": "USMLE/Blood/Sickle cell disease.md"
+    },
+    {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Urinary incontinence",
       "path": "USMLE/Renal/Urinary incontinence.md"
-    },
-    {
-      "basename": "Urge incontinence",
-      "path": "USMLE/Renal/Urge incontinence.md"
     }
   ],
   "omittedPaths": [],

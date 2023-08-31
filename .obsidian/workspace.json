@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Blood/Sickle cell disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Blood/Sickle cell disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/Blood/Sickle cell disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md"
+                "file": "USMLE/Blood/Sickle cell disease.md"
               }
             }
           }
@@ -212,8 +212,10 @@
   },
   "active": "a6bfaecce769cd77",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
+    "USMLE/Blood/Sickle cell disease.md",
+    "USMLE/Renal/Gitelman syndrome.md",
+    "USMLE/Respiratory/Bronchiectasis.md",
     "appendix/Pasted image 20230824155118.png",
     "USMLE/Respiratory/Asthma.md",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
@@ -221,7 +223,6 @@
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Blood/Platinum-based agents.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
-    "USMLE/Renal/Gitelman syndrome.md",
     "USMLE/Renal/Renal physiology.md",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Blood/Heparin-induced thrombocytopenia.md",
@@ -247,7 +248,6 @@
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Supraventricular tachycardia.md",
     "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",

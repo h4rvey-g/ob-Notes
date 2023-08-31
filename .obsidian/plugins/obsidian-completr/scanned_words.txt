@@ -6473,6 +6473,7 @@ cFb
 cOU
 cKsCuS
 cQE
+cervical
 bypass
 block
 background
@@ -8862,6 +8863,7 @@ sOO
 sPb
 stG
 sRm
+sperm
 QRS
 QT
 QDQ
@@ -13501,6 +13503,7 @@ hUc
 hiijj
 hTT
 hXZ
+harder
 peaked
 pattern
 precordial
