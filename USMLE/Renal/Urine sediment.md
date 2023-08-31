@@ -8,7 +8,7 @@ share: true
 # Urinary casts
 Urinary casts are formed only in the <span style="background:rgba(240, 200, 0, 0.2)">distal convoluted tubule (DCT)</span> or the <span style="background:rgba(240, 200, 0, 0.2)">collecting duct (distal nephron)</span>. The proximal convoluted tubule (PCT) and loop of Henle are not locations for cast formation.
 ![[Pasted image 20230831154504.png]]
-The factors which favor protein cast formation are low flow rate, high salt concentration, and low pH, all of which favor protein denaturation and precipitation, particularly that of the Tamm-Horsfall protein. Protein casts with long, thin tails formed at the junction of Henle's loop and the distal convoluted tubule are called cylindroids. Hyaline casts can be seen even in healthy patients.
+The factors which favor protein cast formation are low flow rate, high salt concentration, and low pH, all of which favor protein denaturation and precipitation, particularly that of the Tamm-Horsfall protein. Protein casts with long, thin tails formed at the junction of Henle's loop and the distal convoluted tubule are called cylindroids. <span style="background:rgba(240, 200, 0, 0.2)">Hyaline casts can be seen even in healthy patients.</span>
 
 ![](https://webpath.med.utah.edu/TUTORIAL/URINE/URINE04.gif)
 

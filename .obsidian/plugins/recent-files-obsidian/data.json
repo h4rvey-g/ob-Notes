@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Urine sediment",
+      "path": "USMLE/Renal/Urine sediment.md"
+    },
+    {
+      "basename": "Hypercalcemia",
+      "path": "USMLE/Cardiology/Hypercalcemia.md"
+    },
+    {
       "basename": "Diabetes insipidus",
       "path": "USMLE/Renal/Diabetes insipidus.md"
     },
@@ -17,10 +25,6 @@
       "path": "USMLE/Cardiology/Thiazides.md"
     },
     {
-      "basename": "Hypercalcemia",
-      "path": "USMLE/Cardiology/Hypercalcemia.md"
-    },
-    {
       "basename": "Gitelman syndrome",
       "path": "USMLE/Renal/Gitelman syndrome.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Eosin methylene blue agar",
       "path": "USMLE/Infective disease/Eosin methylene blue agar.md"
-    },
-    {
-      "basename": "Urine sediment",
-      "path": "USMLE/Renal/Urine sediment.md"
     },
     {
       "basename": "Pyelonephritis",
