@@ -21,7 +21,7 @@ PTH-mediated or non-PTH-mediated causes
 >- Hyperparathyroidism
 >- Immobilization, inherited (FHH)
 >- Milk-alkali synd., meds ([[thiazides]], lithium)
->- Paraneoplastic PTHrP
+>- Paraneoplastic [[Parathyroid hormone-related protein|PTHrP]]
 >- Adrenal insufficiency
 >- Neoplasm (multiple myeloma, breast, lung)
 >- Zollinger-Ellison syndrome

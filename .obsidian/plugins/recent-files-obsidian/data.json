@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes insipidus",
+      "path": "USMLE/Renal/Diabetes insipidus.md"
+    },
+    {
+      "basename": "Urine osmolality",
+      "path": "USMLE/Renal/Urine osmolality.md"
+    },
+    {
+      "basename": "Diagnostic evaluation of the kidney and urinary tract",
+      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
+    },
+    {
+      "basename": "Thiazides",
+      "path": "USMLE/Cardiology/Thiazides.md"
+    },
+    {
+      "basename": "Hypercalcemia",
+      "path": "USMLE/Cardiology/Hypercalcemia.md"
+    },
+    {
+      "basename": "Gitelman syndrome",
+      "path": "USMLE/Renal/Gitelman syndrome.md"
+    },
+    {
+      "basename": "Renal physiology",
+      "path": "USMLE/Renal/Renal physiology.md"
+    },
+    {
       "basename": "Eosin methylene blue agar",
       "path": "USMLE/Infective disease/Eosin methylene blue agar.md"
     },
@@ -39,14 +67,6 @@
     {
       "basename": "Platinum-based agents",
       "path": "USMLE/Blood/Platinum-based agents.md"
-    },
-    {
-      "basename": "Gitelman syndrome",
-      "path": "USMLE/Renal/Gitelman syndrome.md"
-    },
-    {
-      "basename": "Renal physiology",
-      "path": "USMLE/Renal/Renal physiology.md"
     },
     {
       "basename": "Chronic obstructive pulmonary disease",
@@ -179,26 +199,6 @@
     {
       "basename": "Sézary syndrome",
       "path": "USMLE/Blood/Sézary syndrome.md"
-    },
-    {
-      "basename": "Oligohydramnios",
-      "path": "USMLE/Reproductive/Oligohydramnios.md"
-    },
-    {
-      "basename": "Potter sequence",
-      "path": "USMLE/Renal/Potter sequence.md"
-    },
-    {
-      "basename": "Diabetic kidney disease",
-      "path": "USMLE/Renal/Diabetic kidney disease.md"
-    },
-    {
-      "basename": "USMLE-note",
-      "path": "template/USMLE-note.md"
-    },
-    {
-      "basename": "Amyloidosis",
-      "path": "USMLE/Pathology/Amyloidosis.md"
     }
   ],
   "omittedPaths": [],

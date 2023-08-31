@@ -24,8 +24,8 @@ Clinical features are similar to those of chronic thiazide diuretic use:
 - Metabolic alkalosis
 	- increasing Na+ absorption in exchange for K+ and H+ secretion.
 - Severe hypokalemia
-- [[Hypercalcemia]] and hypocalciuria 
-	- Decreased intracellular sodium levels increase the activity of the basolateral Na+/Ca2+ exchanger in the cells of the distal convoluted tubule. <span style="background:rgba(240, 200, 0, 0.2)">Sodium is transported into, and calcium out of, the cell</span>, resulting in decreased intracellular calcium concentration that leads to <span style="background:rgba(240, 200, 0, 0.2)">increased reabsorption from the lumen via luminal Ca2+ channels</span>. Calcium reabsorption may also be increased because of increased uptake of sodium and calcium in the proximal tubule as a result of sodium depletion.
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Hypercalcemia]] and hypocalciuria </span>
+	- Decreased intracellular sodium levels increase the activity of the basolateral Na+/Ca2+ exchanger in the cells of the distal convoluted tubule. <span style="background:rgba(240, 200, 0, 0.2)">Sodium is transported into, and calcium out of, the cell</span>, resulting in decreased intracellular calcium concentration that leads to <span style="background:rgba(240, 200, 0, 0.2)">increased reabsorption from the lumen via luminal Ca2+ channels</span>. Calcium reabsorption may also be increased because of increased uptake of sodium and calcium in the proximal tubule as a result of sodium depletion.![[Pasted image 20230831163510.png]]
 - Hypomagnesemia
 
 ---

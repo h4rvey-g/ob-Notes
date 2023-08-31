@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Renal physiology.md",
+                "file": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64c2080635d617cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "USMLE/Renal/Diabetes insipidus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Renal physiology.md",
+                "file": "USMLE/Renal/Diabetes insipidus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Renal physiology.md",
+                "file": "USMLE/Renal/Diabetes insipidus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Renal physiology.md"
+                "file": "USMLE/Renal/Diabetes insipidus.md"
               }
             }
           }
@@ -210,24 +223,30 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "a6bfaecce769cd77",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Infective disease/Eosin methylene blue agar.md",
+    "USMLE/Renal/Urine osmolality.md",
+    "USMLE/Renal/Diabetes insipidus.md",
+    "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
+    "USMLE/Cardiology/Thiazides.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Renal/Gitelman syndrome.md",
+    "appendix/Pasted image 20230831163510.png",
+    "USMLE/Renal/Renal physiology.md",
+    "USMLE/Respiratory/Acute respiratory distress syndrome.md",
     "USMLE/Blood/Platinum-based agents.md",
+    "USMLE/Infective disease/Eosin methylene blue agar.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/Renal/Urine sediment.md",
     "USMLE/Renal/Pyelonephritis.md",
     "appendix/Pasted image 20230831154504.png",
     "USMLE/Blood/Sickle cell disease.md",
-    "USMLE/Renal/Gitelman syndrome.md",
     "USMLE/Respiratory/Bronchiectasis.md",
     "appendix/Pasted image 20230824155118.png",
     "USMLE/Respiratory/Asthma.md",
-    "USMLE/Respiratory/Acute respiratory distress syndrome.md",
     "USMLE/Respiratory/Pneumonia.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
-    "USMLE/Renal/Renal physiology.md",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Blood/Heparin-induced thrombocytopenia.md",
     "conflict-files-obsidian-git.md",
@@ -239,15 +258,9 @@
     "appendix/Pasted image 20230829155253.png",
     "appendix/Pasted image 20230829155153.png",
     "appendix/Pasted image 20230829152436.png",
-    "appendix/Pasted image 20230829151420.png",
     "USMLE/Lab Values.md",
     "USMLE/Blood/Thalassemia.md",
     "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Blood/Hemoglobin Barts.md",
-    "USMLE/Blood/Anemia.md",
-    "USMLE/Respiratory/Lung cancer.md",
-    "USMLE/Blood/Autoimmune hemolytic anemia.md",
-    "USMLE/Cardiology/Class IB antiarrhythmics.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
