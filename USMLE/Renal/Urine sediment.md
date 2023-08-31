@@ -6,5 +6,5 @@ aliases: Untitled
 share: true
 ---
 # Urinary casts
-Tubular structures formed in the distal convoluted tubule and collecting duct of the kidneys that are indicative of a disease affecting the renal tubules and/or glomeruli
-![[appendix/Untitled 2.loom]]
+Urinary casts are formed only in the <span style="background:rgba(240, 200, 0, 0.2)">distal convoluted tubule (DCT)</span> or the <span style="background:rgba(240, 200, 0, 0.2)">collecting duct (distal nephron)</span>. The proximal convoluted tubule (PCT) and loop of Henle are not locations for cast formation.
+![[Pasted image 20230831154504.png]]

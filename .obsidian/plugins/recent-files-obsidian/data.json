@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Urine sediment",
+      "path": "USMLE/Renal/Urine sediment.md"
+    },
+    {
+      "basename": "Pyelonephritis",
+      "path": "USMLE/Renal/Pyelonephritis.md"
+    },
+    {
       "basename": "Sickle cell disease",
       "path": "USMLE/Blood/Sickle cell disease.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Restrictive cardiomyopathy",
       "path": "USMLE/Cardiology/Restrictive cardiomyopathy.md"
-    },
-    {
-      "basename": "Goodpasture syndrome",
-      "path": "USMLE/Renal/Goodpasture syndrome.md"
-    },
-    {
-      "basename": "Urinary incontinence",
-      "path": "USMLE/Renal/Urinary incontinence.md"
     }
   ],
   "omittedPaths": [],
