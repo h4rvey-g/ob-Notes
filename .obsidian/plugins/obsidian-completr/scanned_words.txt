@@ -2542,6 +2542,8 @@ thiazide
 those
 tetany
 transported
+trauma
+toxins
 in
 includes
 involving
@@ -3049,6 +3051,7 @@ inclusions
 infective
 immunocomplex
 injection
+incidents
 general
 giving
 generation
@@ -4219,6 +4222,8 @@ Sodium
 SGLT
 Source
 Stop
+Sepsis
+Shock
 AVNRT
 Atrial
 AVRT
@@ -10014,6 +10019,7 @@ Don
 Distal
 DCT
 DOSAGE
+Drowning
 FFF
 Fib
 Fi
@@ -10808,6 +10814,7 @@ Inefficient
 Instructions
 Initiate
 Indications
+Inhaled
 PACs
 Primary
 Pathophysiology
@@ -13658,6 +13665,8 @@ paracellularly
 principal
 plugins
 prothrombotic
+peritonitis
+pancreatitis
 Unusual
 Usually
 Upc

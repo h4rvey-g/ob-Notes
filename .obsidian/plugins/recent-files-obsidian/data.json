@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute respiratory distress syndrome",
+      "path": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
+    },
+    {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Thymoma",
       "path": "USMLE/Muscle, skin, and connective tissue/Thymoma.md"
-    },
-    {
-      "basename": "Myelodysplastic syndromes",
-      "path": "USMLE/Blood/Myelodysplastic syndromes.md"
     }
   ],
   "omittedPaths": [],
