@@ -19,25 +19,48 @@ share: true
 		- Traumatic brain injury, pituitary bleeding, subarachnoid hemorrhage
 		- Pituitary ischemia (e.g., Sheehan syndrome, ischemic stroke)
 ## Nephrogenic diabetes insipidus (NDI)
+- Rare: caused by defective ADH receptors in the distal tubules and collecting ducts
 - Hereditary (mutation in ADH receptor): very rare
 - Acquired: typically reversible if the underlying cause is resolved
-	- Adverse effect of medications (lithium, demeclocycline) 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Adverse effect of medications (lithium, demeclocycline) </span>
 	- Hypokalemia, [[hypercalcemia]]
 
 ---
 # Pathophysiology
-<% tp.file.cursor() %>
+>[!tip] 
+>Note that in central DI, ADH levels are decreased, while in nephrogenic DI, they are normal or increased to compensate for the high urine output.
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Polyuria with dilute urine 
+- Nocturia → restless sleep, daytime sleepiness
+- Polydipsia (excessive thirst)
+- In cases of low water intake  → severe dehydration (altered mental status, lethargy, seizures, coma) and hypotension
+- Symptoms may worsen during pregnancy.
+>[!tip] 
+>In the absence of nocturia, diabetes insipidus is very unlikely.
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+## Serum sodium and plasma osmolality
+- ↓ Na+ and/or ↓ plasma osmolality: primary polydipsia likely 
+- Normal values: diagnosis unclear; obtain subsequent studies to differentiate between polyuria-polydipsia syndromes.
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Na+ and/ or ↑ plasma osmolality: Diabetes insipidus likely</span>; obtain subsequent studies to differentiate between CDI and NDI.
+## Water deprivation test (indirect assessment of ADH activity)
+Urine concentrating capacity is assessed during a period of dehydration; desmopressin is then administered to assess response to a synthetic ADH analogue.
+- Interpretation after period of water deprivation
+	- [[Urine osmolality]] increases to > 800 mOsm/kg: Primary polydipsia is confirmed.
+	- [[Urine osmolality]] remains ≤ 800 mOsm/kg: Administer desmopressin (a synthetic ADH analogue). 
+- Interpretation after desmopressin administration
+	- [[Urine osmolality]] (300–800 mOsm/kg) and:
+		- Significant increase (≥ 10%) after desmopressin: partial CDI
+		- No or minimal increase (< 10%) after desmopressin: primary polydipsia
+	- [[Urine osmolality]] (< 300 mOsm/kg) and:
+		- Significant increase (> 50%) after desmopressin: complete CDI (indicating intact renal ADH receptors)
+		- No or moderate increase (< 50%) after desmopressin: NDI (indicating defective renal ADH receptors)
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
