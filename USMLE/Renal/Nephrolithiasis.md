@@ -24,6 +24,7 @@ share: true
 	 - [[Vitamin C# Vitamin C toxicity]]
 		 - [[Vitamin C]] is metabolized to oxalate
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
+	- Citrate inhibits stone formation by <span style="background:rgba(240, 200, 0, 0.2)">forming a soluble complex with calcium in the renal tubule, which reduces the amount of free calcium in the urine to bind with oxalate or phosphate.</span> Citrate excretion in the kidney is strongly influenced by pH (systemic, tubular, and intracellular). Alkalosis increases renal citrate excretion, whereas acidosis decreases it.
 ### Diagnosis
 - Urine microscopy: dumbbell-shaped or octahedron-shaped crystals ![[Pasted image 20230817154316.png]]
 - X-ray (or CT): radiopaque stones
@@ -66,7 +67,7 @@ share: true
 - Oral chemolitholysis (e.g., potassium citrate) via urine alkalinization 
 	- Uric acid stones are unique in that they can usually be dissolved by alkalizing the urine. In other stones, urine alkalinization is used for prophylaxis rather than treatment.
 - Low-purine diet
-- Allopurinol
+- <span style="background:rgba(240, 200, 0, 0.2)">Allopurinol</span>
 >[!Mnemonic] 
 >**U**ric acid stones are radiol**U**cent (x-ray negative).
 
