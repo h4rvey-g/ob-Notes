@@ -2009,6 +2009,7 @@ rfDt
 rgAK
 ruh
 require
+relative
 narrow
 negative
 not
@@ -3587,6 +3588,7 @@ iDix
 ircumscribed
 influenced
 instrumentation
+infiltrate
 general
 giving
 generation
@@ -5252,7 +5254,6 @@ ATP
 Abdominal
 Auto
 AKA
-ARF
 Arthritis
 Arthralgia
 Accelerated
@@ -5416,6 +5417,7 @@ AEi
 AiKT
 Alkalosis
 Anatomical
+Affects
 Orthodromic
 On
 Often
@@ -10093,6 +10095,7 @@ stN
 sFi
 surgical
 strictures
+sparing
 QRS
 QT
 QDQ

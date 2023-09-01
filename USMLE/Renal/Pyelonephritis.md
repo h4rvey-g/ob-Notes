@@ -37,7 +37,7 @@ share: true
 	- A rare form of chronic pyelonephritis characterized by chronic destructive granuloma formation
 	- Associated with Proteus mirabilis and Escherichia coli infections
 	- Large, irregular, yellow-orange masses on gross examination of the kidney (may be mistaken for a true renal neoplasm)
-	- Histology: granulomatous tissue with lipid-laden foamy macrophages and multinucleated giant cells
+	- Histology: granulomatous tissue with lipid-laden foamy macrophages and multinucleated giant cells![[Pasted image 20230901174015.png]]
 
 ---
 # Clinical features
