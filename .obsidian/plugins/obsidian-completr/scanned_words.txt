@@ -2007,6 +2007,7 @@ rCJ
 rfDt
 rgAK
 ruh
+require
 narrow
 negative
 not
@@ -3582,6 +3583,7 @@ iIX
 iQo
 iDix
 ircumscribed
+influenced
 general
 giving
 generation
@@ -4498,6 +4500,7 @@ mgQ
 mDi
 mWJ
 med
+mirabilis
 Sinus
 ST
 Segment
@@ -5405,6 +5408,7 @@ AOz
 ARO
 AEi
 AiKT
+Alkalosis
 Orthodromic
 On
 Often
@@ -6316,6 +6320,11 @@ aqqui
 aoZ
 aGN
 abundant
+alkalic
+ammonium
+ammonia
+alkaline
+acidification
 ventricular
 varying
 vaccines
@@ -7352,6 +7361,7 @@ ceyQvf
 ciG
 cbZ
 cSOg
+crystal
 bypass
 block
 background
@@ -7847,6 +7857,7 @@ bja
 bft
 bhSb
 bcg
+brushite
 flutter
 from
 focus
@@ -8349,6 +8360,7 @@ fMp
 fSg
 fMGoM
 frXa
+forming
 with
 wave
 which
@@ -8725,6 +8737,8 @@ wwFh
 wNT
 wnc
 wMw
+whereas
+wedge
 Whenever
 Widening
 William
@@ -10066,6 +10080,7 @@ sSXE
 sfn
 stN
 sFi
+surgical
 QRS
 QT
 QDQ
@@ -11752,6 +11767,7 @@ DiT
 DKFssNeCaqs
 DHD
 DDJ
+Diet
 FFF
 Fib
 Fi
@@ -13163,6 +13179,7 @@ PZG
 PCr
 PCTY
 PEcy
+Prevention
 ectopic
 elevation
 early
@@ -16405,6 +16422,7 @@ UJC
 UDR
 UOu
 UFg
+Upper
 Bundle
 Branch
 Block
@@ -17239,6 +17257,7 @@ CiK
 Cik
 CEc
 Cwg
+Citrate
 Right
 Retrograde
 Rates

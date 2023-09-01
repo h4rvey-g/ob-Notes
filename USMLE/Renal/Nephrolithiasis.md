@@ -85,6 +85,15 @@ share: true
 	- Weakly radiopaque stones
 	- Possibly staghorn calculi
 - Positive cyanide nitroprusside test
+## Struvite stones (magnesium ammonium phosphate stones)
+### Etiology
+- Upper UTI with urease-producing bacteria such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
+	- These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation
+### Treatment
+- Antibiotic treatment of [[urinary tract infections]]
+- Hydration
+- Urine acidification
+- Usually require surgical stone removal
 
 ---
 # Pathophysiology
