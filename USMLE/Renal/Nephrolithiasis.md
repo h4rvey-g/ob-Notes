@@ -35,9 +35,21 @@ share: true
 	- Reduced intake of salt (mainly sodium) and animal protein *(Low sodium enhances renal tubular reabsorption of sodium and calcium, decreasing urinary calcium levels. Animal protein consumption increases calcium excretion in urine.)*
 	- Reduced intake of oxalate-rich foods and supplemental [[vitamin C]]
 	- Calcium intake should not be restricted (restriction increases risk of hyperoxaluria, and thereby, the risk for osteoporosis) 
-- Thiazide diuretics for recurrent calcium-containing stones with idiopathic hypercalciuria (i.e., no [[hypercalcemia]]) 
+- <span style="background:rgba(240, 200, 0, 0.2)">Thiazide diuretics</span> for recurrent calcium-containing stones with idiopathic hypercalciuria (i.e., no [[hypercalcemia]])
 - Urine alkalinization (e.g., with potassium citrate)
 - Possibly citrate supplementation
+## Calcium phosphate stones
+### Etiology
+- Hyperparathyroidism (brushite)
+- Type 1 renal tubular acidosis (brushite)
+- Develop in persistently alkalic urine
+### Diagnosis
+- Urine microscopy: wedge-shaped crystals![[Pasted image 20230901152436.png]] 
+- X-ray (or CT): radiopaque stones
+### Prevention
+- Hydration
+- Thiazide diuretics
+- Diet low in sodium
 ## Uric acid stones
 ### Etiology
 - Hyperuricemia and hyperuricosuria
