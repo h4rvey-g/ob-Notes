@@ -23,7 +23,7 @@ share: true
 	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., Crohn disease, ulcerative colitis, short bowel syndrome)
 	 - [[Vitamin C# Vitamin C toxicity]]
 		 - [[Vitamin C]] is metabolized to oxalate
-- Hypocitraturia
+- <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
 ### Diagnosis
 - Urine microscopy: dumbbell-shaped or octahedron-shaped crystals ![[Pasted image 20230817154316.png]]
 - X-ray (or CT): radiopaque stones
