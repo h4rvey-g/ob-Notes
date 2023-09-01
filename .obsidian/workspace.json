@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/index.md",
-                "mode": "source",
+                "file": "USMLE/Cardiology/ECGs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/index.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/index.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/index.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -210,8 +210,12 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "d19253d0d767d39b",
+  "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230901211330.png",
+    "appendix/127701f042d46e7958a823fce6249be.jpg",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Respiratory/index.md",
     "USMLE/Ultrasound/index.md",
     "USMLE/Ultrasound/Ultrasound.md",
     "USMLE/Renal/Pyelonephritis.md",
@@ -243,11 +247,7 @@
     "appendix/Pasted image 20230831163510.png",
     "USMLE/Renal/Renal physiology.md",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
-    "USMLE/Blood/Platinum-based agents.md",
-    "USMLE/Biochemistry/Cystic fibrosis.md",
     "appendix/Pasted image 20230831154504.png",
-    "USMLE/Blood/Sickle cell disease.md",
-    "appendix/Pasted image 20230824155118.png",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
