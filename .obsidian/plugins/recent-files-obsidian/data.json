@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Diagnostic evaluation of the kidney and urinary tract",
+      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
+    },
+    {
+      "basename": "Polymorphonuclear leukocytes",
+      "path": "USMLE/Blood/Polymorphonuclear leukocytes.md"
+    },
+    {
       "basename": "Pyelonephritis",
       "path": "USMLE/Renal/Pyelonephritis.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Urine osmolality",
       "path": "USMLE/Renal/Urine osmolality.md"
-    },
-    {
-      "basename": "Diagnostic evaluation of the kidney and urinary tract",
-      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
     },
     {
       "basename": "Thiazides",
@@ -195,10 +199,6 @@
     {
       "basename": "Vesicoureteral reflux",
       "path": "USMLE/Renal/Vesicoureteral reflux.md"
-    },
-    {
-      "basename": "Mycosis fungoides",
-      "path": "USMLE/Blood/Mycosis fungoides.md"
     }
   ],
   "omittedPaths": [],

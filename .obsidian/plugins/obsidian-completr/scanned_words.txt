@@ -1420,6 +1420,7 @@ oGiXH
 oQc
 onk
 ollecting
+orange
 regular
 reentrant
 retrograde
@@ -2990,6 +2991,7 @@ tFy
 tHB
 tNPS
 tMO
+thyroidization
 in
 includes
 involving
@@ -3584,6 +3586,7 @@ iQo
 iDix
 ircumscribed
 influenced
+instrumentation
 general
 giving
 generation
@@ -3949,6 +3952,7 @@ gcyt
 gfr
 grj
 gfP
+gross
 major
 mechanisms
 mark
@@ -4501,6 +4505,7 @@ mDi
 mWJ
 med
 mirabilis
+multinucleated
 Sinus
 ST
 Segment
@@ -4932,6 +4937,7 @@ SHwpiFZ
 SON
 SDyP
 SWO
+Sparing
 AVNRT
 Atrial
 AVRT
@@ -5409,6 +5415,7 @@ ARO
 AEi
 AiKT
 Alkalosis
+Anatomical
 Orthodromic
 On
 Often
@@ -6325,6 +6332,7 @@ ammonium
 ammonia
 alkaline
 acidification
+asymmetric
 ventricular
 varying
 vaccines
@@ -7362,6 +7370,9 @@ ciG
 cbZ
 cSOg
 crystal
+corticomedullary
+calyces
+coloid
 bypass
 block
 background
@@ -10081,6 +10092,7 @@ sfn
 stN
 sFi
 surgical
+strictures
 QRS
 QT
 QDQ
@@ -10887,6 +10899,9 @@ lWI
 lXf
 lRx
 lIU
+leukocytes
+lipid
+laden
 Multifocal
 Mild
 Moderate
@@ -12143,6 +12158,7 @@ FDvO
 FpF
 FSMCj
 FAU
+Foreign
 In
 It
 Intraventricular
@@ -12694,6 +12710,7 @@ INCJ
 IHieFo
 Iwy
 IbB
+Immunosuppression
 PACs
 Primary
 Pathophysiology
@@ -13180,6 +13197,10 @@ PCr
 PCTY
 PEcy
 Prevention
+Polymorphonuclear
+PMNs
+Pathogens
+Purulent
 ectopic
 elevation
 early
@@ -14910,6 +14931,7 @@ HqW
 HJt
 HMX
 HCM
+Histology
 hyperkalemia
 hypertrophy
 hereditary
@@ -16052,6 +16074,10 @@ pIapyQP
 pPV
 psp
 pRy
+potentially
+pyonephrosis
+prostatic
+pelvis
 Unusual
 Usually
 Upc
@@ -16835,6 +16861,7 @@ BFC
 BCe
 BJc
 BOWpB
+Blunted
 Characteristic
 CLL
 Clinical
@@ -17677,6 +17704,7 @@ RuO
 RZx
 RHm
 RxtZD
+RRF
 Voltage
 VFV
 VoNW
@@ -18454,6 +18482,9 @@ usg
 uyaa
 uqau
 uJS
+urethras
+urologic
+ureteral
 quinine
 qz
 qM
@@ -22024,6 +22055,7 @@ Xld
 XHiB
 XHW
 XdsfI
+Xanthogranulomatous
 ZH
 Zh
 ZRg

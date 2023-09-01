@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa7571f6ba354772",
+        "id": "21ed9f39a2d15412",
         "type": "tabs",
         "children": [
           {
-            "id": "a6bfaecce769cd77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64c2080635d617cb",
+            "id": "3c22257a9d627704",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +212,12 @@
   },
   "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Lab Values.md",
+    "USMLE/Blood/Polymorphonuclear leukocytes.md",
+    "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
     "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Lab Values.md",
+    "USMLE/Renal/Pyelonephritis.md",
+    "appendix/Pasted image 20230901164549.png",
     "USMLE/Renal/Urinary tract infections.md",
     "appendix/Pasted image 20230901152436.png",
     "USMLE/Renal/Renal cell carcinoma.md",
@@ -237,7 +228,6 @@
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Renal/Diabetes insipidus.md",
     "USMLE/Renal/Urine osmolality.md",
-    "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
     "USMLE/Cardiology/Thiazides.md",
     "USMLE/Renal/Gitelman syndrome.md",
     "appendix/Pasted image 20230831163510.png",
@@ -245,7 +235,6 @@
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
     "USMLE/Blood/Platinum-based agents.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
-    "USMLE/Renal/Pyelonephritis.md",
     "appendix/Pasted image 20230831154504.png",
     "USMLE/Blood/Sickle cell disease.md",
     "USMLE/Respiratory/Bronchiectasis.md",
@@ -255,12 +244,10 @@
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
-    "USMLE/Blood/Heparin-induced thrombocytopenia.md",
     "appendix/Pasted image 20230829161022.png",
     "appendix/Pasted image 20230829160609.png",
     "appendix/Pasted image 20230829160412.png",
     "appendix/Pasted image 20230829160114.png",
-    "appendix/Pasted image 20230829155253.png",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",

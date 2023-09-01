@@ -26,17 +26,17 @@ share: true
 - Most commonly affects the cortex (spares glomeruli and vessels)
 - Purulent inflammation of the interstitium with destruction of the parenchyma, the renal tubules, and, in some cases, the renal pelvis
 - Histology
-- Neutrophilic infiltration of the renal tubules and the interstitium 
-- Sparing of the glomeruli and intrarenal vessels
+	- [[Polymorphonuclear leukocytes|PMN]] infiltration of the renal tubules and the interstitium ![[Pasted image 20230901164549.png]]
+	- Sparing of the glomeruli and intrarenal vessels
 ## Chronic pyelonephritis
 - Chronic inflammatory changes with rough, asymmetric scarring and fibrosis of the corticomedullary junction 
 - Blunted calyces from recurrent urinary reflux
-- Histology: eosinophilic casts in the tubules that resemble thyroid tissue with coloid (thyroidization of the kidney) 
+- <span style="background:rgba(240, 200, 0, 0.2)">Histology: eosinophilic casts in the tubules that resemble thyroid tissue with coloid (thyroidization of the kidney)</span> 
 - Xanthogranulomatous pyelonephritis
-- A rare form of chronic pyelonephritis characterized by chronic destructive granuloma formation
-- Associated with Proteus mirabilis and Escherichia coli infections
-- Large, irregular, yellow-orange masses on gross examination of the kidney (may be mistaken for a true renal neoplasm)
-- Histology: granulomatous tissue with lipid-laden foamy macrophages and multinucleated giant cells
+	- A rare form of chronic pyelonephritis characterized by chronic destructive granuloma formation
+	- Associated with Proteus mirabilis and Escherichia coli infections
+	- Large, irregular, yellow-orange masses on gross examination of the kidney (may be mistaken for a true renal neoplasm)
+	- Histology: granulomatous tissue with lipid-laden foamy macrophages and multinucleated giant cells
 
 ---
 # Clinical features
@@ -61,6 +61,6 @@ Pyelonephritis vs Cystitis![[Pasted image 20230811161233.png]]
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
