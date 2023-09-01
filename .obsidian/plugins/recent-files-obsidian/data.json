@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pyelonephritis",
+      "path": "USMLE/Renal/Pyelonephritis.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Nephrolithiasis",
       "path": "USMLE/Renal/Nephrolithiasis.md"
     },
@@ -49,10 +57,6 @@
       "path": "USMLE/Infective disease/Eosin methylene blue agar.md"
     },
     {
-      "basename": "Pyelonephritis",
-      "path": "USMLE/Renal/Pyelonephritis.md"
-    },
-    {
       "basename": "Sickle cell disease",
       "path": "USMLE/Blood/Sickle cell disease.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Proximal renal tubular acidosis (type 2)",
       "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     },
     {
       "basename": "Thalassemia",

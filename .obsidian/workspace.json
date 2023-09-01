@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "USMLE/Renal/Pyelonephritis.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "USMLE/Renal/Pyelonephritis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "USMLE/Renal/Pyelonephritis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md"
+                "file": "USMLE/Renal/Pyelonephritis.md"
               }
             }
           }
@@ -223,10 +223,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "64c2080635d617cb",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Renal/Urinary tract infections.md",
+    "USMLE/Lab Values.md",
     "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Renal/Urinary tract infections.md",
     "appendix/Pasted image 20230901152436.png",
     "USMLE/Renal/Renal cell carcinoma.md",
     "USMLE/Renal/Nephroblastoma.md",
@@ -255,7 +256,6 @@
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Respiratory/Chronic obstructive pulmonary disease.md",
     "USMLE/Blood/Heparin-induced thrombocytopenia.md",
-    "conflict-files-obsidian-git.md",
     "appendix/Pasted image 20230829161022.png",
     "appendix/Pasted image 20230829160609.png",
     "appendix/Pasted image 20230829160412.png",
