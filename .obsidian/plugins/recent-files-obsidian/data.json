@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin C deficiency",
+      "path": "USMLE/Blood/Vitamin C deficiency.md"
+    },
+    {
+      "basename": "Immune thrombocytopenia (ITP)",
+      "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
+    },
+    {
+      "basename": "Pasted image 20230623160626",
+      "path": "appendix/Pasted image 20230623160626.png"
+    },
+    {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "Poststreptococcal glomerulonephritis",
       "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
-    },
-    {
-      "basename": "Nephritic syndrome",
-      "path": "USMLE/Renal/Nephritic syndrome.md"
-    },
-    {
-      "basename": "Diffuse proliferative glomerulonephritis",
-      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
     }
   ],
   "omittedPaths": [],
