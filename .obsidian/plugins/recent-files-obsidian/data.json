@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Pyelonephritis",
+      "path": "USMLE/Renal/Pyelonephritis.md"
+    },
+    {
+      "basename": "Acute tubulointerstitial nephritis",
+      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
+    },
+    {
       "basename": "Diagnostic evaluation of the kidney and urinary tract",
       "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
     },
     {
       "basename": "Polymorphonuclear leukocytes",
       "path": "USMLE/Blood/Polymorphonuclear leukocytes.md"
-    },
-    {
-      "basename": "Pyelonephritis",
-      "path": "USMLE/Renal/Pyelonephritis.md"
     },
     {
       "basename": "Lab Values",
@@ -191,10 +195,6 @@
     {
       "basename": "BUN-creatinine ratio",
       "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
-      "basename": "Acute tubulointerstitial nephritis",
-      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
     },
     {
       "basename": "Vesicoureteral reflux",

@@ -5,6 +5,7 @@ modified: 2023-08-11 16:00
 aliases: Untitled
 share: true
 ---
+<span style="background:rgba(240, 200, 0, 0.2)">Neutrophils infiltrate renal interstitium. Affects cortex with relative sparing of glomeruli/vessels.</span>
 # Etiology
 - Usually caused by an ascending bacterial infection of the bladder (cystitis)
 - Pathogens
@@ -31,7 +32,7 @@ share: true
 ## Chronic pyelonephritis
 - Chronic inflammatory changes with rough, asymmetric scarring and fibrosis of the corticomedullary junction 
 - Blunted calyces from recurrent urinary reflux
-- <span style="background:rgba(240, 200, 0, 0.2)">Histology: eosinophilic casts in the tubules that resemble thyroid tissue with coloid (thyroidization of the kidney)</span> 
+- <span style="background:rgba(240, 200, 0, 0.2)">Histology: eosinophilic casts in the tubules that resemble thyroid tissue with coloid (thyroidization of the kidney)</span> ![[Pasted image 20230901172427.png]]
 - Xanthogranulomatous pyelonephritis
 	- A rare form of chronic pyelonephritis characterized by chronic destructive granuloma formation
 	- Associated with Proteus mirabilis and Escherichia coli infections
