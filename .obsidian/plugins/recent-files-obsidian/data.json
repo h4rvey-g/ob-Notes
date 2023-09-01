@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "USMLE/Respiratory/index.md"
+    },
+    {
+      "basename": "Ultrasound",
+      "path": "USMLE/Ultrasound/Ultrasound.md"
+    },
+    {
       "basename": "Pyelonephritis",
       "path": "USMLE/Renal/Pyelonephritis.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Diffuse proliferative glomerulonephritis",
       "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
-    },
-    {
-      "basename": "Focal segmental glomerulosclerosis",
-      "path": "USMLE/Renal/Focal segmental glomerulosclerosis.md"
-    },
-    {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
-      "basename": "Vesicoureteral reflux",
-      "path": "USMLE/Renal/Vesicoureteral reflux.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Pyelonephritis.md",
+                "file": "USMLE/Respiratory/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Pyelonephritis.md",
+                "file": "USMLE/Respiratory/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Pyelonephritis.md",
+                "file": "USMLE/Respiratory/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Pyelonephritis.md"
+                "file": "USMLE/Respiratory/index.md"
               }
             }
           }
@@ -209,12 +210,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3c22257a9d627704",
+  "active": "d19253d0d767d39b",
   "lastOpenFiles": [
+    "USMLE/Ultrasound/index.md",
+    "USMLE/Ultrasound/Ultrasound.md",
+    "USMLE/Renal/Pyelonephritis.md",
     "Untitled.md",
     "Pasted image 20230617214946.png",
     "index.md",
-    "USMLE/Renal/Pyelonephritis.md",
     "3ghAN.md",
     "appendix/Pasted image 20230901174015.png",
     "appendix/Pasted image 20230901174000.png",
@@ -244,9 +247,7 @@
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "appendix/Pasted image 20230831154504.png",
     "USMLE/Blood/Sickle cell disease.md",
-    "USMLE/Respiratory/Bronchiectasis.md",
     "appendix/Pasted image 20230824155118.png",
-    "USMLE/Respiratory/Asthma.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
