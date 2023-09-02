@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA nephropathy",
+      "path": "USMLE/Renal/IgA nephropathy.md"
+    },
+    {
+      "basename": "Immunofluorescence",
+      "path": "USMLE/Renal/Immunofluorescence.md"
+    },
+    {
       "basename": "Polycystic kidney disease",
       "path": "USMLE/Renal/Polycystic kidney disease.md"
     },
@@ -163,14 +171,6 @@
     {
       "basename": "Minimal change disease",
       "path": "USMLE/Renal/Minimal change disease.md"
-    },
-    {
-      "basename": "IgA nephropathy",
-      "path": "USMLE/Renal/IgA nephropathy.md"
-    },
-    {
-      "basename": "Immunofluorescence",
-      "path": "USMLE/Renal/Immunofluorescence.md"
     },
     {
       "basename": "Membranoproliferative glomerulonephritis",
