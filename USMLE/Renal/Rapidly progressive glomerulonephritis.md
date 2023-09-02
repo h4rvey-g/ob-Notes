@@ -6,7 +6,17 @@ aliases: RPGN
 share: true
 ---
 # Etiology
-
+- Type I: anti-GBM glomerulonephritis: anti-glomerular basement membrane antibody disease ([[Goodpasture syndrome]])
+- Type II: immune complex-mediated glomerulonephritis
+	- [[IgA nephropathy]]
+	- Membranoproliferative nephropathy
+	- IgA vasculitis
+	- Lupus nephritis
+	- [[Poststreptococcal glomerulonephritis]] (PSGN)
+- <span style="background:rgba(240, 200, 0, 0.2)">Type III: glomerulonephritis associated with vasculitis (pauci-immune GN, ANCA-associated)</span>
+	- Granulomatosis with polyangiitis
+	- Microscopic polyangiitis
+	- Eosinophilic granulomatosis with polyangiitis
 
 ---
 # Pathophysiology
@@ -16,7 +26,7 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+                "file": "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+                "file": "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+                "file": "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
+                "file": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
               }
             }
           }
@@ -212,6 +212,7 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/IgA nephropathy.md",
     "appendix/Pasted image 20230902154239.png",
     "USMLE/Renal/Immunofluorescence.md",
@@ -221,7 +222,6 @@
     "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
     "USMLE/Renal/Nephrotic syndrome.md",
     "USMLE/Renal/Nephritic syndrome.md",
-    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Membranous nephropathy.md",
     "USMLE/Renal/Polycystic kidney disease.md",
     "USMLE/Renal/BUN-creatinine ratio.md",

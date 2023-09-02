@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Rapidly progressive glomerulonephritis",
+      "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
+    },
+    {
       "basename": "IgA nephropathy",
       "path": "USMLE/Renal/IgA nephropathy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Membranous nephropathy",
       "path": "USMLE/Renal/Membranous nephropathy.md"
-    },
-    {
-      "basename": "Acute rheumatic fever",
-      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
     }
   ],
   "omittedPaths": [],
