@@ -20,7 +20,7 @@ share: true
 
 ---
 # Pathophysiology
-- Breaks in the glomerular capillary wall and dysfunction of the glomerular basement membrane (GBM) → leakage of plasma proteins (e.g., coagulation factors) and passage of inflammatory cells (macrophages, T cells) into Bowman space
+- <span style="background:rgba(240, 200, 0, 0.2)">Breaks in the glomerular capillary wall and dysfunction of the glomerular basement membrane (GBM) → leakage of plasma proteins (e.g., coagulation factors) and passage of inflammatory cells (macrophages, T cells) into Bowman space</span>
 - Release of inflammatory cytokines → damage to the membrane of Bowman space and passage of cells from the interstitium into Bowman space
 - This causes the formation of fibrin clots and proliferation of cells (e.g., macrophages, fibroblasts, neutrophils, epithelial cells) → crescent moon formation → compression of the glomerulus → renal dysfunction
 
@@ -30,7 +30,7 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+![[Pasted image 20230902164951.png]]
 
 ---
 # Treatment
