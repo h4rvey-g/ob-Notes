@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Primary myelofibrosis",
+      "path": "USMLE/Blood/Primary myelofibrosis.md"
+    },
+    {
       "basename": "Rapidly progressive glomerulonephritis",
       "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nephrotic syndrome",
       "path": "USMLE/Renal/Nephrotic syndrome.md"
-    },
-    {
-      "basename": "Membranous nephropathy",
-      "path": "USMLE/Renal/Membranous nephropathy.md"
     }
   ],
   "omittedPaths": [],
