@@ -486,6 +486,8 @@ TWWGx
 TTDJ
 Tjjj
 TId
+TGF
+Thromboembolic
 differentials
 differential
 diagnosis
@@ -1128,6 +1130,7 @@ dnnnr
 duJ
 dRRRaa
 dar
+dacrocytes
 of
 over
 originate
@@ -1584,6 +1587,7 @@ ommmssS
 oee
 oCU
 oMMM
+obliteration
 regular
 reentrant
 retrograde
@@ -3328,6 +3332,8 @@ tuui
 tyyI
 tEE
 tHe
+thrombocytosis
+teardrop
 in
 includes
 involving
@@ -5904,7 +5910,6 @@ ARB
 Anticoagulants
 Amniotic
 AFI
-ARPKD
 Approx
 Antistreptococcal
 ASO
@@ -7064,6 +7069,7 @@ aaacc
 aIT
 aggG
 aaaakkK
+additionally
 ventricular
 varying
 vaccines
@@ -9340,6 +9346,7 @@ frr
 fffRRRdd
 fxxxqq
 fhh
+fibroblast
 with
 wave
 which
@@ -12711,6 +12718,8 @@ MKN
 MJM
 MLLd
 MaaaYYYCCCOO
+Myelofibrosis
+MPN
 Differentiate
 Drugs
 DDx
@@ -14754,6 +14763,8 @@ PXXXTTTXX
 PLy
 PlDD
 Pfqqqii
+Petechial
+Pancytopenia
 ectopic
 elevation
 early
@@ -15321,6 +15332,7 @@ ell
 ewww
 eZZ
 eBo
+extramedullary
 Early
 Elevation
 Etiology
@@ -17284,6 +17296,8 @@ hXX
 hfff
 hfy
 hGGGeeevv
+hematopoiesis
+hematopoietic
 peaked
 pattern
 precordial
@@ -17986,6 +18000,8 @@ pppbbbuuugg
 pll
 pQX
 poL
+prefibrotic
+proliferative
 Unusual
 Usually
 Upc
@@ -21519,6 +21535,7 @@ GGGG
 GGGGx
 GFFzzz
 GGGK
+Genetic
 Jervell
 JYo
 JO
