@@ -24,6 +24,10 @@ Type 2 renal tubular acidosis is characterized by a dysfunctional <span style="b
 <% tp.file.cursor() %>
 
 ---
+# Differential diagnosis
+![[Pasted image 20230904152706.png]]
+
+---
 # Treatment
 <% tp.file.cursor() %>
 

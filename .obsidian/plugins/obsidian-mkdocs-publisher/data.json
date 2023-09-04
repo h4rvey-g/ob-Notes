@@ -84,6 +84,7 @@
       "addCmd": false
     },
     "noticeError": true,
-    "displayModalRepoEditing": false
+    "displayModalRepoEditing": false,
+    "migrated": true
   }
 }

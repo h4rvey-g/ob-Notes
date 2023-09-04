@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "d19253d0d767d39b",
+            "id": "c5951753b15217bd",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -206,12 +206,14 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create new loom": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "notion-like-tables:Create new loom": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230904152706.png",
     "USMLE/Blood/Primary myelofibrosis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
     "appendix/Pasted image 20230902164951.png",
@@ -247,7 +249,6 @@
     "USMLE/Renal/Acute tubulointerstitial nephritis.md",
     "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
     "USMLE/Blood/Polymorphonuclear leukocytes.md",
-    "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
