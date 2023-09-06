@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Urinary incontinence",
+      "path": "USMLE/Renal/Urinary incontinence.md"
+    },
+    {
       "basename": "Serum anion gap",
       "path": "USMLE/Renal/Serum anion gap.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Heparin-induced thrombocytopenia",
       "path": "USMLE/Blood/Heparin-induced thrombocytopenia.md"
-    },
-    {
-      "basename": "Thalassemia",
-      "path": "USMLE/Blood/Thalassemia.md"
     }
   ],
   "omittedPaths": [],
