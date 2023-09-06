@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Renal tubular disorders",
+      "path": "USMLE/Renal/Renal tubular disorders.md"
+    },
+    {
+      "basename": "Tubulointerstitial diseases",
+      "path": "USMLE/Renal/Tubulointerstitial diseases.md"
+    },
+    {
       "basename": "Crystalline nephropathies",
       "path": "USMLE/Renal/Crystalline nephropathies.md"
+    },
+    {
+      "basename": "Acute tubulointerstitial nephritis",
+      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
     },
     {
       "basename": "Diabetes insipidus",
@@ -23,10 +35,6 @@
     {
       "basename": "Fractional excretion of sodium",
       "path": "USMLE/Renal/Fractional excretion of sodium.md"
-    },
-    {
-      "basename": "Acute tubulointerstitial nephritis",
-      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
     },
     {
       "basename": "Membranous nephropathy",
@@ -51,10 +59,6 @@
     {
       "basename": "Atrial flutter",
       "path": "USMLE/Cardiology/Atrial flutter.md"
-    },
-    {
-      "basename": "Renal tubular disorders",
-      "path": "USMLE/Renal/Renal tubular disorders.md"
     },
     {
       "basename": "Proximal renal tubular acidosis (type 2)",
@@ -195,10 +199,6 @@
     {
       "basename": "Hemoglobin Barts",
       "path": "USMLE/Blood/Hemoglobin Barts.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     }
   ],
   "omittedPaths": [],

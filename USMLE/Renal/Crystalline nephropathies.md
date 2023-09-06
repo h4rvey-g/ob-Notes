@@ -11,7 +11,7 @@ Definition: a type of kidney injury that is triggered by crystal deposition and 
 
 ---
 # Etiology
-
+<span style="background:rgba(240, 200, 0, 0.2)">Drug-induced: e.g., acyclovir, indinavir, ciprofloxacin, methotrexate</span>
 
 ---
 # Pathophysiology
@@ -23,10 +23,11 @@ Precipitation of minerals (crystallization) → phagocytosis of crystals → act
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+Crystals may be seen on urine microscopy.
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
