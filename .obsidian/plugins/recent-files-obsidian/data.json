@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Serum anion gap",
+      "path": "USMLE/Renal/Serum anion gap.md"
+    },
+    {
       "basename": "Renal tubular disorders",
       "path": "USMLE/Renal/Renal tubular disorders.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Thalassemia",
       "path": "USMLE/Blood/Thalassemia.md"
-    },
-    {
-      "basename": "Hemoglobin Barts",
-      "path": "USMLE/Blood/Hemoglobin Barts.md"
     }
   ],
   "omittedPaths": [],
