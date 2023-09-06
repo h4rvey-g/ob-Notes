@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Blood/Paroxysmal nocturnal hemoglobinuria.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Blood/Paroxysmal nocturnal hemoglobinuria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Blood/Paroxysmal nocturnal hemoglobinuria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md"
+                "file": "USMLE/Blood/Paroxysmal nocturnal hemoglobinuria.md"
               }
             }
           }
@@ -211,8 +211,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3c22257a9d627704",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
+    "USMLE/Renal/Urinary incontinence.md",
+    "USMLE/Blood/Paroxysmal nocturnal hemoglobinuria.md",
     "USMLE/Renal/Serum anion gap.md",
     "USMLE/Renal/Renal tubular disorders.md",
     "USMLE/Renal/Tubulointerstitial diseases.md",
@@ -244,8 +246,6 @@
     "appendix/Pasted image 20230825144153.png",
     "USMLE/Renal/Goodpasture syndrome.md",
     "appendix/Pasted image 20230902153858.png",
-    "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
-    "USMLE/Renal/Nephrotic syndrome.md",
     "appendix/Pasted image 20230623160626.png",
     "appendix/Pasted image 20230901211330.png",
     "appendix/127701f042d46e7958a823fce6249be.jpg",
