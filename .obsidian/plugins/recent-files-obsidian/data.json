@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Crystalline nephropathies",
+      "path": "USMLE/Renal/Crystalline nephropathies.md"
+    },
+    {
       "basename": "Diabetes insipidus",
       "path": "USMLE/Renal/Diabetes insipidus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
-    },
-    {
-      "basename": "Autoimmune hemolytic anemia",
-      "path": "USMLE/Blood/Autoimmune hemolytic anemia.md"
     }
   ],
   "omittedPaths": [],
