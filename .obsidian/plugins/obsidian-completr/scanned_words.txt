@@ -488,6 +488,7 @@ Tjjj
 TId
 TGF
 Thromboembolic
+Treat
 differentials
 differential
 diagnosis
@@ -2230,6 +2231,7 @@ rebN
 rvvvzz
 rOJJJW
 rsssqq
+recta
 narrow
 negative
 not
@@ -3334,6 +3336,8 @@ tEE
 tHe
 thrombocytosis
 teardrop
+threatening
+trait
 in
 includes
 involving
@@ -3997,6 +4001,8 @@ iutt
 icccaaabbbXX
 ieeecc
 iJt
+imbalances
+indomethacin
 general
 giving
 generation
@@ -4413,6 +4419,7 @@ gOOOh
 gfffkkK
 geeUUUuuuMNN
 gPX
+gap
 major
 mechanisms
 mark
@@ -5032,6 +5039,8 @@ mxSR
 mjjj
 mmmtp
 mmmt
+medullary
+multifactorial
 Sinus
 ST
 Segment
@@ -6061,6 +6070,7 @@ Ayzz
 ABBB
 AXZZ
 AYT
+Amiloride
 Orthodromic
 On
 Often
@@ -7070,6 +7080,9 @@ aIT
 aggG
 aaaakkK
 additionally
+anion
+adequate
+applicable
 ventricular
 varying
 vaccines
@@ -7561,6 +7574,9 @@ vvvaa
 vvvVVV
 vKKK
 vvvHT
+vasodilation
+vasa
+vasoconstrictive
 conduction
 concealed
 complex
@@ -8232,6 +8248,8 @@ cooOz
 ckA
 cccKJJ
 cccZmLMM
+coagulative
+colicky
 bypass
 block
 background
@@ -12227,6 +12245,7 @@ lHw
 lZYY
 lbb
 lGGG
+life
 Multifocal
 Mild
 Moderate
@@ -13221,6 +13240,8 @@ DWW
 Dfsss
 DFfEEEQQ
 DWWWiiiJJ
+Desmopressin
+Discontinue
 FFF
 Fib
 Fi
@@ -14233,6 +14254,7 @@ IIT
 ITt
 ITi
 Iqw
+Intranasal
 PACs
 Primary
 Pathophysiology
@@ -14765,6 +14787,7 @@ PlDD
 Pfqqqii
 Petechial
 Pancytopenia
+Proteinuria
 ectopic
 elevation
 early
@@ -15806,6 +15829,8 @@ ELs
 EBY
 EMJJ
 Euvv
+Effacement
+Encourage
 LEFT
 Lengthening
 Left
@@ -16243,6 +16268,7 @@ Lfi
 LGGG
 LLIIIOO
 LMMm
+Lead
 Hyperkalemia
 HIV
 HCV
@@ -18002,6 +18028,10 @@ pQX
 poL
 prefibrotic
 proliferative
+pyramids
+papillae
+prostaglandin
+preferred
 Unusual
 Usually
 Upc
@@ -19380,6 +19410,7 @@ CyR
 CBBbbb
 CbxW
 Cjibcc
+Chlorpropamide
 Right
 Retrograde
 Rates

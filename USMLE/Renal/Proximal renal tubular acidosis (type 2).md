@@ -8,7 +8,7 @@ share: true
 >[!Mnemonic] Remember these alphabetically 
 >![[Pasted image 20230829160609.png]]
 # Etiology
-
+- Drugs: acetazolamide
 
 ---
 # Pathophysiology
