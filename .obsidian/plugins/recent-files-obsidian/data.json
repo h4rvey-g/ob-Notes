@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Multiple sclerosis",
+      "path": "USMLE/Neurology/Multiple sclerosis.md"
+    },
+    {
       "basename": "Muscarinic antagonists",
       "path": "USMLE/Pharmacology/Muscarinic antagonists.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
-    },
-    {
-      "basename": "Platinum-based agents",
-      "path": "USMLE/Blood/Platinum-based agents.md"
     }
   ],
   "omittedPaths": [],

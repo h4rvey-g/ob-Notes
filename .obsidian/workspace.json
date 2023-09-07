@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Pharmacology/Muscarinic antagonists.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Pharmacology/Muscarinic antagonists.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Pharmacology/Muscarinic antagonists.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Pharmacology/Muscarinic antagonists.md"
+                "file": "USMLE/Neurology/Multiple sclerosis.md"
               }
             }
           }
@@ -213,9 +213,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Pharmacology/Muscarinic antagonists.md",
+    "USMLE/Neurology/Multiple sclerosis.md",
     "appendix/Pasted image 20230907163219.png",
     "USMLE/Renal/Urinary incontinence.md",
-    "USMLE/Pharmacology/Muscarinic antagonists.md",
     "USMLE/Pharmacology",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Blood/Paroxysmal nocturnal hemoglobinuria.md",
@@ -249,7 +250,6 @@
     "appendix/Pasted image 20230825144153.png",
     "appendix/Pasted image 20230902153858.png",
     "appendix/Pasted image 20230623160626.png",
-    "appendix/Pasted image 20230901211330.png",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
