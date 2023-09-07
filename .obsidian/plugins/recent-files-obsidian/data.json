@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Muscarinic antagonists",
+      "path": "USMLE/Pharmacology/Muscarinic antagonists.md"
+    },
+    {
       "basename": "Urinary incontinence",
       "path": "USMLE/Renal/Urinary incontinence.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Platinum-based agents",
       "path": "USMLE/Blood/Platinum-based agents.md"
-    },
-    {
-      "basename": "Chronic obstructive pulmonary disease",
-      "path": "USMLE/Respiratory/Chronic obstructive pulmonary disease.md"
     }
   ],
   "omittedPaths": [],

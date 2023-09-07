@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Pharmacology/Muscarinic antagonists.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Pharmacology/Muscarinic antagonists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md",
+                "file": "USMLE/Pharmacology/Muscarinic antagonists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Urinary incontinence.md"
+                "file": "USMLE/Pharmacology/Muscarinic antagonists.md"
               }
             }
           }
@@ -213,8 +213,11 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Hypercalcemia.md",
+    "appendix/Pasted image 20230907163219.png",
     "USMLE/Renal/Urinary incontinence.md",
+    "USMLE/Pharmacology/Muscarinic antagonists.md",
+    "USMLE/Pharmacology",
+    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Blood/Paroxysmal nocturnal hemoglobinuria.md",
     "appendix/0c4abbceeb2a64bddf60c772faad8b4.jpg",
     "USMLE/Renal/Serum anion gap.md",
@@ -242,8 +245,6 @@
     "USMLE/Blood/Primary myelofibrosis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
     "appendix/Pasted image 20230902164951.png",
-    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
-    "USMLE/Renal/IgA nephropathy.md",
     "appendix/Pasted image 20230902154239.png",
     "appendix/Pasted image 20230825144153.png",
     "appendix/Pasted image 20230902153858.png",
@@ -258,7 +259,6 @@
     "USMLE/Immunology",
     "USMLE/Biochemistry",
     "tables/Untitled.loom",
-    "tables",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
