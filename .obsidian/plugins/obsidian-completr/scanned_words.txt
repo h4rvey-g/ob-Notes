@@ -4844,6 +4844,7 @@ gliosis
 gaze
 gait
 glycopyrrolate
+granulomatosis
 major
 mechanisms
 mark
@@ -6635,6 +6636,7 @@ ABX
 ASJ
 Activation
 Asymmetric
+ANCA
 Orthodromic
 On
 Often
@@ -17282,6 +17284,7 @@ ETV
 Ethnicity
 Environmental
 Emphasizes
+Eosinophilic
 LEFT
 Lengthening
 Left
@@ -19690,6 +19693,8 @@ paresthesias
 paraplegia
 palsies
 palsy
+pauci
+polyangiitis
 Unusual
 Usually
 Upc
@@ -23566,6 +23571,7 @@ GMk
 Gunn
 GlycoDRYRATE
 Glyco
+Granulomatosis
 Jervell
 JYo
 JO
