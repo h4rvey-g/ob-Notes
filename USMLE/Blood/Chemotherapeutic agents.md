@@ -5,7 +5,7 @@ modified: 2023-08-30 21:52
 aliases: Untitled
 share: true
 ---
-
+![[Pasted image 20230909221338.png]]
 ![[Pasted image 20230909164109.png]]
 # Mitotic inhibitors (M phase)
 ![[Pasted image 20230909170149.png]]
@@ -37,3 +37,7 @@ share: true
 - Anthracyclines
 	- Prevent Cardiotoxicity
 	- Dexrazoxane: iron chelating agent
+# Antimetabolites (S phase)
+![[Pasted image 20230909215738.png]]
+# Topoisomerase inhibitors (G2 phase)
+![[Pasted image 20230909221400.png]]
