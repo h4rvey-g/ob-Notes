@@ -7,6 +7,12 @@ share: true
 ---
 
 ![[Pasted image 20230909164109.png]]
+# Mitotic inhibitors (M phase)
+![[Pasted image 20230909170149.png]]
+- Chris Christie closed lanes at George Washington Bridge
+	- He is toxic
+- Need to take taxi
+- People boo
 # Detoxifying agents for antineoplastic treatment
 - [[Platinum-based agents]]
 	- Prevent Nephrotoxicity
