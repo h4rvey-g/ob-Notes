@@ -13,6 +13,8 @@ share: true
 	- He is toxic
 - Need to take taxi
 - People boo
+# Alkylating agents (G1 phase)
+![[Pasted image 20230909171147.png]]
 # Detoxifying agents for antineoplastic treatment
 - [[Platinum-based agents]]
 	- Prevent Nephrotoxicity
