@@ -1239,6 +1239,7 @@ degenerative
 demyelination
 diplopia
 deficits
+diuresis
 of
 over
 originate
@@ -2453,6 +2454,8 @@ remitting
 rectus
 recovery
 reduce
+radical
+reactivity
 narrow
 negative
 not
@@ -3657,6 +3660,7 @@ tremors
 transverse
 trigeminal
 therapeutic
+tetrahydrofolate
 in
 includes
 involving
@@ -6079,6 +6083,7 @@ Sgd
 SStC
 SBV
 SHJ
+Sulfonate
 AVNRT
 Atrial
 AVRT
@@ -6637,6 +6642,10 @@ ASJ
 Activation
 Asymmetric
 ANCA
+Amifostine
+Antifolates
+Application
+Anthracyclines
 Orthodromic
 On
 Often
@@ -7017,6 +7026,7 @@ OMoD
 OVb
 OLLprr
 Optic
+Oxazaphosphorines
 atrio
 and
 atrial
@@ -7740,6 +7750,8 @@ axonal
 axons
 atrophy
 afferent
+antineoplastic
+antifolates
 ventricular
 varying
 vaccines
@@ -9008,6 +9020,7 @@ contralateral
 column
 control
 concern
+chelating
 bypass
 block
 background
@@ -10193,6 +10206,8 @@ focal
 fasciculus
 flexion
 fine
+fluids
+folinic
 with
 wave
 which
@@ -12334,6 +12349,8 @@ speech
 sexual
 salivation
 sialorrhea
+scavenger
+saline
 QRS
 QT
 QDQ
@@ -13903,6 +13920,10 @@ Mgss
 MLB
 Marcus
 MLF
+Mesna
+MErcaptoethane
+Myelosuppression
+Mucositis
 Differentiate
 Drugs
 DDx
@@ -14450,6 +14471,8 @@ Disconjugate
 Demyelination
 Dorsal
 DRY
+Detoxifying
+Dexrazoxane
 FFF
 Fib
 Fi
@@ -16134,6 +16157,7 @@ PZeM
 Progressive
 Pyramidal
 Partial
+Precursor
 ectopic
 elevation
 early
@@ -17769,6 +17793,7 @@ LwI
 LJV
 Lfhm
 Lhermitte
+Leucovorin
 Hyperkalemia
 HIV
 HCV
@@ -18319,6 +18344,8 @@ HFf
 HHHpww
 HJL
 HrQ
+Hemorrhagic
+Hepatotoxicity
 hyperkalemia
 hypertrophy
 hereditary
@@ -21190,6 +21217,7 @@ CBg
 CNS
 Cerebellar
 Cranial
+Cardiotoxicity
 Right
 Retrograde
 Rates

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Immunofluorescence.md"
+                "file": "USMLE/Blood/Chemotherapeutic agents.md"
               }
             }
           }
@@ -213,8 +213,9 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/Renal/Nephritic syndrome.md",
+    "appendix/Pasted image 20230909164109.png",
     "USMLE/Renal/Immunofluorescence.md",
+    "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
     "USMLE/Renal/Nephrolithiasis.md",
@@ -244,7 +245,6 @@
     "USMLE/Renal/Renal papillary necrosis.md",
     "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
     "USMLE/Renal/Fractional excretion of sodium.md",
-    "USMLE/Renal/Minimal change disease.md",
     "appendix/Pasted image 20230904205051.png",
     "appendix/Pasted image 20230904152706.png",
     "appendix/Pasted image 20230902164951.png",

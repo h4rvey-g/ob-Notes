@@ -5,6 +5,8 @@ modified: 2023-08-30 21:52
 aliases: Untitled
 share: true
 ---
+
+![[Pasted image 20230909164109.png]]
 # Detoxifying agents for antineoplastic treatment
 - [[Platinum-based agents]]
 	- Prevent Nephrotoxicity

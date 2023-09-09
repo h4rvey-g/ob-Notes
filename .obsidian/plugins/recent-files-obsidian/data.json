@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chemotherapeutic agents",
+      "path": "USMLE/Blood/Chemotherapeutic agents.md"
+    },
+    {
       "basename": "Immunofluorescence",
       "path": "USMLE/Renal/Immunofluorescence.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sickle cell disease",
       "path": "USMLE/Blood/Sickle cell disease.md"
-    },
-    {
-      "basename": "Cystic fibrosis",
-      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     }
   ],
   "omittedPaths": [],
