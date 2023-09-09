@@ -10,6 +10,7 @@ share: true
 
 ---
 # Classifications
+- [[Poststreptococcal glomerulonephritis]]
 - [[Diffuse proliferative glomerulonephritis]]
 - [[Rapidly progressive glomerulonephritis]]
 

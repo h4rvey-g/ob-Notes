@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
+    },
+    {
+      "basename": "Nephritic syndrome",
+      "path": "USMLE/Renal/Nephritic syndrome.md"
+    },
+    {
+      "basename": "Poststreptococcal glomerulonephritis",
+      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
+    },
+    {
       "basename": "Amyloidosis",
       "path": "USMLE/Pathology/Amyloidosis.md"
     },
@@ -153,10 +165,6 @@
       "path": "USMLE/Lab Values.md"
     },
     {
-      "basename": "Nephrolithiasis",
-      "path": "USMLE/Renal/Nephrolithiasis.md"
-    },
-    {
       "basename": "Renal cell carcinoma",
       "path": "USMLE/Renal/Renal cell carcinoma.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
-    },
-    {
-      "basename": "Pasted image 20230824155118",
-      "path": "appendix/Pasted image 20230824155118.png"
-    },
-    {
-      "basename": "Asthma",
-      "path": "USMLE/Respiratory/Asthma.md"
     }
   ],
   "omittedPaths": [],

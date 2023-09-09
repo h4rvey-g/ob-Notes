@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md",
+                "file": "USMLE/Renal/Nephrolithiasis.md",
                 "mode": "preview",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md",
+                "file": "USMLE/Renal/Nephrolithiasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md",
+                "file": "USMLE/Renal/Nephrolithiasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md"
+                "file": "USMLE/Renal/Nephrolithiasis.md"
               }
             }
           }
@@ -211,14 +211,21 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Renal/Nephritic syndrome.md",
+    "USMLE/Pharmacology/Muscarinic antagonists.md",
+    "USMLE/Neurology/Multiple sclerosis.md",
+    "USMLE/Renal/Membranous nephropathy.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+    "USMLE/Pathology/Amyloidosis.md",
+    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+    "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Biochemistry/Vitamin C.md",
+    "appendix/Pasted image 20230817160901.png",
+    "appendix/Pasted image 20230909155554.png",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Immunofluorescence.md",
-    "USMLE/Renal/Membranous nephropathy.md",
-    "USMLE/Neurology/Multiple sclerosis.md",
-    "USMLE/Pharmacology/Muscarinic antagonists.md",
     "appendix/Pasted image 20230907163219.png",
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Pharmacology",
@@ -238,18 +245,11 @@
     "USMLE/Renal/Fractional excretion of sodium.md",
     "USMLE/Renal/Minimal change disease.md",
     "USMLE/单抗记忆.md",
-    "USMLE/Renal/Renal physiology.md",
-    "USMLE/Cardiology/Atrial flutter.md",
     "appendix/Pasted image 20230904205051.png",
-    "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
-    "USMLE/Renal/Distal renal tubular acidosis (type 1).md",
     "appendix/Pasted image 20230904152706.png",
-    "USMLE/Blood/Primary myelofibrosis.md",
     "appendix/Pasted image 20230902164951.png",
     "appendix/Pasted image 20230902154239.png",
     "appendix/Pasted image 20230825144153.png",
-    "appendix/Pasted image 20230902153858.png",
-    "appendix/Pasted image 20230623160626.png",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
