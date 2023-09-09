@@ -19,7 +19,7 @@ Increased production of the light chains of immunoglobulins → deposition of am
 ---
 ## Clinical features
 - Heart: <span style="background:rgba(240, 200, 0, 0.2)">[[restrictive cardiomyopathy]]</span>, HFpEF, [[atrioventricular block]]
-- Kidney: <span style="background:rgba(240, 200, 0, 0.2)">[[nephrotic syndrome]]</span>, type II renal tubular acidosis, nephrogenic diabetes insipidus
+- Kidney: <span style="background:rgba(240, 200, 0, 0.2)">[[nephrotic syndrome]]</span>, type II renal tubular acidosis, nephrogenic [[diabetes insipidus]]
 - Tongue: <span style="background:rgba(240, 200, 0, 0.2)">macroglossia</span> → obstructive sleep apnea 
 - Autonomic nervous system: <span style="background:rgba(240, 200, 0, 0.2)">autonomic neuropathy</span>
 - Musculoskeletal system

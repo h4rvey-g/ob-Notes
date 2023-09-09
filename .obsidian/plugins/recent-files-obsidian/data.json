@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Amyloidosis",
+      "path": "USMLE/Pathology/Amyloidosis.md"
+    },
+    {
+      "basename": "Diffuse proliferative glomerulonephritis",
+      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
+    },
+    {
+      "basename": "Immunofluorescence",
+      "path": "USMLE/Renal/Immunofluorescence.md"
+    },
+    {
+      "basename": "Membranous nephropathy",
+      "path": "USMLE/Renal/Membranous nephropathy.md"
+    },
+    {
       "basename": "Multiple sclerosis",
       "path": "USMLE/Neurology/Multiple sclerosis.md"
     },
@@ -55,14 +71,6 @@
     {
       "basename": "Fractional excretion of sodium",
       "path": "USMLE/Renal/Fractional excretion of sodium.md"
-    },
-    {
-      "basename": "Membranous nephropathy",
-      "path": "USMLE/Renal/Membranous nephropathy.md"
-    },
-    {
-      "basename": "Immunofluorescence",
-      "path": "USMLE/Renal/Immunofluorescence.md"
     },
     {
       "basename": "Minimal change disease",
@@ -191,14 +199,6 @@
     {
       "basename": "Asthma",
       "path": "USMLE/Respiratory/Asthma.md"
-    },
-    {
-      "basename": "Acute respiratory distress syndrome",
-      "path": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
-    },
-    {
-      "basename": "Chemotherapeutic agents",
-      "path": "USMLE/Blood/Chemotherapeutic agents.md"
     }
   ],
   "omittedPaths": [],

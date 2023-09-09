@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md",
-                "mode": "source",
+                "file": "USMLE/Pathology/Amyloidosis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md",
+                "file": "USMLE/Pathology/Amyloidosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md",
+                "file": "USMLE/Pathology/Amyloidosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md"
+                "file": "USMLE/Pathology/Amyloidosis.md"
               }
             }
           }
@@ -213,8 +213,12 @@
   },
   "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Pharmacology/Muscarinic antagonists.md",
+    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+    "USMLE/Renal/IgA nephropathy.md",
+    "USMLE/Renal/Immunofluorescence.md",
+    "USMLE/Renal/Membranous nephropathy.md",
     "USMLE/Neurology/Multiple sclerosis.md",
+    "USMLE/Pharmacology/Muscarinic antagonists.md",
     "appendix/Pasted image 20230907163219.png",
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Pharmacology",
@@ -232,19 +236,15 @@
     "USMLE/Renal/Renal papillary necrosis.md",
     "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md",
     "USMLE/Renal/Fractional excretion of sodium.md",
-    "USMLE/Renal/Membranous nephropathy.md",
-    "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Minimal change disease.md",
     "USMLE/单抗记忆.md",
     "USMLE/Renal/Renal physiology.md",
     "USMLE/Cardiology/Atrial flutter.md",
-    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "appendix/Pasted image 20230904205051.png",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Renal/Distal renal tubular acidosis (type 1).md",
     "appendix/Pasted image 20230904152706.png",
     "USMLE/Blood/Primary myelofibrosis.md",
-    "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
     "appendix/Pasted image 20230902164951.png",
     "appendix/Pasted image 20230902154239.png",
     "appendix/Pasted image 20230825144153.png",
