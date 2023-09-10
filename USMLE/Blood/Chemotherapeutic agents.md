@@ -39,6 +39,7 @@ share: true
 	- Dexrazoxane: iron chelating agent
 # Antimetabolites (S phase)
 ![[Pasted image 20230909215738.png]]
+See [[De novo pyrimidine and purine synthesis]]
 # Topoisomerase inhibitors (G2 phase)
 ![[Pasted image 20230909221400.png]]
 # Antitumor antibiotics

@@ -5,6 +5,10 @@
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
     {
+      "basename": "De novo pyrimidine and purine synthesis",
+      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+    },
+    {
       "basename": "Immunofluorescence",
       "path": "USMLE/Renal/Immunofluorescence.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Eosin methylene blue agar",
       "path": "USMLE/Infective disease/Eosin methylene blue agar.md"
-    },
-    {
-      "basename": "Sickle cell disease",
-      "path": "USMLE/Blood/Sickle cell disease.md"
     }
   ],
   "omittedPaths": [],

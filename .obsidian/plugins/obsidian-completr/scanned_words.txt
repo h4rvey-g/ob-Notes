@@ -546,6 +546,7 @@ TUDy
 TCf
 Transverse
 Trigeminal
+Topoisomerase
 differentials
 differential
 diagnosis
@@ -1240,6 +1241,7 @@ demyelination
 diplopia
 deficits
 diuresis
+don
 of
 over
 originate
@@ -2456,6 +2458,8 @@ recovery
 reduce
 radical
 reactivity
+rubicin
+ruby
 narrow
 negative
 not
@@ -3661,6 +3665,8 @@ transverse
 trigeminal
 therapeutic
 tetrahydrofolate
+toxic
+taxi
 in
 includes
 involving
@@ -6646,6 +6652,9 @@ Amifostine
 Antifolates
 Application
 Anthracyclines
+Alkylating
+Antimetabolites
+Antitumor
 Orthodromic
 On
 Often
@@ -9021,6 +9030,7 @@ column
 control
 concern
 chelating
+cardiotoxicity
 bypass
 block
 background
@@ -9604,6 +9614,7 @@ bands
 barrier
 blindness
 bath
+boo
 flutter
 from
 focus
@@ -11133,6 +11144,7 @@ WWg
 WWSZZ
 WBB
 Wre
+Washington
 you
 young
 ybif
@@ -12351,6 +12363,7 @@ salivation
 sialorrhea
 scavenger
 saline
+song
 QRS
 QT
 QDQ
@@ -13376,6 +13389,8 @@ lymphoid
 leptomeninges
 longitudinal
 limbs
+lanes
+leo
 Multifocal
 Mild
 Moderate
@@ -13924,6 +13939,8 @@ Mesna
 MErcaptoethane
 Myelosuppression
 Mucositis
+Mitotic
+Mnemo
 Differentiate
 Drugs
 DDx
@@ -14473,6 +14490,9 @@ Dorsal
 DRY
 Detoxifying
 Dexrazoxane
+Doxorubicin
+Daunorubicin
+Dilated
 FFF
 Fib
 Fi
@@ -16158,6 +16178,9 @@ Progressive
 Pyramidal
 Partial
 Precursor
+People
+Purine
+Pyrimidine
 ectopic
 elevation
 early
@@ -19722,6 +19745,9 @@ palsies
 palsy
 pauci
 polyangiitis
+prevent
+put
+police
 Unusual
 Usually
 Upc
@@ -20686,6 +20712,8 @@ Bax
 BXw
 BbDyx
 Babinski
+Bridge
+Bleomycin
 Characteristic
 CLL
 Clinical
@@ -21218,6 +21246,8 @@ CNS
 Cerebellar
 Cranial
 Cardiotoxicity
+Chris
+Christie
 Right
 Retrograde
 Rates
@@ -21755,6 +21785,8 @@ RPe
 RXv
 RtZJ
 Represents
+Roxane
+RUBYcin
 Voltage
 VFV
 VoNW
@@ -23600,6 +23632,7 @@ Gunn
 GlycoDRYRATE
 Glyco
 Granulomatosis
+George
 Jervell
 JYo
 JO
@@ -24652,6 +24685,7 @@ Nwpup
 NDa
 NsI
 Neuropathic
+Need
 jEQ
 jL
 jO
