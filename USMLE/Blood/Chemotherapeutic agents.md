@@ -15,7 +15,7 @@ share: true
 - People boo
 # Alkylating agents (G1 phase)
 ![[Pasted image 20230909171147.png]]
-# Detoxifying agents for antineoplastic treatment
+## Detoxifying agents for antineoplastic treatment
 - [[Platinum-based agents]]
 	- Prevent Nephrotoxicity
 	- <span style="background:rgba(240, 200, 0, 0.2)">Amifostine: free radical scavenger</span>
@@ -41,3 +41,11 @@ share: true
 ![[Pasted image 20230909215738.png]]
 # Topoisomerase inhibitors (G2 phase)
 ![[Pasted image 20230909221400.png]]
+# Antitumor antibiotics
+![[Pasted image 20230909221658.png]]
+>[!Mnemonic] 
+>- Mnemo I use for Doxorubicin /Daunorubicin:
+> 	- They both end in -rubicin -> ruby (= red) -> the heart is red -> cardiotoxicity
+> 	- Dilated cardiomyopathy because it starts with D like Doxorubicin
+> 	- Dexrazoxane used to prevent it -> also starts with D and sounds like Roxane ('Roxane, you don't have to put on the red light', song by the police) -> again red for RUBYcin and heart
+> - Bleomycin: **b**leo -> fi**b**ro
