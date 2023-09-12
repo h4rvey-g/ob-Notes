@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Chemotherapeutic agents",
+      "path": "USMLE/Blood/Chemotherapeutic agents.md"
+    },
+    {
+      "basename": "Pasted image 20230909215738",
+      "path": "appendix/Pasted image 20230909215738.png"
+    },
+    {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     },
     {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
-    },
-    {
-      "basename": "Chemotherapeutic agents",
-      "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
     {
       "basename": "Immunofluorescence",
@@ -195,10 +199,6 @@
     {
       "basename": "Gitelman syndrome",
       "path": "USMLE/Renal/Gitelman syndrome.md"
-    },
-    {
-      "basename": "Eosin methylene blue agar",
-      "path": "USMLE/Infective disease/Eosin methylene blue agar.md"
     }
   ],
   "omittedPaths": [],
