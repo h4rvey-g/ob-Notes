@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Essential tremor",
+      "path": "USMLE/Neurology/Essential tremor.md"
+    },
+    {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Thiazides",
       "path": "USMLE/Cardiology/Thiazides.md"
-    },
-    {
-      "basename": "Gitelman syndrome",
-      "path": "USMLE/Renal/Gitelman syndrome.md"
     }
   ],
   "omittedPaths": [],
