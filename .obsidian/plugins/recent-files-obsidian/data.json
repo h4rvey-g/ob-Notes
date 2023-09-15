@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Essential tremor",
-      "path": "USMLE/Neurology/Essential tremor.md"
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
     },
     {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
+    },
+    {
+      "basename": "Pasted image 20230909221658",
+      "path": "appendix/Pasted image 20230909221658.png"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
+      "basename": "Essential tremor",
+      "path": "USMLE/Neurology/Essential tremor.md"
     },
     {
       "basename": "Pasted image 20230909215738",
@@ -15,10 +27,6 @@
     {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
-    },
-    {
-      "basename": "单抗记忆",
-      "path": "USMLE/单抗记忆.md"
     },
     {
       "basename": "Immunofluorescence",
@@ -177,10 +185,6 @@
       "path": "USMLE/Blood/Polymorphonuclear leukocytes.md"
     },
     {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
-    },
-    {
       "basename": "Renal cell carcinoma",
       "path": "USMLE/Renal/Renal cell carcinoma.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hypercalcemia",
       "path": "USMLE/Cardiology/Hypercalcemia.md"
-    },
-    {
-      "basename": "Thiazides",
-      "path": "USMLE/Cardiology/Thiazides.md"
     }
   ],
   "omittedPaths": [],
