@@ -5783,6 +5783,7 @@ mmlL
 mMI
 mgS
 mPJ
+movement
 Sinus
 ST
 Segment
@@ -6359,6 +6360,7 @@ SEpB
 Scns
 SVi
 SyX
+Slowly
 AVNRT
 Atrial
 AVRT
@@ -8111,6 +8113,7 @@ aHQ
 axU
 aZB
 atA
+anxiety
 ventricular
 varying
 vaccines
@@ -8687,6 +8690,8 @@ vLz
 vBV
 vopk
 vTF
+voice
+voluntary
 conduction
 concealed
 complex
@@ -10688,6 +10693,7 @@ frs
 fzf
 fGG
 fcGU
+frequency
 with
 wave
 which
@@ -11676,6 +11682,7 @@ WAp
 WSF
 Wuv
 Wwg
+Worse
 you
 young
 ybif
@@ -12166,6 +12173,7 @@ yki
 yCS
 yYb
 ynwp
+yes
 see
 style
 single
@@ -12955,6 +12963,7 @@ swwg
 stg
 stL
 sgx
+sustained
 QRS
 QT
 QDQ
@@ -16373,6 +16382,7 @@ IPF
 ITY
 Icl
 ISV
+Improves
 PACs
 Primary
 Pathophysiology
@@ -18705,6 +18715,7 @@ LewT
 LFGLF
 Lyk
 LDDDDDDo
+Localization
 Hyperkalemia
 HIV
 HCV
@@ -20703,6 +20714,8 @@ pYn
 piL
 puo
 pOVS
+propranolol
+primidone
 Unusual
 Usually
 Upc
