@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/GI/Ulcerative colitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/GI/Ulcerative colitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/GI/Ulcerative colitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+                "file": "USMLE/GI/Ulcerative colitis.md"
               }
             }
           }
@@ -222,13 +222,15 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230918172226.png",
+    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "USMLE/GI/Ulcerative colitis.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/单抗记忆.md",
     "appendix/Pasted image 20230909221658.png",
     "USMLE/Lab Values.md",
     "USMLE/Neurology/Essential tremor.md",
     "appendix/Pasted image 20230909215738.png",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "appendix/Pasted image 20230912144319.png",
     "USMLE/Renal/Immunofluorescence.md",
     "appendix/Pasted image 20230910173723.png",
@@ -257,7 +259,6 @@
     "USMLE/Renal/Renal tubular disorders.md",
     "USMLE/Renal/Tubulointerstitial diseases.md",
     "USMLE/Renal/Crystalline nephropathies.md",
-    "USMLE/Renal/Diabetes insipidus.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",

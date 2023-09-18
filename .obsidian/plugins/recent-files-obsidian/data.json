@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ulcerative colitis",
+      "path": "USMLE/GI/Ulcerative colitis.md"
+    },
+    {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Urine sediment",
       "path": "USMLE/Renal/Urine sediment.md"
-    },
-    {
-      "basename": "Hypercalcemia",
-      "path": "USMLE/Cardiology/Hypercalcemia.md"
     }
   ],
   "omittedPaths": [],

@@ -129,6 +129,13 @@
         "Shift"
       ],
       "key": "-"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "1"
     }
   ],
   "templater-obsidian:template/highlight-yellow.md": [
