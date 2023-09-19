@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ulnar nerve entrapment",
+      "path": "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md"
+    },
+    {
       "basename": "Toxic megacolon",
       "path": "USMLE/GI/Toxic megacolon.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Renal cell carcinoma",
       "path": "USMLE/Renal/Renal cell carcinoma.md"
-    },
-    {
-      "basename": "Nephroblastoma",
-      "path": "USMLE/Renal/Nephroblastoma.md"
     }
   ],
   "omittedPaths": [],
