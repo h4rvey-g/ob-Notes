@@ -32,6 +32,9 @@ The ulnar nerve is most commonly compressed at or near the cubital tunnel of the
 	- Referred pain in the forearm 
 - Entrapment at the wrist
 	- Variable paresthesia or sensory loss of the palmar and dorsal aspects of the medial side of the hand, little finger, and ulnar side of the ring finger
+
+>[!warning] 
+>The dorsum of the medial half of the hand (ring and small fingers) is innervated by the dorsal cutaneous branch of the ulnar nerve, <span style="background:rgba(240, 200, 0, 0.2)">which arises in the forearm proximal to the passage of the ulnar nerve through Guyon canal.</span> As this patient exhibits nerve compression at the level of Guyon canal, the sensory innervation to the medial half of the dorsum of the hand will remain intact.![[Pasted image 20230919173734.png]]
 ## Physical examination
 - Ulnar claw 
 	- Palsy of the 3rd and 4th lumbricals with preserved function of the extrinsic flexors 
