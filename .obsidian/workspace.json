@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Toxic megacolon.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Toxic megacolon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Toxic megacolon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md"
+                "file": "USMLE/GI/Toxic megacolon.md"
               }
             }
           }
@@ -222,9 +222,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/GI/Ulcerative colitis.md",
+    "USMLE/GI/Toxic megacolon.md",
     "appendix/Pasted image 20230918172226.png",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "USMLE/GI/Ulcerative colitis.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/单抗记忆.md",
     "appendix/Pasted image 20230909221658.png",
@@ -239,7 +240,6 @@
     "appendix/Pasted image 20230909221338.png",
     "appendix/Pasted image 20230909171147.png",
     "appendix/Pasted image 20230909170149.png",
-    "appendix/Pasted image 20230909164109.png",
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",

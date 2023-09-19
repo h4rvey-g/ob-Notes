@@ -59,3 +59,9 @@ share: true
 <% tp.file.cursor() %>
 
 ---
+# Complications
+- ↑ Risk of cancer
+- Toxic megacolon
+- Fulminant colitis
+- Gastrointestinal bleeding (both acute and chronic)
+- Perforation
