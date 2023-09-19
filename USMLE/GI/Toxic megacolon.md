@@ -29,7 +29,10 @@ share: true
 - Abdominal x-ray findings 
 	- Dilation of the colon (transverse colon diameter > 6 cm)
 	- Loss of haustration 
-	- Multiple air-fluid levels
+	- Multiple air-fluid levels![[Pasted image 20230919160024.png]]
+
+>[!warning] 
+>Colonoscopy should be avoided in patients with suspected toxic megacolon since it increases the risk of colonic perforation.
 
 ---
 # Treatment

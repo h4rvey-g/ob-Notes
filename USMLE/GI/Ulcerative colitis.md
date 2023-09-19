@@ -61,7 +61,7 @@ share: true
 ---
 # Complications
 - ↑ Risk of cancer
-- Toxic megacolon
+- [[Toxic megacolon]]
 - Fulminant colitis
 - Gastrointestinal bleeding (both acute and chronic)
 - Perforation

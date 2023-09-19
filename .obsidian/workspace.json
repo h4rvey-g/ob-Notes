@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/GI/Toxic megacolon.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -197,7 +197,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,6 +223,7 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230919160024.png",
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/GI/Toxic megacolon.md",
     "appendix/Pasted image 20230918172226.png",
@@ -258,7 +260,6 @@
     "USMLE/Renal/Serum anion gap.md",
     "USMLE/Renal/Renal tubular disorders.md",
     "USMLE/Renal/Tubulointerstitial diseases.md",
-    "USMLE/Renal/Crystalline nephropathies.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",

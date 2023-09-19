@@ -579,6 +579,8 @@ Tps
 Tgt
 TGth
 Tnn
+Tenesmus
+Toxic
 differentials
 differential
 diagnosis
@@ -1307,6 +1309,8 @@ dku
 dPQ
 dÖx
 dzJ
+difficile
+dysmotility
 of
 over
 originate
@@ -1848,6 +1852,8 @@ oyK
 otlLb
 oeE
 ones
+osteoarthritis
+oxide
 regular
 reentrant
 retrograde
@@ -2591,6 +2597,7 @@ rHz
 ranibizumab
 river
 ran
+rectum
 narrow
 negative
 not
@@ -3174,6 +3181,7 @@ nRc
 nqh
 nee
 niw
+nitric
 tachycardia
 tract
 the
@@ -3858,6 +3866,7 @@ tEu
 tHt
 tOo
 talking
+transmural
 in
 includes
 involving
@@ -4604,6 +4613,7 @@ irT
 ijh
 ifa
 iWg
+iritis
 general
 giving
 generation
@@ -5115,6 +5125,7 @@ gypy
 gDC
 gem
 gXY
+gangrenosum
 major
 mechanisms
 mark
@@ -5834,6 +5845,8 @@ mFy
 mht
 mTJ
 mXbVYiVQ
+megacolon
+mediators
 Sinus
 ST
 Segment
@@ -6413,6 +6426,8 @@ SyX
 Slowly
 SWUiu
 SlS
+Salmonella
+Shigella
 AVNRT
 Atrial
 AVRT
@@ -7006,6 +7021,9 @@ Aqb
 AaMF
 Asb
 AWcT
+Ashkenazi
+Ascending
+Aphthous
 Orthodromic
 On
 Often
@@ -7416,6 +7434,7 @@ OSv
 OeBqF
 OYk
 Oaj
+Ocular
 atrio
 and
 atrial
@@ -8180,6 +8199,8 @@ aHb
 aEq
 adN
 ayH
+ankylosing
+avoided
 ventricular
 varying
 vaccines
@@ -9528,6 +9549,10 @@ cVJL
 cmCc
 cmuV
 coming
+continuously
+colon
+cholangitis
+colonic
 bypass
 block
 background
@@ -10139,6 +10164,7 @@ bBd
 bum
 bevacizumab
 beverage
+begins
 flutter
 from
 focus
@@ -13064,6 +13090,13 @@ sgx
 sustained
 snJ
 sui
+spreads
+spondylitis
+sacroiliitis
+sclerosing
+stomatitis
+sepsis
+since
 QRS
 QT
 QDQ
@@ -15328,6 +15361,7 @@ DLVZ
 DNG
 DTiq
 Dpz
+Dilation
 FFF
 Fib
 Fi
@@ -15825,6 +15859,8 @@ FpaT
 FFf
 FQk
 Fqj
+Fecal
+Fulminant
 In
 It
 Intraventricular
@@ -16512,6 +16548,7 @@ IME
 Iie
 IzU
 Ibey
+Inflammation
 PACs
 Primary
 Pathophysiology
@@ -17117,6 +17154,10 @@ PXCk
 Prq
 Pknj
 PDmm
+Pattern
+PSC
+Pyoderma
+Perforation
 ectopic
 elevation
 early
@@ -17794,6 +17835,8 @@ eVV
 emgN
 evE
 ePN
+extraintestinal
+episcleritis
 Early
 Elevation
 Etiology
@@ -19439,6 +19482,9 @@ HvG
 Hvb
 HgV
 HIkZ
+Higher
+Highest
+HLA
 hyperkalemia
 hypertrophy
 hereditary
@@ -20062,6 +20108,7 @@ hDSK
 hNd
 hnrK
 hLZ
+haustration
 peaked
 pattern
 precordial
@@ -20871,6 +20918,9 @@ primidone
 pCy
 puw
 pwx
+proximally
+pseudomembranous
+perforation
 Unusual
 Usually
 Upc
@@ -21372,6 +21422,8 @@ UNJ
 Uwe
 UUUYIeL
 UBgW
+Unlike
+Ulcerative
 Bundle
 Branch
 Block
@@ -21905,6 +21957,7 @@ BMZ
 Bub
 BIF
 BgC
+Bloody
 Characteristic
 CLL
 Clinical
@@ -22465,6 +22518,9 @@ CnC
 CKh
 CWlY
 CCV
+Campylobacter
+Colonic
+Colonoscopy
 Right
 Retrograde
 Rates
@@ -24099,6 +24155,7 @@ uhQ
 uKwp
 uuvX
 uEX
+uveitis
 quinine
 qz
 qM
@@ -25548,6 +25605,7 @@ Jnd
 JwC
 JRg
 Jyg
+Jewish
 Nielsen
 NB
 No
