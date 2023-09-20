@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
       "basename": "Bronchiectasis",
       "path": "USMLE/Respiratory/Bronchiectasis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BUN-creatinine ratio",
       "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
-      "basename": "Vitamin C deficiency",
-      "path": "USMLE/Blood/Vitamin C deficiency.md"
     }
   ],
   "omittedPaths": [],
