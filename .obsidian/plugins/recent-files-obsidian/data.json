@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Polyhydramnios",
+      "path": "USMLE/Reproductive/Polyhydramnios.md"
+    },
+    {
+      "basename": "Oligohydramnios",
+      "path": "USMLE/Reproductive/Oligohydramnios.md"
+    },
+    {
+      "basename": "Neonatal respiratory distress syndrome",
+      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
+    },
+    {
       "basename": "Potter sequence",
       "path": "USMLE/Renal/Potter sequence.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "index",
       "path": "USMLE/Respiratory/index.md"
-    },
-    {
-      "basename": "Ultrasound",
-      "path": "USMLE/Ultrasound/Ultrasound.md"
-    },
-    {
-      "basename": "Pyelonephritis",
-      "path": "USMLE/Renal/Pyelonephritis.md"
-    },
-    {
-      "basename": "Polymorphonuclear leukocytes",
-      "path": "USMLE/Blood/Polymorphonuclear leukocytes.md"
     }
   ],
   "omittedPaths": [],
