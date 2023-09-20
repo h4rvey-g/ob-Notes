@@ -3250,6 +3250,7 @@ nhu
 nvR
 nÖ
 neD
+numFrozenColumns
 tachycardia
 tract
 the
@@ -13397,6 +13398,7 @@ swh
 sugt
 shg
 syW
+settings
 QRS
 QT
 QDQ

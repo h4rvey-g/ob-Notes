@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Primary ciliary dyskinesia",
+      "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
+    },
+    {
       "basename": "Headaches",
       "path": "USMLE/Neurology/Headaches.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Immune thrombocytopenia (ITP)",
       "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
-    },
-    {
-      "basename": "Pasted image 20230623160626",
-      "path": "appendix/Pasted image 20230623160626.png"
     }
   ],
   "omittedPaths": [],
