@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vasculitides",
+      "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
+    },
+    {
       "basename": "Polyhydramnios",
       "path": "USMLE/Reproductive/Polyhydramnios.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
-    },
-    {
-      "basename": "index",
-      "path": "USMLE/Respiratory/index.md"
     }
   ],
   "omittedPaths": [],

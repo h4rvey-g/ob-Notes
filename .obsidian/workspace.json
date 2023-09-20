@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Reproductive/Polyhydramnios.md",
-                "mode": "source",
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Reproductive/Polyhydramnios.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Reproductive/Polyhydramnios.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Reproductive/Polyhydramnios.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
               }
             }
           }
@@ -223,8 +223,11 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/Reproductive/Oligohydramnios.md",
+    "appendix/Pasted image 20230920162517.png",
+    "appendix/Pasted image 20230920162430.png",
     "USMLE/Reproductive/Polyhydramnios.md",
+    "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
+    "USMLE/Reproductive/Oligohydramnios.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
     "USMLE/Renal/Potter sequence.md",
     "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
@@ -245,7 +248,6 @@
     "appendix/Pasted image 20230909215738.png",
     "appendix/Pasted image 20230912144319.png",
     "USMLE/Renal/Immunofluorescence.md",
-    "appendix/Pasted image 20230910173723.png",
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
@@ -257,9 +259,7 @@
     "USMLE/Pathology/Amyloidosis.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Renal/IgA nephropathy.md",
-    "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Pharmacology",
-    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Reproductive",
     "USMLE/Pathology",
     "USMLE/Hematology and Oncology",
