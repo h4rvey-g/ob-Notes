@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bronchiectasis",
+      "path": "USMLE/Respiratory/Bronchiectasis.md"
+    },
+    {
       "basename": "Primary ciliary dyskinesia",
       "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitamin C deficiency",
       "path": "USMLE/Blood/Vitamin C deficiency.md"
-    },
-    {
-      "basename": "Immune thrombocytopenia (ITP)",
-      "path": "USMLE/Blood/Immune thrombocytopenia (ITP).md"
     }
   ],
   "omittedPaths": [],

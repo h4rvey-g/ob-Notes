@@ -26,11 +26,14 @@ Rare autosomal recessive disorder characterized by absent or dysmotile cilia cau
 - Displaced heart sounds (as a result of dextrocardia)
 - Infertility in men due to decreased sperm motility as a result of defective flagella
 - Reduced fertility in women (and rarely ectopic pregnancy) due to defective cilia in fallopian tubes
-- Kartagener syndrome: classic triad of situs inversus, recurrent sinusitis, and [[bronchiectasis]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Kartagener syndrome: classic triad of situs inversus, recurrent sinusitis, and [[bronchiectasis]]</span>
+
+>[!Mnemonic] 
+>You can memorize the cause of Kartagener syndrome by thinking of Kartagener's restaurant that only has 'take-out' service because there is no dine-in (dynein).
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment

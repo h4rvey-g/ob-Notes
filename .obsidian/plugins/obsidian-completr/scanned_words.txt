@@ -1335,6 +1335,10 @@ dHr
 dGRz
 dLuH
 dpu
+dysmotile
+dynein
+dextrocardia
+dine
 of
 over
 originate
@@ -1897,6 +1901,7 @@ oeL
 oCy
 otC
 olG
+otitis
 regular
 reentrant
 retrograde
@@ -2654,6 +2659,7 @@ rND
 rIzv
 rZo
 rVe
+restaurant
 narrow
 negative
 not
@@ -3946,6 +3952,8 @@ thr
 tBw
 tOn
 tyt
+tubes
+thinking
 in
 includes
 involving
@@ -4705,6 +4713,7 @@ iXi
 iht
 iph
 iGH
+inversus
 general
 giving
 generation
@@ -5969,6 +5978,8 @@ mCH
 mPq
 mFq
 man
+microtubules
+memorize
 Sinus
 ST
 Segment
@@ -9769,6 +9780,7 @@ cmG
 ccv
 crn
 cut
+cilia
 bypass
 block
 background
@@ -11043,6 +11055,8 @@ fWJ
 fcWm
 fhw
 fSPChE
+flagella
+fallopian
 with
 wave
 which
@@ -13399,6 +13413,8 @@ sugt
 shg
 syW
 settings
+situs
+service
 QRS
 QT
 QDQ
@@ -15717,6 +15733,7 @@ Dvfy
 DNlu
 DIc
 Dtx
+Displaced
 FFF
 Fib
 Fi
@@ -16929,6 +16946,7 @@ IYgnO
 Ibd
 IuEm
 ILk
+Infertility
 PACs
 Primary
 Pathophysiology
@@ -20565,6 +20583,7 @@ hBK
 hDq
 hxw
 hmR
+hearing
 peaked
 pattern
 precordial
@@ -23023,6 +23042,7 @@ CvpX
 Cfu
 CxQ
 CYd
+Conductive
 Right
 Retrograde
 Rates
