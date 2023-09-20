@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
+                "file": "USMLE/Renal/Potter sequence.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
+                "file": "USMLE/Renal/Potter sequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
+                "file": "USMLE/Renal/Potter sequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md"
+                "file": "USMLE/Renal/Potter sequence.md"
               }
             }
           }
@@ -215,19 +215,20 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "notion-like-tables:Create new loom": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create new loom": false
     }
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
+    "appendix/Pasted image 20230920144032.png",
     "appendix/Pasted image 20230919173734.png",
     "appendix/Pasted image 20230919170423.png",
     "appendix/Pasted image 20230919165808.png",
     "USMLE/GI/Toxic megacolon.md",
-    "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
     "appendix/Pasted image 20230919160024.png",
     "USMLE/GI/Ulcerative colitis.md",
     "appendix/Pasted image 20230918172226.png",
@@ -241,8 +242,6 @@
     "appendix/Pasted image 20230912144319.png",
     "USMLE/Renal/Immunofluorescence.md",
     "appendix/Pasted image 20230910173723.png",
-    "appendix/De Novo Purine Synthesis - OG copy.png",
-    "appendix/Pasted image 20230909221400.png",
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
