@@ -12,3 +12,11 @@ share: true
 
 
 ---
+# Small-vessel vasculitis
+## ANCA-associated small-vessel vasculitis
+![[Pasted image 20230920170116.png]]
+>[!Mnemonic] Granulomatosis with polyangiitis (Wegener granulomatosis)
+>![[Pasted image 20230920170030.png]]
+
+>[!Mnemonic] Microscopic polyangiitis
+>![[Pasted image 20230920170844.png]]
