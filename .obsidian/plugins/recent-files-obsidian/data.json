@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Headaches",
+      "path": "USMLE/Neurology/Headaches.md"
+    },
+    {
       "basename": "Vasculitides",
       "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230623160626",
       "path": "appendix/Pasted image 20230623160626.png"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     }
   ],
   "omittedPaths": [],
