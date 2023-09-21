@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Myasthenia gravis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md"
+    },
+    {
       "basename": "Headaches",
       "path": "USMLE/Neurology/Headaches.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Polycystic kidney disease",
       "path": "USMLE/Renal/Polycystic kidney disease.md"
-    },
-    {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
     }
   ],
   "omittedPaths": [],
