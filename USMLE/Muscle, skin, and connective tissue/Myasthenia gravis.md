@@ -20,4 +20,6 @@ Associated with [[Thymoma]].
 # Comparison of Myasthenia gravis and LEMS
 ![[Pasted image 20230921164528.png]]
 >[!tip] 
-> 1. 
+> 1. Extraocular muscles: move frequently, so they are first affected.
+> 2. MG: Repeated nerve stimulation → ↓ ACh release → improved symptoms
+> 3. LEMS: More depolarization → more ACh release → improved symptoms
