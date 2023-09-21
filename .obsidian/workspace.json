@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "USMLE/Neurology/Headaches.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "USMLE/Neurology/Headaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "USMLE/Neurology/Headaches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md"
+                "file": "USMLE/Neurology/Headaches.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230921144724.png",
+    "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
     "USMLE/Biochemistry/Untitled.loom",
@@ -258,8 +260,6 @@
     "USMLE/Pharmacology/Muscarinic antagonists.md",
     "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Renal/Membranous nephropathy.md",
-    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
-    "USMLE/Pathology/Amyloidosis.md",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
     "USMLE/Pathology",
