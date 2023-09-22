@@ -4714,6 +4714,7 @@ iht
 iph
 iGH
 inversus
+improved
 general
 giving
 generation
@@ -5980,6 +5981,7 @@ mFq
 man
 microtubules
 memorize
+move
 Sinus
 ST
 Segment
@@ -7182,6 +7184,7 @@ AWO
 ASuCx
 AJh
 AdO
+ACh
 Orthodromic
 On
 Often
@@ -18836,6 +18839,7 @@ EgL
 EIX
 EXu
 EbWy
+Extraocular
 LEFT
 Lengthening
 Left
@@ -19359,6 +19363,7 @@ LSy
 Lfp
 LKh
 LNKy
+LEMS
 Hyperkalemia
 HIV
 HCV
@@ -23043,6 +23048,7 @@ Cfu
 CxQ
 CYd
 Conductive
+Comparison
 Right
 Retrograde
 Rates
