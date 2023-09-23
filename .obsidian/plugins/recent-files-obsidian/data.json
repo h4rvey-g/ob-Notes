@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alopecia",
+      "path": "USMLE/Muscle, skin, and connective tissue/Alopecia.md"
+    },
+    {
       "basename": "Amyotrophic lateral sclerosis",
       "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rapidly progressive glomerulonephritis",
       "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
-    },
-    {
-      "basename": "IgA nephropathy",
-      "path": "USMLE/Renal/IgA nephropathy.md"
     }
   ],
   "omittedPaths": [],

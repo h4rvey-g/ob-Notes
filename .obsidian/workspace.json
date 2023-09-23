@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md"
               }
             }
           }
@@ -221,12 +221,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "appendix/Pasted image 20230923154726.png",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "USMLE/单抗记忆.md",
+    "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
     "USMLE/Blood/Primary myelofibrosis.md",
+    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "USMLE/单抗记忆.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
@@ -258,8 +260,6 @@
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
-    "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/Pharmacology/Muscarinic antagonists.md",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
     "USMLE/Pathology",

@@ -1339,6 +1339,9 @@ dysmotile
 dynein
 dextrocardia
 dine
+difficulties
+dysarthria
+dysphagia
 of
 over
 originate
@@ -1902,6 +1905,7 @@ oCy
 otC
 olG
 otitis
+objects
 regular
 reentrant
 retrograde
@@ -3257,6 +3261,7 @@ nvR
 nÖ
 neD
 numFrozenColumns
+neurodegenerative
 tachycardia
 tract
 the
@@ -3954,6 +3959,7 @@ tOn
 tyt
 tubes
 thinking
+thenar
 in
 includes
 involving
@@ -4715,6 +4721,7 @@ iph
 iGH
 inversus
 improved
+improves
 general
 giving
 generation
@@ -5239,6 +5246,8 @@ gPq
 ggp
 gNb
 get
+grasping
+glutamate
 major
 mechanisms
 mark
@@ -5982,6 +5991,7 @@ man
 microtubules
 memorize
 move
+meet
 Sinus
 ST
 Segment
@@ -6576,6 +6586,7 @@ Scx
 SSW
 SMZC
 SUd
+Split
 AVNRT
 Atrial
 AVRT
@@ -7185,6 +7196,7 @@ ASuCx
 AJh
 AdO
 ACh
+ALS
 Orthodromic
 On
 Often
@@ -8398,6 +8410,8 @@ aKN
 ana
 aZm
 arteritis
+acetylcholinesterase
+average
 ventricular
 varying
 vaccines
@@ -8991,6 +9005,7 @@ vui
 vWH
 vsb
 vlH
+vocal
 conduction
 concealed
 complex
@@ -9784,6 +9799,8 @@ ccv
 crn
 cut
 cilia
+characteristics
+constipation
 bypass
 block
 background
@@ -10409,6 +10426,8 @@ bgP
 bae
 bPx
 bxrt
+bulbar
+blocker
 flutter
 from
 focus
@@ -11060,6 +11079,7 @@ fhw
 fSPChE
 flagella
 fallopian
+frontotemporal
 with
 wave
 which
@@ -12090,6 +12110,7 @@ WtgE
 Whk
 WkSYV
 Wegener
+Weakness
 you
 young
 ybif
@@ -13418,6 +13439,9 @@ syW
 settings
 situs
 service
+subtle
+stiffness
+survival
 QRS
 QT
 QDQ
@@ -14529,6 +14553,7 @@ louv
 lCs
 lxY
 len
+leg
 Multifocal
 Mild
 Moderate
@@ -15130,6 +15155,7 @@ MhWw
 MKa
 MYc
 MXmm
+Mean
 Differentiate
 Drugs
 DDx
@@ -15737,6 +15763,7 @@ DNlu
 DIc
 Dtx
 Displaced
+Dysphagia
 FFF
 Fib
 Fi
@@ -16253,6 +16280,7 @@ Fud
 FdP
 Fwt
 Fsr
+Fasciculations
 In
 It
 Intraventricular
@@ -17582,6 +17610,8 @@ Pdn
 PTw
 Pwd
 PHe
+Pseudobulbar
+Prolongs
 ectopic
 elevation
 early
@@ -18274,6 +18304,8 @@ epi
 eQu
 ePh
 eRWl
+eminence
+excitotoxicity
 Early
 Elevation
 Etiology
@@ -18840,6 +18872,7 @@ EIX
 EXu
 EbWy
 Extraocular
+Edaravone
 LEFT
 Lengthening
 Left
@@ -19364,6 +19397,8 @@ Lfp
 LKh
 LNKy
 LEMS
+LMN
+Life
 Hyperkalemia
 HIV
 HCV
@@ -20589,6 +20624,8 @@ hDq
 hxw
 hmR
 hearing
+highly
+horn
 peaked
 pattern
 precordial
@@ -21414,6 +21451,9 @@ pollicis
 pSE
 pch
 ptqX
+progresses
+pseudobulbar
+paralysis
 Unusual
 Usually
 Upc
@@ -21928,6 +21968,7 @@ UDdN
 UZop
 UNM
 UwJN
+UMN
 Bundle
 Branch
 Block
@@ -22469,6 +22510,7 @@ BYm
 BQk
 BWZ
 Bdp
+Bulbar
 Characteristic
 CLL
 Clinical
@@ -23049,6 +23091,8 @@ CxQ
 CYd
 Conductive
 Comparison
+Constant
+Cognitive
 Right
 Retrograde
 Rates
@@ -23629,6 +23673,7 @@ Rgf
 RHye
 RGq
 Rvvgn
+Riluzole
 Voltage
 VFV
 VoNW
