@@ -7,7 +7,7 @@ share: true
 ---
 # Definition
 - Dermatomyositis (DM): an inflammatory myopathy characterized by <span style="background:rgba(240, 200, 0, 0.2)">progressive symmetrical proximal muscle weakness and distinctive skin findings</span>
-- Polymyositis (PM): an inflammatory myopathy affecting the proximal skeletal muscles, with evidence of elevated CK and myositis on EMG and biopsy in the absence of any of the characteristic findings of the other IIM (a rare diagnosis of exclusion)
+- Polymyositis (PM): an inflammatory myopathy <span style="background:rgba(240, 200, 0, 0.2)">affecting the proximal skeletal muscles</span>, with evidence of elevated CK and myositis on EMG and biopsy in the absence of any of the characteristic findings of the other IIM (a rare diagnosis of exclusion)
 
 ---
 # Epidemiology
@@ -15,7 +15,8 @@ share: true
 
 ---
 # Etiology
-
+- Polymyositis (PM): <span style="background:rgba(240, 200, 0, 0.2)">cell-mediated cytotoxicity</span> against unidentified skeletal muscle antigens, chiefly affecting the endomysium
+- Dermatomyositis (DM): idiopathic or paraneoplastic <span style="background:rgba(240, 200, 0, 0.2)">antibody-mediated </span>vasculopathy, associated with malignancies (non-Hodgkin lymphoma; lung, stomach, colorectal, or ovarian cancer )
 
 ---
 # Pathophysiology
@@ -23,14 +24,14 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+![[Pasted image 20230923164647.png]]
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
