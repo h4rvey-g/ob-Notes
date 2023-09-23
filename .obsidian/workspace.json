@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Chemotherapeutic agents.md",
+                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Chemotherapeutic agents.md",
+                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Chemotherapeutic agents.md",
+                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Chemotherapeutic agents.md"
+                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
               }
             }
           }
@@ -224,9 +224,10 @@
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
     "USMLE/单抗记忆.md",
+    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "USMLE/Blood/Primary myelofibrosis.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "appendix/Pasted image 20230921164528.png",
     "USMLE/Neurology/Headaches.md",
@@ -259,7 +260,6 @@
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Pharmacology/Muscarinic antagonists.md",
     "USMLE/Neurology/Multiple sclerosis.md",
-    "USMLE/Renal/Membranous nephropathy.md",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
     "USMLE/Pathology",
