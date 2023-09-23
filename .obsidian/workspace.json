@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Alopecia.md"
+                "file": "USMLE/Neurology/Multiple sclerosis.md"
               }
             }
           }
@@ -223,9 +223,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230923161821.png",
+    "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
     "appendix/Pasted image 20230923154726.png",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
     "USMLE/Blood/Primary myelofibrosis.md",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "USMLE/单抗记忆.md",
@@ -251,7 +252,6 @@
     "USMLE/Renal/Potter sequence.md",
     "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
     "appendix/Pasted image 20230920144032.png",
-    "appendix/Pasted image 20230919173734.png",
     "USMLE/GI/Toxic megacolon.md",
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/Lab Values.md",
