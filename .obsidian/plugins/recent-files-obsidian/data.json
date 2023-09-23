@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Renal tubular disorders",
+      "path": "USMLE/Renal/Renal tubular disorders.md"
+    },
+    {
+      "basename": "Liddle syndrome",
+      "path": "USMLE/Renal/Liddle syndrome.md"
+    },
+    {
       "basename": "Acute coronary syndrome",
       "path": "USMLE/Cardiology/Acute coronary syndrome.md"
     },
@@ -153,10 +161,6 @@
       "path": "USMLE/Renal/Serum anion gap.md"
     },
     {
-      "basename": "Renal tubular disorders",
-      "path": "USMLE/Renal/Renal tubular disorders.md"
-    },
-    {
       "basename": "Tubulointerstitial diseases",
       "path": "USMLE/Renal/Tubulointerstitial diseases.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Renal physiology",
       "path": "USMLE/Renal/Renal physiology.md"
-    },
-    {
-      "basename": "Atrial flutter",
-      "path": "USMLE/Cardiology/Atrial flutter.md"
     }
   ],
   "omittedPaths": [],

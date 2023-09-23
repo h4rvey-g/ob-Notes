@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Renal/Renal tubular disorders.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Renal/Renal tubular disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "file": "USMLE/Renal/Renal tubular disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Acute coronary syndrome.md"
+                "file": "USMLE/Renal/Renal tubular disorders.md"
               }
             }
           }
@@ -223,6 +223,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Renal/Liddle syndrome.md",
+    "appendix/Pasted image 20230923215701.png",
+    "USMLE/Renal/Renal tubular disorders.md",
+    "USMLE/Cardiology/Acute coronary syndrome.md",
     "USMLE/Renal/Diabetic kidney disease.md",
     "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
     "appendix/Pasted image 20230923164647.png",
@@ -248,7 +252,6 @@
     "appendix/Pasted image 20230920172031.png",
     "appendix/Pasted image 20230920170844.png",
     "appendix/Pasted image 20230920170116.png",
-    "appendix/Pasted image 20230920170030.png",
     "USMLE/Reproductive/Polyhydramnios.md",
     "USMLE/Reproductive/Oligohydramnios.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
@@ -256,10 +259,6 @@
     "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md",
     "USMLE/GI/Toxic megacolon.md",
     "USMLE/GI/Ulcerative colitis.md",
-    "USMLE/Lab Values.md",
-    "USMLE/Neurology/Essential tremor.md",
-    "USMLE/Renal/Immunofluorescence.md",
-    "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
     "USMLE/Pathology",
