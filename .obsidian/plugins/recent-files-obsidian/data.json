@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Amyotrophic lateral sclerosis",
+      "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
+    },
+    {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "IgA nephropathy",
       "path": "USMLE/Renal/IgA nephropathy.md"
-    },
-    {
-      "basename": "Polycystic kidney disease",
-      "path": "USMLE/Renal/Polycystic kidney disease.md"
     }
   ],
   "omittedPaths": [],

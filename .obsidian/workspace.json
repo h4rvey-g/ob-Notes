@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-                "mode": "preview",
+                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "91d31d5696a88195",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+                "file": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
               }
             }
           }
@@ -232,10 +221,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "91d31d5696a88195",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/单抗记忆.md",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+    "USMLE/单抗记忆.md",
     "USMLE/Blood/Primary myelofibrosis.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
@@ -270,7 +260,6 @@
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Pharmacology/Muscarinic antagonists.md",
-    "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
     "USMLE/Pathology",
