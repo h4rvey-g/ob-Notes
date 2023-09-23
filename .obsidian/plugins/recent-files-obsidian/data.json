@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Idiopathic inflammatory myopathies",
+      "path": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md"
+    },
+    {
       "basename": "Multiple sclerosis",
       "path": "USMLE/Neurology/Multiple sclerosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Distal renal tubular acidosis (type 1)",
       "path": "USMLE/Renal/Distal renal tubular acidosis (type 1).md"
-    },
-    {
-      "basename": "Rapidly progressive glomerulonephritis",
-      "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     }
   ],
   "omittedPaths": [],

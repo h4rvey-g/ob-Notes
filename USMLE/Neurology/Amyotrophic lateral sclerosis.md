@@ -38,6 +38,10 @@ Classically affects the entire motor neuron system at two or more levels (both u
 	- Dysphagia due to bulbar weakness or pseudobulbar palsy
 
 ---
+# Diagnosis
+- Electromyography
+	- Denervation: fibrillations, positive sharp waves, and large amplitudes
+	- Fasciculations
 # Differential Diagnosis
 - [[Myasthenia gravis]]
 	- Weakness improves with acetylcholinesterase inhibitors
