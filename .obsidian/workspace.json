@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
-                "mode": "source",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md"
+                "file": "USMLE/Cardiology/Acute coronary syndrome.md"
               }
             }
           }
@@ -223,9 +223,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Renal/Diabetic kidney disease.md",
+    "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
     "appendix/Pasted image 20230923164647.png",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
     "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
     "USMLE/Neurology/Multiple sclerosis.md",
     "appendix/Pasted image 20230923161821.png",
@@ -248,7 +249,6 @@
     "appendix/Pasted image 20230920170844.png",
     "appendix/Pasted image 20230920170116.png",
     "appendix/Pasted image 20230920170030.png",
-    "appendix/Pasted image 20230920162430.png",
     "USMLE/Reproductive/Polyhydramnios.md",
     "USMLE/Reproductive/Oligohydramnios.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",

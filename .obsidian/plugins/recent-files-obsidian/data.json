@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute coronary syndrome",
+      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
+    },
+    {
+      "basename": "Diabetic kidney disease",
+      "path": "USMLE/Renal/Diabetic kidney disease.md"
+    },
+    {
       "basename": "Idiopathic inflammatory myopathies",
       "path": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Atrial flutter",
       "path": "USMLE/Cardiology/Atrial flutter.md"
-    },
-    {
-      "basename": "Proximal renal tubular acidosis (type 2)",
-      "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
-    },
-    {
-      "basename": "Distal renal tubular acidosis (type 1)",
-      "path": "USMLE/Renal/Distal renal tubular acidosis (type 1).md"
     }
   ],
   "omittedPaths": [],
