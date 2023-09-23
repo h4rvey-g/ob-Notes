@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91d31d5696a88195",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +232,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3c22257a9d627704",
+  "active": "91d31d5696a88195",
   "lastOpenFiles": [
     "USMLE/单抗记忆.md",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
