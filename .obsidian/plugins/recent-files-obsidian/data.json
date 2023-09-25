@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Benign prostatic hyperplasia",
+      "path": "USMLE/Renal/Benign prostatic hyperplasia.md"
+    },
+    {
       "basename": "Headaches",
       "path": "USMLE/Neurology/Headaches.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Minimal change disease",
       "path": "USMLE/Renal/Minimal change disease.md"
-    },
-    {
-      "basename": "Renal physiology",
-      "path": "USMLE/Renal/Renal physiology.md"
     }
   ],
   "omittedPaths": [],
