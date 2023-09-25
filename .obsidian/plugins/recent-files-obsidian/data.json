@@ -5,6 +5,10 @@
       "path": "USMLE/Renal/Benign prostatic hyperplasia.md"
     },
     {
+      "basename": "Prostate-specific antigen",
+      "path": "USMLE/Renal/Prostate-specific antigen.md"
+    },
+    {
       "basename": "Headaches",
       "path": "USMLE/Neurology/Headaches.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fractional excretion of sodium",
       "path": "USMLE/Renal/Fractional excretion of sodium.md"
-    },
-    {
-      "basename": "Minimal change disease",
-      "path": "USMLE/Renal/Minimal change disease.md"
     }
   ],
   "omittedPaths": [],
