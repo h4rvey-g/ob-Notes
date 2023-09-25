@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Reactive arthritis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md"
+    },
+    {
       "basename": "Benign prostatic hyperplasia",
       "path": "USMLE/Renal/Benign prostatic hyperplasia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Renal papillary necrosis",
       "path": "USMLE/Renal/Renal papillary necrosis.md"
-    },
-    {
-      "basename": "Fractional excretion of sodium",
-      "path": "USMLE/Renal/Fractional excretion of sodium.md"
     }
   ],
   "omittedPaths": [],
