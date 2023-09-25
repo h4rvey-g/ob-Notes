@@ -33,6 +33,12 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## Pharmacological therapy
+### 5-alpha reductase inhibitors (5-ARIs)
+- Inhibition of 5-alpha reductase → ↓ conversion of testosterone to DHT → ↓ intraprostatic DHT levels → ↓ prostatic growth and ↑ prostatic apoptosis and involution → improvement of LUTS![[Pasted image 20230925162608.png]]
+- Adverse effects: sexual dysfunction (e.g., erectile dysfunction, decreased libido, ejaculatory dysfunction), gynecomastia
+- Finasteride, Dutasteride
+>[!tip] 
+>-steride (“testosterone reductase inhibitor”)
 
 ---
