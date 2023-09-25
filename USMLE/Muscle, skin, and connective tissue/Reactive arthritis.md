@@ -11,7 +11,9 @@ share: true
 
 ---
 # Etiology
-<% tp.file.cursor() %>
+Postinfectious autoimmune disorder  [4]
+- Posturethritis: after infection with Chlamydia (common) or Ureaplasma urealyticum
+- Postenteritis: after infection with Shigella, Yersinia, Salmonella, or Campylobacter
 
 ---
 # Pathophysiology
