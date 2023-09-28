@@ -45,6 +45,8 @@ share: true
 ---
 # Differential Diagnostics
 ![[Pasted image 20230928150707.png]]
+![[Pasted image 20230928151636.png]]
+![[Pasted image 20230928151653.png]]
 
 ---
 # Treatment
