@@ -11,7 +11,7 @@ share: true
 
 ---
 # Etiology
-Postinfectious autoimmune disorder  [4]
+<span style="background:rgba(240, 200, 0, 0.2)">Postinfectious autoimmune disorder</span>  [4]
 - Posturethritis: after infection with <span style="background:rgba(240, 200, 0, 0.2)">Chlamydia (common)</span> or Ureaplasma urealyticum
 - Postenteritis: after infection with Shigella, Yersinia, Salmonella, or Campylobacter
 
@@ -43,12 +43,12 @@ Postinfectious autoimmune disorder  [4]
 >Classic triad of reactive arthritis (seen in approximately one-third of affected individuals): “can't see (conjunctivitis), can't pee (urethritis), can't climb a tree (arthritis)”.
 
 ---
-# Diagnostics
-
+# Differential Diagnostics
+![[Pasted image 20230928150707.png]]
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
 # Prognosis
