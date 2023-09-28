@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Achondroplasia",
+      "path": "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md"
+    },
+    {
       "basename": "Idiopathic inflammatory myopathies",
       "path": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Crystalline nephropathies",
       "path": "USMLE/Renal/Crystalline nephropathies.md"
-    },
-    {
-      "basename": "Acute tubulointerstitial nephritis",
-      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
     }
   ],
   "omittedPaths": [],
