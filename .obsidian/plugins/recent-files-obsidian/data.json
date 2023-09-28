@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Osteoarthritis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+    },
+    {
+      "basename": "Ulcerative colitis",
+      "path": "USMLE/GI/Ulcerative colitis.md"
+    },
+    {
       "basename": "Congestive heart failure",
       "path": "USMLE/Cardiology/Congestive heart failure.md"
     },
@@ -117,10 +125,6 @@
       "path": "USMLE/GI/Toxic megacolon.md"
     },
     {
-      "basename": "Ulcerative colitis",
-      "path": "USMLE/GI/Ulcerative colitis.md"
-    },
-    {
       "basename": "Pasted image 20230909221658",
       "path": "appendix/Pasted image 20230909221658.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Urine osmolality",
       "path": "USMLE/Renal/Urine osmolality.md"
-    },
-    {
-      "basename": "Diagnostic evaluation of the kidney and urinary tract",
-      "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
     }
   ],
   "omittedPaths": [],
