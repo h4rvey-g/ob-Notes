@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Congestive heart failure",
+      "path": "USMLE/Cardiology/Congestive heart failure.md"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Diagnostic evaluation of the kidney and urinary tract",
       "path": "USMLE/Renal/Diagnostic evaluation of the kidney and urinary tract.md"
-    },
-    {
-      "basename": "Renal papillary necrosis",
-      "path": "USMLE/Renal/Renal papillary necrosis.md"
     }
   ],
   "omittedPaths": [],
