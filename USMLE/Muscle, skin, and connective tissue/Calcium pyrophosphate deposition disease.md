@@ -45,7 +45,15 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 
 ---
 # Diagnostics
-
+## Arthrocentesis and synovial fluid analysis (SFA)
+- Polarized light microscopy (with a red filter) appearance of CPP crystals
+	- Rhomboid-shaped crystals that are weakly positively birefringent
+	- Crystals appear blue when their optical axis is oriented parallel to the polarizer.
+	- Crystals appear yellow when their axis is perpendicular to the polarizer. 
+- Cell count: WBC > 2000/μL with > 50% neutrophils
+## Imaging
+- X-ray of the affected joint(s)
+	- Chondrocalcinosis: calcification of cartilage in the affected joints
 
 ---
 # Treatment

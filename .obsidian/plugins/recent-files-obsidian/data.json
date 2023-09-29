@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Osteoarthritis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+    },
+    {
+      "basename": "Pasted image 20230928160542",
+      "path": "appendix/Pasted image 20230928160542.png"
+    },
+    {
+      "basename": "Reactive arthritis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md"
+    },
+    {
       "basename": "Calcium pyrophosphate deposition disease",
       "path": "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md"
     },
@@ -45,10 +57,6 @@
       "path": "appendix/Pasted image 20230722174657.png"
     },
     {
-      "basename": "Osteoarthritis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
-    },
-    {
       "basename": "Ulcerative colitis",
       "path": "USMLE/GI/Ulcerative colitis.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Reactive arthritis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md"
     },
     {
       "basename": "Benign prostatic hyperplasia",
@@ -195,10 +199,6 @@
     {
       "basename": "Muscarinic antagonists",
       "path": "USMLE/Pharmacology/Muscarinic antagonists.md"
-    },
-    {
-      "basename": "Urinary incontinence",
-      "path": "USMLE/Renal/Urinary incontinence.md"
     }
   ],
   "omittedPaths": [],
