@@ -20,7 +20,7 @@ share: true
 ---
 # Clinical features
 - Stature 
-	- Disproportionate short stature 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Disproportionate short stature </span>
 	- Normal-sized torso
 	- Short, plump extremities
 - Craniofacial abnormalities
@@ -33,7 +33,7 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment

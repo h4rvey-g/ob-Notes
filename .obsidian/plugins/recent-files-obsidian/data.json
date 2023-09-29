@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Osteogenesis imperfecta",
+      "path": "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md"
+    },
+    {
       "basename": "Achondroplasia",
       "path": "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tubulointerstitial diseases",
       "path": "USMLE/Renal/Tubulointerstitial diseases.md"
-    },
-    {
-      "basename": "Crystalline nephropathies",
-      "path": "USMLE/Renal/Crystalline nephropathies.md"
     }
   ],
   "omittedPaths": [],
