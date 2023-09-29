@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Arthrocentesis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md"
+    },
+    {
       "basename": "Osteoarthritis",
       "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Membranous nephropathy",
       "path": "USMLE/Renal/Membranous nephropathy.md"
-    },
-    {
-      "basename": "Muscarinic antagonists",
-      "path": "USMLE/Pharmacology/Muscarinic antagonists.md"
     }
   ],
   "omittedPaths": [],

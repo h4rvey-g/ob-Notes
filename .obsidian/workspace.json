@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md"
               }
             }
           }
@@ -222,9 +222,12 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "appendix/Pasted image 20230928160542.png",
-    "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+    "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
+    "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
+    "appendix/Pasted image 20230929165248.png",
+    "appendix/Pasted image 20230929165241.png",
+    "appendix/Pasted image 20230928160542.png",
     "appendix/Pasted image 20230928150707.png",
     "appendix/Pasted image 20230928155850.png",
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
@@ -240,9 +243,6 @@
     "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
     "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "appendix/Pasted image 20230921164528.png",
-    "appendix/Pasted image 20230722174657.png",
-    "appendix/Pasted image 20230928161015.png",
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/Cardiology/Congestive heart failure.md",
     "USMLE/Lab Values.md",
@@ -257,7 +257,6 @@
     "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Blood/Primary myelofibrosis.md",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "USMLE/单抗记忆.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",

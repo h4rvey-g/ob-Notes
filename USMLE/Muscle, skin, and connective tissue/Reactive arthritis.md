@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-09-25 16:54
 modified: 2023-09-25 16:54
-aliases: Untitled
+aliases:
+  - RA
 share: true
 ---
 # Epidemiology
