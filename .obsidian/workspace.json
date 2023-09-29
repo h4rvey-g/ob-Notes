@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
     "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
     "appendix/Pasted image 20230928173131.png",
     "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
