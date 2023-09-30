@@ -197,7 +197,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,7 +221,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3c22257a9d627704",
+  "active": "20e46837baa36f69",
   "lastOpenFiles": [
     "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
