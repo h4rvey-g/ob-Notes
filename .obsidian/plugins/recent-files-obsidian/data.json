@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin C deficiency",
+      "path": "USMLE/Blood/Vitamin C deficiency.md"
+    },
+    {
+      "basename": "Vitamin C",
+      "path": "USMLE/Biochemistry/Vitamin C.md"
+    },
+    {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
+    },
+    {
+      "basename": "Arthritis-dermatitis syndrome",
+      "path": "USMLE/Infective disease/Arthritis-dermatitis syndrome.md"
+    },
+    {
+      "basename": "Pasted image 20230928150707",
+      "path": "appendix/Pasted image 20230928150707.png"
+    },
+    {
+      "basename": "Pasted image 20230805174338",
+      "path": "appendix/Pasted image 20230805174338.png"
+    },
+    {
       "basename": "Osteoarthritis",
       "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "Pasted image 20230928151653",
       "path": "appendix/Pasted image 20230928151653.png"
-    },
-    {
-      "basename": "Nephrolithiasis",
-      "path": "USMLE/Renal/Nephrolithiasis.md"
     },
     {
       "basename": "Osteogenesis imperfecta",
@@ -179,26 +199,6 @@
     {
       "basename": "Immunofluorescence",
       "path": "USMLE/Renal/Immunofluorescence.md"
-    },
-    {
-      "basename": "Poststreptococcal glomerulonephritis",
-      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
-    },
-    {
-      "basename": "Nephritic syndrome",
-      "path": "USMLE/Renal/Nephritic syndrome.md"
-    },
-    {
-      "basename": "Amyloidosis",
-      "path": "USMLE/Pathology/Amyloidosis.md"
-    },
-    {
-      "basename": "Diffuse proliferative glomerulonephritis",
-      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
-    },
-    {
-      "basename": "Membranous nephropathy",
-      "path": "USMLE/Renal/Membranous nephropathy.md"
     }
   ],
   "omittedPaths": [],
