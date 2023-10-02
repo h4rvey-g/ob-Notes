@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Vitamin C deficiency.md",
-                "mode": "preview",
+                "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/Blood/Vitamin C deficiency.md",
+            "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/Blood/Vitamin C deficiency.md",
+            "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/Blood/Vitamin C deficiency.md"
+            "file": "USMLE/Psychiatry/Shaken baby syndrome.md"
           }
         }
       },
@@ -180,9 +180,14 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231002103937.png",
+    "USMLE/Psychiatry/Shaken baby syndrome.md",
+    "USMLE/Psychiatry/Shaken baby syndrome.md",
+    "USMLE/Blood/Osteopetrosis.md",
+    "USMLE/Psychiatry",
+    "USMLE/Blood/Vitamin C deficiency.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/Blood/Vitamin C deficiency.md",
     "USMLE/Infective disease/Arthritis-dermatitis syndrome.md",
     "appendix/Pasted image 20230928150707.png",
     "appendix/Pasted image 20230805174338.png",

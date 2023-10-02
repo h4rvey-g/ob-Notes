@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Shaken baby syndrome",
+      "path": "USMLE/Psychiatry/Shaken baby syndrome.md"
+    },
+    {
+      "basename": "Osteopetrosis",
+      "path": "USMLE/Blood/Osteopetrosis.md"
+    },
+    {
       "basename": "Vitamin C deficiency",
       "path": "USMLE/Blood/Vitamin C deficiency.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Essential tremor",
       "path": "USMLE/Neurology/Essential tremor.md"
-    },
-    {
-      "basename": "Pasted image 20230909215738",
-      "path": "appendix/Pasted image 20230909215738.png"
-    },
-    {
-      "basename": "Immunofluorescence",
-      "path": "USMLE/Renal/Immunofluorescence.md"
     }
   ],
   "omittedPaths": [],
