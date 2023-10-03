@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
-                "mode": "preview",
+                "file": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md"
+                "file": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Endocrine/Hyperparathyroidism.md",
+    "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
     "appendix/Pasted image 20231003162733.png",
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
@@ -230,7 +232,6 @@
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Renal/Renal papillary necrosis.md",
     "USMLE/Renal/Tubulointerstitial diseases.md",
-    "USMLE/Endocrine/Hyperparathyroidism.md",
     "USMLE/Psychiatry/Shaken baby syndrome.md",
     "USMLE/Endocrine",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
@@ -251,7 +252,6 @@
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md",
     "appendix/Pasted image 20230929144728.png",
-    "appendix/Pasted image 20230929144322.png",
     "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
     "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
     "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",

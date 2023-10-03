@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Poliomyelitis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md"
+    },
+    {
       "basename": "Hyperparathyroidism",
       "path": "USMLE/Endocrine/Hyperparathyroidism.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nephritic syndrome",
       "path": "USMLE/Renal/Nephritic syndrome.md"
-    },
-    {
-      "basename": "Amyloidosis",
-      "path": "USMLE/Pathology/Amyloidosis.md"
     }
   ],
   "omittedPaths": [],
