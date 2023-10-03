@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c78f94aca46db10",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +232,7 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "20e46837baa36f69",
+  "active": "1c78f94aca46db10",
   "lastOpenFiles": [
     "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
