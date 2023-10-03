@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
       "basename": "Poliomyelitis",
       "path": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
       "basename": "Bronchiectasis",
