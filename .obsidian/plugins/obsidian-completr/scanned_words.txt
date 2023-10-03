@@ -674,6 +674,7 @@ Tvu
 Tcx
 TTTTWW
 Tqq
+Tense
 differentials
 differential
 diagnosis
@@ -2961,6 +2962,7 @@ ruwCUw
 rPn
 rQJ
 rmsr
+rotational
 narrow
 negative
 not
@@ -5259,6 +5261,8 @@ icF
 iuy
 ilf
 ioQ
+implausible
+interface
 general
 giving
 generation
@@ -5858,6 +5862,7 @@ gWu
 gYtS
 gffbB
 gDG
+grey
 major
 mechanisms
 mark
@@ -6658,6 +6663,8 @@ mJkB
 mDj
 mlHW
 mZe
+mortality
+matter
 Sinus
 ST
 Segment
@@ -7320,6 +7327,9 @@ SKQ
 SUubU
 SAd
 SaQ
+Shaking
+Seizures
+Subdural
 AVNRT
 Atrial
 AVRT
@@ -10022,6 +10032,8 @@ vKVy
 vVm
 vAf
 vMJJ
+violent
+veins
 conduction
 concealed
 complex
@@ -10899,6 +10911,8 @@ cIgR
 cDt
 cfM
 cbbf
+child
+caretakers
 bypass
 block
 background
@@ -11614,6 +11628,8 @@ bCl
 baf
 bdu
 bCU
+bridging
+blurring
 flutter
 from
 focus
@@ -12334,6 +12350,9 @@ fONN
 fbw
 fZF
 fGU
+force
+fontanelle
+fractures
 with
 wave
 which
@@ -14970,6 +14989,9 @@ srw
 srW
 sJmF
 sEMH
+shearing
+shaking
+subdural
 QRS
 QT
 QDQ
@@ -18969,6 +18991,9 @@ IMIJ
 IGc
 IlB
 IDATIII
+Inconsistent
+Injuries
+Irritability
 PACs
 Primary
 Pathophysiology
@@ -20457,6 +20482,8 @@ eoZ
 eHo
 eYo
 ett
+evident
+entirely
 Early
 Elevation
 Etiology
@@ -23061,6 +23088,11 @@ hSS
 hnb
 hTF
 hWx
+hematoma
+hypoxia
+hardly
+hemorrhages
+hematomas
 peaked
 pattern
 precordial
@@ -23965,6 +23997,8 @@ pSU
 pcv
 ppE
 pIj
+problems
+punctate
 Unusual
 Usually
 Upc
@@ -26463,6 +26497,10 @@ RJH
 RUM
 RWp
 RXeL
+Rotational
+Retinal
+Rib
+Reversal
 Voltage
 VFV
 VoNW
@@ -27055,6 +27093,7 @@ Vjk
 VXa
 VTa
 VAh
+Vomiting
 up
 unusual
 usually
