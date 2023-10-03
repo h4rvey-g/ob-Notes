@@ -2130,6 +2130,7 @@ occc
 oyV
 owd
 ouX
+osteoclasts
 regular
 reentrant
 retrograde
@@ -2963,6 +2964,7 @@ rPn
 rQJ
 rmsr
 rotational
+replacement
 narrow
 negative
 not
@@ -8506,6 +8508,8 @@ OJtO
 Oph
 OzA
 OYiu
+Osteitis
+OFC
 atrio
 and
 atrial
@@ -10913,6 +10917,9 @@ cfM
 cbbf
 child
 caretakers
+cystica
+calcified
+cortical
 bypass
 block
 background
@@ -12353,6 +12360,8 @@ fGU
 force
 fontanelle
 fractures
+fibrosa
+fibrous
 with
 wave
 which
@@ -14992,6 +15001,8 @@ sEMH
 shearing
 shaking
 subdural
+subperiosteal
+skull
 QRS
 QT
 QDQ
@@ -16246,6 +16257,7 @@ lUU
 lppZ
 lzj
 lMS
+ligand
 Multifocal
 Mild
 Moderate
@@ -23093,6 +23105,7 @@ hypoxia
 hardly
 hemorrhages
 hematomas
+hemosiderin
 peaked
 pattern
 precordial
@@ -23999,6 +24012,7 @@ ppE
 pIj
 problems
 punctate
+pepper
 Unusual
 Usually
 Upc
@@ -26501,6 +26515,7 @@ Rotational
 Retinal
 Rib
 Reversal
+RANK
 Voltage
 VFV
 VoNW

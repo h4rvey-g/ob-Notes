@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hyperparathyroidism",
+      "path": "USMLE/Endocrine/Hyperparathyroidism.md"
+    },
+    {
       "basename": "Shaken baby syndrome",
       "path": "USMLE/Psychiatry/Shaken baby syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Amyloidosis",
       "path": "USMLE/Pathology/Amyloidosis.md"
-    },
-    {
-      "basename": "Diffuse proliferative glomerulonephritis",
-      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
     }
   ],
   "omittedPaths": [],

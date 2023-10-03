@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
-                "mode": "source",
+                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
+                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
+                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Psychiatry/Shaken baby syndrome.md"
+                "file": "USMLE/Endocrine/Hyperparathyroidism.md"
               }
             }
           }
@@ -223,9 +223,18 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231003162733.png",
+    "USMLE/Renal/Immunofluorescence.md",
+    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Renal/Renal papillary necrosis.md",
+    "USMLE/Renal/Tubulointerstitial diseases.md",
+    "USMLE/Endocrine/Hyperparathyroidism.md",
+    "USMLE/Psychiatry/Shaken baby syndrome.md",
+    "USMLE/Endocrine",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
     "appendix/Pasted image 20231002103937.png",
-    "USMLE/Psychiatry/Shaken baby syndrome.md",
     "USMLE/Psychiatry",
     "USMLE/Infective disease/Arthritis-dermatitis syndrome.md",
     "USMLE/Blood/Osteopetrosis.md",
@@ -252,13 +261,6 @@
     "USMLE/Cardiology/Congestive heart failure.md",
     "USMLE/Lab Values.md",
     "USMLE/Renal/Benign prostatic hyperplasia.md",
-    "USMLE/Renal/Prostate-specific antigen.md",
-    "USMLE/Neurology/Headaches.md",
-    "USMLE/Renal/Renal tubular disorders.md",
-    "USMLE/Renal/Liddle syndrome.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Renal/Diabetic kidney disease.md",
-    "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
@@ -267,7 +269,6 @@
     "appendix/Untitled 2.loom",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",
-    "USMLE/Immunology",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
