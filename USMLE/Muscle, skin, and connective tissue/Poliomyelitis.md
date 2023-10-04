@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-10-03 17:18
 modified: 2023-10-03 17:18
-aliases: Untitled
+aliases:
+  - Polio
 share: true
 ---
 # Epidemiology
@@ -24,17 +25,32 @@ The virus replicates in the gastrointestinal tract (oropharynx and small intesti
 
 - Fever, malaise, headache, nausea
 - Severe back, neck, and muscle pain
-- Asymmetric acute flaccid paralysis worsens over hours to days
-	- Most commonly affects the leg muscles
+- <span style="background:rgba(240, 200, 0, 0.2)">Asymmetric acute flaccid paralysis worsens over hours to days</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Most commonly affects the leg muscles</span>
 	- Paralysis is usually more severe in proximal muscles than in distal muscles.
 	- Ascending paralysis with diaphragmatic involvement → respiratory failure
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+- Confirmatory test: PCR of CSF, stool, or oropharyngeal samples to test for poliovirus RNA  [8]
+- CSF will show:
+	- High protein levels
+	- Pleocytosis with either neutrophils (early infection) or lymphocytes (late infection)
+
+---
+# Differential Diagnosis
+- Guillain-Barré syndrome: <span style="background:rgba(240, 200, 0, 0.2)">Paralysis is typically symmetrical in Guillain-Barré syndrome. In addition, it would not manifest with CSF pleocytosis.</span>
+- Acute intermittent porphyria: may also present with muscle weakness and bulbar paralysis
+- Spinal muscular atrophy: Paralysis is typically symmetrical.
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+- Pain relief
+- Airway management and mechanical ventilation if needed
 
 ---
+# Complications
+- Post-polio syndrome (PPS) [7]
+	- Most frequent complication observed following poliovirus infection (up to 40% of survivors)
+	- Occurs decades after infection
+	- Manifests with progressive muscle weakness and pain

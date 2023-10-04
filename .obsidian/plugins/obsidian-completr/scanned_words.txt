@@ -1498,6 +1498,7 @@ dwl
 dnL
 dra
 dji
+diaphragmatic
 of
 over
 originate
@@ -2131,6 +2132,8 @@ oyV
 owd
 ouX
 osteoclasts
+oral
+oropharynx
 regular
 reentrant
 retrograde
@@ -2965,6 +2968,7 @@ rQJ
 rmsr
 rotational
 replacement
+replicates
 narrow
 negative
 not
@@ -3632,6 +3636,8 @@ nHq
 nUF
 nvzH
 nko
+neurons
+nausea
 tachycardia
 tract
 the
@@ -5265,6 +5271,9 @@ ilf
 ioQ
 implausible
 interface
+ingestion
+invasion
+infected
 general
 giving
 generation
@@ -8016,6 +8025,7 @@ Aba
 AJb
 ALO
 AUv
+Afghanistan
 Orthodromic
 On
 Often
@@ -8510,6 +8520,7 @@ OzA
 OYiu
 Osteitis
 OFC
+Over
 atrio
 and
 atrial
@@ -10038,6 +10049,7 @@ vAf
 vMJJ
 violent
 veins
+virus
 conduction
 concealed
 complex
@@ -12362,6 +12374,7 @@ fontanelle
 fractures
 fibrosa
 fibrous
+flaccid
 with
 wave
 which
@@ -12970,6 +12983,7 @@ wOn
 wBx
 wCf
 wUIQD
+worsens
 Whenever
 Widening
 William
@@ -19722,6 +19736,9 @@ PSc
 PSe
 PwY
 Pupp
+Poliovirus
+Pakistan
+Paralysis
 ectopic
 elevation
 early
@@ -20496,6 +20513,7 @@ eYo
 ett
 evident
 entirely
+endemic
 Early
 Elevation
 Etiology
@@ -24013,6 +24031,7 @@ pIj
 problems
 punctate
 pepper
+poliovirus
 Unusual
 Usually
 Upc
