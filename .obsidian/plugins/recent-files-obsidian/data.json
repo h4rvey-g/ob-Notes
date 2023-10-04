@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute pancreatitis",
+      "path": "USMLE/GI/Acute pancreatitis.md"
+    },
+    {
       "basename": "Acute respiratory distress syndrome",
       "path": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Essential tremor",
       "path": "USMLE/Neurology/Essential tremor.md"
-    },
-    {
-      "basename": "Pasted image 20230909215738",
-      "path": "appendix/Pasted image 20230909215738.png"
     }
   ],
   "omittedPaths": [],
