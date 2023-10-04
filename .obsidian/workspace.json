@@ -11,9 +11,11 @@
             "id": "3c22257a9d627704",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Pasted image 20230928155850.png"
+                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appendix/Pasted image 20230928155850.png",
+                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appendix/Pasted image 20230928155850.png",
+                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appendix/Pasted image 20230928155850.png"
+                "file": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
               }
             }
           }
@@ -221,6 +223,7 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230928155850.png",
     "USMLE/GI/Whipple disease.md",
     "appendix/Pasted image 20231004152409.png",
     "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
@@ -246,7 +249,6 @@
     "appendix/Pasted image 20230929165241.png",
     "appendix/Pasted image 20230928160542.png",
     "appendix/Pasted image 20230928150707.png",
-    "appendix/Pasted image 20230928155850.png",
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
     "appendix/Pasted image 20230928160644.png",
     "appendix/Pasted image 20230928151653.png",

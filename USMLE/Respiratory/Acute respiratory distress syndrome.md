@@ -28,11 +28,14 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 
 ---
 # Pathophysiology
-<% tp.file.cursor() %>
+
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Acute dyspnea
+- Tachypnea and tachycardia
+- Cyanosis
+- Diffuse crackles
 
 ---
 # Diagnostics
