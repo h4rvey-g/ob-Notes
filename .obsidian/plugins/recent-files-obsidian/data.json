@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Whipple disease",
+      "path": "USMLE/GI/Whipple disease.md"
+    },
+    {
       "basename": "Sarcoidosis",
       "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Poststreptococcal glomerulonephritis",
       "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
-    },
-    {
-      "basename": "Nephritic syndrome",
-      "path": "USMLE/Renal/Nephritic syndrome.md"
     }
   ],
   "omittedPaths": [],
