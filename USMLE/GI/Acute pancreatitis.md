@@ -10,7 +10,9 @@ share: true
 
 ---
 # Etiology
-
+- Biliary pancreatitis (∼ 40% of cases; mostly caused by <span style="background:rgba(240, 200, 0, 0.2)">gallstones</span>) 
+- <span style="background:rgba(240, 200, 0, 0.2)">Alcohol-induced</span> (∼ 20% of cases)
+- Idiopathic (∼ 25% of cases)
 
 ---
 # Pathophysiology
@@ -34,17 +36,26 @@ share: true
 	- Ileus with reduced bowel sounds and tympany on percussion
 	- Ascites
 	- Skin changes (rare) 
-		- Cullen sign: periumbilical ecchymosis and discoloration (bluish-red) 
-		- Grey Turner sign: flank ecchymosis with discoloration 
+		- Cullen sign: periumbilical ecchymosis and discoloration (bluish-red) ![[Pasted image 20231004171430.png]]
+		- Grey Turner sign: flank ecchymosis with discoloration ![[Pasted image 20231004171443.png]]
 		- Fox sign: ecchymosis over the inguinal ligament
+
+>[!tip] 
+>Circulating pancreatic enzymes cause swelling of the subcutaneous tissue and localized hemorrhages. These signs, though nonspecific, suggest retroperitoneal bleeding and are associated with a poor prognosis.
 - Pulmonary examination: signs of [[pleural effusion]] and/or [[Acute respiratory distress syndrome|ARDS]] may be present
+>[!tip] 
+>As the pancreas is a retroperitoneal organ, abdominal guarding may not be present with the typical hard rigidity seen in inflammation of intraperitoneal organs. Instead, the abdomen is distended and elastic on palpation.
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+## Diagnostic criteria for acute pancreatitis
+Two of the three following criteria should be met for a diagnosis of acute pancreatitis to be made. 
+- Characteristic abdominal pain
+- ↑ Serum pancreatic enzymes: lipase or amylase ≥ 3× ULN
+- Characteristic findings of acute pancreatitis on cross-sectional imaging (e.g., contrast-enhanced CT abdomen)
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
