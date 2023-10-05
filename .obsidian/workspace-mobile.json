@@ -11,11 +11,9 @@
             "id": "6a783152b61b4f52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20230910173723.png"
               }
             }
           }
@@ -101,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
+            "file": "appendix/Pasted image 20230910173723.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/Psychiatry/Shaken baby syndrome.md",
+            "file": "appendix/Pasted image 20230910173723.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/Psychiatry/Shaken baby syndrome.md"
+            "file": "appendix/Pasted image 20230910173723.png"
           }
         }
       },
@@ -180,9 +178,9 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
+    "USMLE/单抗记忆.md",
+    "USMLE/Psychiatry/Shaken baby syndrome.md",
     "appendix/Pasted image 20231002103937.png",
-    "USMLE/Psychiatry/Shaken baby syndrome.md",
-    "USMLE/Psychiatry/Shaken baby syndrome.md",
     "USMLE/Blood/Osteopetrosis.md",
     "USMLE/Psychiatry",
     "USMLE/Blood/Vitamin C deficiency.md",
@@ -195,7 +193,6 @@
     "USMLE/Blood/Blood.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
-    "USMLE/单抗记忆.md",
     "USMLE/Respiratory"
   ]
 }
