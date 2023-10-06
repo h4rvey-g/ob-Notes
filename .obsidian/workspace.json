@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Endocrine/Neuroblastoma.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Endocrine/Neuroblastoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md",
+                "file": "USMLE/Endocrine/Neuroblastoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/ECGs.md"
+                "file": "USMLE/Endocrine/Neuroblastoma.md"
               }
             }
           }
@@ -223,6 +223,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231006152543.png",
+    "appendix/Pasted image 20231006151208.png",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Endocrine/Neuroblastoma.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230928160542.png",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
@@ -237,7 +241,6 @@
     "appendix/Pasted image 20231003162733.png",
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Renal/Renal papillary necrosis.md",
     "USMLE/Renal/Tubulointerstitial diseases.md",
@@ -252,14 +255,12 @@
     "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
     "appendix/Pasted image 20230929165248.png",
     "appendix/Pasted image 20230929165241.png",
-    "appendix/Pasted image 20230928150707.png",
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md",
     "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
     "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
     "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
-    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
