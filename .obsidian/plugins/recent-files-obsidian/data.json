@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
       "basename": "Acute pancreatitis",
       "path": "USMLE/GI/Acute pancreatitis.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Whipple disease",
       "path": "USMLE/GI/Whipple disease.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
       "basename": "Poliomyelitis",
