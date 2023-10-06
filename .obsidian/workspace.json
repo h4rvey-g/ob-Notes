@@ -11,11 +11,9 @@
             "id": "3c22257a9d627704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/Endocrine/Neuroblastoma.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20230909215738.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Neuroblastoma.md",
+                "file": "appendix/Pasted image 20230909215738.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Neuroblastoma.md",
+                "file": "appendix/Pasted image 20230909215738.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Neuroblastoma.md"
+                "file": "appendix/Pasted image 20230909215738.png"
               }
             }
           }
@@ -223,10 +221,13 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+    "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
+    "USMLE/Endocrine/Neuroblastoma.md",
+    "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
     "appendix/Pasted image 20231006152543.png",
     "appendix/Pasted image 20231006151208.png",
     "USMLE/Cardiology/ECGs.md",
-    "USMLE/Endocrine/Neuroblastoma.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20230928160542.png",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
@@ -236,7 +237,6 @@
     "appendix/Pasted image 20230928155850.png",
     "USMLE/GI/Whipple disease.md",
     "appendix/Pasted image 20231004152409.png",
-    "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
     "USMLE/Endocrine/Hyperparathyroidism.md",
     "appendix/Pasted image 20231003162733.png",
     "USMLE/Renal/Immunofluorescence.md",
@@ -246,7 +246,6 @@
     "USMLE/Renal/Tubulointerstitial diseases.md",
     "USMLE/Psychiatry/Shaken baby syndrome.md",
     "USMLE/Endocrine",
-    "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
     "appendix/Pasted image 20231002103937.png",
     "USMLE/Psychiatry",
     "USMLE/Infective disease/Arthritis-dermatitis syndrome.md",
@@ -254,7 +253,6 @@
     "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
     "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
     "appendix/Pasted image 20230929165248.png",
-    "appendix/Pasted image 20230929165241.png",
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md",

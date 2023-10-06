@@ -17,7 +17,7 @@ share: true
 # Pathophysiology
 - Homer Wright rosettes: Halo-like clusters of neuroblast cells surrounding a central pale area containing neuropil (associated with tumors of neuronal origin such as neuroblastoma, medulloblastoma, primitive neuroectodermal tumors, and pineoblastoma)![[Pasted image 20231006151208.png]]
 - Bombesin and NSE positive
-	- > A tumor marker for neuroblastoma, small cell carcinoma of the lung, pancreatic cancer, and gastric cancer.
+	- > A tumor marker for neuroblastoma, small cell carcinoma of the lung, [[pancreatic cancer]], and gastric cancer.
 
 ---
 # Clinical features
@@ -27,10 +27,19 @@ share: true
 - Nausea, vomiting, loss of appetite
 ## Localized symptoms
 ![[Pasted image 20231006152543.png]]
+## [[Paraneoplastic syndromes]]
+- Chronic diarrhea → electrolyte imbalances 
+- Opsoclonus-myoclonus-ataxia: a paraneoplastic syndrome of unclear etiology characterized by rapid and multi-directional eye movements, rhythmic jerks of the limbs, and ataxia (dancing eyes dancing feet syndrome) 
+- Possibly hypertension, tachycardia, palpitations, sweating, flushing  (hypertension is more commonly seen in pheochromocytoma)
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+## Laboratory tests
+- Urine
+	- ↑ Catecholamine metabolites homovanillic acid (HVA) and vanillylmandelic acid (VMA) in 24-hour urine
+- Blood
+	- ↑ Catecholamine metabolites (HVA/VMA)
+	- ↑ Lactate dehydrogenase (LDH), ferritin, neuron-specific enolase (NSE)
 
 ---
 # Treatment

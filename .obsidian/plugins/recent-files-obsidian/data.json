@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Pasted image 20230909215738",
+      "path": "appendix/Pasted image 20230909215738.png"
+    },
+    {
+      "basename": "Osteoarthritis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+    },
+    {
+      "basename": "Polymyalgia rheumatica",
+      "path": "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md"
+    },
+    {
       "basename": "Neuroblastoma",
       "path": "USMLE/Endocrine/Neuroblastoma.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "Shaken baby syndrome",
       "path": "USMLE/Psychiatry/Shaken baby syndrome.md"
-    },
-    {
-      "basename": "Osteoarthritis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
     },
     {
       "basename": "Arthrocentesis",
@@ -191,14 +199,6 @@
     {
       "basename": "Potter sequence",
       "path": "USMLE/Renal/Potter sequence.md"
-    },
-    {
-      "basename": "Ulnar nerve entrapment",
-      "path": "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md"
-    },
-    {
-      "basename": "Toxic megacolon",
-      "path": "USMLE/GI/Toxic megacolon.md"
     }
   ],
   "omittedPaths": [],
