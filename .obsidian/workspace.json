@@ -11,11 +11,9 @@
             "id": "3c22257a9d627704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/单抗记忆.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20230928155850.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/单抗记忆.md",
+                "file": "appendix/Pasted image 20230928155850.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/单抗记忆.md",
+                "file": "appendix/Pasted image 20230928155850.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/单抗记忆.md"
+                "file": "appendix/Pasted image 20230928155850.png"
               }
             }
           }
@@ -223,6 +221,7 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/单抗记忆.md",
     "appendix/Pasted image 20230909215738.png",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
@@ -255,7 +254,6 @@
     "USMLE/Blood/Osteopetrosis.md",
     "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
     "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
-    "appendix/Pasted image 20230929165248.png",
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md",
