@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mycosis fungoides",
+      "path": "USMLE/Blood/Mycosis fungoides.md"
+    },
+    {
+      "basename": "Osteoarthritis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+    },
+    {
       "basename": "Pasted image 20230928155850",
       "path": "appendix/Pasted image 20230928155850.png"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Pasted image 20230909215738",
       "path": "appendix/Pasted image 20230909215738.png"
-    },
-    {
-      "basename": "Osteoarthritis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
     },
     {
       "basename": "Polymyalgia rheumatica",
@@ -195,10 +199,6 @@
     {
       "basename": "Neonatal respiratory distress syndrome",
       "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
-    },
-    {
-      "basename": "Potter sequence",
-      "path": "USMLE/Renal/Potter sequence.md"
     }
   ],
   "omittedPaths": [],
