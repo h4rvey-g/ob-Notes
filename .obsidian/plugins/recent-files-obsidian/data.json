@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Celiac disease",
       "path": "USMLE/GI/Celiac disease.md"
     },
@@ -27,38 +28,62 @@
     {
       "basename": "Shaken baby syndrome",
       "path": "USMLE/Psychiatry/Shaken baby syndrome.md"
+=======
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+>>>>>>> 227d8abff21775966ca350eefdcca23cecafc481
     },
     {
-      "basename": "Osteopetrosis",
-      "path": "USMLE/Blood/Osteopetrosis.md"
-    },
-    {
-      "basename": "Vitamin C deficiency",
-      "path": "USMLE/Blood/Vitamin C deficiency.md"
-    },
-    {
-      "basename": "Vitamin C",
-      "path": "USMLE/Biochemistry/Vitamin C.md"
-    },
-    {
-      "basename": "Nephrolithiasis",
-      "path": "USMLE/Renal/Nephrolithiasis.md"
-    },
-    {
-      "basename": "Arthritis-dermatitis syndrome",
-      "path": "USMLE/Infective disease/Arthritis-dermatitis syndrome.md"
-    },
-    {
-      "basename": "Pasted image 20230928150707",
-      "path": "appendix/Pasted image 20230928150707.png"
-    },
-    {
-      "basename": "Pasted image 20230805174338",
-      "path": "appendix/Pasted image 20230805174338.png"
+      "basename": "Pasted image 20230909215738",
+      "path": "appendix/Pasted image 20230909215738.png"
     },
     {
       "basename": "Osteoarthritis",
       "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+    },
+    {
+      "basename": "Polymyalgia rheumatica",
+      "path": "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md"
+    },
+    {
+      "basename": "Neuroblastoma",
+      "path": "USMLE/Endocrine/Neuroblastoma.md"
+    },
+    {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
+      "basename": "Acute pancreatitis",
+      "path": "USMLE/GI/Acute pancreatitis.md"
+    },
+    {
+      "basename": "Acute respiratory distress syndrome",
+      "path": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
+    },
+    {
+      "basename": "Pasted image 20230928155850",
+      "path": "appendix/Pasted image 20230928155850.png"
+    },
+    {
+      "basename": "Whipple disease",
+      "path": "USMLE/GI/Whipple disease.md"
+    },
+    {
+      "basename": "Poliomyelitis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md"
+    },
+    {
+      "basename": "Hyperparathyroidism",
+      "path": "USMLE/Endocrine/Hyperparathyroidism.md"
+    },
+    {
+      "basename": "Shaken baby syndrome",
+      "path": "USMLE/Psychiatry/Shaken baby syndrome.md"
     },
     {
       "basename": "Arthrocentesis",
@@ -83,6 +108,10 @@
     {
       "basename": "Pasted image 20230928151653",
       "path": "appendix/Pasted image 20230928151653.png"
+    },
+    {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
     },
     {
       "basename": "Osteogenesis imperfecta",
@@ -173,10 +202,13 @@
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Sarcoidosis",
       "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
+=======
+>>>>>>> 227d8abff21775966ca350eefdcca23cecafc481
       "basename": "Bronchiectasis",
       "path": "USMLE/Respiratory/Bronchiectasis.md"
     },

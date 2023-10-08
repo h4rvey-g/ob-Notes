@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/单抗记忆.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/单抗记忆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/单抗记忆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+                "file": "USMLE/单抗记忆.md"
               }
             }
           }
@@ -221,43 +221,46 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "20e46837baa36f69",
+  "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
+    "appendix/Pasted image 20230909215738.png",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+    "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
+    "USMLE/Endocrine/Neuroblastoma.md",
+    "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
+    "appendix/Pasted image 20231006152543.png",
+    "appendix/Pasted image 20231006151208.png",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Respiratory/Sarcoidosis.md",
+    "appendix/Pasted image 20230928160542.png",
+    "USMLE/Respiratory/Acute respiratory distress syndrome.md",
+    "USMLE/GI/Acute pancreatitis.md",
+    "appendix/Pasted image 20231004171443.png",
+    "appendix/Pasted image 20231004171430.png",
+    "appendix/Pasted image 20230928155850.png",
+    "USMLE/GI/Whipple disease.md",
+    "appendix/Pasted image 20231004152409.png",
+    "USMLE/Endocrine/Hyperparathyroidism.md",
+    "appendix/Pasted image 20231003162733.png",
+    "USMLE/Renal/Immunofluorescence.md",
+    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Renal/Renal papillary necrosis.md",
+    "USMLE/Renal/Tubulointerstitial diseases.md",
+    "USMLE/Psychiatry/Shaken baby syndrome.md",
+    "USMLE/Endocrine",
+    "appendix/Pasted image 20231002103937.png",
+    "USMLE/Psychiatry",
+    "USMLE/Infective disease/Arthritis-dermatitis syndrome.md",
+    "USMLE/Blood/Osteopetrosis.md",
+    "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
     "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
     "appendix/Pasted image 20230929165248.png",
-    "appendix/Pasted image 20230929165241.png",
-    "appendix/Pasted image 20230928160542.png",
-    "appendix/Pasted image 20230928150707.png",
-    "appendix/Pasted image 20230928155850.png",
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
-    "appendix/Pasted image 20230928160644.png",
-    "appendix/Pasted image 20230928151653.png",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md",
-    "appendix/Pasted image 20230929144728.png",
-    "appendix/Pasted image 20230929144322.png",
     "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
     "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
-    "appendix/Pasted image 20230928173131.png",
-    "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md",
-    "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md",
-    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "USMLE/GI/Ulcerative colitis.md",
-    "USMLE/Cardiology/Congestive heart failure.md",
-    "USMLE/Lab Values.md",
-    "USMLE/Renal/Benign prostatic hyperplasia.md",
-    "USMLE/Renal/Prostate-specific antigen.md",
-    "USMLE/Neurology/Headaches.md",
-    "USMLE/Renal/Renal tubular disorders.md",
-    "USMLE/Renal/Liddle syndrome.md",
-    "USMLE/Cardiology/Acute coronary syndrome.md",
-    "USMLE/Renal/Diabetic kidney disease.md",
-    "USMLE/Muscle, skin, and connective tissue/Alopecia.md",
-    "USMLE/Neurology/Multiple sclerosis.md",
-    "USMLE/Blood/Primary myelofibrosis.md",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
@@ -266,8 +269,6 @@
     "appendix/Untitled 2.loom",
     "appendix/Untitled 1.loom",
     "USMLE/Renal",
-    "USMLE/Immunology",
-    "USMLE/Biochemistry",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
