@@ -20,12 +20,12 @@ share: true
 ## Extraintestinal symptoms and associations
 - **Malabsorption symptoms**: fatigue, weight loss, vitamin deficiency, iron deficiency [[anemia]], osteoporosis, hypocalcemia
 - In children: failure to thrive, growth failure, delayed puberty, secondary hyperparathyroidism
-- Dermatologic associations: **dermatitis herpetiformis**
+- <span style="background:rgba(240, 200, 0, 0.2)">Dermatologic associations: dermatitis herpetiformis</span>![[Pasted image 20231005110125.png]]
 - Neuropsychiatric symptoms: peripheral neuropathies (numbness, burning and tingling of the hands and feet) , headache, ataxia, depression, irritability
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment

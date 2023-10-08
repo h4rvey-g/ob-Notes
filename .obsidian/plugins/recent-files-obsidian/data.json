@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Celiac disease",
+      "path": "USMLE/GI/Celiac disease.md"
+    },
+    {
+      "basename": "Dermatitis herpetiformis",
+      "path": "USMLE/Muscle, skin, and connective tissue/Dermatitis herpetiformis.md"
+    },
+    {
+      "basename": "Sinusitis",
+      "path": "USMLE/Respiratory/Sinusitis.md"
+    },
+    {
+      "basename": "De novo pyrimidine and purine synthesis",
+      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+    },
+    {
       "basename": "Pasted image 20230910173723",
       "path": "appendix/Pasted image 20230910173723.png"
     },
@@ -149,10 +165,6 @@
       "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
     },
     {
-      "basename": "De novo pyrimidine and purine synthesis",
-      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
-    },
-    {
       "basename": "Primary myelofibrosis",
       "path": "USMLE/Blood/Primary myelofibrosis.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Potter sequence",
       "path": "USMLE/Renal/Potter sequence.md"
-    },
-    {
-      "basename": "Ulnar nerve entrapment",
-      "path": "USMLE/Muscle, skin, and connective tissue/Ulnar nerve entrapment.md"
-    },
-    {
-      "basename": "Toxic megacolon",
-      "path": "USMLE/GI/Toxic megacolon.md"
-    },
-    {
-      "basename": "Pasted image 20230909221658",
-      "path": "appendix/Pasted image 20230909221658.png"
     }
   ],
   "omittedPaths": [],
