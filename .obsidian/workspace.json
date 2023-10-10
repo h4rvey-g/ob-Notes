@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+                "file": "USMLE/Respiratory/Lung cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,11 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+                "file": "USMLE/Respiratory/Lung cancer.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,11 +223,14 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230723155339.png",
+    "USMLE/Respiratory/Lung cancer.md",
+    "appendix/Pasted image 20230928150707.png",
+    "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
     "appendix/Pasted image 20230928155850.png",
     "appendix/Pasted image 20230929165241.png",
     "USMLE/GI/Mirizzi syndrome.md",
     "USMLE/Blood/Mycosis fungoides.md",
-    "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
     "appendix/Pasted image 20230909215738.png",
     "USMLE/单抗记忆.md",
@@ -244,7 +248,6 @@
     "USMLE/GI/Whipple disease.md",
     "appendix/Pasted image 20231004152409.png",
     "USMLE/Endocrine/Hyperparathyroidism.md",
-    "appendix/Pasted image 20231003162733.png",
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Cardiology/Hypercalcemia.md",
@@ -252,14 +255,12 @@
     "USMLE/Renal/Tubulointerstitial diseases.md",
     "USMLE/Psychiatry/Shaken baby syndrome.md",
     "USMLE/Endocrine",
-    "appendix/Pasted image 20231002103937.png",
     "USMLE/Psychiatry",
     "USMLE/Infective disease/Arthritis-dermatitis syndrome.md",
     "USMLE/Blood/Osteopetrosis.md",
     "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
     "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
-    "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
+      "basename": "Pasted image 20230928150707",
+      "path": "appendix/Pasted image 20230928150707.png"
+    },
+    {
       "basename": "Osteoarthritis",
       "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Bronchiectasis",
       "path": "USMLE/Respiratory/Bronchiectasis.md"
-    },
-    {
-      "basename": "Vasculitides",
-      "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
-    },
-    {
-      "basename": "Polyhydramnios",
-      "path": "USMLE/Reproductive/Polyhydramnios.md"
     }
   ],
   "omittedPaths": [],
