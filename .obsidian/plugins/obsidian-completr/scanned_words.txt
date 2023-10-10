@@ -799,6 +799,7 @@ TCA
 TSC
 TIMR
 Telangiectasia
+Thromboembolism
 differentials
 differential
 diagnosis
@@ -5206,6 +5207,7 @@ tfp
 tjrT
 traditionally
 tightening
+topoisomerase
 in
 includes
 involving
@@ -7811,6 +7813,9 @@ mEl
 mql
 mask
 mouth
+molds
+moisture
+medical
 Sinus
 ST
 Segment
@@ -8612,6 +8617,7 @@ Scleroderma
 Sclerodactyly
 Smoothing
 SRC
+Scl
 AVNRT
 Atrial
 AVRT
@@ -9392,6 +9398,9 @@ AzBt
 Axjr
 APC
 ACE
+Abrupt
+Antinuclear
+Anticentromere
 Orthodromic
 On
 Often
@@ -10006,6 +10015,7 @@ OEa
 OCn
 OYu
 Oliguric
+Onset
 atrio
 and
 atrial
@@ -12769,6 +12779,8 @@ cutis
 contractures
 clawing
 crisis
+ceramide
+cramping
 bypass
 block
 background
@@ -14437,6 +14449,8 @@ frbxt
 fingertips
 flexure
 facies
+filaggrin
+food
 with
 wave
 which
@@ -17512,6 +17526,8 @@ sKm
 stricture
 shiny
 spots
+start
+scleroderma
 QRS
 QT
 QDQ
@@ -20575,6 +20591,7 @@ DSn
 DbO
 Dhxv
 DGdU
+Disease
 FFF
 Fib
 Fi
@@ -22207,6 +22224,7 @@ IDATGSc
 Iva
 IDATB
 IDATt
+ILD
 PACs
 Primary
 Pathophysiology
@@ -23045,6 +23063,9 @@ PYQ
 PHq
 PPq
 PID
+Personal
+Promptly
+PAH
 ectopic
 elevation
 early
@@ -23912,6 +23933,7 @@ enr
 eSo
 elbows
 esophagus
+extracutaneous
 Early
 Elevation
 Etiology
@@ -24659,6 +24681,7 @@ Eok
 EQX
 EPh
 Esophageal
+Epidermal
 LEFT
 Lengthening
 Left
@@ -27019,6 +27042,7 @@ hTg
 hypomotility
 heartburn
 hyperkeratotic
+harmless
 peaked
 pattern
 precordial
@@ -28080,6 +28104,7 @@ points
 puffy
 pitting
 perioral
+polymerase
 Unusual
 Usually
 Upc
@@ -30298,6 +30323,7 @@ CdCd
 Cue
 CREST
 Calcinosis
+Comorbid
 Right
 Retrograde
 Rates
@@ -31795,6 +31821,7 @@ VPl
 Vhs
 VPO
 VPh
+Vascular
 up
 unusual
 usually

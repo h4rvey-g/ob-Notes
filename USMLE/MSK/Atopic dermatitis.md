@@ -5,22 +5,27 @@ modified: 2023-07-29 15:30
 aliases: Untitled
 share: true
 ---
+# Epidemiology
+- Onset of symptoms usually occurs at 3–6 months of age. 
+- Disease often improves with age.
+
+---
 # Etiology
 
 
 ---
 # Pathophysiology
-
+- Epidermal barrier dysfunction (due to filaggrin deficiency and decreased ceramide levels) → loss of moisture → dry skin
+- Inflammation of the skin → severe pruritus
 
 ---
 # Clinical features
-- Main symptoms: intense pruritus and dry skin 
-- Infantile AD (age < 2 years) [7][8]
+- <span style="background:rgba(240, 200, 0, 0.2)">Main symptoms: intense pruritus and dry skin </span>
+- Infantile AD (age < 2 years)
 	- Eczema involving the face, head, and extensor surfaces of the extremities that usually spares the diaper area 
 	- May present initially with features similar to seborrheic dermatitis, e.g., cradle cap  [9][10][11]
 	- **Dennie-Morgan fold**: increased folds below the eye 
-		- as a result of eyelid dermatitis
-		- ![[Pasted image 20230729153839.png]]
+		- as a result of eyelid dermatitis![[Pasted image 20230729153839.png]]
 	- Occasionally, lesions appear on the trunk. 
 - Childhood AD (age 2–12 years) [8]
 	- Eczema: <mark style="background: #FFF3A34A;">flexural creases</mark> (antecubital fossa and popliteal fossa), skin folds, extensor surface of hands 
@@ -35,15 +40,19 @@ share: true
 	- Food allergies
 	- Keratosis pilaris: keratinized hair follicles (rough bumps) typically distributed over extensor arms and thighs
 	- Hertoghe sign: thinning or loss of the outer third of the eyebrows
+ 
 >[!tip] 
 >The symptoms of atopic dermatitis are variable and often change in the course of a lifetime. Pruritus and dry skin are usually the main symptoms.
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+- [[Atopy]]
+	- Personal and/or family history
+	- Immunoglobulin E reactivity (↑ serum IgE) 
+	- Comorbid atopic diseases (i.e., [[asthma]], allergic rhinitis, allergic conjunctivitis, and food allergies)
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

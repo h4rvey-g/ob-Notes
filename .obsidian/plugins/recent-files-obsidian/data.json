@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Atopic dermatitis",
-      "path": "USMLE/MSK/Atopic dermatitis.md"
+      "basename": "Amyloidosis",
+      "path": "USMLE/Pathology/Amyloidosis.md"
     },
     {
       "basename": "Systemic sclerosis",
       "path": "USMLE/MSK/Systemic sclerosis.md"
+    },
+    {
+      "basename": "Atopic dermatitis",
+      "path": "USMLE/MSK/Atopic dermatitis.md"
     },
     {
       "basename": "IgA vasculitis",
@@ -195,10 +199,6 @@
     {
       "basename": "Acute coronary syndrome",
       "path": "USMLE/Cardiology/Acute coronary syndrome.md"
-    },
-    {
-      "basename": "Diabetic kidney disease",
-      "path": "USMLE/Renal/Diabetic kidney disease.md"
     }
   ],
   "omittedPaths": [],
