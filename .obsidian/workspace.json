@@ -11,11 +11,9 @@
             "id": "3c22257a9d627704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/GI/Mirizzi syndrome.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20230929165241.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Mirizzi syndrome.md",
+                "file": "appendix/Pasted image 20230929165241.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Mirizzi syndrome.md",
+                "file": "appendix/Pasted image 20230929165241.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Mirizzi syndrome.md"
+                "file": "appendix/Pasted image 20230929165241.png"
               }
             }
           }
@@ -223,8 +221,8 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/Blood/Mycosis fungoides.md",
     "USMLE/GI/Mirizzi syndrome.md",
+    "USMLE/Blood/Mycosis fungoides.md",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
     "appendix/Pasted image 20230909215738.png",
