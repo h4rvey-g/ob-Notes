@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Plummer-Vinson syndrome.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md",
+                "file": "USMLE/GI/Plummer-Vinson syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md",
+                "file": "USMLE/GI/Plummer-Vinson syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Pathology/Amyloidosis.md"
+                "file": "USMLE/GI/Plummer-Vinson syndrome.md"
               }
             }
           }
@@ -223,8 +223,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/Cardiology/Restrictive cardiomyopathy.md",
+    "appendix/Pasted image 20231010205220.png",
     "USMLE/Pathology/Amyloidosis.md",
+    "USMLE/GI/Plummer-Vinson syndrome.md",
+    "USMLE/Cardiology/Restrictive cardiomyopathy.md",
     "USMLE/MSK/Systemic sclerosis.md",
     "USMLE/MSK/Atopic dermatitis.md",
     "USMLE/Respiratory/Atopy.md",
@@ -257,8 +259,6 @@
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
-    "USMLE/GI/Acute pancreatitis.md",
-    "USMLE/GI/Whipple disease.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

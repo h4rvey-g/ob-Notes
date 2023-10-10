@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Plummer-Vinson syndrome",
+      "path": "USMLE/GI/Plummer-Vinson syndrome.md"
+    },
+    {
       "basename": "Amyloidosis",
       "path": "USMLE/Pathology/Amyloidosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Liddle syndrome",
       "path": "USMLE/Renal/Liddle syndrome.md"
-    },
-    {
-      "basename": "Acute coronary syndrome",
-      "path": "USMLE/Cardiology/Acute coronary syndrome.md"
     }
   ],
   "omittedPaths": [],
