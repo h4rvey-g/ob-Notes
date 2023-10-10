@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vasculitides",
+      "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
+    },
+    {
       "basename": "Warthin tumor",
       "path": "USMLE/GI/Warthin tumor.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Primary myelofibrosis",
       "path": "USMLE/Blood/Primary myelofibrosis.md"
-    },
-    {
-      "basename": "Chemotherapeutic agents",
-      "path": "USMLE/Blood/Chemotherapeutic agents.md"
     }
   ],
   "omittedPaths": [],

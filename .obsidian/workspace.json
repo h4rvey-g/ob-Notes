@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Warthin tumor.md",
-                "mode": "source",
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "330eafd3679c5b26",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Warthin tumor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Warthin tumor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "USMLE/GI/Warthin tumor.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -221,10 +226,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3c22257a9d627704",
+  "active": "330eafd3679c5b26",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
     "USMLE/GI/Warthin tumor.md",
+    "appendix/Pasted image 20231010154424.png",
+    "appendix/Pasted image 20231010154412.png",
+    "appendix/Pasted image 20231010154356.png",
+    "USMLE/Respiratory/Lung cancer.md",
     "appendix/Pasted image 20230723155339.png",
     "appendix/Pasted image 20230928150707.png",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
@@ -241,11 +250,8 @@
     "appendix/Pasted image 20231006151208.png",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Respiratory/Sarcoidosis.md",
-    "appendix/Pasted image 20230928160542.png",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
     "USMLE/GI/Acute pancreatitis.md",
-    "appendix/Pasted image 20231004171443.png",
-    "appendix/Pasted image 20231004171430.png",
     "USMLE/GI/Whipple disease.md",
     "USMLE/Endocrine/Hyperparathyroidism.md",
     "USMLE/Renal/Immunofluorescence.md",
@@ -260,7 +266,6 @@
     "USMLE/Blood/Osteopetrosis.md",
     "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
     "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
-    "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",
