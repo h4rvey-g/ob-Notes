@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Mycosis fungoides.md",
+                "file": "USMLE/GI/Mirizzi syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Mycosis fungoides.md",
+                "file": "USMLE/GI/Mirizzi syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Mycosis fungoides.md",
+                "file": "USMLE/GI/Mirizzi syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Mycosis fungoides.md"
+                "file": "USMLE/GI/Mirizzi syndrome.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/Blood/Mycosis fungoides.md",
+    "USMLE/GI/Mirizzi syndrome.md",
     "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
     "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
     "appendix/Pasted image 20230909215738.png",
@@ -259,7 +261,6 @@
     "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md",
-    "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",

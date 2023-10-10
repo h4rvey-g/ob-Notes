@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mirizzi syndrome",
+      "path": "USMLE/GI/Mirizzi syndrome.md"
+    },
+    {
       "basename": "Mycosis fungoides",
       "path": "USMLE/Blood/Mycosis fungoides.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Oligohydramnios",
       "path": "USMLE/Reproductive/Oligohydramnios.md"
-    },
-    {
-      "basename": "Neonatal respiratory distress syndrome",
-      "path": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
     }
   ],
   "omittedPaths": [],
