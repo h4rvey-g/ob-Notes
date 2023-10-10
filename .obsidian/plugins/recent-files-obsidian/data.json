@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Warthin tumor",
+      "path": "USMLE/GI/Warthin tumor.md"
+    },
+    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
-    },
-    {
-      "basename": "Bronchiectasis",
-      "path": "USMLE/Respiratory/Bronchiectasis.md"
     }
   ],
   "omittedPaths": [],
