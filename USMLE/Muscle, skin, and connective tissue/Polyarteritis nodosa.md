@@ -46,7 +46,10 @@ share: true
 
 ---
 # Diagnostics
-
+## Visceral angiography
+- Findings: most commonly seen in the renal, mesenteric, and hepatic artery branches (pulmonary arteries are usually not affected) 
+	- Numerous microaneurysms (1–5 mm in diameter)![[Pasted image 20231010162421.png]]
+	- Stenosis of small muscular arteries and medium-sized vessels
 
 ---
 # Treatment

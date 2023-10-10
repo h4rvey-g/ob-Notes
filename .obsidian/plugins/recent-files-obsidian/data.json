@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Vasculitides",
-      "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
+      "basename": "IgA vasculitis",
+      "path": "USMLE/Muscle, skin, and connective tissue/IgA vasculitis.md"
+    },
+    {
+      "basename": "Rapidly progressive glomerulonephritis",
+      "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
+    },
+    {
+      "basename": "Calcium pyrophosphate deposition disease",
+      "path": "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md"
     },
     {
       "basename": "Polyarteritis nodosa",
       "path": "USMLE/Muscle, skin, and connective tissue/Polyarteritis nodosa.md"
+    },
+    {
+      "basename": "Pasted image 20230928151653",
+      "path": "appendix/Pasted image 20230928151653.png"
+    },
+    {
+      "basename": "Vasculitides",
+      "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
     },
     {
       "basename": "Warthin tumor",
@@ -101,16 +117,8 @@
       "path": "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md"
     },
     {
-      "basename": "Calcium pyrophosphate deposition disease",
-      "path": "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md"
-    },
-    {
       "basename": "Pasted image 20230928160644",
       "path": "appendix/Pasted image 20230928160644.png"
-    },
-    {
-      "basename": "Pasted image 20230928151653",
-      "path": "appendix/Pasted image 20230928151653.png"
     },
     {
       "basename": "Nephrolithiasis",
@@ -191,14 +199,6 @@
     {
       "basename": "Alopecia",
       "path": "USMLE/Muscle, skin, and connective tissue/Alopecia.md"
-    },
-    {
-      "basename": "Amyotrophic lateral sclerosis",
-      "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
-    },
-    {
-      "basename": "De novo pyrimidine and purine synthesis",
-      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     }
   ],
   "omittedPaths": [],
