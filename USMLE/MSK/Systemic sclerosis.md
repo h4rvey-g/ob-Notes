@@ -26,16 +26,52 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 - C: Calcinosis cutis: small white calcium deposits on the pressure points of the extremities (e.g., elbows, knees, fingertips) ![[Pasted image 20231010172910.png]]
 - R: Raynaud phenomenon 
 - E: Esophageal hypomotility (systemic sclerosis): smooth muscle atrophy and fibrosis → esophageal dysmotility and decreased lower esophageal sphincter pressure → dysphagia, gastroesophageal reflux, heartburn → aspiration, Barrett esophagus, stricture
-- S: Sclerodactyly 
-- T: Telangiectasia
-
+- S: Sclerodactyly ![[Pasted image 20231010201149.png]]
+- T: Telangiectasia![[Pasted image 20231010201224.png]]
+## Cutaneous
+- Thickening and hardening of the skin, which appears smooth, shiny, and puffy
+- Sclerodactyly: fibrotic thickening and tightening of the skin on the fingers and hands 
+	- Edema followed by fibrosis that results in a waxy appearance of the skin
+	- Limited range of motion and possibly flexure contractures and clawing of the digits
+	- Multiple, painful ischemic digital ulcers with atrophy and necrotic spots
+	- Digital pitting: hyperkeratotic scarring that most commonly affects the fingertips![[Pasted image 20231010201323.png]]
+- Face changes
+	- Loss of expression (mask-like facies) 
+	- Smoothing of deep wrinkles
+	- Microstomia (a disproportionately small mouth) accompanied by characteristic perioral wrinkles
+## Renal
+- <span style="background:rgba(240, 200, 0, 0.2)">Scleroderma renal crisis (SRC)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Abrupt onset, life threatening</span>
+	- Clinical features of SRC
+		- <span style="background:rgba(240, 200, 0, 0.2)">Oliguric [[acute kidney injury]], proteinuria, hematuria</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Hypertension with or without symptoms of hypertensive emergency</span>
+		- Microangiopathic hemolytic [[anemia]] (<span style="background:rgba(240, 200, 0, 0.2)">MAHA</span>) and thrombocytopenia
+	- Treatment: ACE inhibitors
+- Chronic kidney disease: reduced kidney function due to abnormal collagen deposition → thickening of renal arteriolar walls → decreased renal blood flow
+## Pulmonary [9]
+- <span style="background:rgba(240, 200, 0, 0.2)">Interstitial lung disease </span>
+- Pulmonary artery hypertension 
+## Other extracutaneous
+- Gastrointestinal tract
+	- Esophageal dysmotility → dysphagia and reflux
+	- Small bowel dysmotility → bloating, gas, constipation, and cramping 
+- Vascular disease
+	- Raynaud phenomenon 
+	- Thromboembolism
 
 ---
 # Diagnostics
+>[!warning] 
+>Scleroderma renal crisis is a medical emergency with a high mortality rate. Promptly evaluate serum creatinine and urine protein in individuals with SSc who present with an acute rise in blood pressure and start management of SRC.
+- Antinuclear antibodies (ANA): present in ∼ 90% of patients
+- SSc-specific autoantibodies  [8][14]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anticentromere antibodies</span>: associated with limited SSc, increased risk for vascular complications (e.g., PAH)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Scl-70 (anti-topoisomerase I antibody)</span>: associated with severe and rapidly progressive diffuse SSc, limited SSc, ILD, digital ulcers
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-RNA polymerase III</span>: associated with diffuse SSc, scleroderma renal crisis
 
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

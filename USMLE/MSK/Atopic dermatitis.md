@@ -31,7 +31,7 @@ share: true
 	- Antecubital fossae are frequently involved. 
 	- Adult AD may also present as nummular eczema.
 - Associated skin findings in AD [8][12][13]
-	- Atopic triad: a triad of asthma, allergic rhinitis, and atopic dermatitis that is linked to allergen-triggered IgE-mast cell activation
+	- Atopic triad: a triad of [[asthma]], allergic rhinitis, and atopic dermatitis that is linked to allergen-triggered IgE-mast cell activation
 	- Food allergies
 	- Keratosis pilaris: keratinized hair follicles (rough bumps) typically distributed over extensor arms and thighs
 	- Hertoghe sign: thinning or loss of the outer third of the eyebrows

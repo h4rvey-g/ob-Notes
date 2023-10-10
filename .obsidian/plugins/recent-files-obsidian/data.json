@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Atopic dermatitis",
+      "path": "USMLE/MSK/Atopic dermatitis.md"
+    },
+    {
       "basename": "Systemic sclerosis",
       "path": "USMLE/MSK/Systemic sclerosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Diabetic kidney disease",
       "path": "USMLE/Renal/Diabetic kidney disease.md"
-    },
-    {
-      "basename": "Multiple sclerosis",
-      "path": "USMLE/Neurology/Multiple sclerosis.md"
     }
   ],
   "omittedPaths": [],
