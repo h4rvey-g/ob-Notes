@@ -5,6 +5,10 @@
       "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
     },
     {
+      "basename": "Polyarteritis nodosa",
+      "path": "USMLE/Muscle, skin, and connective tissue/Polyarteritis nodosa.md"
+    },
+    {
       "basename": "Warthin tumor",
       "path": "USMLE/GI/Warthin tumor.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
-    },
-    {
-      "basename": "Primary myelofibrosis",
-      "path": "USMLE/Blood/Primary myelofibrosis.md"
     }
   ],
   "omittedPaths": [],

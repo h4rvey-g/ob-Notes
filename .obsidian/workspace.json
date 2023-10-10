@@ -13,18 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
+                "file": "USMLE/Muscle, skin, and connective tissue/Polyarteritis nodosa.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "330eafd3679c5b26",
+            "id": "084afd7f07a4933e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -162,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
+              }
             }
           }
         ],
@@ -226,9 +234,11 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "330eafd3679c5b26",
+  "active": "084afd7f07a4933e",
   "lastOpenFiles": [
+    "USMLE/Muscle, skin, and connective tissue/Polyarteritis nodosa.md",
     "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
+    "appendix/Pasted image 20231010160358.png",
     "USMLE/GI/Warthin tumor.md",
     "appendix/Pasted image 20231010154424.png",
     "appendix/Pasted image 20231010154412.png",
@@ -247,7 +257,6 @@
     "USMLE/Endocrine/Neuroblastoma.md",
     "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
     "appendix/Pasted image 20231006152543.png",
-    "appendix/Pasted image 20231006151208.png",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
@@ -265,7 +274,6 @@
     "USMLE/Infective disease/Arthritis-dermatitis syndrome.md",
     "USMLE/Blood/Osteopetrosis.md",
     "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md",
-    "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md",
     "USMLE/Biochemistry/Untitled.loom",
     "USMLE/Pharmacology",
     "USMLE/Reproductive",

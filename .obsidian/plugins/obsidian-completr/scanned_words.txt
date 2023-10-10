@@ -3765,6 +3765,7 @@ nok
 nlt
 nhr
 nbjv
+nerves
 tachycardia
 tract
 the
@@ -5455,6 +5456,7 @@ ize
 iWN
 imMnG
 iXTUF
+involves
 general
 giving
 generation
@@ -6904,6 +6906,9 @@ mdj
 mZp
 mgnz
 muWr
+mononeuritis
+multiplex
+melena
 Sinus
 ST
 Segment
@@ -8307,6 +8312,7 @@ AiE
 Ahb
 Ahn
 ALU
+Artery
 Orthodromic
 On
 Often
@@ -8823,6 +8829,7 @@ OUt
 OjN
 OML
 OBV
+Organ
 atrio
 and
 atrial
@@ -17555,6 +17562,7 @@ McS
 MHdV
 MYTY
 MVx
+Medium
 Differentiate
 Drugs
 DDx
@@ -20472,6 +20480,8 @@ PKq
 PAuR
 Plir
 Pji
+PAN
+PANmural
 ectopic
 elevation
 early
@@ -23991,6 +24001,7 @@ hKj
 hOo
 hEAA
 hfzh
+hePAtitis
 peaked
 pattern
 precordial
@@ -24944,6 +24955,7 @@ paE
 pzY
 pWw
 ptM
+polyneuropathy
 Unusual
 Usually
 Upc
@@ -28856,6 +28868,7 @@ uxDu
 uYRE
 uvU
 uIDer
+ulcerations
 quinine
 qz
 qM
