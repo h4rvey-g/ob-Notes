@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Systemic sclerosis",
+      "path": "USMLE/MSK/Systemic sclerosis.md"
+    },
+    {
       "basename": "IgA vasculitis",
-      "path": "USMLE/Muscle, skin, and connective tissue/IgA vasculitis.md"
+      "path": "USMLE/MSK/IgA vasculitis.md"
     },
     {
       "basename": "Rapidly progressive glomerulonephritis",
@@ -10,11 +14,11 @@
     },
     {
       "basename": "Calcium pyrophosphate deposition disease",
-      "path": "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md"
+      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
     },
     {
       "basename": "Polyarteritis nodosa",
-      "path": "USMLE/Muscle, skin, and connective tissue/Polyarteritis nodosa.md"
+      "path": "USMLE/MSK/Polyarteritis nodosa.md"
     },
     {
       "basename": "Pasted image 20230928151653",
@@ -22,7 +26,7 @@
     },
     {
       "basename": "Vasculitides",
-      "path": "USMLE/Muscle, skin, and connective tissue/Vasculitides.md"
+      "path": "USMLE/MSK/Vasculitides.md"
     },
     {
       "basename": "Warthin tumor",
@@ -38,7 +42,7 @@
     },
     {
       "basename": "Osteoarthritis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md"
+      "path": "USMLE/MSK/Osteoarthritis.md"
     },
     {
       "basename": "Pasted image 20230928155850",
@@ -66,7 +70,7 @@
     },
     {
       "basename": "Polymyalgia rheumatica",
-      "path": "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md"
+      "path": "USMLE/MSK/Polymyalgia rheumatica.md"
     },
     {
       "basename": "Neuroblastoma",
@@ -94,7 +98,7 @@
     },
     {
       "basename": "Poliomyelitis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md"
+      "path": "USMLE/MSK/Poliomyelitis.md"
     },
     {
       "basename": "Hyperparathyroidism",
@@ -106,7 +110,7 @@
     },
     {
       "basename": "Arthrocentesis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Arthrocentesis.md"
+      "path": "USMLE/MSK/Arthrocentesis.md"
     },
     {
       "basename": "Pasted image 20230928160542",
@@ -114,7 +118,7 @@
     },
     {
       "basename": "Reactive arthritis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Reactive arthritis.md"
+      "path": "USMLE/MSK/Reactive arthritis.md"
     },
     {
       "basename": "Pasted image 20230928160644",
@@ -126,11 +130,11 @@
     },
     {
       "basename": "Osteogenesis imperfecta",
-      "path": "USMLE/Muscle, skin, and connective tissue/Osteogenesis imperfecta.md"
+      "path": "USMLE/MSK/Osteogenesis imperfecta.md"
     },
     {
       "basename": "Achondroplasia",
-      "path": "USMLE/Muscle, skin, and connective tissue/Achondroplasia.md"
+      "path": "USMLE/MSK/Achondroplasia.md"
     },
     {
       "basename": "Primary ciliary dyskinesia",
@@ -138,11 +142,11 @@
     },
     {
       "basename": "Idiopathic inflammatory myopathies",
-      "path": "USMLE/Muscle, skin, and connective tissue/Idiopathic inflammatory myopathies.md"
+      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
     },
     {
       "basename": "Myasthenia gravis",
-      "path": "USMLE/Muscle, skin, and connective tissue/Myasthenia gravis.md"
+      "path": "USMLE/MSK/Myasthenia gravis.md"
     },
     {
       "basename": "Pasted image 20230921164528",
@@ -195,10 +199,6 @@
     {
       "basename": "Multiple sclerosis",
       "path": "USMLE/Neurology/Multiple sclerosis.md"
-    },
-    {
-      "basename": "Alopecia",
-      "path": "USMLE/Muscle, skin, and connective tissue/Alopecia.md"
     }
   ],
   "omittedPaths": [],

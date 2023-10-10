@@ -42,9 +42,13 @@ An upper respiratory tract infection often precedes symptom onset by 1–3 weeks
 - Kidneys: IgAV nephritis (20–50% of children; 50–80% of adults)  [8]
 	- [[Nephritic syndrome]]
 
+>[!tip] 
+>IgAV is an important differential diagnosis to consider in children with a limp.
+
 ---
 # Diagnostics
-
+## Biopsy
+IgA and C3 complex deposition (hallmark) in small vessels of the superficial dermis
 
 ---
 # Treatment

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/IgA vasculitis.md",
+                "file": "USMLE/MSK/Systemic sclerosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/IgA vasculitis.md",
+                "file": "USMLE/MSK/Systemic sclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/IgA vasculitis.md",
+                "file": "USMLE/MSK/Systemic sclerosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Muscle, skin, and connective tissue/IgA vasculitis.md"
+                "file": "USMLE/MSK/Systemic sclerosis.md"
               }
             }
           }
@@ -221,16 +221,18 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231010172112.png",
+    "USMLE/MSK/IgA vasculitis.md",
+    "USMLE/MSK/Systemic sclerosis.md",
     "appendix/Pasted image 20231010165500.png",
     "USMLE/Renal/IgA nephropathy.md",
-    "USMLE/Muscle, skin, and connective tissue/IgA vasculitis.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
-    "USMLE/Muscle, skin, and connective tissue/Calcium pyrophosphate deposition disease.md",
-    "USMLE/Muscle, skin, and connective tissue/Polyarteritis nodosa.md",
+    "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
+    "USMLE/MSK/Polyarteritis nodosa.md",
     "appendix/Pasted image 20230928151653.png",
-    "USMLE/Muscle, skin, and connective tissue/Vasculitides.md",
+    "USMLE/MSK/Vasculitides.md",
     "appendix/Pasted image 20231010162421.png",
     "appendix/Pasted image 20231010160358.png",
     "USMLE/GI/Warthin tumor.md",
@@ -240,15 +242,14 @@
     "USMLE/Respiratory/Lung cancer.md",
     "appendix/Pasted image 20230723155339.png",
     "appendix/Pasted image 20230928150707.png",
-    "USMLE/Muscle, skin, and connective tissue/Osteoarthritis.md",
+    "USMLE/MSK/Osteoarthritis.md",
     "appendix/Pasted image 20230928155850.png",
-    "appendix/Pasted image 20230929165241.png",
     "USMLE/GI/Mirizzi syndrome.md",
     "USMLE/Blood/Mycosis fungoides.md",
-    "USMLE/Muscle, skin, and connective tissue/Polymyalgia rheumatica.md",
+    "USMLE/MSK/Polymyalgia rheumatica.md",
     "USMLE/单抗记忆.md",
     "USMLE/Endocrine/Neuroblastoma.md",
-    "USMLE/Muscle, skin, and connective tissue/Poliomyelitis.md",
+    "USMLE/MSK/Poliomyelitis.md",
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Respiratory/Acute respiratory distress syndrome.md",
@@ -258,7 +259,6 @@
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
     "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Renal/Renal papillary necrosis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

@@ -13,7 +13,7 @@ share: true
 # Etiology
 - The primary (idiopathic) form is most common, with age as a major risk factor.
 - Secondary forms
-	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[osteoarthritis]]
+	- Joint trauma/damage: including joint surgery, previous juvenile idiopathic arthritis, and [[Osteoarthritis]]
 	- Metabolic disorders: including hyperparathyroidism, hemochromatosis, hypomagnesemia, hypophosphatasia, and possibly gout
 	- Familial chondrocalcinosis: due to mutations in the CCAL1 or CCAL2 genes
 
