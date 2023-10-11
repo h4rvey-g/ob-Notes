@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Intracranial hemorrhage",
+      "path": "USMLE/Neurology/Intracranial hemorrhage.md"
+    },
+    {
       "basename": "Plummer-Vinson syndrome",
       "path": "USMLE/GI/Plummer-Vinson syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Renal tubular disorders",
       "path": "USMLE/Renal/Renal tubular disorders.md"
-    },
-    {
-      "basename": "Liddle syndrome",
-      "path": "USMLE/Renal/Liddle syndrome.md"
     }
   ],
   "omittedPaths": [],
