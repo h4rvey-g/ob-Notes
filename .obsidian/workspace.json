@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Lipid transport.md",
+                "file": "USMLE/GI/Cholelithiasis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Lipid transport.md",
+                "file": "USMLE/GI/Cholelithiasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Lipid transport.md",
+                "file": "USMLE/GI/Cholelithiasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Lipid transport.md"
+                "file": "USMLE/GI/Cholelithiasis.md"
               }
             }
           }
@@ -223,28 +223,28 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/GI/Primary biliary cholangitis.md",
+    "USMLE/GI/Cholelithiasis.md",
+    "USMLE/Neurology/Intracranial hemorrhage.md",
+    "USMLE/Biochemistry/Lipid transport.md",
+    "appendix/Pasted image 20231012170358.png",
+    "appendix/Pasted image 20231012170344.png",
     "appendix/Pasted image 20231012164231.png",
     "appendix/Pasted image 20231012162748.png",
     "appendix/Pasted image 20231012162530.png",
     "appendix/Pasted image 20231012162049.png",
-    "USMLE/GI/Primary biliary cholangitis.md",
-    "USMLE/Biochemistry/Lipid transport.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "appendix/Pasted image 20231012134711.png",
     "USMLE/GI/Plummer-Vinson syndrome.md",
     "appendix/Pasted image 20231012113514.png",
-    "USMLE/Neurology/Intracranial hemorrhage.md",
     "appendix/Pasted image 20231011165456.png",
     "appendix/Pasted image 20231011165433.png",
-    "appendix/Pasted image 20231011150953.png",
-    "appendix/Pasted image 20231010205220.png",
     "USMLE/Pathology/Amyloidosis.md",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
     "USMLE/MSK/Systemic sclerosis.md",
     "USMLE/MSK/Atopic dermatitis.md",
     "USMLE/Respiratory/Atopy.md",
     "USMLE/Renal/Acute kidney injury.md",
-    "appendix/Pasted image 20231010201224.png",
     "USMLE/MSK/IgA vasculitis.md",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",

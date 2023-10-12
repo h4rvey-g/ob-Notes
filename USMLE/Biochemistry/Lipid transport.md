@@ -8,3 +8,5 @@ share: true
 ![[Pasted image 20231012162049.png]]
 ![[Pasted image 20231012162748.png]]
 ![[Pasted image 20231012164231.png]]
+![[Pasted image 20231012170344.png]]
+![[Pasted image 20231012170358.png]]

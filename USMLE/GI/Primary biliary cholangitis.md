@@ -14,6 +14,6 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Liver transplantation is necessary if liver cirrhosis is advanced.</span>
 ## Pharmacotherapy
 - First-line: ursodeoxycholic acid (UDCA, ursodiol): a hydrophilic, nontoxic bile acid with immunomodulatory, anti-inflammatory, choleretic, and cytoprotective effects
-	- Slows disease progression and development of complications (e.g., esophageal varices)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Slows disease progression</span> and development of complications (e.g., esophageal varices)
 	- Prolongs transplant-free and overall survival
 	- Also used in primary sclerosing cholangitis, cholestasis of pregnancy, and small cholesterol stones

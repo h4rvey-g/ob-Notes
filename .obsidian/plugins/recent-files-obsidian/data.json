@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Lipid transport",
-      "path": "USMLE/Biochemistry/Lipid transport.md"
+      "basename": "Cholelithiasis",
+      "path": "USMLE/GI/Cholelithiasis.md"
     },
     {
       "basename": "Primary biliary cholangitis",
       "path": "USMLE/GI/Primary biliary cholangitis.md"
+    },
+    {
+      "basename": "Lipid transport",
+      "path": "USMLE/Biochemistry/Lipid transport.md"
     },
     {
       "basename": "Lipid-lowering agents",
@@ -195,10 +199,6 @@
     {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Benign prostatic hyperplasia",
-      "path": "USMLE/Renal/Benign prostatic hyperplasia.md"
     }
   ],
   "omittedPaths": [],
