@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/Cardiology/Lipid-lowering agents.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -213,16 +213,17 @@
       "command-palette:打开命令面板": false,
       "graph:查看关系图谱": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "omnisearch:Omnisearch": false,
-      "notion-like-tables:Create new loom": false
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create loom": false
     }
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231012134711.png",
     "USMLE/GI/Plummer-Vinson syndrome.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "appendix/Pasted image 20231012113514.png",
