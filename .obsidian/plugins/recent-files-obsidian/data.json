@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Malrotation",
+      "path": "USMLE/GI/Malrotation.md"
+    },
+    {
       "basename": "Cholelithiasis",
       "path": "USMLE/GI/Cholelithiasis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Congestive heart failure",
       "path": "USMLE/Cardiology/Congestive heart failure.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     }
   ],
   "omittedPaths": [],
