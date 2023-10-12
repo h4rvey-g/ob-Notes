@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Intracranial hemorrhage.md",
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Intracranial hemorrhage.md",
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Intracranial hemorrhage.md",
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Intracranial hemorrhage.md"
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md"
               }
             }
           }
@@ -223,11 +223,13 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/GI/Plummer-Vinson syndrome.md",
+    "USMLE/Cardiology/Lipid-lowering agents.md",
+    "appendix/Pasted image 20231012113514.png",
+    "USMLE/Neurology/Intracranial hemorrhage.md",
     "appendix/Pasted image 20231011165456.png",
     "appendix/Pasted image 20231011165433.png",
     "appendix/Pasted image 20231011150953.png",
-    "USMLE/GI/Plummer-Vinson syndrome.md",
-    "USMLE/Neurology/Intracranial hemorrhage.md",
     "appendix/Pasted image 20231010205220.png",
     "USMLE/Pathology/Amyloidosis.md",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
@@ -241,12 +243,10 @@
     "appendix/Pasted image 20231010172910.png",
     "appendix/Pasted image 20231010172112.png",
     "USMLE/MSK/IgA vasculitis.md",
-    "appendix/Pasted image 20231010165500.png",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
     "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
     "USMLE/MSK/Polyarteritis nodosa.md",
-    "appendix/Pasted image 20230928151653.png",
     "USMLE/MSK/Vasculitides.md",
     "USMLE/GI/Warthin tumor.md",
     "USMLE/Respiratory/Lung cancer.md",
@@ -258,7 +258,6 @@
     "USMLE/Endocrine/Neuroblastoma.md",
     "USMLE/MSK/Poliomyelitis.md",
     "USMLE/Cardiology/ECGs.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

@@ -800,6 +800,8 @@ TSC
 TIMR
 Telangiectasia
 Thromboembolism
+Triad
+Thin
 differentials
 differential
 diagnosis
@@ -2482,6 +2484,7 @@ owK
 oOZ
 oQt
 och
+odynophagia
 regular
 reentrant
 retrograde
@@ -6892,6 +6895,7 @@ gYH
 gSW
 gIO
 gastroesophageal
+glossitis
 major
 mechanisms
 mark
@@ -8618,6 +8622,7 @@ Sclerodactyly
 Smoothing
 SRC
 Scl
+Statins
 AVNRT
 Atrial
 AVRT
@@ -15172,6 +15177,7 @@ wor
 wil
 wcE
 wrinkles
+webs
 Whenever
 Widening
 William
@@ -17528,6 +17534,7 @@ shiny
 spots
 start
 scleroderma
+squamous
 QRS
 QT
 QDQ
@@ -23066,6 +23073,7 @@ PID
 Personal
 Promptly
 PAH
+Plummer
 ectopic
 elevation
 early
@@ -24682,6 +24690,7 @@ EQX
 EPh
 Esophageal
 Epidermal
+Etiopathogenesis
 LEFT
 Lengthening
 Left
@@ -28105,6 +28114,8 @@ puffy
 pitting
 perioral
 polymerase
+postcricoid
+protrude
 Unusual
 Usually
 Upc
@@ -31822,6 +31833,7 @@ Vhs
 VPO
 VPh
 Vascular
+Vinson
 up
 unusual
 usually

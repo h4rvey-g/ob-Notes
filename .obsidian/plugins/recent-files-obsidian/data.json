@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lipid-lowering agents",
+      "path": "USMLE/Cardiology/Lipid-lowering agents.md"
+    },
+    {
       "basename": "Intracranial hemorrhage",
       "path": "USMLE/Neurology/Intracranial hemorrhage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Headaches",
       "path": "USMLE/Neurology/Headaches.md"
-    },
-    {
-      "basename": "Renal tubular disorders",
-      "path": "USMLE/Renal/Renal tubular disorders.md"
     }
   ],
   "omittedPaths": [],

@@ -7,10 +7,11 @@
   "defaultEmbedHeight": "1000px",
   "hasMigratedTo800": true,
   "showWelcomeModal": false,
-  "showDonationModal": true,
+  "showSupportModal": true,
   "showWhatsNewModal": true,
   "defaultFrozenColumnCount": 1,
-  "pluginVersion": "8.4.1",
+  "pluginVersion": "8.7.2",
+  "showDonationModal": true,
   "exportRenderMarkdown": true,
   "customFolderForNewTables": "tables"
 }
