@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lipid transport",
+      "path": "USMLE/Biochemistry/Lipid transport.md"
+    },
+    {
       "basename": "Primary biliary cholangitis",
       "path": "USMLE/GI/Primary biliary cholangitis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Benign prostatic hyperplasia",
       "path": "USMLE/Renal/Benign prostatic hyperplasia.md"
-    },
-    {
-      "basename": "Prostate-specific antigen",
-      "path": "USMLE/Renal/Prostate-specific antigen.md"
     }
   ],
   "omittedPaths": [],
