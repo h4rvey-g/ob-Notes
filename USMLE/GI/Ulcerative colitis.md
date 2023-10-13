@@ -12,12 +12,17 @@ share: true
 
 ---
 # Etiology
-- Genetic predisposition (e.g., HLA-B27 association)
+- <span style="background:rgba(240, 200, 0, 0.2)">Genetic predisposition (e.g., HLA-B27 association)</span>
 - Ethnicity (White populations, individuals of Ashkenazi Jewish descent)
+- <span style="background:rgba(240, 200, 0, 0.2)">Protective factors: smoking</span>
+	- The pathophysiology is not fully understood, as smoking has negative effects on other inflammatory diseases (e.g., Crohn disease). 
 
 ---
 # Pathophysiology
 ![[Pasted image 20230918172226.png]]
+- Dysregulation of intestinal epithelium: increased permeability for luminal bacteria  → activation of macrophages and dendritic cells → antigen presentation to macrophages and naive CD4+ cells
+- Dysregulation of the immune system: upregulation of lymphatic cell activity (T cells, B cells, plasma cells) in bowel walls → enhanced immune reaction and cytotoxic effect on colonic epithelium → inflammation with local tissue damage (ulcerations, erosions, necrosis) in the submucosa and mucosa
+	- Autoantibodies (pANCA) against cells of the intestinal epithelium
 - Pattern of involvement
 	- Ascending inflammation that begins in the rectum and spreads continuously proximally throughout the colon 
 	- Inflammation is limited to the mucosa and submucosa.
@@ -37,7 +42,7 @@ share: true
 	- Tenesmus
 - Extraintestinal symptoms of ulcerative colitis
 	- General: fatigue, fever
-	- Skeletal (most common extraintestinal manifestation of ulcerative colitis): osteoarthritis, ankylosing spondylitis, sacroiliitis
+	- Skeletal (most common extraintestinal manifestation of ulcerative colitis): [[osteoarthritis]], ankylosing spondylitis, sacroiliitis
 	- Ocular: uveitis, episcleritis, iritis
 	- Biliary: <span style="background:rgba(240, 200, 0, 0.2)">primary sclerosing cholangitis (it is rare for patients with ulcerative colitis to develop PSC, but up to 90% of all patients with PSC will also have ulcerative colitis)</span>
 	- Cutaneous
@@ -56,7 +61,7 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
 # Complications
