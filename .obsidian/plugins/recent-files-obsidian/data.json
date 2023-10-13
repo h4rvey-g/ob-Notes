@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hirschsprung disease",
+      "path": "USMLE/GI/Hirschsprung disease.md"
+    },
+    {
       "basename": "Pancreatic cancer",
       "path": "USMLE/GI/Pancreatic cancer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230921164528",
       "path": "appendix/Pasted image 20230921164528.png"
-    },
-    {
-      "basename": "Pasted image 20230722174657",
-      "path": "appendix/Pasted image 20230722174657.png"
     }
   ],
   "omittedPaths": [],

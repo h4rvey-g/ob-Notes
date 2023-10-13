@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Pancreatic cancer.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Hirschsprung disease.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Pancreatic cancer.md",
+                "file": "USMLE/GI/Hirschsprung disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Pancreatic cancer.md",
+                "file": "USMLE/GI/Hirschsprung disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Pancreatic cancer.md"
+                "file": "USMLE/GI/Hirschsprung disease.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231013203052.png",
+    "USMLE/GI/Pancreatic cancer.md",
+    "USMLE/GI/Hirschsprung disease.md",
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/GI/Malrotation.md",
     "appendix/Pasted image 20231012173759.png",
@@ -256,9 +259,6 @@
     "USMLE/GI/Warthin tumor.md",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/MSK/Osteoarthritis.md",
-    "USMLE/GI/Mirizzi syndrome.md",
-    "USMLE/Blood/Mycosis fungoides.md",
-    "USMLE/MSK/Polymyalgia rheumatica.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
