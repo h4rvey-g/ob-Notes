@@ -1753,6 +1753,8 @@ dpXL
 dya
 dzlX
 disproportionately
+developmental
+distension
 of
 over
 originate
@@ -3453,6 +3455,8 @@ rzr
 rqV
 rDGo
 refers
+rotation
+retroperitoneum
 narrow
 negative
 not
@@ -4269,6 +4273,7 @@ nGB
 nnb
 necrotic
 nontoxic
+neonate
 tachycardia
 tract
 the
@@ -6202,6 +6207,7 @@ isF
 iRu
 ijcn
 immunomodulatory
+infant
 general
 giving
 generation
@@ -7825,6 +7831,8 @@ mouth
 molds
 moisture
 medical
+malrotation
+mesentery
 Sinus
 ST
 Segment
@@ -10029,6 +10037,7 @@ OYu
 Oliguric
 Onset
 Offer
+Obstructing
 atrio
 and
 atrial
@@ -10989,6 +10998,9 @@ aiz
 aYX
 aHx
 aEN
+adhesions
+attach
+anatomical
 ventricular
 varying
 vaccines
@@ -11794,6 +11806,7 @@ vIdR
 vJau
 vJx
 vXtP
+volvulus
 conduction
 concealed
 complex
@@ -12796,6 +12809,7 @@ ceramide
 cramping
 choleretic
 cytoprotective
+cecum
 bypass
 block
 background
@@ -13618,6 +13632,7 @@ bYn
 bzT
 bjA
 biliary
+band
 flutter
 from
 focus
@@ -14467,6 +14482,7 @@ flexure
 facies
 filaggrin
 food
+fixation
 with
 wave
 which
@@ -17546,6 +17562,7 @@ spots
 start
 scleroderma
 squamous
+stalks
 QRS
 QT
 QDQ
@@ -19820,6 +19837,9 @@ MaL
 Microstomia
 Microangiopathic
 MAHA
+Megacolon
+Malrotation
+Midgut
 Differentiate
 Drugs
 DDx
@@ -25433,6 +25453,7 @@ Lmg
 LHZ
 LHZty
 Limited
+Ladd
 Hyperkalemia
 HIV
 HCV
@@ -27066,6 +27087,8 @@ hyperkeratotic
 harmless
 hyperdense
 hydrophilic
+hematochezia
+hematemesis
 peaked
 pattern
 precordial
@@ -28131,6 +28154,7 @@ polymerase
 postcricoid
 protrude
 principles
+peritoneal
 Unusual
 Usually
 Upc
@@ -29562,6 +29586,8 @@ Bag
 BPXO
 BfV
 Barrett
+Bands
+Bilious
 Characteristic
 CLL
 Clinical
@@ -31138,6 +31164,8 @@ RAB
 RjZ
 RwQ
 Raynaud
+RLQ
+RUQ
 Voltage
 VFV
 VoNW
@@ -33336,6 +33364,7 @@ qKE
 qiN
 qIac
 quPO
+quadrant
 GpIIb
 GpIb
 Gg
