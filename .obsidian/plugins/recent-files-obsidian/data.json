@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Zinc deficiency",
+      "path": "USMLE/Biochemistry/Zinc deficiency.md"
+    },
+    {
       "basename": "Hirschsprung disease",
       "path": "USMLE/GI/Hirschsprung disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Myasthenia gravis",
       "path": "USMLE/MSK/Myasthenia gravis.md"
-    },
-    {
-      "basename": "Pasted image 20230921164528",
-      "path": "appendix/Pasted image 20230921164528.png"
     }
   ],
   "omittedPaths": [],
