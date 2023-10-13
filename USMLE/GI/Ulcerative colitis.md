@@ -20,8 +20,8 @@ share: true
 ---
 # Pathophysiology
 ![[Pasted image 20230918172226.png]]
-- Dysregulation of intestinal epithelium: increased permeability for luminal bacteria  → activation of macrophages and dendritic cells → antigen presentation to macrophages and naive CD4+ cells
-- Dysregulation of the immune system: upregulation of lymphatic cell activity (T cells, B cells, plasma cells) in bowel walls → enhanced immune reaction and cytotoxic effect on colonic epithelium → inflammation with local tissue damage (ulcerations, erosions, necrosis) in the submucosa and mucosa
+- <span style="background:rgba(240, 200, 0, 0.2)">Dysregulation of intestinal epithelium</span>: increased permeability for luminal bacteria  → activation of macrophages and dendritic cells → antigen presentation to macrophages and naive CD4+ cells
+- <span style="background:rgba(240, 200, 0, 0.2)">Dysregulation of the immune system</span>: upregulation of lymphatic cell activity (T cells, B cells, plasma cells) in bowel walls → enhanced immune reaction and cytotoxic effect on colonic epithelium → inflammation with local tissue damage (ulcerations, erosions, necrosis) in the submucosa and mucosa
 	- Autoantibodies (pANCA) against cells of the intestinal epithelium
 - Pattern of involvement
 	- Ascending inflammation that begins in the rectum and spreads continuously proximally throughout the colon 

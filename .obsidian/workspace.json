@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md"
+                "file": "USMLE/GI/Pancreatic cancer.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/GI/Ulcerative colitis.md",
     "USMLE/GI/Malrotation.md",
     "appendix/Pasted image 20231012173759.png",
     "appendix/Pasted image 20231012173446.png",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pancreatic cancer",
+      "path": "USMLE/GI/Pancreatic cancer.md"
+    },
+    {
       "basename": "Ulcerative colitis",
       "path": "USMLE/GI/Ulcerative colitis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230722174657",
       "path": "appendix/Pasted image 20230722174657.png"
-    },
-    {
-      "basename": "Congestive heart failure",
-      "path": "USMLE/Cardiology/Congestive heart failure.md"
     }
   ],
   "omittedPaths": [],
