@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Calcium pyrophosphate deposition disease",
+      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
+    },
+    {
+      "basename": "Osteoarthritis",
+      "path": "USMLE/MSK/Osteoarthritis.md"
+    },
+    {
+      "basename": "Rheumatoid arthritis",
+      "path": "USMLE/MSK/Rheumatoid arthritis.md"
+    },
+    {
       "basename": "Zinc deficiency",
       "path": "USMLE/Biochemistry/Zinc deficiency.md"
     },
@@ -65,10 +77,6 @@
       "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     },
     {
-      "basename": "Calcium pyrophosphate deposition disease",
-      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
-    },
-    {
       "basename": "Polyarteritis nodosa",
       "path": "USMLE/MSK/Polyarteritis nodosa.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "Pasted image 20230928150707",
       "path": "appendix/Pasted image 20230928150707.png"
-    },
-    {
-      "basename": "Osteoarthritis",
-      "path": "USMLE/MSK/Osteoarthritis.md"
     },
     {
       "basename": "Pasted image 20230928155850",
@@ -195,10 +199,6 @@
     {
       "basename": "Idiopathic inflammatory myopathies",
       "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
-    },
-    {
-      "basename": "Myasthenia gravis",
-      "path": "USMLE/MSK/Myasthenia gravis.md"
     }
   ],
   "omittedPaths": [],

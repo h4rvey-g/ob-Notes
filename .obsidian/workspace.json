@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Zinc deficiency.md",
+                "file": "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Zinc deficiency.md",
+                "file": "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Zinc deficiency.md",
+                "file": "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Zinc deficiency.md"
+                "file": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
               }
             }
           }
@@ -223,9 +223,13 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/MSK/Osteoarthritis.md",
+    "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
+    "USMLE/MSK/Rheumatoid arthritis.md",
+    "appendix/Pasted image 20231014090158.png",
+    "USMLE/Biochemistry/Zinc deficiency.md",
     "appendix/Pasted image 20231013204734.png",
     "USMLE/MSK/Alopecia.md",
-    "USMLE/Biochemistry/Zinc deficiency.md",
     "USMLE/GI/Hirschsprung disease.md",
     "appendix/Pasted image 20231013203052.png",
     "USMLE/GI/Pancreatic cancer.md",
@@ -242,9 +246,7 @@
     "appendix/Pasted image 20231012164231.png",
     "appendix/Pasted image 20231012162748.png",
     "appendix/Pasted image 20231012162530.png",
-    "appendix/Pasted image 20231012162049.png",
     "USMLE/Cardiology/Lipid-lowering agents.md",
-    "appendix/Pasted image 20231012134711.png",
     "USMLE/GI/Plummer-Vinson syndrome.md",
     "USMLE/Pathology/Amyloidosis.md",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
@@ -255,10 +257,8 @@
     "USMLE/MSK/IgA vasculitis.md",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Rapidly progressive glomerulonephritis.md",
-    "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
     "USMLE/MSK/Polyarteritis nodosa.md",
     "USMLE/MSK/Vasculitides.md",
-    "USMLE/GI/Warthin tumor.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
