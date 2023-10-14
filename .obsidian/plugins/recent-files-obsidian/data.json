@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Alpha-1 antitrypsin deficiency",
+      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "USMLE/GI/Untitled.md"
+    },
+    {
       "basename": "Acute pancreatitis",
       "path": "USMLE/GI/Acute pancreatitis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Osteogenesis imperfecta",
       "path": "USMLE/MSK/Osteogenesis imperfecta.md"
-    },
-    {
-      "basename": "Achondroplasia",
-      "path": "USMLE/MSK/Achondroplasia.md"
-    },
-    {
-      "basename": "Primary ciliary dyskinesia",
-      "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
     }
   ],
   "omittedPaths": [],
