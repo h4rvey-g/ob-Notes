@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Spinal stenosis",
+      "path": "USMLE/MSK/Spinal stenosis.md"
+    },
+    {
       "basename": "Congenital neck masses",
       "path": "USMLE/GI/Congenital neck masses.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Neuroblastoma",
       "path": "USMLE/Endocrine/Neuroblastoma.md"
-    },
-    {
-      "basename": "ECGs",
-      "path": "USMLE/Cardiology/ECGs.md"
     }
   ],
   "omittedPaths": [],
