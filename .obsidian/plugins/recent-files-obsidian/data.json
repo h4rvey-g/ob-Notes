@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hallux valgus",
+      "path": "USMLE/MSK/Hallux valgus.md"
+    },
+    {
       "basename": "Hammer toe",
       "path": "USMLE/MSK/Hammer toe.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Poliomyelitis",
       "path": "USMLE/MSK/Poliomyelitis.md"
-    },
-    {
-      "basename": "Hyperparathyroidism",
-      "path": "USMLE/Endocrine/Hyperparathyroidism.md"
     }
   ],
   "omittedPaths": [],
