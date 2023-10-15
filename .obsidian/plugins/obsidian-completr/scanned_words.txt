@@ -5240,6 +5240,8 @@ taste
 tenderness
 tympany
 though
+tenesmus
+treats
 in
 includes
 involving
@@ -10071,6 +10073,8 @@ Oliguric
 Onset
 Offer
 Obstructing
+Oxybutynin
+Overactive
 atrio
 and
 atrial
@@ -11845,6 +11849,8 @@ vJau
 vJx
 vXtP
 volvulus
+volumes
+voided
 conduction
 concealed
 complex

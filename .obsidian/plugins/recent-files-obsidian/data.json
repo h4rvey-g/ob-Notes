@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Stress fractures",
+      "path": "USMLE/MSK/Stress fractures.md"
+    },
+    {
+      "basename": "Urge incontinence",
+      "path": "USMLE/Renal/Urge incontinence.md"
+    },
+    {
       "basename": "Calcitonin",
       "path": "USMLE/MSK/Calcitonin.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Shaken baby syndrome",
       "path": "USMLE/Psychiatry/Shaken baby syndrome.md"
-    },
-    {
-      "basename": "Arthrocentesis",
-      "path": "USMLE/MSK/Arthrocentesis.md"
-    },
-    {
-      "basename": "Pasted image 20230928160542",
-      "path": "appendix/Pasted image 20230928160542.png"
     }
   ],
   "omittedPaths": [],
