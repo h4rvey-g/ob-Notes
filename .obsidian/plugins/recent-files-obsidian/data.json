@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA vasculitis",
+      "path": "USMLE/MSK/IgA vasculitis.md"
+    },
+    {
+      "basename": "Pasted image 20230920172031",
+      "path": "appendix/Pasted image 20230920172031.png"
+    },
+    {
+      "basename": "Pasted image 20230928151653",
+      "path": "appendix/Pasted image 20230928151653.png"
+    },
+    {
       "basename": "Eosinophilic esophagitis",
       "path": "USMLE/GI/Eosinophilic esophagitis.md"
     },
@@ -141,20 +153,12 @@
       "path": "USMLE/MSK/Atopic dermatitis.md"
     },
     {
-      "basename": "IgA vasculitis",
-      "path": "USMLE/MSK/IgA vasculitis.md"
-    },
-    {
       "basename": "Rapidly progressive glomerulonephritis",
       "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     },
     {
       "basename": "Polyarteritis nodosa",
       "path": "USMLE/MSK/Polyarteritis nodosa.md"
-    },
-    {
-      "basename": "Pasted image 20230928151653",
-      "path": "appendix/Pasted image 20230928151653.png"
     },
     {
       "basename": "Vasculitides",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230909215738",
       "path": "appendix/Pasted image 20230909215738.png"
-    },
-    {
-      "basename": "Polymyalgia rheumatica",
-      "path": "USMLE/MSK/Polymyalgia rheumatica.md"
     }
   ],
   "omittedPaths": [],

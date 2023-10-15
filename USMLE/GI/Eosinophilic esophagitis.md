@@ -32,6 +32,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+- First-line: Proton pump inhibitors (PPIs)
 
 ---
