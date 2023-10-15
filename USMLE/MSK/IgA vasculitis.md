@@ -52,6 +52,7 @@ IgA and C3 complex deposition (hallmark) in small vessels of the superficial der
 
 ---
 # Differential Diagnosis
+See [[Purpura differential diagnosis]]
 ![[Pasted image 20231015163602.png]]
 ---
 # Treatment
