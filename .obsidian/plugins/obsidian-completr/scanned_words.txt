@@ -1761,6 +1761,7 @@ dismutase
 dysgeusia
 distributive
 discoloration
+ductal
 of
 over
 originate
@@ -23167,6 +23168,7 @@ Promptly
 PAH
 Plummer
 Perioral
+PRSS
 ectopic
 elevation
 early
@@ -26309,6 +26311,7 @@ HGj
 HhC
 HDbO
 HTcL
+Hepatolenticular
 hyperkalemia
 hypertrophy
 hereditary
@@ -27161,6 +27164,8 @@ healing
 hypogonadism
 histidine
 hard
+heavy
+hypertriglyceridemia
 peaked
 pattern
 precordial

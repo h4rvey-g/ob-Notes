@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Alpha-1 antitrypsin deficiency",
-      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
+      "basename": "Wilson disease",
+      "path": "USMLE/GI/Wilson disease.md"
     },
     {
-      "basename": "Untitled",
-      "path": "USMLE/GI/Untitled.md"
+      "basename": "Chronic pancreatitis",
+      "path": "USMLE/GI/Chronic pancreatitis.md"
+    },
+    {
+      "basename": "Alpha-1 antitrypsin deficiency",
+      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
     },
     {
       "basename": "Acute pancreatitis",
@@ -195,10 +199,6 @@
     {
       "basename": "Nephrolithiasis",
       "path": "USMLE/Renal/Nephrolithiasis.md"
-    },
-    {
-      "basename": "Osteogenesis imperfecta",
-      "path": "USMLE/MSK/Osteogenesis imperfecta.md"
     }
   ],
   "omittedPaths": [],
