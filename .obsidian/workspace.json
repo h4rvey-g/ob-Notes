@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Spinal stenosis.md",
+                "file": "USMLE/GI/Eosinophilic esophagitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Spinal stenosis.md",
+                "file": "USMLE/GI/Eosinophilic esophagitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Spinal stenosis.md",
+                "file": "USMLE/GI/Eosinophilic esophagitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Spinal stenosis.md"
+                "file": "USMLE/GI/Eosinophilic esophagitis.md"
               }
             }
           }
@@ -223,9 +223,13 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231015161639.png",
+    "appendix/Pasted image 20231015161630.png",
+    "appendix/Pasted image 20231015160934.png",
+    "USMLE/MSK/Spinal stenosis.md",
+    "USMLE/GI/Eosinophilic esophagitis.md",
     "appendix/Pasted image 20231015154723.png",
     "USMLE/GI/Congenital neck masses.md",
-    "USMLE/MSK/Spinal stenosis.md",
     "appendix/Pasted image 20231015143315.png",
     "appendix/Pasted image 20231015111723.png",
     "appendix/Pasted image 20231015111705.png",
@@ -238,15 +242,12 @@
     "appendix/Pasted image 20231015102222.png",
     "appendix/Pasted image 20231015102140.png",
     "USMLE/MSK/Hammer toe.md",
-    "appendix/Pasted image 20231015101543.png",
     "USMLE/MSK/Stress fractures.md",
-    "appendix/Pasted image 20231015101016.png",
     "USMLE/Renal/Urge incontinence.md",
     "USMLE/MSK/Calcitonin.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/Lab Values.md",
     "USMLE/GI/Wilson disease.md",
-    "appendix/Pasted image 20231015091950.png",
     "USMLE/GI/Chronic pancreatitis.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "USMLE/GI/Acute pancreatitis.md",
@@ -258,7 +259,6 @@
     "USMLE/MSK/Alopecia.md",
     "USMLE/GI/Hirschsprung disease.md",
     "USMLE/GI/Pancreatic cancer.md",
-    "USMLE/GI/Ulcerative colitis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

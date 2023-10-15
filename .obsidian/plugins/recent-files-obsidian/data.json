@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Eosinophilic esophagitis",
+      "path": "USMLE/GI/Eosinophilic esophagitis.md"
+    },
+    {
       "basename": "Spinal stenosis",
       "path": "USMLE/MSK/Spinal stenosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Polymyalgia rheumatica",
       "path": "USMLE/MSK/Polymyalgia rheumatica.md"
-    },
-    {
-      "basename": "Neuroblastoma",
-      "path": "USMLE/Endocrine/Neuroblastoma.md"
     }
   ],
   "omittedPaths": [],
