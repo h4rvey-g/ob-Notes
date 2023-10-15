@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Wilson disease.md",
+                "file": "USMLE/MSK/Calcitonin.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Wilson disease.md",
+                "file": "USMLE/MSK/Calcitonin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Wilson disease.md",
+                "file": "USMLE/MSK/Calcitonin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Wilson disease.md"
+                "file": "USMLE/MSK/Calcitonin.md"
               }
             }
           }
@@ -223,8 +223,12 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/GI/Chronic pancreatitis.md",
+    "USMLE/Blood/Alkaline phosphatase.md",
+    "USMLE/MSK/Calcitonin.md",
+    "USMLE/Lab Values.md",
     "USMLE/GI/Wilson disease.md",
+    "appendix/Pasted image 20231015091950.png",
+    "USMLE/GI/Chronic pancreatitis.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Dieulafoy lesion.md",
@@ -250,15 +254,11 @@
     "appendix/Pasted image 20231012170344.png",
     "appendix/Pasted image 20231012164231.png",
     "appendix/Pasted image 20231012162748.png",
-    "appendix/Pasted image 20231012162530.png",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/GI/Plummer-Vinson syndrome.md",
     "USMLE/Pathology/Amyloidosis.md",
     "USMLE/Cardiology/Restrictive cardiomyopathy.md",
     "USMLE/MSK/Systemic sclerosis.md",
-    "USMLE/MSK/Atopic dermatitis.md",
-    "USMLE/Respiratory/Atopy.md",
-    "USMLE/Renal/Acute kidney injury.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

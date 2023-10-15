@@ -22,7 +22,7 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+![[Pasted image 20231015091950.png]]
 
 ---
 # Diagnostics

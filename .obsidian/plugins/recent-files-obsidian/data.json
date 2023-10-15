@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Calcitonin",
+      "path": "USMLE/MSK/Calcitonin.md"
+    },
+    {
+      "basename": "Alkaline phosphatase",
+      "path": "USMLE/Blood/Alkaline phosphatase.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Wilson disease",
       "path": "USMLE/GI/Wilson disease.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20230928160542",
       "path": "appendix/Pasted image 20230928160542.png"
-    },
-    {
-      "basename": "Reactive arthritis",
-      "path": "USMLE/MSK/Reactive arthritis.md"
-    },
-    {
-      "basename": "Pasted image 20230928160644",
-      "path": "appendix/Pasted image 20230928160644.png"
-    },
-    {
-      "basename": "Nephrolithiasis",
-      "path": "USMLE/Renal/Nephrolithiasis.md"
     }
   ],
   "omittedPaths": [],
