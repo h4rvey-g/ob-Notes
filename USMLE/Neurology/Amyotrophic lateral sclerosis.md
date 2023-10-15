@@ -21,7 +21,7 @@ Classically affects the entire motor neuron system at two or more levels (both u
 ---
 # Clinical features
 ## General disease characteristics
-- <span style="background:rgba(240, 200, 0, 0.2)">Both upper motor neuron (UMN) and lower motor neuron (LMN) signs are present</span> (see Upper motor neuron injury vs. lower motor neuron injury)
+- <span style="background:rgba(240, 200, 0, 0.2)">Both upper motor neuron (UMN) and lower motor neuron (LMN) signs are present</span> (see [[Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury]])
 - <span style="background:rgba(240, 200, 0, 0.2)">Constant disease progression</span>: it usually starts in one arm and/or leg then progresses to the <span style="background:rgba(240, 200, 0, 0.2)">contralateral side</span>
 ## Early symptoms
 - Symptoms are highly variable and potentially non-specific (e.g., subtle vocal changes or difficulties grasping objects)
@@ -46,8 +46,7 @@ Classically affects the entire motor neuron system at two or more levels (both u
 # Differential Diagnosis
 - [[Myasthenia gravis]]
 	- Weakness improves with acetylcholinesterase inhibitors
-	- No UMN or LMN signs
-
+	- <span style="background:rgba(240, 200, 0, 0.2)">No UMN or LMN signs</span>
 
 ---
 # Treatment

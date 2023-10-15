@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
-      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
+      "basename": "Congenital neck masses",
+      "path": "USMLE/GI/Congenital neck masses.md"
     },
     {
       "basename": "Amyotrophic lateral sclerosis",
       "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
+    },
+    {
+      "basename": "Myasthenia gravis",
+      "path": "USMLE/MSK/Myasthenia gravis.md"
+    },
+    {
+      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
+      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
     },
     {
       "basename": "Hallux valgus",
@@ -191,14 +199,6 @@
     {
       "basename": "ECGs",
       "path": "USMLE/Cardiology/ECGs.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
-    },
-    {
-      "basename": "Acute respiratory distress syndrome",
-      "path": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
     }
   ],
   "omittedPaths": [],
