@@ -6,6 +6,10 @@ aliases: Untitled
 share: true
 ---
 ![[Pasted image 20231015111723.png]]
+# Thyroglossal duct cyst
+- Painless, firm, <span style="background:rgba(240, 200, 0, 0.2)">midline</span> neck mass that elevates with swallowing and tongue protrusion
+- Usually located near the hyoid bone 
+- May cause dysphagia or neck/throat pain
 # Branchial cleft cyst
 - **Definition:** <span style="background:rgba(240, 200, 0, 0.2)">remnants of the embryological second branchial cleft or cervical sinus</span>, which normally regresses before birth
 - **Pathophysiology:** formed due to incomplete obliteration of branchial clefts and pouches![[Pasted image 20231015111236.png]]
@@ -18,3 +22,12 @@ share: true
 - Ultrasound: Round mass with uniform low echogenicity and no internal septations
 >[!tip] 
 >Branchial cleft cysts manifest as a painless, firm neck mass lateral to the midline.
+# Cystic hygroma
+- Definition: a congenital lymphatic cyst (macrocystic lymphangioma) in the posterior triangle of the neck caused by malformation and obstruction of the fetal lymphatic system
+- Epidemiology
+	- ∼ 1:6,000 live births [4]
+	- Strongly associated with fetal aneuploidy (e.g., Turner syndrome, trisomy 21) and congenital malformations (e.g., congenital heart defects)
+- Clinical features
+	- Present at birth as a soft, compressible, painless, <span style="background:rgba(240, 200, 0, 0.2)">posterior triangle</span> neck mass 
+	- Can cause dysphagia or airway compromise
+	- Positive transillumination test
