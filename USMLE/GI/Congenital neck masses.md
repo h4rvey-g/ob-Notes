@@ -28,6 +28,6 @@ share: true
 	- ∼ 1:6,000 live births [4]
 	- Strongly associated with fetal aneuploidy (e.g., Turner syndrome, trisomy 21) and congenital malformations (e.g., congenital heart defects)
 - Clinical features
-	- Present at birth as a soft, compressible, painless, <span style="background:rgba(240, 200, 0, 0.2)">posterior triangle</span> neck mass 
+	- Present at birth as a soft, compressible, painless, <span style="background:rgba(240, 200, 0, 0.2)">posterior triangle</span> neck mass ![[Pasted image 20231015143315.png]]
 	- Can cause dysphagia or airway compromise
 	- Positive transillumination test
