@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
+      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
+    },
+    {
+      "basename": "Amyotrophic lateral sclerosis",
+      "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
+    },
+    {
       "basename": "Hallux valgus",
       "path": "USMLE/MSK/Hallux valgus.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Acute respiratory distress syndrome",
       "path": "USMLE/Respiratory/Acute respiratory distress syndrome.md"
-    },
-    {
-      "basename": "Whipple disease",
-      "path": "USMLE/GI/Whipple disease.md"
-    },
-    {
-      "basename": "Poliomyelitis",
-      "path": "USMLE/MSK/Poliomyelitis.md"
     }
   ],
   "omittedPaths": [],

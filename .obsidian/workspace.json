@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Hallux valgus.md",
+                "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Hallux valgus.md",
+                "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Hallux valgus.md",
+                "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Hallux valgus.md"
+                "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
               }
             }
           }
@@ -223,10 +223,13 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231015105728.png",
+    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+    "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
+    "USMLE/MSK/Hallux valgus.md",
     "appendix/Pasted image 20231015102222.png",
     "appendix/Pasted image 20231015102140.png",
     "USMLE/MSK/Hammer toe.md",
-    "USMLE/MSK/Hallux valgus.md",
     "appendix/Pasted image 20231015101543.png",
     "USMLE/MSK/Stress fractures.md",
     "appendix/Pasted image 20231015101016.png",
@@ -256,9 +259,6 @@
     "appendix/Pasted image 20231012173446.png",
     "USMLE/GI/Cholelithiasis.md",
     "USMLE/GI/Primary biliary cholangitis.md",
-    "USMLE/Neurology/Intracranial hemorrhage.md",
-    "USMLE/Biochemistry/Lipid transport.md",
-    "appendix/Pasted image 20231012170358.png",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

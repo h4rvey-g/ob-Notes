@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-09-23 14:44
 modified: 2023-09-23 14:44
-aliases: Untitled
+aliases:
+  - ALS
 share: true
 ---
 a neurodegenerative disease with upper and lower motor neuron dysfunction.
