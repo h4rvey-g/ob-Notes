@@ -22,17 +22,27 @@ share: true
 - Calcium and/or vitamin D deficiency
 - Female sex
 
+>[!tip] 
+>The female athlete triad syndrome is associated with an increased risk of stress fractures.
+
 ---
 # Pathophysiology
-<% tp.file.cursor() %>
+
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Lower extremities (most common): tibia, tarsal navicular, metatarsals (march fracture), femur, fibula, pelvis
+- Pain that worsens with activity and resolves with rest
+- Focal bone tenderness, erythema, and/or soft tissue swelling
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+- X-ray: recommended initial imaging study
+	- Radiographic features of stress fractures include:
+		- Fracture line: line of faint lucency
+		- Indirect features: periosteal thickening, increased cortical density, formation of a callus, endosteal thickening and/or sclerosis
+	- ![[Pasted image 20231015101016.png]]
+	- Often normal in the first 2–3 weeks of disease onset
 
 ---
 # Treatment

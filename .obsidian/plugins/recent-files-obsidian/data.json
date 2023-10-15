@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hammer toe",
+      "path": "USMLE/MSK/Hammer toe.md"
+    },
+    {
       "basename": "Stress fractures",
       "path": "USMLE/MSK/Stress fractures.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hyperparathyroidism",
       "path": "USMLE/Endocrine/Hyperparathyroidism.md"
-    },
-    {
-      "basename": "Shaken baby syndrome",
-      "path": "USMLE/Psychiatry/Shaken baby syndrome.md"
     }
   ],
   "omittedPaths": [],
