@@ -17,7 +17,7 @@ The two major contributing factors to the development of PUD are gastrointestina
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with 40–70% of duodenal ulcers and 25–50% of gastric ulcers</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic NSAID use</span>
 >[!tip] 
->Acetaminophen 
+>Unlike aspirin and other NSAIDS, acetaminophen is believed to be safe for people with ulcers. It is inactivated peripherally. Since it doesn't thin the blood, it doesn't increase the risk of bleeding either.
 ## Associated risk factors
 - Shared risk factors for PUD, GERD and gastritis (i.e., smoking, heavy alcohol use, glucocorticoids, caffeine)
 ## Rare causes of PUD
