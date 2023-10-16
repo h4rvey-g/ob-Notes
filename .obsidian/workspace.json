@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md",
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md",
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md"
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md"
               }
             }
           }
@@ -223,8 +223,10 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/MSK/Purpura differential diagnosis.md",
+    "appendix/Pasted image 20231016163207.png",
     "USMLE/GI/Peptic ulcer disease.md",
+    "USMLE/GI/Primary sclerosing cholangitis.md",
+    "USMLE/MSK/Purpura differential diagnosis.md",
     "appendix/Pasted image 20231015163602.png",
     "USMLE/MSK/Still disease.md",
     "appendix/Pasted image 20231015172735.png",
@@ -257,8 +259,6 @@
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Dieulafoy lesion.md",
     "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
-    "USMLE/MSK/Osteoarthritis.md",
-    "USMLE/MSK/Rheumatoid arthritis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
