@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cirrhosis",
+      "path": "USMLE/GI/Cirrhosis.md"
+    },
+    {
       "basename": "Peptic ulcer disease",
       "path": "USMLE/GI/Peptic ulcer disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
-    },
-    {
-      "basename": "Pasted image 20230928150707",
-      "path": "appendix/Pasted image 20230928150707.png"
     }
   ],
   "omittedPaths": [],
