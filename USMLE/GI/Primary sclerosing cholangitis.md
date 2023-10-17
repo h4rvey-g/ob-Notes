@@ -58,7 +58,7 @@ Progressive chronic inflammation of <span style="background:rgba(240, 200, 0, 0.
 - Typical perinuclear anti-neutrophil cytoplasmic antibodies (<span style="background:rgba(240, 200, 0, 0.2)">pANCA</span>): present in up to 80% of patients with PSC.
 ## Magnetic resonance cholangiopancreatography 
 - Method of choice (if there is no biliary obstruction)
-- Supportive findings: <span style="background:rgba(240, 200, 0, 0.2)">multifocal intrahepatic and extrahepatic bile duct strictures alternating with dilatation and beading of bile ducts</span>
+- Supportive findings: <span style="background:rgba(240, 200, 0, 0.2)">multifocal intrahepatic and extrahepatic bile duct strictures alternating with dilatation and beading of bile ducts</span>![[Pasted image 20231017161356.png]]There is irregular dilatation (green overlay) of intrahepatic bile ducts proximal to a common duct stenosis (arrow). Alternation of strictured and dilated segments creates a beaded appearance. Peripheral ducts appear pruned as a result of obliteration (examples indicated by arrowheads), and scattered biliary diverticula are seen (example indicated by red overlay).
 
 # Differential Diagnosis
 ![[Pasted image 20231017161223.png]]

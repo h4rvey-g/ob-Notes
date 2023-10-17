@@ -1799,6 +1799,7 @@ dGZ
 dendritic
 duodenal
 doesn
+dilatation
 of
 over
 originate
@@ -2547,6 +2548,7 @@ oSkq
 oDf
 otH
 oWb
+overlay
 regular
 reentrant
 retrograde
@@ -3539,6 +3541,7 @@ retinal
 reX
 rnF
 rWi
+resonance
 narrow
 negative
 not
@@ -6347,6 +6350,7 @@ iIM
 iihiQJ
 intrahepatic
 icterus
+indicated
 general
 giving
 generation
@@ -9645,6 +9649,7 @@ Autoantibodies
 Associations
 AST
 ALT
+Alternation
 Orthodromic
 On
 Often
@@ -11268,6 +11273,9 @@ acV
 aqY
 aphthous
 avJ
+alternating
+arrow
+arrowheads
 ventricular
 varying
 vaccines
@@ -13123,6 +13131,8 @@ comorbidities
 conjugated
 cholestatic
 cytoplasmic
+cholangiopancreatography
+creates
 bypass
 block
 background
@@ -13969,6 +13979,8 @@ bKF
 bvd
 bEz
 bilirubin
+beading
+beaded
 flutter
 from
 focus
@@ -18004,6 +18016,8 @@ serositis
 safe
 states
 scleral
+strictured
+segments
 QRS
 QT
 QDQ
@@ -20325,6 +20339,8 @@ MDDDDD
 MDDDD
 MBLH
 MoTSf
+Magnetic
+Method
 Differentiate
 Drugs
 DDx
@@ -24575,6 +24591,7 @@ eYi
 extra
 erosions
 extrahepatic
+examples
 Early
 Elevation
 Etiology
@@ -28873,6 +28890,7 @@ pANCA
 pylori
 peripherally
 profile
+pruned
 Unusual
 Usually
 Upc
@@ -31166,6 +31184,7 @@ Cdb
 CBK
 CDDDDDDDdc
 Cholestatic
+Cholangiocarcinoma
 Right
 Retrograde
 Rates
