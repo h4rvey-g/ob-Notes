@@ -44,14 +44,14 @@ share: true
 	- General: fatigue, fever
 	- Skeletal (most common extraintestinal manifestation of ulcerative colitis): [[osteoarthritis]], ankylosing spondylitis, sacroiliitis
 	- Ocular: uveitis, episcleritis, iritis
-	- Biliary: <span style="background:rgba(240, 200, 0, 0.2)">primary sclerosing cholangitis (it is rare for patients with ulcerative colitis to develop PSC, but up to 90% of all patients with PSC will also have ulcerative colitis)</span>
+	- Biliary: <span style="background:rgba(240, 200, 0, 0.2)">[[primary sclerosing cholangitis]] (it is rare for patients with ulcerative colitis to develop [[Primary sclerosing cholangitis|PSC]], but up to 90% of all patients with [[Primary sclerosing cholangitis|PSC]] will also have ulcerative colitis)</span>
 	- Cutaneous
 		- Erythema nodosum
 		- Pyoderma gangrenosum
 		- Aphthous stomatitis
 
 >[!tip] 
->PSC is often associated with inflammatory bowel disease, especially ulcerative colitis. However, only approximately 4% of patients with inflammatory bowel disease develop PSC.
+>[[Primary sclerosing cholangitis|PSC]] is often associated with inflammatory bowel disease, especially ulcerative colitis. However, only approximately 4% of patients with inflammatory bowel disease develop [[Primary sclerosing cholangitis|PSC]].
 
 
 

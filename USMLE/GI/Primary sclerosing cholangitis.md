@@ -11,6 +11,9 @@ share: true
 - Sex: ♂ > ♀ (2:1)
 - Age: The median age at diagnosis is ∼ 40.
 
+>[!tip] 
+>Compared with [[Primary biliary cholangitis]], which are common among middle-aged women.
+
 ---
 # Etiology
 - The exact cause is unknown.
@@ -24,7 +27,7 @@ share: true
 
 ---
 # Pathophysiology
-
+Progressive chronic inflammation of <span style="background:rgba(240, 200, 0, 0.2)">both intrahepatic and extrahepatic bile ducts</span>
 
 ---
 # Clinical features
@@ -42,10 +45,28 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+- Cholestatic enzymes
+	- ↑ [[Alkaline phosphatase|ALP]]
+	- ↑ GGT
+	- Normal or ↑ conjugated bilirubin 
+- Transaminases: normal or moderately elevated (approx. 2–3× ULN) AST and ALT  [3]
+- Lipid profile: ↑ total cholesterol
+
+>[!Mnemonic] 
+>Suspect PSC in patients with a history of inflammatory bowel disease and elevated cholestatic enzymes (ALP, GGT, and conjugated bilirubin).
+
+- Typical perinuclear anti-neutrophil cytoplasmic antibodies (<span style="background:rgba(240, 200, 0, 0.2)">pANCA</span>): present in up to 80% of patients with PSC.
+## Magnetic resonance cholangiopancreatography 
+- Method of choice (if there is no biliary obstruction)
+- Supportive findings: <span style="background:rgba(240, 200, 0, 0.2)">multifocal intrahepatic and extrahepatic bile duct strictures alternating with dilatation and beading of bile ducts</span>
+
+# Differential Diagnosis
+![[Pasted image 20231017161223.png]]
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
+# Complications
+- Cholangiocarcinoma (∼ 10–15% of cases)

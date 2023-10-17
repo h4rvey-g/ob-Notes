@@ -821,6 +821,7 @@ Turkey
 TuB
 TlZ
 TJynsPP
+Transaminases
 differentials
 differential
 diagnosis
@@ -1795,6 +1796,9 @@ ddyhv
 dxGYe
 decade
 dGZ
+dendritic
+duodenal
+doesn
 of
 over
 originate
@@ -4365,6 +4369,8 @@ nDr
 nJB
 nDqJ
 nEv
+naive
+nonsteroidal
 tachycardia
 tract
 the
@@ -6339,6 +6345,8 @@ iridocyclitis
 iYZ
 iIM
 iihiQJ
+intrahepatic
+icterus
 general
 giving
 generation
@@ -7051,6 +7059,7 @@ gauge
 gDt
 gcS
 generalized
+gastritis
 major
 mechanisms
 mark
@@ -7995,6 +8004,9 @@ mPt
 mAJ
 mig
 mje
+median
+majority
+moderately
 Sinus
 ST
 Segment
@@ -8818,6 +8830,7 @@ SvA
 Sjjl
 Sev
 Stj
+Shared
 AVNRT
 Atrial
 AVRT
@@ -9628,6 +9641,10 @@ AVz
 ACDDDDDDD
 AJn
 AycwzX
+Autoantibodies
+Associations
+AST
+ALT
 Orthodromic
 On
 Often
@@ -13100,6 +13117,12 @@ chorioretinitis
 czd
 cXu
 cSu
+cytotoxic
+contributing
+comorbidities
+conjugated
+cholestatic
+cytoplasmic
 bypass
 block
 background
@@ -13945,6 +13968,7 @@ bxX
 bKF
 bvd
 bEz
+bilirubin
 flutter
 from
 focus
@@ -17977,6 +18001,9 @@ sayy
 spikes
 salmon
 serositis
+safe
+states
+scleral
 QRS
 QT
 QDQ
@@ -19496,6 +19523,7 @@ lDez
 lDp
 lmP
 lasts
+lymphatic
 Multifocal
 Mild
 Moderate
@@ -21114,6 +21142,7 @@ DtSF
 DqY
 DDDDDt
 DEM
+Dysregulation
 FFF
 Fib
 Fi
@@ -23648,6 +23677,9 @@ PIVpi
 PLo
 PATHERGY
 PYiug
+Protective
+Pale
+Portal
 ectopic
 elevation
 early
@@ -24541,6 +24573,8 @@ exN
 eHrrB
 eYi
 extra
+erosions
+extrahepatic
 Early
 Elevation
 Etiology
@@ -26061,6 +26095,8 @@ LFxs
 LfAE
 LnB
 LDDDDDw
+Later
+Lipid
 Hyperkalemia
 HIV
 HCV
@@ -26870,6 +26906,7 @@ Hax
 HIO
 HoQ
 HcmL
+Helicobacter
 hyperkalemia
 hypertrophy
 hereditary
@@ -27738,6 +27775,7 @@ hID
 hEM
 hkv
 hpb
+hypersecretory
 peaked
 pattern
 precordial
@@ -28831,6 +28869,10 @@ papule
 pustule
 prick
 pqnU
+pANCA
+pylori
+peripherally
+profile
 Unusual
 Usually
 Upc
@@ -31123,6 +31165,7 @@ Cbd
 Cdb
 CBK
 CDDDDDDDdc
+Cholestatic
 Right
 Retrograde
 Rates
@@ -33476,6 +33519,7 @@ uzO
 ueT
 uEH
 uPQ
+upregulation
 quinine
 qz
 qM
@@ -34842,6 +34886,8 @@ Gsu
 GeM
 GuM
 GuAo
+GERD
+GGT
 Jervell
 JYo
 JO
@@ -36354,6 +36400,7 @@ NuG
 NNpY
 NDc
 NDDDD
+NSAIDS
 jEQ
 jL
 jO
