@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/GI/Peptic ulcer disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/GI/Peptic ulcer disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/GI/Peptic ulcer disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md"
+                "file": "USMLE/GI/Peptic ulcer disease.md"
               }
             }
           }
@@ -221,10 +221,12 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/GI/Primary sclerosing cholangitis.md",
+    "appendix/Pasted image 20231017172222.png",
+    "appendix/Pasted image 20231017172016.png",
     "USMLE/GI/Primary biliary cholangitis.md",
+    "USMLE/GI/Primary sclerosing cholangitis.md",
     "appendix/Pasted image 20231017161356.png",
     "appendix/Pasted image 20231017161223.png",
     "USMLE/GI/Peptic ulcer disease.md",
@@ -241,7 +243,6 @@
     "appendix/Pasted image 20230920172031.png",
     "appendix/Pasted image 20230928151653.png",
     "USMLE/GI/Eosinophilic esophagitis.md",
-    "appendix/Pasted image 20231015161639.png",
     "USMLE/MSK/Spinal stenosis.md",
     "USMLE/GI/Congenital neck masses.md",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
@@ -258,7 +259,6 @@
     "USMLE/GI/Chronic pancreatitis.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "USMLE/GI/Acute pancreatitis.md",
-    "USMLE/GI/Dieulafoy lesion.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

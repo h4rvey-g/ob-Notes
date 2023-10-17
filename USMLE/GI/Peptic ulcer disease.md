@@ -30,14 +30,23 @@ The two major contributing factors to the development of PUD are gastrointestina
 
 ---
 # Clinical features
-
+![[Pasted image 20231017172222.png]]
 
 ---
 # Diagnostics
-
+### Indications for biopsy
+- Gastric ulcers [20]
+	- Biopsies are recommended in most cases. 
+	- Multiple biopsies are recommended.
+	- <span style="background:rgba(240, 200, 0, 0.2)">From the edge and base of the ulcer</span> (essential to rule out malignancy, which is not uncommon in gastric ulcers)
+		- The central part of the ulcer may contain necrotic tissue, fibrin slough, and other debris, which are typically not useful for diagnostic purposes.
+	- Multiple biopsies from different areas of the stomach lining, including those not surrounding the ulcer (to test for H. pylori)
+- Duodenal ulcers
+	- Obtain biopsies from ulcers with endoscopic features that suggest malignancy.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Duodenal ulcers are usually benign and do not require routine biopsy.</span>
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
