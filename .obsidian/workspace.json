@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
-                "mode": "source",
+                "file": "USMLE/Reproductive/Alpha fetoprotein.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
+                "file": "USMLE/Reproductive/Alpha fetoprotein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
+                "file": "USMLE/Reproductive/Alpha fetoprotein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md"
+                "file": "USMLE/Reproductive/Alpha fetoprotein.md"
               }
             }
           }
@@ -222,21 +222,23 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231018170927.png",
-    "appendix/Pasted image 20231018170534.png",
-    "USMLE/MSK/Bone tumors.md",
-    "USMLE/GI/Mallory-Weiss syndrome.md",
-    "appendix/Pasted image 20231018163419.png",
-    "appendix/Pasted image 20231018163344.png",
-    "appendix/Pasted image 20231018163323.png",
     "appendix/Pasted image 20231018163111.png",
+    "appendix/Pasted image 20231018163323.png",
+    "appendix/Pasted image 20231018163419.png",
+    "appendix/Pasted image 20231018170534.png",
+    "Pasted image 20230617214946.png",
+    "Untitled.md",
+    "appendix/Pasted image 20231018170927.png",
+    "USMLE/Reproductive/Alpha fetoprotein.md",
+    "USMLE/GI/Mallory-Weiss syndrome.md",
+    "USMLE/MSK/Bone tumors.md",
+    "appendix/Pasted image 20231018163344.png",
     "USMLE/MSK/Vasculitides.md",
     "appendix/Pasted image 20230920162430.png",
     "USMLE/GI/Hepatitis B.md",
     "appendix/Pasted image 20231017214547.png",
     "appendix/Pasted image 20231017214542.png",
     "appendix/Pasted image 20231017214520.png",
-    "appendix/Pasted image 20231017214001.png",
     "USMLE/GI/Cirrhosis.md",
     "USMLE/GI/Peptic ulcer disease.md",
     "USMLE/GI/Primary biliary cholangitis.md",
@@ -256,8 +258,6 @@
     "USMLE/MSK/Hammer toe.md",
     "USMLE/MSK/Stress fractures.md",
     "USMLE/Renal/Urge incontinence.md",
-    "USMLE/MSK/Calcitonin.md",
-    "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
