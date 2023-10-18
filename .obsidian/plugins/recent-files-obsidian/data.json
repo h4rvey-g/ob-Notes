@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mallory-Weiss syndrome",
+      "path": "USMLE/GI/Mallory-Weiss syndrome.md"
+    },
+    {
       "basename": "Bone tumors",
       "path": "USMLE/MSK/Bone tumors.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Atopic dermatitis",
       "path": "USMLE/MSK/Atopic dermatitis.md"
-    },
-    {
-      "basename": "Rapidly progressive glomerulonephritis",
-      "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
     }
   ],
   "omittedPaths": [],
