@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md",
+                "file": "USMLE/Respiratory/Epiglottitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/GI/Celiac disease.md",
+            "file": "USMLE/Respiratory/Epiglottitis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/GI/Celiac disease.md",
+            "file": "USMLE/Respiratory/Epiglottitis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/GI/Celiac disease.md"
+            "file": "USMLE/Respiratory/Epiglottitis.md"
           }
         }
       },
@@ -180,10 +180,11 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
+    "USMLE/GI/Celiac disease.md",
+    "USMLE/Respiratory/Epiglottitis.md",
     "appendix/Pasted image 20231005110125.png",
     "USMLE/Muscle, skin, and connective tissue/Dermatitis herpetiformis.md",
     "appendix/Pasted image 20231005110109.png",
-    "USMLE/GI/Celiac disease.md",
     "USMLE/Respiratory/Sinusitis.md",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "appendix/Pasted image 20230910173723.png",
