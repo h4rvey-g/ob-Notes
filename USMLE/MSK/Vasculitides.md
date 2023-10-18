@@ -13,6 +13,11 @@ share: true
 
 
 ---
+# Medium-vessel vasculitis
+![[Pasted image 20231010160358.png]]
+See [[Polyarteritis nodosa]]
+
+---
 # Small-vessel vasculitis
 ## ANCA-associated small-vessel vasculitis
 ![[Pasted image 20230920170116.png]]

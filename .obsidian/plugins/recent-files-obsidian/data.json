@@ -1,12 +1,213 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Epiglottitis",
       "path": "USMLE/Respiratory/Epiglottitis.md"
     },
     {
       "basename": "Celiac disease",
       "path": "USMLE/GI/Celiac disease.md"
+=======
+      "basename": "Purpura differential diagnosis",
+      "path": "USMLE/MSK/Purpura differential diagnosis.md"
+    },
+    {
+      "basename": "Pasted image 20231015163602",
+      "path": "appendix/Pasted image 20231015163602.png"
+    },
+    {
+      "basename": "Still disease",
+      "path": "USMLE/MSK/Still disease.md"
+    },
+    {
+      "basename": "Behcet disease",
+      "path": "USMLE/MSK/Behcet disease.md"
+    },
+    {
+      "basename": "IgA vasculitis",
+      "path": "USMLE/MSK/IgA vasculitis.md"
+    },
+    {
+      "basename": "Pasted image 20230920172031",
+      "path": "appendix/Pasted image 20230920172031.png"
+    },
+    {
+      "basename": "Pasted image 20230928151653",
+      "path": "appendix/Pasted image 20230928151653.png"
+    },
+    {
+      "basename": "Eosinophilic esophagitis",
+      "path": "USMLE/GI/Eosinophilic esophagitis.md"
+    },
+    {
+      "basename": "Spinal stenosis",
+      "path": "USMLE/MSK/Spinal stenosis.md"
+    },
+    {
+      "basename": "Congenital neck masses",
+      "path": "USMLE/GI/Congenital neck masses.md"
+    },
+    {
+      "basename": "Amyotrophic lateral sclerosis",
+      "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
+    },
+    {
+      "basename": "Myasthenia gravis",
+      "path": "USMLE/MSK/Myasthenia gravis.md"
+    },
+    {
+      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
+      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
+    },
+    {
+      "basename": "Hallux valgus",
+      "path": "USMLE/MSK/Hallux valgus.md"
+    },
+    {
+      "basename": "Hammer toe",
+      "path": "USMLE/MSK/Hammer toe.md"
+    },
+    {
+      "basename": "Stress fractures",
+      "path": "USMLE/MSK/Stress fractures.md"
+    },
+    {
+      "basename": "Urge incontinence",
+      "path": "USMLE/Renal/Urge incontinence.md"
+    },
+    {
+      "basename": "Calcitonin",
+      "path": "USMLE/MSK/Calcitonin.md"
+    },
+    {
+      "basename": "Alkaline phosphatase",
+      "path": "USMLE/Blood/Alkaline phosphatase.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
+      "basename": "Wilson disease",
+      "path": "USMLE/GI/Wilson disease.md"
+    },
+    {
+      "basename": "Chronic pancreatitis",
+      "path": "USMLE/GI/Chronic pancreatitis.md"
+    },
+    {
+      "basename": "Alpha-1 antitrypsin deficiency",
+      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
+    },
+    {
+      "basename": "Acute pancreatitis",
+      "path": "USMLE/GI/Acute pancreatitis.md"
+    },
+    {
+      "basename": "Dieulafoy lesion",
+      "path": "USMLE/GI/Dieulafoy lesion.md"
+    },
+    {
+      "basename": "Calcium pyrophosphate deposition disease",
+      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
+    },
+    {
+      "basename": "Osteoarthritis",
+      "path": "USMLE/MSK/Osteoarthritis.md"
+    },
+    {
+      "basename": "Rheumatoid arthritis",
+      "path": "USMLE/MSK/Rheumatoid arthritis.md"
+    },
+    {
+      "basename": "Zinc deficiency",
+      "path": "USMLE/Biochemistry/Zinc deficiency.md"
+    },
+    {
+      "basename": "Hirschsprung disease",
+      "path": "USMLE/GI/Hirschsprung disease.md"
+    },
+    {
+      "basename": "Pancreatic cancer",
+      "path": "USMLE/GI/Pancreatic cancer.md"
+    },
+    {
+      "basename": "Ulcerative colitis",
+      "path": "USMLE/GI/Ulcerative colitis.md"
+    },
+    {
+      "basename": "Malrotation",
+      "path": "USMLE/GI/Malrotation.md"
+    },
+    {
+      "basename": "Cholelithiasis",
+      "path": "USMLE/GI/Cholelithiasis.md"
+    },
+    {
+      "basename": "Primary biliary cholangitis",
+      "path": "USMLE/GI/Primary biliary cholangitis.md"
+    },
+    {
+      "basename": "Lipid transport",
+      "path": "USMLE/Biochemistry/Lipid transport.md"
+    },
+    {
+      "basename": "Lipid-lowering agents",
+      "path": "USMLE/Cardiology/Lipid-lowering agents.md"
+    },
+    {
+      "basename": "Intracranial hemorrhage",
+      "path": "USMLE/Neurology/Intracranial hemorrhage.md"
+    },
+    {
+      "basename": "Plummer-Vinson syndrome",
+      "path": "USMLE/GI/Plummer-Vinson syndrome.md"
+    },
+    {
+      "basename": "Amyloidosis",
+      "path": "USMLE/Pathology/Amyloidosis.md"
+    },
+    {
+      "basename": "Systemic sclerosis",
+      "path": "USMLE/MSK/Systemic sclerosis.md"
+    },
+    {
+      "basename": "Atopic dermatitis",
+      "path": "USMLE/MSK/Atopic dermatitis.md"
+    },
+    {
+      "basename": "Rapidly progressive glomerulonephritis",
+      "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
+    },
+    {
+      "basename": "Polyarteritis nodosa",
+      "path": "USMLE/MSK/Polyarteritis nodosa.md"
+    },
+    {
+      "basename": "Vasculitides",
+      "path": "USMLE/MSK/Vasculitides.md"
+    },
+    {
+      "basename": "Warthin tumor",
+      "path": "USMLE/GI/Warthin tumor.md"
+    },
+    {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
+      "basename": "Pasted image 20230928150707",
+      "path": "appendix/Pasted image 20230928150707.png"
+    },
+    {
+      "basename": "Pasted image 20230928155850",
+      "path": "appendix/Pasted image 20230928155850.png"
+    },
+    {
+      "basename": "Pasted image 20230929165241",
+      "path": "appendix/Pasted image 20230929165241.png"
+>>>>>>> c7eb66c97540d3e2a54ebe11d0fa010b21cc0528
     }
   ],
   "omittedPaths": [],
