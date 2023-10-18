@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bone tumors",
+      "path": "USMLE/MSK/Bone tumors.md"
+    },
+    {
       "basename": "Vasculitides",
       "path": "USMLE/MSK/Vasculitides.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rapidly progressive glomerulonephritis",
       "path": "USMLE/Renal/Rapidly progressive glomerulonephritis.md"
-    },
-    {
-      "basename": "Polyarteritis nodosa",
-      "path": "USMLE/MSK/Polyarteritis nodosa.md"
     }
   ],
   "omittedPaths": [],
