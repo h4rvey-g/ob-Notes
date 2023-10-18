@@ -13,4 +13,5 @@ share: true
 ## Cysts and hemangiomas
 ![[Pasted image 20231018163419.png]]
 # Malignant bone tumors
+All with "sarcoma"
 ![[Pasted image 20231018163111.png]]
