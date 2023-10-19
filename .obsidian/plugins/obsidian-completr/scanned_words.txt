@@ -2051,6 +2051,8 @@ dJz
 dWVF
 djk
 djs
+diagnostics
+details
 of
 over
 originate
@@ -4949,6 +4951,7 @@ nGq
 nrO
 nUm
 ngF
+neural
 tachycardia
 tract
 the
@@ -6035,6 +6038,9 @@ tOOG
 tGZF
 tOtW
 trm
+telangiectasia
+tube
+trisomy
 in
 includes
 involving
@@ -7964,6 +7970,7 @@ gPup
 gBe
 gHP
 gLG
+germ
 major
 mechanisms
 mark
@@ -10866,6 +10873,7 @@ APr
 AWq
 ADM
 AHNA
+Ataxia
 Orthodromic
 On
 Often
@@ -16730,6 +16738,7 @@ fTmz
 fGg
 fXL
 fbR
+fetus
 with
 wave
 which
@@ -27740,6 +27749,7 @@ ewX
 ekF
 ext
 egb
+endodermal
 Early
 Elevation
 Etiology
@@ -30445,6 +30455,8 @@ HMn
 HqD
 HXf
 Hmq
+Hepatocellular
+Hepatoblastoma
 hyperkalemia
 hypertrophy
 hereditary
@@ -32633,6 +32645,7 @@ pGpr
 pDv
 pCjR
 pDt
+prenatal
 Unusual
 Usually
 Upc
@@ -45444,6 +45457,7 @@ YCDDDDDDt
 YCDDDDD
 YPM
 YLw
+Yolk
 XA
 XY
 XI

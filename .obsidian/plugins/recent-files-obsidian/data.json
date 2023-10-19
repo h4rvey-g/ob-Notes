@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Esophageal diverticula",
+      "path": "USMLE/GI/Esophageal diverticula.md"
+    },
+    {
+      "basename": "Gastroschisis",
+      "path": "USMLE/GI/Gastroschisis.md"
+    },
+    {
       "basename": "Alpha fetoprotein",
       "path": "USMLE/Reproductive/Alpha fetoprotein.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pancreatic cancer",
       "path": "USMLE/GI/Pancreatic cancer.md"
-    },
-    {
-      "basename": "Ulcerative colitis",
-      "path": "USMLE/GI/Ulcerative colitis.md"
-    },
-    {
-      "basename": "Malrotation",
-      "path": "USMLE/GI/Malrotation.md"
     }
   ],
   "omittedPaths": [],
