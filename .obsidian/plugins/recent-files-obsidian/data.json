@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cystic fibrosis",
+      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
+    },
+    {
       "basename": "Esophageal diverticula",
       "path": "USMLE/GI/Esophageal diverticula.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hirschsprung disease",
       "path": "USMLE/GI/Hirschsprung disease.md"
-    },
-    {
-      "basename": "Pancreatic cancer",
-      "path": "USMLE/GI/Pancreatic cancer.md"
     }
   ],
   "omittedPaths": [],
