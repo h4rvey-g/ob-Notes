@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Keloid scars",
+      "path": "USMLE/MSK/Keloid scars.md"
+    },
+    {
       "basename": "Celiac disease",
       "path": "USMLE/GI/Celiac disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rheumatoid arthritis",
       "path": "USMLE/MSK/Rheumatoid arthritis.md"
-    },
-    {
-      "basename": "Zinc deficiency",
-      "path": "USMLE/Biochemistry/Zinc deficiency.md"
     }
   ],
   "omittedPaths": [],

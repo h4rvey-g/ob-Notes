@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md",
+                "file": "USMLE/MSK/Keloid scars.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md",
+                "file": "USMLE/MSK/Keloid scars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md",
+                "file": "USMLE/MSK/Keloid scars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Celiac disease.md"
+                "file": "USMLE/MSK/Keloid scars.md"
               }
             }
           }
@@ -221,8 +221,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/GI/Celiac disease.md",
+    "USMLE/MSK/Keloid scars.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Esophageal diverticula.md",
     "appendix/Pasted image 20231019213910.png",
@@ -257,8 +259,6 @@
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
     "USMLE/MSK/Myasthenia gravis.md",
     "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
-    "USMLE/MSK/Hallux valgus.md",
-    "USMLE/MSK/Hammer toe.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
