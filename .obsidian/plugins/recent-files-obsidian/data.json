@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Paget disease",
+      "path": "USMLE/MSK/Paget disease.md"
+    },
+    {
+      "basename": "Calcium pyrophosphate deposition disease",
+      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
+    },
+    {
+      "basename": "Hallux valgus",
+      "path": "USMLE/MSK/Hallux valgus.md"
+    },
+    {
+      "basename": "Calcitonin",
+      "path": "USMLE/MSK/Calcitonin.md"
+    },
+    {
+      "basename": "Bone tumors",
+      "path": "USMLE/MSK/Bone tumors.md"
+    },
+    {
+      "basename": "Behcet disease",
+      "path": "USMLE/MSK/Behcet disease.md"
+    },
+    {
+      "basename": "Arthrocentesis",
+      "path": "USMLE/MSK/Arthrocentesis.md"
+    },
+    {
+      "basename": "Achondroplasia",
+      "path": "USMLE/MSK/Achondroplasia.md"
+    },
+    {
+      "basename": "Alopecia",
+      "path": "USMLE/MSK/Alopecia.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Keloid scars",
       "path": "USMLE/MSK/Keloid scars.md"
     },
@@ -45,20 +89,12 @@
       "path": "Pasted image 20230617214946.png"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "Pasted image 20231018170927",
       "path": "appendix/Pasted image 20231018170927.png"
     },
     {
       "basename": "Mallory-Weiss syndrome",
       "path": "USMLE/GI/Mallory-Weiss syndrome.md"
-    },
-    {
-      "basename": "Bone tumors",
-      "path": "USMLE/MSK/Bone tumors.md"
     },
     {
       "basename": "Vasculitides",
@@ -101,10 +137,6 @@
       "path": "USMLE/MSK/Still disease.md"
     },
     {
-      "basename": "Behcet disease",
-      "path": "USMLE/MSK/Behcet disease.md"
-    },
-    {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
     },
@@ -141,10 +173,6 @@
       "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
     },
     {
-      "basename": "Hallux valgus",
-      "path": "USMLE/MSK/Hallux valgus.md"
-    },
-    {
       "basename": "Hammer toe",
       "path": "USMLE/MSK/Hammer toe.md"
     },
@@ -155,10 +183,6 @@
     {
       "basename": "Urge incontinence",
       "path": "USMLE/Renal/Urge incontinence.md"
-    },
-    {
-      "basename": "Calcitonin",
-      "path": "USMLE/MSK/Calcitonin.md"
     },
     {
       "basename": "Alkaline phosphatase",
@@ -175,30 +199,6 @@
     {
       "basename": "Chronic pancreatitis",
       "path": "USMLE/GI/Chronic pancreatitis.md"
-    },
-    {
-      "basename": "Alpha-1 antitrypsin deficiency",
-      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
-    },
-    {
-      "basename": "Acute pancreatitis",
-      "path": "USMLE/GI/Acute pancreatitis.md"
-    },
-    {
-      "basename": "Dieulafoy lesion",
-      "path": "USMLE/GI/Dieulafoy lesion.md"
-    },
-    {
-      "basename": "Calcium pyrophosphate deposition disease",
-      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
-    },
-    {
-      "basename": "Osteoarthritis",
-      "path": "USMLE/MSK/Osteoarthritis.md"
-    },
-    {
-      "basename": "Rheumatoid arthritis",
-      "path": "USMLE/MSK/Rheumatoid arthritis.md"
     }
   ],
   "omittedPaths": [],

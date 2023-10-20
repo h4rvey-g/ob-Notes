@@ -2053,6 +2053,9 @@ djk
 djs
 diagnostics
 details
+diagnostically
+deformity
+deformans
 of
 over
 originate
@@ -2897,6 +2900,8 @@ ove
 oDD
 oPNY
 oOyD
+osseous
+osteoclast
 regular
 reentrant
 retrograde
@@ -6041,6 +6046,7 @@ trm
 telangiectasia
 tube
 trisomy
+therapeutically
 in
 includes
 involving
@@ -7971,6 +7977,7 @@ gBe
 gHP
 gLG
 germ
+great
 major
 mechanisms
 mark
@@ -9031,6 +9038,8 @@ mDDD
 mqB
 mBa
 mLn
+metatarsal
+medially
 Sinus
 ST
 Segment
@@ -14780,6 +14789,7 @@ cun
 cbXK
 cJy
 cFI
+cartilaginous
 bypass
 block
 background
@@ -15746,6 +15756,7 @@ bYKO
 bHl
 bhx
 bium
+bump
 flutter
 from
 focus
@@ -20278,6 +20289,8 @@ seT
 sDDDDDDDD
 sPo
 sqZ
+sarcoma
+shoes
 QRS
 QT
 QDQ
@@ -22019,6 +22032,7 @@ lKj
 lOP
 lfc
 lQS
+laterally
 Multifocal
 Mild
 Moderate
@@ -22915,6 +22929,7 @@ MMW
 MAS
 MPr
 MRa
+Malignant
 Differentiate
 Drugs
 DDx
@@ -26731,6 +26746,7 @@ PGFj
 PnW
 PhU
 PsF
+Predominantly
 ectopic
 elevation
 early
@@ -31426,6 +31442,8 @@ hmXX
 hvo
 hxt
 hCD
+hemangiomas
+hallux
 peaked
 pattern
 precordial
@@ -32646,6 +32664,9 @@ pDv
 pCjR
 pDt
 prenatal
+parafollicular
+phalanges
+pointed
 Unusual
 Usually
 Upc
@@ -34335,6 +34356,7 @@ BDDDd
 BZF
 BHDDDw
 Bdl
+Bunion
 Characteristic
 CLL
 Clinical
@@ -35259,6 +35281,7 @@ CbN
 CDDDDDT
 CDDDDD
 CDDw
+Colloquially
 Right
 Retrograde
 Rates

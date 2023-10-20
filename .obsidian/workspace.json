@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Keloid scars.md",
+                "file": "USMLE/MSK/Paget disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Keloid scars.md",
+                "file": "USMLE/MSK/Paget disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Keloid scars.md",
+                "file": "USMLE/MSK/Paget disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Keloid scars.md"
+                "file": "USMLE/MSK/Paget disease.md"
               }
             }
           }
@@ -223,8 +223,20 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
-    "USMLE/GI/Celiac disease.md",
+    "appendix/Pasted image 20231020212143.png",
+    "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
+    "USMLE/MSK/Calcitonin.md",
+    "USMLE/MSK/Hallux valgus.md",
+    "USMLE/MSK/Bone tumors.md",
+    "USMLE/MSK/Behcet disease.md",
+    "USMLE/MSK/Arthrocentesis.md",
+    "USMLE/MSK/Achondroplasia.md",
+    "USMLE/MSK/Alopecia.md",
+    "index.md",
+    "Untitled.md",
+    "USMLE/MSK/Paget disease.md",
     "USMLE/MSK/Keloid scars.md",
+    "USMLE/GI/Celiac disease.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Esophageal diverticula.md",
     "appendix/Pasted image 20231019213910.png",
@@ -236,10 +248,8 @@
     "appendix/Pasted image 20231018163323.png",
     "appendix/Pasted image 20231018163419.png",
     "Pasted image 20230617214946.png",
-    "Untitled.md",
     "appendix/Pasted image 20231018170927.png",
     "USMLE/GI/Mallory-Weiss syndrome.md",
-    "USMLE/MSK/Bone tumors.md",
     "appendix/Pasted image 20231018163344.png",
     "USMLE/MSK/Vasculitides.md",
     "appendix/Pasted image 20230920162430.png",
@@ -249,16 +259,6 @@
     "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/GI/Primary sclerosing cholangitis.md",
     "USMLE/GI/Ulcerative colitis.md",
-    "USMLE/MSK/Purpura differential diagnosis.md",
-    "USMLE/MSK/Still disease.md",
-    "USMLE/MSK/Behcet disease.md",
-    "USMLE/MSK/IgA vasculitis.md",
-    "USMLE/GI/Eosinophilic esophagitis.md",
-    "USMLE/MSK/Spinal stenosis.md",
-    "USMLE/GI/Congenital neck masses.md",
-    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "USMLE/MSK/Myasthenia gravis.md",
-    "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
