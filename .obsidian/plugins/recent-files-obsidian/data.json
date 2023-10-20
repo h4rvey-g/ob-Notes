@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Osteopetrosis",
+      "path": "USMLE/MSK/Osteopetrosis.md"
+    },
+    {
       "basename": "Paget disease",
       "path": "USMLE/MSK/Paget disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Wilson disease",
       "path": "USMLE/GI/Wilson disease.md"
-    },
-    {
-      "basename": "Chronic pancreatitis",
-      "path": "USMLE/GI/Chronic pancreatitis.md"
     }
   ],
   "omittedPaths": [],
