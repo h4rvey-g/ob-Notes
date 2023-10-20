@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/GI/Celiac disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/GI/Celiac disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md",
+                "file": "USMLE/GI/Celiac disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Cystic fibrosis.md"
+                "file": "USMLE/GI/Celiac disease.md"
               }
             }
           }
@@ -221,8 +221,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "3c22257a9d627704",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Esophageal diverticula.md",
     "appendix/Pasted image 20231019213910.png",
     "USMLE/GI/Gastroschisis.md",

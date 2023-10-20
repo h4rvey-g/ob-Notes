@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Celiac disease",
+      "path": "USMLE/GI/Celiac disease.md"
+    },
+    {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Zinc deficiency",
       "path": "USMLE/Biochemistry/Zinc deficiency.md"
-    },
-    {
-      "basename": "Hirschsprung disease",
-      "path": "USMLE/GI/Hirschsprung disease.md"
     }
   ],
   "omittedPaths": [],
