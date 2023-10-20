@@ -31,19 +31,24 @@ The pelvis, skull, vertebral column, and long bones of the lower extremities are
 
 ---
 # Clinical features
+- <span style="background:rgba(240, 200, 0, 0.2)">Approximately 70–90% of cases are asymptomatic. </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Bone pain</span>, which may be associated with erythema and elevated skin temperature over the affected bones 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Due to increased vascularity of the underlying bone.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Pathological fractures: chalk-stick fractures of long bones</span>  [2]
+- Bony deformities, e.g., <span style="background:rgba(240, 200, 0, 0.2)">bowing of legs (saber shin)</span>
+- Skull involvement (in ∼ 40% of cases)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Skull enlargement (increasing hat size) </span>
+	- Cranial nerve deficits
+	- <span style="background:rgba(240, 200, 0, 0.2)">Impaired hearing</span>: due to ankylosis of the ossicles  and narrowing of the internal auditory meatus
 ![[Pasted image 20231020212143.png]]
 
 ---
 # Diagnostics
-## [[Arthrocentesis]] and synovial fluid analysis (SFA)
-- Polarized light microscopy (with a red filter) appearance of CPP crystals
-	- <span style="background:rgba(240, 200, 0, 0.2)">Rhomboid-shaped crystals that are weakly positively birefringent</span>
-	- Crystals appear blue when their optical axis is oriented parallel to the polarizer.
-	- Crystals appear yellow when their axis is perpendicular to the polarizer. 
-- Cell count: WBC > 2000/μL with > 50% neutrophils
-## Imaging
-- X-ray of the affected joint(s)
-	- Chondrocalcinosis: calcification of cartilage in the affected joints
+- Serum total [[Alkaline phosphatase|ALP]]: often significantly increased; first-line test to assess disease severity 
+- Serum calcium, phosphate, and parathyroid hormone (PTH) levels: typically normal
+	- Normal homeostasis is usually maintained despite the bone remodeling involved in PDB.
+- Bone biopsy
+	- Typically shows a chaotic, mosaic-like pattern of irregularly juxtaposed lamellar and woven bone![[Pasted image 20231020214727.png]]
 
 ---
 # Treatment
