@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
+      "basename": "Pasted image 20230813153046",
+      "path": "appendix/Pasted image 20230813153046.png"
+    },
+    {
+      "basename": "Pasted image 20230920162430",
+      "path": "appendix/Pasted image 20230920162430.png"
+    },
+    {
+      "basename": "Pasted image 20230920170116",
+      "path": "appendix/Pasted image 20230920170116.png"
+    },
+    {
+      "basename": "Pasted image 20230906150202",
+      "path": "appendix/Pasted image 20230906150202.png"
+    },
+    {
+      "basename": "Pasted image 20230910173723",
+      "path": "appendix/Pasted image 20230910173723.png"
+    },
+    {
+      "basename": "Chemotherapeutic agents",
+      "path": "USMLE/Blood/Chemotherapeutic agents.md"
+    },
+    {
+      "basename": "Pasted image 20230909221338",
+      "path": "appendix/Pasted image 20230909221338.png"
+    },
+    {
       "basename": "Osteopetrosis",
       "path": "USMLE/MSK/Osteopetrosis.md"
     },
@@ -105,10 +137,6 @@
       "path": "USMLE/MSK/Vasculitides.md"
     },
     {
-      "basename": "Pasted image 20230920162430",
-      "path": "appendix/Pasted image 20230920162430.png"
-    },
-    {
       "basename": "Hepatitis B",
       "path": "USMLE/GI/Hepatitis B.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Myasthenia gravis",
       "path": "USMLE/MSK/Myasthenia gravis.md"
-    },
-    {
-      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
-      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
-    },
-    {
-      "basename": "Hammer toe",
-      "path": "USMLE/MSK/Hammer toe.md"
-    },
-    {
-      "basename": "Stress fractures",
-      "path": "USMLE/MSK/Stress fractures.md"
-    },
-    {
-      "basename": "Urge incontinence",
-      "path": "USMLE/Renal/Urge incontinence.md"
-    },
-    {
-      "basename": "Alkaline phosphatase",
-      "path": "USMLE/Blood/Alkaline phosphatase.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Wilson disease",
-      "path": "USMLE/GI/Wilson disease.md"
     }
   ],
   "omittedPaths": [],

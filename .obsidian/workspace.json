@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Osteopetrosis.md",
+                "file": "USMLE/Lab Values.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Osteopetrosis.md",
+                "file": "USMLE/Lab Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Osteopetrosis.md",
+                "file": "USMLE/Lab Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Osteopetrosis.md"
+                "file": "USMLE/Lab Values.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,10 +222,17 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230813153046.png",
+    "appendix/Pasted image 20230920162430.png",
+    "appendix/Pasted image 20230920170116.png",
+    "appendix/Pasted image 20230906150202.png",
+    "appendix/Pasted image 20230910173723.png",
+    "USMLE/Blood/Chemotherapeutic agents.md",
+    "appendix/Pasted image 20230909221338.png",
+    "USMLE/MSK/Osteopetrosis.md",
     "appendix/Pasted image 20231020220814.png",
     "appendix/Pasted image 20231020220540.png",
     "USMLE/MSK/Paget disease.md",
-    "USMLE/MSK/Osteopetrosis.md",
     "appendix/Pasted image 20231020214727.png",
     "appendix/Pasted image 20231020212143.png",
     "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
@@ -246,19 +252,12 @@
     "appendix/Pasted image 20231019213910.png",
     "USMLE/GI/Gastroschisis.md",
     "USMLE/Reproductive/Alpha fetoprotein.md",
-    "appendix/Pasted image 20231018163111.png",
-    "appendix/Pasted image 20231019212359.png",
-    "appendix/Pasted image 20231018170534.png",
-    "appendix/Pasted image 20231018163323.png",
-    "appendix/Pasted image 20231018163419.png",
-    "Pasted image 20230617214946.png",
     "USMLE/GI/Mallory-Weiss syndrome.md",
     "USMLE/MSK/Vasculitides.md",
     "USMLE/GI/Hepatitis B.md",
     "USMLE/GI/Cirrhosis.md",
     "USMLE/GI/Peptic ulcer disease.md",
     "USMLE/GI/Primary biliary cholangitis.md",
-    "USMLE/GI/Primary sclerosing cholangitis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
