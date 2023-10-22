@@ -46,3 +46,6 @@ This will help you remember the normal range for glucose is 70-100 [[Myasthenia 
 - GFR: **90 to 120 mL/min/1.73 m<sup>2</sup>**
 - FF: 20%
 - RRF: GFR × FF
+---
+# Comprehensive metabolic panel
+![[Pasted image 20231022111024.png]]
