@@ -15,7 +15,7 @@ share: true
 	- Pancytopenia due to reduced marrow space
 	- Hepatosplenomegaly due to extramedullary hematopoiesis
 - Diagnostics
-	- X-ray: symmetrical, homogenous, sclerotic thickening of both cortical and trabecular bone (stone bone)![[Pasted image 20231020220540.png]]
+	- X-ray: symmetrical, homogenous, sclerotic thickening of both cortical and trabecular bone (stone bone)![[Pasted image 20231020220814.png]]![[Pasted image 20231020220540.png]]
 	- Calcium levels may be normal or low (especially in severe form, e.g., type I [[USMLE/Blood/Osteopetrosis|osteopetrosis]]).  
 - Therapy
 	- Bone marrow transplant (potentially curative treatment): Functional osteoclasts may develop from unimpaired monocytes deriving from transplanted stem cells.
