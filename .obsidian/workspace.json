@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Pharmacology/Reye syndrome.md",
+                "file": "USMLE/GI/Ulcerative colitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Pharmacology/Reye syndrome.md",
+                "file": "USMLE/GI/Ulcerative colitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Pharmacology/Reye syndrome.md",
+                "file": "USMLE/GI/Ulcerative colitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,11 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Pharmacology/Reye syndrome.md"
+                "file": "USMLE/GI/Ulcerative colitis.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,9 +223,14 @@
   },
   "active": "3c22257a9d627704",
   "lastOpenFiles": [
+    "USMLE/GI/Toxic megacolon.md",
+    "USMLE/GI/Ulcerative colitis.md",
+    "appendix/Pasted image 20231023204135.png",
+    "USMLE/GI/Angiodysplasia.md",
+    "appendix/Pasted image 20231023203421.png",
+    "USMLE/Pharmacology/Reye syndrome.md",
     "appendix/Pasted image 20231023105815.png",
     "USMLE/Lab Values.md",
-    "USMLE/Pharmacology/Reye syndrome.md",
     "Bioinformatics/How to move the location of Windows Subsystem for Android (WSA).md",
     "appendix/Pasted image 20231022111024.png",
     "appendix/Pasted image 20230813153046.png",
@@ -235,10 +241,7 @@
     "USMLE/Blood/Chemotherapeutic agents.md",
     "appendix/Pasted image 20230909221338.png",
     "USMLE/MSK/Osteopetrosis.md",
-    "appendix/Pasted image 20231020220814.png",
-    "appendix/Pasted image 20231020220540.png",
     "USMLE/MSK/Paget disease.md",
-    "appendix/Pasted image 20231020214727.png",
     "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
     "USMLE/MSK/Calcitonin.md",
     "USMLE/MSK/Hallux valgus.md",
@@ -256,8 +259,6 @@
     "USMLE/GI/Gastroschisis.md",
     "USMLE/Reproductive/Alpha fetoprotein.md",
     "USMLE/GI/Mallory-Weiss syndrome.md",
-    "USMLE/MSK/Vasculitides.md",
-    "USMLE/GI/Hepatitis B.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

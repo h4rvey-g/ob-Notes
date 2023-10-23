@@ -57,7 +57,7 @@ share: true
 
 ---
 # Diagnostics
-
+![[Pasted image 20231023204135.png]]
 
 ---
 # Treatment

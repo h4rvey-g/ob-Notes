@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ulcerative colitis",
+      "path": "USMLE/GI/Ulcerative colitis.md"
+    },
+    {
+      "basename": "Toxic megacolon",
+      "path": "USMLE/GI/Toxic megacolon.md"
+    },
+    {
+      "basename": "Angiodysplasia",
+      "path": "USMLE/GI/Angiodysplasia.md"
+    },
+    {
       "basename": "Reye syndrome",
       "path": "USMLE/Pharmacology/Reye syndrome.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20230928151653",
       "path": "appendix/Pasted image 20230928151653.png"
-    },
-    {
-      "basename": "Eosinophilic esophagitis",
-      "path": "USMLE/GI/Eosinophilic esophagitis.md"
-    },
-    {
-      "basename": "Spinal stenosis",
-      "path": "USMLE/MSK/Spinal stenosis.md"
-    },
-    {
-      "basename": "Congenital neck masses",
-      "path": "USMLE/GI/Congenital neck masses.md"
     }
   ],
   "omittedPaths": [],
