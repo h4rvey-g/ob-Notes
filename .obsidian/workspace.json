@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21ed9f39a2d15412",
+        "id": "457babcf68401c28",
         "type": "tabs",
         "children": [
           {
-            "id": "3c22257a9d627704",
+            "id": "ef355a497f170f32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Hepatitis A.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Hepatitis A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/GI/Hepatitis A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md"
+                "file": "USMLE/GI/Hepatitis A.md"
               }
             }
           }
@@ -221,10 +221,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "3c22257a9d627704",
+  "active": "ef355a497f170f32",
   "lastOpenFiles": [
-    "USMLE/GI/Toxic megacolon.md",
+    "USMLE/GI/Hepatitis A.md",
+    "USMLE/GI/Hepatitis A.md",
+    "appendix/Pasted image 20230910173723.png",
     "USMLE/GI/Ulcerative colitis.md",
+    "USMLE/GI/Toxic megacolon.md",
     "appendix/Pasted image 20231023204135.png",
     "USMLE/GI/Angiodysplasia.md",
     "appendix/Pasted image 20231023203421.png",
@@ -237,7 +240,6 @@
     "appendix/Pasted image 20230920162430.png",
     "appendix/Pasted image 20230920170116.png",
     "appendix/Pasted image 20230906150202.png",
-    "appendix/Pasted image 20230910173723.png",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "appendix/Pasted image 20230909221338.png",
     "USMLE/MSK/Osteopetrosis.md",
@@ -257,8 +259,6 @@
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Esophageal diverticula.md",
     "USMLE/GI/Gastroschisis.md",
-    "USMLE/Reproductive/Alpha fetoprotein.md",
-    "USMLE/GI/Mallory-Weiss syndrome.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
