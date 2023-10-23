@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Reye syndrome",
+      "path": "USMLE/Pharmacology/Reye syndrome.md"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Congenital neck masses",
       "path": "USMLE/GI/Congenital neck masses.md"
-    },
-    {
-      "basename": "Amyotrophic lateral sclerosis",
-      "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
     }
   ],
   "omittedPaths": [],
