@@ -5,6 +5,10 @@
       "path": "USMLE/Lab Values.md"
     },
     {
+      "basename": "How to move the location of Windows Subsystem for Android (WSA)",
+      "path": "Bioinformatics/How to move the location of Windows Subsystem for Android (WSA).md"
+    },
+    {
       "basename": "Pasted image 20230813153046",
       "path": "appendix/Pasted image 20230813153046.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Amyotrophic lateral sclerosis",
       "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
-    },
-    {
-      "basename": "Myasthenia gravis",
-      "path": "USMLE/MSK/Myasthenia gravis.md"
     }
   ],
   "omittedPaths": [],
