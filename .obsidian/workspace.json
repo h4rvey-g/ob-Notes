@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/单抗记忆.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/单抗记忆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/单抗记忆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md"
+                "file": "USMLE/单抗记忆.md"
               }
             }
           }
@@ -221,8 +221,10 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/MSK/Paget disease.md",
+    "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/GI/Hepatitis A.md",
     "USMLE/GI/Hepatitis A.md",
     "appendix/Pasted image 20230910173723.png",
@@ -243,7 +245,6 @@
     "USMLE/Blood/Chemotherapeutic agents.md",
     "appendix/Pasted image 20230909221338.png",
     "USMLE/MSK/Osteopetrosis.md",
-    "USMLE/MSK/Paget disease.md",
     "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
     "USMLE/MSK/Calcitonin.md",
     "USMLE/MSK/Hallux valgus.md",
@@ -258,7 +259,6 @@
     "USMLE/GI/Celiac disease.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Esophageal diverticula.md",
-    "USMLE/GI/Gastroschisis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

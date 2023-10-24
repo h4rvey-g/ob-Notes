@@ -8,7 +8,7 @@ aliases:
 share: true
 ---
 # Epidemiology
-- Prevalence: second most prevalent skeletal disease after osteoporosis in individuals > 50 years of age
+- Prevalence: <span style="background:rgba(240, 200, 0, 0.2)">second most prevalent skeletal disease after osteoporosis in individuals > 50 years of age</span>
 
 ---
 # Etiology
@@ -48,10 +48,14 @@ The pelvis, skull, vertebral column, and long bones of the lower extremities are
 - Serum calcium, phosphate, and parathyroid hormone (PTH) levels: typically normal
 	- Normal homeostasis is usually maintained despite the bone remodeling involved in PDB.
 - Bone biopsy
-	- Typically shows a chaotic, mosaic-like pattern of irregularly juxtaposed lamellar and woven bone![[Pasted image 20231020214727.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Typically shows a chaotic, mosaic-like pattern of irregularly juxtaposed lamellar and woven bone</span>![[Pasted image 20231020214727.png]]
 
 ---
 # Treatment
-
+## Bisphosphonates
+- <span style="background:rgba(240, 200, 0, 0.2)">First-line therapy for patients with bone pain and those at risk of bone complications</span>  [9]
+- Mechanism: <span style="background:rgba(240, 200, 0, 0.2)">induce apoptosis of osteoclasts</span>
+- Used to treat [[hypercalcemia]] and bone metabolism disorders (e.g., osteoporosis or tumor-induced osteolysis).
+- Examples include zoledronic acid, pamidronate, etidronate, and alendronate.
 
 ---

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+    },
+    {
+      "basename": "Paget disease",
+      "path": "USMLE/MSK/Paget disease.md"
+    },
+    {
       "basename": "Primary biliary cholangitis",
       "path": "USMLE/GI/Primary biliary cholangitis.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Osteopetrosis",
       "path": "USMLE/MSK/Osteopetrosis.md"
-    },
-    {
-      "basename": "Paget disease",
-      "path": "USMLE/MSK/Paget disease.md"
     },
     {
       "basename": "Calcium pyrophosphate deposition disease",
@@ -195,10 +199,6 @@
     {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
-    },
-    {
-      "basename": "Pasted image 20230920172031",
-      "path": "appendix/Pasted image 20230920172031.png"
     }
   ],
   "omittedPaths": [],

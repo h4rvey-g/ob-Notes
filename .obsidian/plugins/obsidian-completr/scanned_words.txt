@@ -2254,6 +2254,10 @@ dOy
 dqH
 dPl
 dRN
+ductopenia
+disorganized
+deformed
+despite
 of
 over
 originate
@@ -3170,6 +3174,12 @@ oVW
 oSS
 oAhf
 oel
+osteoblast
+osteoclastic
+osteoblasts
+overtakes
+osteoblastic
+ossicles
 regular
 reentrant
 retrograde
@@ -4375,6 +4385,9 @@ rPf
 rWW
 rVu
 register
+regeneration
+remodeled
+regions
 narrow
 negative
 not
@@ -6534,6 +6547,7 @@ tpO
 tSu
 tzg
 turned
+tunnels
 in
 includes
 involving
@@ -7746,6 +7760,7 @@ icK
 idi
 iQc
 installer
+irregularly
 general
 giving
 generation
@@ -8672,6 +8687,7 @@ gKZ
 gaJ
 gEy
 gUN
+gradual
 major
 mechanisms
 mark
@@ -9832,6 +9848,9 @@ mCDf
 myv
 metadata
 menu
+meatus
+maintained
+mosaic
 Sinus
 ST
 Segment
@@ -10869,6 +10888,9 @@ SjR
 Settings
 System
 Symbolic
+Stages
+Sclerotic
+Skull
 AVNRT
 Atrial
 AVRT
@@ -11890,6 +11912,7 @@ ATSF
 AxF
 Ank
 AxdW
+Approximately
 Orthodromic
 On
 Often
@@ -12722,6 +12745,7 @@ OtW
 OcI
 Ocg
 ODkC
+Osteoblastic
 atrio
 and
 atrial
@@ -13903,6 +13927,8 @@ aMu
 aUJhZ
 ayY
 actually
+ankylosis
+auditory
 ventricular
 varying
 vaccines
@@ -14899,6 +14925,8 @@ vgw
 vEw
 vFc
 vhdx
+vertebral
+vascularity
 conduction
 concealed
 complex
@@ -16157,6 +16185,11 @@ cYil
 crT
 cPg
 context
+cranial
+canals
+cease
+chalk
+chaotic
 bypass
 block
 background
@@ -17215,6 +17248,11 @@ bXNG
 bLg
 bqU
 bUu
+bearing
+bony
+base
+blastic
+bowing
 flutter
 from
 focus
@@ -18312,6 +18350,7 @@ fbU
 fvpx
 fAi
 fRP
+foramina
 with
 wave
 which
@@ -19237,6 +19276,7 @@ wlN
 wsO
 wnL
 wME
+woven
 Whenever
 Widening
 William
@@ -22228,6 +22268,12 @@ script
 sure
 somewhere
 symbolic
+susceptible
+sclerotic
+saber
+shin
+significantly
+severity
 QRS
 QT
 QDQ
@@ -23088,6 +23134,7 @@ QIG
 Qwj
 QJkjj
 QMQ
+Quiescent
 lead
 likely
 limb
@@ -24191,6 +24238,12 @@ lyJ
 loFc
 lwg
 lVM
+lacks
+lytic
+lacunae
+laid
+localization
+lamellar
 Multifocal
 Mild
 Moderate
@@ -27186,6 +27239,7 @@ FBU
 FZb
 FPu
 FsP
+Furthermore
 In
 It
 Intraventricular
@@ -29426,6 +29480,7 @@ PRp
 Psq
 PFVA
 Pick
+PDB
 ectopic
 elevation
 early
@@ -30575,6 +30630,8 @@ eva
 ediXv
 eon
 entries
+easily
+entrapment
 Early
 Elevation
 Etiology
@@ -32569,6 +32626,7 @@ LVb
 LjB
 LCf
 Link
+Lytic
 Hyperkalemia
 HIV
 HCV
@@ -34658,6 +34716,10 @@ hHW
 hSO
 hjQGAw
 hRf
+haphazardly
+hypervascular
+hat
+homeostasis
 peaked
 pattern
 precordial
@@ -35965,6 +36027,10 @@ pRt
 psV
 pWoo
 places
+periportal
+prevalent
+pass
+phases
 Unusual
 Usually
 Upc
@@ -37844,6 +37910,7 @@ BBvXSy
 BoO
 BRWH
 BytM
+Bony
 Characteristic
 CLL
 Clinical
@@ -42854,6 +42921,8 @@ qzlN
 qPyd
 qcJ
 qbX
+quiescent
+quiet
 GpIIb
 GpIb
 Gg
@@ -46674,6 +46743,7 @@ jZj
 jBT
 jmd
 jvbrK
+juxtaposed
 kO
 kWCQ
 ky
