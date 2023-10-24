@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lung cancer",
+      "path": "USMLE/Respiratory/Lung cancer.md"
+    },
+    {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Still disease",
       "path": "USMLE/MSK/Still disease.md"
-    },
-    {
-      "basename": "IgA vasculitis",
-      "path": "USMLE/MSK/IgA vasculitis.md"
     }
   ],
   "omittedPaths": [],
