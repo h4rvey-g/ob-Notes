@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Idiopathic inflammatory myopathies",
+      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+    },
+    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231015163602",
       "path": "appendix/Pasted image 20231015163602.png"
-    },
-    {
-      "basename": "Still disease",
-      "path": "USMLE/MSK/Still disease.md"
     }
   ],
   "omittedPaths": [],
