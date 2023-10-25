@@ -8,8 +8,8 @@ share: true
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">gastritis featuring massive enlargement of the mucosal folds</span>
 - Pathophysiology
 	- Foveolar hyperplasia leads to:
-		- Increased mucus production → loss of protein
-		- Atrophy of parietal cells → decreased gastric acid production
+		- <span style="background:rgba(240, 200, 0, 0.2)">Increased mucus production → loss of protein → peripheral edema</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Atrophy of parietal cells → decreased gastric acid production</span>
 		- Hyperplasia of gastric rugae
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dyspeptic symptoms (i.e., abdominal pain, nausea, vomiting, diarrhea, weight loss)</span>
