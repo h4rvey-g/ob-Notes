@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ménétrier disease",
+      "path": "USMLE/GI/Ménétrier disease.md"
+    },
+    {
       "basename": "Idiopathic inflammatory myopathies",
       "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Purpura differential diagnosis",
       "path": "USMLE/MSK/Purpura differential diagnosis.md"
-    },
-    {
-      "basename": "Pasted image 20231015163602",
-      "path": "appendix/Pasted image 20231015163602.png"
     }
   ],
   "omittedPaths": [],
