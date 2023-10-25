@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Ménétrier disease.md",
+                "file": "USMLE/GI/Acute pancreatitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Ménétrier disease.md",
+                "file": "USMLE/GI/Acute pancreatitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Ménétrier disease.md",
+                "file": "USMLE/GI/Acute pancreatitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Ménétrier disease.md"
+                "file": "USMLE/GI/Acute pancreatitis.md"
               }
             }
           }
@@ -223,9 +223,9 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/GI/Ménétrier disease.md",
     "appendix/Pasted image 20231025145536.png",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
-    "USMLE/GI/Ménétrier disease.md",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/单抗记忆.md",
     "USMLE/MSK/Paget disease.md",
@@ -248,7 +248,6 @@
     "appendix/Pasted image 20230920170116.png",
     "appendix/Pasted image 20230906150202.png",
     "USMLE/Blood/Chemotherapeutic agents.md",
-    "appendix/Pasted image 20230909221338.png",
     "USMLE/MSK/Osteopetrosis.md",
     "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
     "USMLE/MSK/Calcitonin.md",
