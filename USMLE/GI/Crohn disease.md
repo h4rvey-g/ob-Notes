@@ -43,6 +43,24 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 - Features of CD complications
 	- Malabsorption (e.g., weight loss, [[anemia]], failure to thrive)
 	- Enterocutaneous or perianal fistulas, often associated with abscess formation
+## Extraintestinal symptoms
+- Joints
+	- Enteropathic arthritis
+- Eyes
+	- Uveitis
+	- Iritis
+	- Episcleritis
+- Oral mucosa
+	- Oral aphthae
+	- Pyostomatitis vegetans
+- Skin
+	- Erythema nodosum
+	- Acrodermatitis enteropathica
+	- Pyoderma gangrenosum: a neutrophilic dermatosis![[Pasted image 20231026110846.png]]
+		- Associated with various conditions (e.g., IBD, [[rheumatoid arthritis]], and trauma)
+		- Manifests with very painful, rapidly-progressive, red spots that can change into purulent pustules or deep ulcerated lesions with central necrosis
+		- Commonly located at extensor side of the lower limbs
+		- Treated with immunosuppressants (e.g., corticosteroids, cyclosporine A)
 
 ---
 # Diagnostics

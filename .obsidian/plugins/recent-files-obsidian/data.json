@@ -5,6 +5,18 @@
       "path": "USMLE/GI/Crohn disease.md"
     },
     {
+      "basename": "Behcet disease",
+      "path": "USMLE/MSK/Behcet disease.md"
+    },
+    {
+      "basename": "Pasted image 20230928151653",
+      "path": "appendix/Pasted image 20230928151653.png"
+    },
+    {
+      "basename": "Whipple disease",
+      "path": "USMLE/GI/Whipple disease.md"
+    },
+    {
       "basename": "Pasted image 20231015105728",
       "path": "appendix/Pasted image 20231015105728.png"
     },
@@ -125,10 +137,6 @@
       "path": "USMLE/MSK/Bone tumors.md"
     },
     {
-      "basename": "Behcet disease",
-      "path": "USMLE/MSK/Behcet disease.md"
-    },
-    {
       "basename": "Arthrocentesis",
       "path": "USMLE/MSK/Arthrocentesis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20230617214946",
       "path": "Pasted image 20230617214946.png"
-    },
-    {
-      "basename": "Pasted image 20231018170927",
-      "path": "appendix/Pasted image 20231018170927.png"
-    },
-    {
-      "basename": "Vasculitides",
-      "path": "USMLE/MSK/Vasculitides.md"
     }
   ],
   "omittedPaths": [],
