@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Idiopathic inflammatory myopathies",
+      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Crohn disease",
       "path": "USMLE/GI/Crohn disease.md"
     },
@@ -45,10 +53,6 @@
       "path": "USMLE/GI/Ménétrier disease.md"
     },
     {
-      "basename": "Idiopathic inflammatory myopathies",
-      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
-    },
-    {
       "basename": "Lung cancer",
       "path": "USMLE/Respiratory/Lung cancer.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "Reye syndrome",
       "path": "USMLE/Pharmacology/Reye syndrome.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     },
     {
       "basename": "How to move the location of Windows Subsystem for Android (WSA)",

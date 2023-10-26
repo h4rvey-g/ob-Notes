@@ -1039,6 +1039,7 @@ TkY
 Tug
 Tropheryma
 Treated
+Transmural
 differentials
 differential
 diagnosis
@@ -2302,6 +2303,8 @@ dwX
 dmJm
 detection
 dermatosis
+discontinuous
+deficiencies
 of
 over
 originate
@@ -4467,6 +4470,7 @@ rkP
 rsw
 rCRA
 rectal
+remission
 narrow
 negative
 not
@@ -7906,6 +7910,9 @@ iSP
 iIb
 ileum
 insufficiencies
+interspersed
+inflamed
+issues
 general
 giving
 generation
@@ -11081,6 +11088,7 @@ SVaFH
 Slc
 STX
 SQA
+Skip
 AVNRT
 Atrial
 AVRT
@@ -12117,6 +12125,8 @@ AlR
 AmT
 AlH
 Axa
+Assesses
+Abscess
 Orthodromic
 On
 Often
@@ -12971,6 +12981,8 @@ OvP
 OcB
 Ormh
 OmF
+Occur
+Osteoporosis
 atrio
 and
 atrial
@@ -16495,6 +16507,8 @@ ckx
 controllable
 corticosteroids
 cyclosporine
+cobblestones
+case
 bypass
 block
 background
@@ -18698,6 +18712,7 @@ ffZM
 fbZM
 ffCEnI
 fistulas
+fissures
 with
 wave
 which
@@ -22696,6 +22711,7 @@ sve
 sLn
 sDgy
 sun
+serpiginous
 QRS
 QT
 QDQ
@@ -24712,6 +24728,7 @@ lYy
 lDxI
 lyWk
 lamina
+layers
 Multifocal
 Mild
 Moderate
@@ -25727,6 +25744,8 @@ Macrocytic
 Measurement
 MEDD
 Migrating
+Monitors
+Megaloblastic
 Differentiate
 Drugs
 DDx
@@ -27776,6 +27795,7 @@ FXq
 FNZ
 FevSG
 Fku
+Fistulizing
 In
 It
 Intraventricular
@@ -28957,6 +28977,7 @@ IFbJ
 IIS
 Individuals
 Iritis
+Indication
 PACs
 Primary
 Pathophysiology
@@ -31247,6 +31268,7 @@ eVc
 eJRc
 eegp
 euw
+edematous
 Early
 Elevation
 Etiology
@@ -32279,6 +32301,7 @@ Enterocutaneous
 Enteropathic
 Eyes
 Episcleritis
+Endoscopy
 LEFT
 Lengthening
 Left
@@ -33287,6 +33310,7 @@ Lob
 Ljz
 Lower
 Lymphadenopathy
+Linear
 Hyperkalemia
 HIV
 HCV
@@ -36771,6 +36795,8 @@ pki
 psi
 pvi
 propria
+pancolitis
+phlegmons
 Unusual
 Usually
 Upc
@@ -38691,6 +38717,7 @@ BFK
 BHgQA
 BzN
 BTZ
+Bile
 Characteristic
 CLL
 Clinical
@@ -39754,6 +39781,8 @@ CDw
 Cfa
 ClIAK
 CjG
+Cobblestone
+Colorectal
 Right
 Retrograde
 Rates
@@ -46670,6 +46699,7 @@ NDi
 NTo
 Northern
 NOD
+Noncaseating
 jEQ
 jL
 jO

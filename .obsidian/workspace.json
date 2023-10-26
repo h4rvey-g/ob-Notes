@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md",
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md",
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md",
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md"
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
               }
             }
           }
@@ -221,8 +221,12 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Lab Values.md",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/GI/Crohn disease.md",
+    "USMLE/GI/Primary biliary cholangitis.md",
     "appendix/Pasted image 20231026113426.png",
     "appendix/Pasted image 20231026112938.png",
     "appendix/Pasted image 20231026112648.png",
@@ -230,7 +234,6 @@
     "appendix/Pasted image 20231026112246.png",
     "appendix/Pasted image 20231026112109.png",
     "USMLE/MSK/Behcet disease.md",
-    "USMLE/GI/Crohn disease.md",
     "appendix/Pasted image 20231026110846.png",
     "appendix/Pasted image 20230928151653.png",
     "USMLE/GI/Whipple disease.md",
@@ -238,21 +241,17 @@
     "USMLE/GI/Ulcerative colitis.md",
     "appendix/Pasted image 20231015105728.png",
     "USMLE/Blood/Macrocytic anemias.md",
-    "appendix/Pasted image 20231023204135.png",
     "USMLE/GI/Mallory-Weiss syndrome.md",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Ménétrier disease.md",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
-    "USMLE/Respiratory/Lung cancer.md",
     "USMLE/单抗记忆.md",
     "USMLE/MSK/Paget disease.md",
-    "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/GI/Hepatitis A.md",
     "USMLE/GI/Hepatitis A.md",
     "USMLE/GI/Toxic megacolon.md",
     "USMLE/GI/Angiodysplasia.md",
     "USMLE/Pharmacology/Reye syndrome.md",
-    "USMLE/Lab Values.md",
     "Bioinformatics/How to move the location of Windows Subsystem for Android (WSA).md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/MSK/Osteopetrosis.md",
