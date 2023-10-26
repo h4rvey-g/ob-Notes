@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Acute pancreatitis.md",
+                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Acute pancreatitis.md",
+                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Acute pancreatitis.md",
+                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Acute pancreatitis.md"
+                "file": "USMLE/GI/Mallory-Weiss syndrome.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Ménétrier disease.md",
     "appendix/Pasted image 20231025145536.png",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",

@@ -5378,6 +5378,7 @@ npv
 nCbo
 nKy
 nwCOw
+nervosa
 tachycardia
 tract
 the
@@ -6548,6 +6549,9 @@ tSu
 tzg
 turned
 tunnels
+tearing
+tear
+tears
 in
 includes
 involving
@@ -7761,6 +7765,7 @@ idi
 iQc
 installer
 irregularly
+intraluminal
 general
 giving
 generation
@@ -16190,6 +16195,9 @@ canals
 cease
 chalk
 chaotic
+cardia
+crust
+clot
 bypass
 block
 background
@@ -17253,6 +17261,7 @@ bony
 base
 blastic
 bowing
+bloodless
 flutter
 from
 focus
@@ -22274,6 +22283,7 @@ saber
 shin
 significantly
 severity
+split
 QRS
 QT
 QDQ
@@ -29481,6 +29491,8 @@ Psq
 PFVA
 Pick
 PDB
+Precipitating
+Predisposing
 ectopic
 elevation
 early
@@ -31640,6 +31652,8 @@ EFh
 EJq
 EJfg
 EbHb
+Epigastric
+EGD
 LEFT
 Lengthening
 Left
@@ -33659,6 +33673,8 @@ HuL
 HCCC
 Heee
 HlY
+Hiatal
+Hematemesis
 hyperkalemia
 hypertrophy
 hereditary
@@ -34720,6 +34736,7 @@ haphazardly
 hypervascular
 hat
 homeostasis
+hernia
 peaked
 pattern
 precordial
@@ -37911,6 +37928,7 @@ BoO
 BRWH
 BytM
 Bony
+Bulimia
 Characteristic
 CLL
 Clinical
@@ -43773,6 +43791,7 @@ GLF
 GjS
 GMi
 Gbh
+Gastroesophageal
 Jervell
 JYo
 JO
