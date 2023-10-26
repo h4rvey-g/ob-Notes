@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
+                "file": "USMLE/GI/Crohn disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
+                "file": "USMLE/GI/Crohn disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md",
+                "file": "USMLE/GI/Crohn disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Mallory-Weiss syndrome.md"
+                "file": "USMLE/GI/Crohn disease.md"
               }
             }
           }
@@ -223,6 +223,13 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231026105145.png",
+    "USMLE/GI/Ulcerative colitis.md",
+    "USMLE/GI/Crohn disease.md",
+    "appendix/Pasted image 20231015105728.png",
+    "USMLE/Blood/Macrocytic anemias.md",
+    "appendix/Pasted image 20231023204135.png",
+    "USMLE/GI/Mallory-Weiss syndrome.md",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Ménétrier disease.md",
     "appendix/Pasted image 20231025145536.png",
@@ -234,9 +241,7 @@
     "USMLE/GI/Hepatitis A.md",
     "USMLE/GI/Hepatitis A.md",
     "appendix/Pasted image 20230910173723.png",
-    "USMLE/GI/Ulcerative colitis.md",
     "USMLE/GI/Toxic megacolon.md",
-    "appendix/Pasted image 20231023204135.png",
     "USMLE/GI/Angiodysplasia.md",
     "appendix/Pasted image 20231023203421.png",
     "USMLE/Pharmacology/Reye syndrome.md",
@@ -247,7 +252,6 @@
     "appendix/Pasted image 20230813153046.png",
     "appendix/Pasted image 20230920162430.png",
     "appendix/Pasted image 20230920170116.png",
-    "appendix/Pasted image 20230906150202.png",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/MSK/Osteopetrosis.md",
     "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
@@ -255,10 +259,6 @@
     "USMLE/MSK/Hallux valgus.md",
     "USMLE/MSK/Bone tumors.md",
     "USMLE/MSK/Behcet disease.md",
-    "USMLE/MSK/Arthrocentesis.md",
-    "USMLE/MSK/Achondroplasia.md",
-    "USMLE/MSK/Alopecia.md",
-    "index.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

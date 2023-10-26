@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Crohn disease",
+      "path": "USMLE/GI/Crohn disease.md"
+    },
+    {
+      "basename": "Pasted image 20231015105728",
+      "path": "appendix/Pasted image 20231015105728.png"
+    },
+    {
+      "basename": "Macrocytic anemias",
+      "path": "USMLE/Blood/Macrocytic anemias.md"
+    },
+    {
+      "basename": "Ulcerative colitis",
+      "path": "USMLE/GI/Ulcerative colitis.md"
+    },
+    {
+      "basename": "Pasted image 20231023204135",
+      "path": "appendix/Pasted image 20231023204135.png"
+    },
+    {
       "basename": "Mallory-Weiss syndrome",
       "path": "USMLE/GI/Mallory-Weiss syndrome.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "Pasted image 20230910173723",
       "path": "appendix/Pasted image 20230910173723.png"
-    },
-    {
-      "basename": "Ulcerative colitis",
-      "path": "USMLE/GI/Ulcerative colitis.md"
     },
     {
       "basename": "Toxic megacolon",
@@ -183,22 +199,6 @@
     {
       "basename": "Vasculitides",
       "path": "USMLE/MSK/Vasculitides.md"
-    },
-    {
-      "basename": "Hepatitis B",
-      "path": "USMLE/GI/Hepatitis B.md"
-    },
-    {
-      "basename": "Cirrhosis",
-      "path": "USMLE/GI/Cirrhosis.md"
-    },
-    {
-      "basename": "Peptic ulcer disease",
-      "path": "USMLE/GI/Peptic ulcer disease.md"
-    },
-    {
-      "basename": "Primary sclerosing cholangitis",
-      "path": "USMLE/GI/Primary sclerosing cholangitis.md"
     }
   ],
   "omittedPaths": [],
