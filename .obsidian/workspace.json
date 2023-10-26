@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/GI/Primary biliary cholangitis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/GI/Primary biliary cholangitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/GI/Primary biliary cholangitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+                "file": "USMLE/GI/Primary biliary cholangitis.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/MSK/Idiopathic inflammatory myopathies.md",
     "USMLE/Lab Values.md",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/GI/Crohn disease.md",
@@ -244,7 +245,6 @@
     "USMLE/GI/Mallory-Weiss syndrome.md",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Ménétrier disease.md",
-    "USMLE/MSK/Idiopathic inflammatory myopathies.md",
     "USMLE/单抗记忆.md",
     "USMLE/MSK/Paget disease.md",
     "USMLE/GI/Hepatitis A.md",
