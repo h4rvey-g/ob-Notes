@@ -23,8 +23,9 @@ share: true
 >Nicotine consumption is the only (known) controllable risk factor for CD. Therefore, smoking cessation is especially important in patients with CD.
 
 ---
-# Pathophysiology
-
+# Pathology
+- Transmural inflammation: all mucosal layers of the intestinal wall are involved 
+	- Noncaseating granulomas![[Pasted image 20231026112626.png]]![[Pasted image 20231026112648.png]]
 
 ---
 # Clinical features
@@ -64,10 +65,44 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 
 ---
 # Diagnostics
-
+## Endoscopy
+- Indication: all patients with suspected CD
+	- Assesses the distribution and severity of the disease
+	- Aids differentiation of CD from other diseases (e.g., [[ulcerative colitis]])
+	- Monitors disease activity (e.g., active disease, remission)
+	- Can be used therapeutically (e.g., <span style="background:rgba(240, 200, 0, 0.2)">stricture dilatation</span>)
+- Supportive findings
+	- <span style="background:rgba(240, 200, 0, 0.2)">Skip lesions</span>: segmental and/or discontinuous pattern of involvement (interspersed with normal tissue)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Linear and/or serpiginous ulcerations </span>![[Pasted image 20231026112109.png]]
+	- Small aphthous ulcerations 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cobblestone sign: inflamed edematous sections interspersed with deep ulcerations that resemble cobblestones</span> ![[Pasted image 20231026112246.png]]
+	- Erythema, fissures, strictures, and fistulas
 
 ---
 # Treatment
 
 
 ---
+# Complications
+## Fistulizing CD
+- Occur in one-third of patients with CD
+- Typically involve the perianal region![[Pasted image 20231026113426.png]]
+## Other intestinal complications
+- Colorectal cancer (especially in the case of pancolitis)
+- Short bowel syndrome and associated issues after surgery
+- Stenosis/strictures → bowel obstruction/(sub)ileus
+- Intestinal perforation → peritonitis
+- [[Primary sclerosing cholangitis]]
+- Impaired bile acid reabsorption
+	- Bile acid diarrhea 
+	- Bile acid malabsorption → steatorrhea and deficiencies in fat-soluble vitamins 
+- Abscess formation/phlegmons
+## Systemic complications
+- Signs of malabsorption syndrome
+	- Weight loss
+	- Failure to thrive and growth failure in children
+	- [[Anemia]]
+		- Iron deficiency anemia
+			- Caused by intestinal blood loss
+		- Megaloblastic anemia (vitamin B12 deficiency due to impaired absorption in the chronically inflamed ileum)![[Pasted image 20231026112938.png]]
+	- Osteoporosis
