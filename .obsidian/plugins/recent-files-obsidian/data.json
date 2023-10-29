@@ -1,206 +1,167 @@
 {
   "recentFiles": [
     {
-      "basename": "Primary biliary cholangitis",
-      "path": "USMLE/GI/Primary biliary cholangitis.md"
+      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
+      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
     },
     {
-      "basename": "Hepatitis A",
-      "path": "USMLE/GI/Hepatitis A.md"
-    },
-    {
-      "basename": "Pasted image 20230910173723",
-      "path": "appendix/Pasted image 20230910173723.png"
-    },
-    {
-      "basename": "Ulcerative colitis",
-      "path": "USMLE/GI/Ulcerative colitis.md"
-    },
-    {
-      "basename": "Toxic megacolon",
-      "path": "USMLE/GI/Toxic megacolon.md"
-    },
-    {
-      "basename": "Angiodysplasia",
-      "path": "USMLE/GI/Angiodysplasia.md"
-    },
-    {
-      "basename": "Reye syndrome",
-      "path": "USMLE/Pharmacology/Reye syndrome.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "How to move the location of Windows Subsystem for Android (WSA)",
-      "path": "Bioinformatics/How to move the location of Windows Subsystem for Android (WSA).md"
-    },
-    {
-      "basename": "Pasted image 20230813153046",
-      "path": "appendix/Pasted image 20230813153046.png"
-    },
-    {
-      "basename": "Pasted image 20230920162430",
-      "path": "appendix/Pasted image 20230920162430.png"
-    },
-    {
-      "basename": "Pasted image 20230920170116",
-      "path": "appendix/Pasted image 20230920170116.png"
-    },
-    {
-      "basename": "Pasted image 20230906150202",
-      "path": "appendix/Pasted image 20230906150202.png"
-    },
-    {
-      "basename": "Chemotherapeutic agents",
-      "path": "USMLE/Blood/Chemotherapeutic agents.md"
-    },
-    {
-      "basename": "Pasted image 20230909221338",
-      "path": "appendix/Pasted image 20230909221338.png"
-    },
-    {
-      "basename": "Osteopetrosis",
-      "path": "USMLE/MSK/Osteopetrosis.md"
-    },
-    {
-      "basename": "Paget disease",
-      "path": "USMLE/MSK/Paget disease.md"
-    },
-    {
-      "basename": "Calcium pyrophosphate deposition disease",
-      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
-    },
-    {
-      "basename": "Hallux valgus",
-      "path": "USMLE/MSK/Hallux valgus.md"
-    },
-    {
-      "basename": "Calcitonin",
-      "path": "USMLE/MSK/Calcitonin.md"
-    },
-    {
-      "basename": "Bone tumors",
-      "path": "USMLE/MSK/Bone tumors.md"
-    },
-    {
-      "basename": "Behcet disease",
-      "path": "USMLE/MSK/Behcet disease.md"
-    },
-    {
-      "basename": "Arthrocentesis",
-      "path": "USMLE/MSK/Arthrocentesis.md"
-    },
-    {
-      "basename": "Achondroplasia",
-      "path": "USMLE/MSK/Achondroplasia.md"
-    },
-    {
-      "basename": "Alopecia",
-      "path": "USMLE/MSK/Alopecia.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Keloid scars",
-      "path": "USMLE/MSK/Keloid scars.md"
-    },
-    {
-      "basename": "Celiac disease",
-      "path": "USMLE/GI/Celiac disease.md"
-    },
-    {
-      "basename": "Cystic fibrosis",
-      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
-    },
-    {
-      "basename": "Esophageal diverticula",
-      "path": "USMLE/GI/Esophageal diverticula.md"
-    },
-    {
-      "basename": "Gastroschisis",
-      "path": "USMLE/GI/Gastroschisis.md"
-    },
-    {
-      "basename": "Alpha fetoprotein",
-      "path": "USMLE/Reproductive/Alpha fetoprotein.md"
-    },
-    {
-      "basename": "Pasted image 20231018163111",
-      "path": "appendix/Pasted image 20231018163111.png"
-    },
-    {
-      "basename": "Pasted image 20231018163323",
-      "path": "appendix/Pasted image 20231018163323.png"
-    },
-    {
-      "basename": "Pasted image 20231018163419",
-      "path": "appendix/Pasted image 20231018163419.png"
-    },
-    {
-      "basename": "Pasted image 20231018170534",
-      "path": "appendix/Pasted image 20231018170534.png"
-    },
-    {
-      "basename": "Pasted image 20230617214946",
-      "path": "Pasted image 20230617214946.png"
-    },
-    {
-      "basename": "Pasted image 20231018170927",
-      "path": "appendix/Pasted image 20231018170927.png"
-    },
-    {
-      "basename": "Mallory-Weiss syndrome",
-      "path": "USMLE/GI/Mallory-Weiss syndrome.md"
-    },
-    {
-      "basename": "Vasculitides",
-      "path": "USMLE/MSK/Vasculitides.md"
-    },
-    {
-      "basename": "Hepatitis B",
-      "path": "USMLE/GI/Hepatitis B.md"
-    },
-    {
-      "basename": "Cirrhosis",
-      "path": "USMLE/GI/Cirrhosis.md"
-    },
-    {
-      "basename": "Peptic ulcer disease",
-      "path": "USMLE/GI/Peptic ulcer disease.md"
-    },
-    {
-      "basename": "Primary sclerosing cholangitis",
-      "path": "USMLE/GI/Primary sclerosing cholangitis.md"
+      "basename": "Amyotrophic lateral sclerosis",
+      "path": "USMLE/Neurology/Amyotrophic lateral sclerosis.md"
     },
     {
       "basename": "Purpura differential diagnosis",
       "path": "USMLE/MSK/Purpura differential diagnosis.md"
     },
     {
-      "basename": "Pasted image 20231015163602",
-      "path": "appendix/Pasted image 20231015163602.png"
-    },
-    {
-      "basename": "Still disease",
-      "path": "USMLE/MSK/Still disease.md"
+      "basename": "Thrombotic thrombocytopenic purpura (TTP)",
+      "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
     },
     {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
     },
     {
-      "basename": "Pasted image 20230920172031",
-      "path": "appendix/Pasted image 20230920172031.png"
+      "basename": "Pasted image 20230928151653",
+      "path": "appendix/Pasted image 20230928151653.png"
+    },
+    {
+      "basename": "Vasculitides",
+      "path": "USMLE/MSK/Vasculitides.md"
+    },
+    {
+      "basename": "Pectinate line",
+      "path": "USMLE/GI/Pectinate line.md"
+    },
+    {
+      "basename": "Heme synthesis",
+      "path": "USMLE/Blood/Heme synthesis.md"
+    },
+    {
+      "basename": "Hepatitis C",
+      "path": "USMLE/GI/Hepatitis C.md"
+    },
+    {
+      "basename": "Erosive gastritis",
+      "path": "USMLE/GI/Erosive gastritis.md"
+    },
+    {
+      "basename": "Hepatitis B",
+      "path": "USMLE/GI/Hepatitis B.md"
+    },
+    {
+      "basename": "Wilson disease",
+      "path": "USMLE/GI/Wilson disease.md"
+    },
+    {
+      "basename": "Membranoproliferative glomerulonephritis",
+      "path": "USMLE/Renal/Membranoproliferative glomerulonephritis.md"
+    },
+    {
+      "basename": "Immunofluorescence",
+      "path": "USMLE/Renal/Immunofluorescence.md"
+    },
+    {
+      "basename": "Nephrotic syndrome",
+      "path": "USMLE/Renal/Nephrotic syndrome.md"
+    },
+    {
+      "basename": "Membranous nephropathy",
+      "path": "USMLE/Renal/Membranous nephropathy.md"
+    },
+    {
+      "basename": "IgA nephropathy",
+      "path": "USMLE/Renal/IgA nephropathy.md"
+    },
+    {
+      "basename": "Nephritic syndrome",
+      "path": "USMLE/Renal/Nephritic syndrome.md"
+    },
+    {
+      "basename": "Alpha-1 antitrypsin deficiency",
+      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
+    },
+    {
+      "basename": "Gastrinoma",
+      "path": "USMLE/GI/Gastrinoma.md"
+    },
+    {
+      "basename": "Peptic ulcer disease",
+      "path": "USMLE/GI/Peptic ulcer disease.md"
+    },
+    {
+      "basename": "Systemic lupus erythematosus",
+      "path": "USMLE/Immunology/Systemic lupus erythematosus.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
+      "basename": "Hemochromatosis",
+      "path": "USMLE/Blood/Hemochromatosis.md"
+    },
+    {
+      "basename": "Pasted image 20231015163602",
+      "path": "appendix/Pasted image 20231015163602.png"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
+      "basename": "Kaposi sarcoma",
+      "path": "USMLE/MSK/Kaposi sarcoma.md"
+    },
+    {
+      "basename": "Celiac disease",
+      "path": "USMLE/GI/Celiac disease.md"
+    },
+    {
+      "basename": "Whipple disease",
+      "path": "USMLE/GI/Whipple disease.md"
+    },
+    {
+      "basename": "Drug reaction with eosinophilia and systemic symptoms",
+      "path": "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md"
+    },
+    {
+      "basename": "Cystic fibrosis",
+      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
+    },
+    {
+      "basename": "Dermatitis herpetiformis",
+      "path": "USMLE/MSK/Dermatitis herpetiformis.md"
+    },
+    {
+      "basename": "Steatorrhea",
+      "path": "USMLE/GI/Steatorrhea.md"
+    },
+    {
+      "basename": "Nonalcoholic fatty liver disease",
+      "path": "USMLE/GI/Nonalcoholic fatty liver disease.md"
+    },
+    {
+      "basename": "Primary sclerosing cholangitis",
+      "path": "USMLE/GI/Primary sclerosing cholangitis.md"
+    },
+    {
+      "basename": "Alcoholic hepatitis",
+      "path": "USMLE/GI/Alcoholic hepatitis.md"
+    },
+    {
+      "basename": "Primary biliary cholangitis",
+      "path": "USMLE/GI/Primary biliary cholangitis.md"
+    },
+    {
+      "basename": "Alkaline phosphatase",
+      "path": "USMLE/Blood/Alkaline phosphatase.md"
+    },
+    {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
     }
   ],
   "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"
+}

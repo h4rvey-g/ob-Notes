@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/单抗记忆.md",
-                "mode": "source",
+                "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/单抗记忆.md",
+            "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,9 +128,9 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/单抗记忆.md",
+            "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
             "linksCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/单抗记忆.md"
+            "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
           }
         }
       },
@@ -190,29 +190,43 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Epiglottitis.md",
-    "USMLE/GI/Celiac disease.md",
-    "appendix/Pasted image 20231005110125.png",
-    "USMLE/Muscle, skin, and connective tissue/Dermatitis herpetiformis.md",
-    "appendix/Pasted image 20231005110109.png",
-    "USMLE/Respiratory/Sinusitis.md",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "appendix/Pasted image 20230910173723.png",
-    "USMLE/单抗记忆.md",
-    "USMLE/Psychiatry/Shaken baby syndrome.md",
-    "appendix/Pasted image 20231002103937.png",
-    "USMLE/Blood/Osteopetrosis.md",
+    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+    "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
+    "USMLE/MSK/Purpura differential diagnosis.md",
+    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
+    "USMLE/MSK/IgA vasculitis.md",
+    "appendix/Pasted image 20231029162851.png",
+    "appendix/Pasted image 20230928151653.png",
+    "USMLE/MSK/Vasculitides.md",
+    "appendix/Pasted image 20231029162243.png",
+    "USMLE/GI/Pectinate line.md",
+    "appendix/Pasted image 20231029154259.png",
+    "appendix/Pasted image 20231029153854.png",
+    "USMLE/Blood/Heme synthesis.md",
+    "USMLE/GI/Hepatitis C.md",
+    "appendix/Pasted image 20231029144558.png",
+    "appendix/Pasted image 20231029144358.png",
+    "appendix/Pasted image 20231029144349.png",
+    "appendix/Pasted image 20231029144327.png",
+    "USMLE/GI/Erosive gastritis.md",
+    "USMLE/GI/Hepatitis B.md",
+    "appendix/Pasted image 20231029112500.png",
+    "USMLE/GI/Wilson disease.md",
+    "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
+    "USMLE/Renal/Immunofluorescence.md",
+    "USMLE/Renal/Nephrotic syndrome.md",
+    "USMLE/Renal/Membranous nephropathy.md",
+    "USMLE/Renal/[[Nephrotic syndrome.md",
+    "USMLE/Renal/IgA nephropathy.md",
+    "USMLE/Renal/Nephritic syndrome.md",
+    "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
+    "USMLE/GI/Gastrinoma.md",
+    "USMLE/GI/Peptic ulcer disease.md",
+    "USMLE/Immunology/Systemic lupus erythematosus.md",
+    "USMLE/Respiratory/Sarcoidosis.md",
+    "USMLE/Blood/Hemochromatosis.md",
+    "USMLE/Lab Values.md",
     "USMLE/Psychiatry",
-    "USMLE/Blood/Vitamin C deficiency.md",
-    "USMLE/Biochemistry/Vitamin C.md",
-    "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/Infective disease/Arthritis-dermatitis syndrome.md",
-    "appendix/Pasted image 20230928150707.png",
-    "appendix/Pasted image 20230805174338.png",
-    "USMLE/Blood/Heparin-induced thrombocytopenia.md",
-    "USMLE/Blood/Blood.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
     "USMLE/Respiratory"
   ]
 }
