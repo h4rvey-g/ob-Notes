@@ -22,7 +22,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 >Compared with TB, which has caseating granulomas.
 >![[Pasted image 20230803213835.png]]
 
-- Asteroid bodies: star-shaped, eosinophilic inclusion bodies consisting of various lipids (e.g., from sarcoidosis, foreign body reactions)![[Pasted image 20230807213802.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Asteroid bodies: star-shaped, eosinophilic inclusion bodies consisting of various lipids (e.g., from sarcoidosis, foreign body reactions)</span>![[Pasted image 20230807213802.png]]
 - Calcium dysregulation: activated pulmonary alveolar macrophages → ↑ 1-alpha hydroxylase expression and activity → ↑ 1,25-dihydroxyvitamin D (calcitriol) → hypervitaminosis D → hyperphosphatemia, [[hypercalcemia]], and, possibly, renal failure
 
 ---
@@ -35,9 +35,9 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 	- Cough, exertional dyspnea, chest pain
 	- Mild rales on pulmonary auscultation
 ## Cutaneous sarcoidosis [8]
-- Erythema nodosum: most common nonspecific cutaneous manifestation 
+- <span style="background:rgba(240, 200, 0, 0.2)">Erythema nodosum</span>: most common nonspecific cutaneous manifestation 
 ![[Pasted image 20230720153101.png]]
-- Lupus pernio
+- <span style="background:rgba(240, 200, 0, 0.2)">Lupus pernio</span>
 	- A pathognomonic manifestation of sarcoidosis characterized by extensive, violaceous skin plaques (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears 
 
 Butterfly rash as seen in systemic lupus erythematosus
