@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
-                "mode": "source",
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "366784a71f0400fb",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md",
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Primary biliary cholangitis.md"
+                "file": "USMLE/GI/Primary sclerosing cholangitis.md"
               }
             }
           }
@@ -223,11 +223,11 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
     "USMLE/Lab Values.md",
     "USMLE/Respiratory/Lung cancer.md",
     "USMLE/GI/Crohn disease.md",
-    "USMLE/GI/Primary biliary cholangitis.md",
     "appendix/Pasted image 20231026113426.png",
     "appendix/Pasted image 20231026112938.png",
     "appendix/Pasted image 20231026112648.png",
