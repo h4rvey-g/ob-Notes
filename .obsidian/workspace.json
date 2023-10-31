@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Colonic polyps.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Colonic polyps.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Colonic polyps.md",
+                "file": "USMLE/GI/Pancreatic cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Colonic polyps.md"
+                "file": "USMLE/GI/Pancreatic cancer.md"
               }
             }
           }
@@ -223,10 +223,13 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231031143601.png",
+    "appendix/Pasted image 20231031143553.png",
+    "appendix/Pasted image 20231031142843.png",
+    "USMLE/GI/Colonic polyps.md",
     "appendix/Pasted image 20231031135152.png",
     "appendix/Pasted image 20231031112847.png",
     "USMLE/GI/Lynch syndrome.md",
-    "USMLE/GI/Colonic polyps.md",
     "appendix/Pasted image 20231031103738.png",
     "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/GI/Primary sclerosing cholangitis.md",
@@ -236,9 +239,6 @@
     "appendix/Pasted image 20231029162243.png",
     "appendix/Pasted image 20231029154259.png",
     "appendix/Pasted image 20231029153854.png",
-    "appendix/Pasted image 20231029144558.png",
-    "appendix/Pasted image 20231029144358.png",
-    "appendix/Pasted image 20231029144349.png",
     "USMLE/GI/Pectinate line.md",
     "USMLE/GI/Nonalcoholic fatty liver disease.md",
     "USMLE/GI/Hepatitis C.md",
