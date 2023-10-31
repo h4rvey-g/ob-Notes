@@ -197,7 +197,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,6 +223,8 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Blood/Platinum-based agents.md",
+    "USMLE/Blood/Chemotherapeutic agents.md",
     "appendix/Pasted image 20230909215738.png",
     "USMLE/GI/Pancreatic cancer.md",
     "appendix/Pasted image 20231031143601.png",
@@ -238,7 +241,6 @@
     "appendix/SmartSelect_20231028_093058.jpg",
     "appendix/Pasted image 20231029162851.png",
     "appendix/Pasted image 20231029162243.png",
-    "appendix/Pasted image 20231029154259.png",
     "USMLE/GI/Pectinate line.md",
     "USMLE/GI/Nonalcoholic fatty liver disease.md",
     "USMLE/GI/Hepatitis C.md",
@@ -257,7 +259,6 @@
     "USMLE/Blood/Macrocytic anemias.md",
     "USMLE/GI/Mallory-Weiss syndrome.md",
     "USMLE/GI/Acute pancreatitis.md",
-    "USMLE/GI/Ménétrier disease.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
