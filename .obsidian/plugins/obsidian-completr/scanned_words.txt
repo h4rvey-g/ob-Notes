@@ -8848,6 +8848,7 @@ gXB
 gzV
 gYXkq
 grh
+genitals
 major
 mechanisms
 mark
@@ -10029,6 +10030,8 @@ methylmalonic
 measuring
 mecC
 myoclonia
+macules
+mucin
 Sinus
 ST
 Segment
@@ -17596,6 +17599,7 @@ bRl
 bxDx
 bimodal
 biopsies
+buccal
 flutter
 from
 focus
@@ -24729,6 +24733,8 @@ lDxI
 lyWk
 lamina
 layers
+lentigines
+lips
 Multifocal
 Mild
 Moderate
@@ -25746,6 +25752,7 @@ MEDD
 Migrating
 Monitors
 Megaloblastic
+Mucocutaneous
 Differentiate
 Drugs
 DDx
@@ -28978,6 +28985,7 @@ IIS
 Individuals
 Iritis
 Indication
+Inheritance
 PACs
 Primary
 Pathophysiology
@@ -30100,6 +30108,7 @@ Populations
 Polyserositis
 PAS
 Pyostomatitis
+Peutz
 ectopic
 elevation
 early
@@ -33311,6 +33320,7 @@ Ljz
 Lower
 Lymphadenopathy
 Linear
+Lifetime
 Hyperkalemia
 HIV
 HCV
@@ -34371,6 +34381,7 @@ HXS
 Hvm
 HaF
 Hyperpigmentation
+Hamartomatous
 hyperkalemia
 hypertrophy
 hereditary
@@ -35464,6 +35475,8 @@ hFE
 hiL
 hxJ
 hLw
+hyperpigmented
+hamartomatous
 peaked
 pattern
 precordial
@@ -45686,6 +45699,7 @@ JoOq
 JCb
 JÄ
 JJT
+Jeghers
 Nielsen
 NB
 No

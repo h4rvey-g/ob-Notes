@@ -6,6 +6,13 @@ aliases:
   - Colon polyps
 share: true
 ---
+# Adenomatous polyps
+- High malignant potential
+	- Tubular adenoma: < 5%
+	- Tubulovillous adenoma: ∼ 20%
+	- <span style="background:rgba(240, 200, 0, 0.2)">Villous adenoma: ∼ 50%</span>![[Pasted image 20231031112847.png]]
+>[!Mnemonic] 
+><span style="background:rgba(240, 200, 0, 0.2)">Vill</span>ous adenomas are <span style="background:rgba(240, 200, 0, 0.2)">vill</span>ains because they have the highest malignant potential.
 # Hamartomatous polyposis syndromes
 ## Peutz-Jeghers syndrome (PJS)
 - Inheritance: autosomal dominant
