@@ -6,7 +6,7 @@ aliases:
   - Colon polyps
 share: true
 ---
-
+# Hamartomatous polyposis syndromes
 ## Peutz-Jeghers syndrome (PJS)
 - Inheritance: autosomal dominant
 - Intestinal manifestations
