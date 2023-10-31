@@ -8,7 +8,7 @@ share: true
 ---
 # Adenomatous polyps
 - High malignant potential
-	- Tubular adenoma: < 5%
+	- Tubular adenoma: < 5%![[Pasted image 20231031135152.png]]
 	- Tubulovillous adenoma: ∼ 20%
 	- <span style="background:rgba(240, 200, 0, 0.2)">Villous adenoma: ∼ 50%</span>![[Pasted image 20231031112847.png]]
 >[!Mnemonic] 
