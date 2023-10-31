@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Croup",
+      "path": "USMLE/Respiratory/Croup.md"
+    },
+    {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gastroschisis",
       "path": "USMLE/GI/Gastroschisis.md"
-    },
-    {
-      "basename": "Alpha fetoprotein",
-      "path": "USMLE/Reproductive/Alpha fetoprotein.md"
     }
   ],
   "omittedPaths": [],
