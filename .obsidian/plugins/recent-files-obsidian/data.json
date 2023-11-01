@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Erythema nodosum",
+      "path": "USMLE/MSK/Erythema nodosum.md"
+    },
+    {
       "basename": "Crohn disease",
       "path": "USMLE/GI/Crohn disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Esophageal diverticula",
       "path": "USMLE/GI/Esophageal diverticula.md"
-    },
-    {
-      "basename": "Gastroschisis",
-      "path": "USMLE/GI/Gastroschisis.md"
     }
   ],
   "omittedPaths": [],
