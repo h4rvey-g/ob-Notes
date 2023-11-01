@@ -37,8 +37,9 @@ share: true
 - Complications: <span style="background:rgba(240, 200, 0, 0.2)">may lead to atrophy and, in rare cases, hypofertility</span>
 ## Other complications
 - Aseptic meningitis (1–10% of cases): predominantly mild course and usually no permanent sequelae
-- Acute pancreatitis (< 1% of cases)
+- [[Acute pancreatitis]] (< 1% of cases)
 	- ↑ Lipase in addition to ↑ amylase
+- Hearing loss (extremely rare)
 
 ---
 # Diagnostics
