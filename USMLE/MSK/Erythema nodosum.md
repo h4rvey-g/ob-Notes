@@ -24,7 +24,7 @@ share: true
 ---
 # Clinical features
 - Nonspecific symptoms : fever, arthralgia , malaise, hilar lymphadenopathy 
-- Painful, subcutaneous nodules on both pretibial (anterior leg) surfaces (less common on other areas of skin)
+- Painful, subcutaneous nodules on both pretibial (anterior leg) surfaces (less common on other areas of skin)![[Pasted image 20231101102548.png]]
 	1. Firm, erythematous (1st week)
 	2. Fluctuant (without suppuration) and bluish (2nd week)
 	3. Progressively fades (i.e., yellow or brown hue)
