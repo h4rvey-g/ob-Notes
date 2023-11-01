@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Primary sclerosing cholangitis",
+      "path": "USMLE/GI/Primary sclerosing cholangitis.md"
+    },
+    {
+      "basename": "Ulcerative colitis",
+      "path": "USMLE/GI/Ulcerative colitis.md"
+    },
+    {
       "basename": "Lipid transport",
       "path": "USMLE/Biochemistry/Lipid transport.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Ulcerative colitis",
-      "path": "USMLE/GI/Ulcerative colitis.md"
     },
     {
       "basename": "GI hormones",
@@ -67,10 +71,6 @@
     {
       "basename": "Primary biliary cholangitis",
       "path": "USMLE/GI/Primary biliary cholangitis.md"
-    },
-    {
-      "basename": "Primary sclerosing cholangitis",
-      "path": "USMLE/GI/Primary sclerosing cholangitis.md"
     },
     {
       "basename": "Idiopathic inflammatory myopathies",
