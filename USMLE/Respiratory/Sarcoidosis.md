@@ -44,7 +44,13 @@ Butterfly rash as seen in systemic lupus erythematosus
 
 ---
 # Diagnostics
+>[!tip] 
+>Increased ACE levels may be seen. However, they are not specific for sarcoidosis and should not be used in isolation for diagnosis or monitoring.
 
+## Imaging
+- Chest x-ray
+	- Preferred initial test for all patients with suspected sarcoidosis
+	- Classic findings: bilateral hilar lymphadenopathy with or without pulmonary infiltrates (i.e., reticular and/or ground glass opacities)
 
 ---
 # Treatment

@@ -4505,6 +4505,7 @@ rsR
 rTs
 rwdM
 rTg
+reticular
 narrow
 negative
 not
@@ -6727,6 +6728,8 @@ tgR
 ttU
 tZoW
 tTZ
+triglycerides
+triglyceride
 in
 includes
 involving
@@ -7968,6 +7971,9 @@ ihAL
 ifu
 iTn
 ixbK
+iodide
+isolation
+induction
 general
 giving
 generation
@@ -8911,6 +8917,7 @@ gIe
 gYa
 gRr
 granulation
+gemfibrozil
 major
 mechanisms
 mark
@@ -16623,6 +16630,8 @@ cLO
 cPRK
 covered
 cycles
+coccidioidomycosis
+contraceptives
 bypass
 block
 background
@@ -17715,6 +17724,8 @@ bNy
 bKM
 btX
 bHAO
+brush
+bezafibrate
 flutter
 from
 focus
@@ -18839,6 +18850,9 @@ fZsEc
 fzhJg
 faS
 ftCR
+fades
+fenofibrate
+fibrates
 with
 wave
 which
@@ -22868,6 +22882,11 @@ six
 sty
 swx
 sGt
+suppuration
+selective
+slight
+statins
+supersaturation
 QRS
 QT
 QDQ
@@ -24902,6 +24921,7 @@ lXr
 lZM
 ljZS
 lMUUl
+lipoprotein
 Multifocal
 Mild
 Moderate
@@ -25930,6 +25950,7 @@ MDN
 MSU
 Mjq
 MMn
+Myopathy
 Differentiate
 Drugs
 DDx
@@ -26971,6 +26992,8 @@ DyU
 DCz
 DULz
 DJC
+Delayed
+Dyspepsia
 FFF
 Fib
 Fi
@@ -27991,6 +28014,9 @@ FdE
 FrW
 Friable
 Fibrin
+Firm
+Fluctuant
+Fibrates
 In
 It
 Intraventricular
@@ -30332,6 +30358,10 @@ PpP
 PBl
 PtP
 Pseudopolyps
+Painful
+Progressively
+Preferred
+PPAR
 ectopic
 elevation
 early
@@ -31510,6 +31540,7 @@ eVnj
 eLAk
 endoscope
 epithelialization
+enterocytes
 Early
 Elevation
 Etiology
@@ -32555,6 +32586,8 @@ EHl
 EvMq
 ElV
 Eqb
+Ezetimibe
+Ezetim
 LEFT
 Lengthening
 Left
@@ -33569,6 +33602,7 @@ LQq
 LLBH
 LqBt
 LhI
+LDL
 Hyperkalemia
 HIV
 HCV
@@ -35743,6 +35777,7 @@ hww
 hPEn
 hNNZ
 haustra
+hue
 peaked
 pattern
 precordial
@@ -37083,6 +37118,11 @@ pPvwT
 pPb
 pHR
 pseudopolyps
+pharyngitis
+panniculitis
+pretibial
+peroxisome
+proliferator
 Unusual
 Usually
 Upc
@@ -40098,6 +40138,7 @@ CqPNi
 Cqf
 CEEhXq
 CKQG
+Cholelithiasis
 Right
 Retrograde
 Rates
