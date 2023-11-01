@@ -3239,6 +3239,7 @@ obU
 oMs
 oculomotor
 overt
+osteolysis
 regular
 reentrant
 retrograde
@@ -14203,6 +14204,7 @@ anus
 abscess
 arthralgias
 aphthae
+alendronate
 ventricular
 varying
 vaccines
@@ -31285,6 +31287,7 @@ eegp
 euw
 edematous
 endocrine
+etidronate
 Early
 Elevation
 Etiology
@@ -36821,6 +36824,7 @@ pvi
 propria
 pancolitis
 phlegmons
+pamidronate
 Unusual
 Usually
 Upc
@@ -38743,6 +38747,7 @@ BzN
 BTZ
 Bile
 BRCA
+Bisphosphonates
 Characteristic
 CLL
 Clinical
@@ -50574,6 +50579,7 @@ zXP
 zTzm
 zzC
 zOk
+zoledronic
 YCZ
 YL
 Yt
