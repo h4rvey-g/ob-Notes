@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Keloid scars",
       "path": "USMLE/MSK/Keloid scars.md"
-    },
-    {
-      "basename": "Celiac disease",
-      "path": "USMLE/GI/Celiac disease.md"
     }
   ],
   "omittedPaths": [],

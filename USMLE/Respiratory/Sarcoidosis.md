@@ -16,7 +16,7 @@ share: true
 ---
 # Pathophysiology
 Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated formation of <mark style="background: #FFF3A34A;">noncaseating granulomas</mark>.
-- A nodular collection of macrophages that forms as a result of inflammation without central necrosis. Associated with sarcoidosis, berylliosis, and Crohn disease.
+- A nodular collection of macrophages that forms as a result of inflammation without central necrosis. Associated with sarcoidosis, berylliosis, and [[Crohn disease]].
 
 >[!tip] 
 >Compared with TB, which has caseating granulomas.
@@ -35,7 +35,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 	- Cough, exertional dyspnea, chest pain
 	- Mild rales on pulmonary auscultation
 ## Cutaneous sarcoidosis [8]
-- <span style="background:rgba(240, 200, 0, 0.2)">Erythema nodosum</span>: most common nonspecific cutaneous manifestation 
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Erythema nodosum]]</span>: most common nonspecific cutaneous manifestation 
 ![[Pasted image 20230720153101.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Lupus pernio</span>
 	- A pathognomonic manifestation of sarcoidosis characterized by extensive, violaceous skin plaques (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears 
