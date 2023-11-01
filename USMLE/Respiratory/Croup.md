@@ -29,10 +29,12 @@ Viral infection → inflammation of the upper airway with edema formation and in
 
 ---
 # Diagnostics
-
+## Imaging
+- X-ray chest and neck (anteroposterior and lateral)
+	- <span style="background:rgba(240, 200, 0, 0.2)">May identify subglottic narrowing on anteroposterior view (steeple sign)</span>![[Pasted image 20231101094014.png]]![[Pasted image 20231101094019.png]]![[Pasted image 20231101094259.png]]
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

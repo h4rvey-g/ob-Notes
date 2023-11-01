@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Croup.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Crohn disease.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Croup.md",
+                "file": "USMLE/GI/Crohn disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Croup.md",
+                "file": "USMLE/GI/Crohn disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Croup.md"
+                "file": "USMLE/GI/Crohn disease.md"
               }
             }
           }
@@ -223,8 +223,11 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
-    "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Respiratory/Croup.md",
+    "appendix/Pasted image 20231101094259.png",
+    "appendix/Pasted image 20231101094019.png",
+    "appendix/Pasted image 20231101094014.png",
+    "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Blood/Platinum-based agents.md",
     "appendix/Pasted image 20230909215738.png",
     "USMLE/GI/Pancreatic cancer.md",
@@ -239,9 +242,6 @@
     "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/GI/Primary sclerosing cholangitis.md",
     "conflict-files-obsidian-git.md",
-    "appendix/SmartSelect_20231028_093058.jpg",
-    "appendix/Pasted image 20231029162851.png",
-    "appendix/Pasted image 20231029162243.png",
     "USMLE/GI/Pectinate line.md",
     "USMLE/GI/Nonalcoholic fatty liver disease.md",
     "USMLE/GI/Hepatitis C.md",
@@ -258,7 +258,6 @@
     "USMLE/GI/Whipple disease.md",
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/Blood/Macrocytic anemias.md",
-    "USMLE/GI/Mallory-Weiss syndrome.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
