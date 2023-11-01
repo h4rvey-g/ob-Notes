@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GI hormones",
+      "path": "USMLE/GI/GI hormones.md"
+    },
+    {
       "basename": "Paget disease",
       "path": "USMLE/MSK/Paget disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Celiac disease",
       "path": "USMLE/GI/Celiac disease.md"
-    },
-    {
-      "basename": "Cystic fibrosis",
-      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     }
   ],
   "omittedPaths": [],
