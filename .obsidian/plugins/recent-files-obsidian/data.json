@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alkaline phosphatase",
+      "path": "USMLE/Blood/Alkaline phosphatase.md"
+    },
+    {
       "basename": "Primary sclerosing cholangitis",
       "path": "USMLE/GI/Primary sclerosing cholangitis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Alopecia",
       "path": "USMLE/MSK/Alopecia.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     }
   ],
   "omittedPaths": [],
