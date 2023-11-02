@@ -5,7 +5,8 @@ modified: 2023-11-02 14:45
 aliases: Untitled
 share: true
 ---
-![[Pasted image 20231102144509.png]]
+
+![[Pasted image 20231102150505.png]]![[Pasted image 20231102144509.png]]
 ![[Pasted image 20231102144620.png]]
 ![[Pasted image 20231102144754.png]]
 ![[Pasted image 20231102144950.png]]
