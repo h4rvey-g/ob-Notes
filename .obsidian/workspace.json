@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Alkaline phosphatase.md",
-                "mode": "preview",
+                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Alkaline phosphatase.md",
+                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Alkaline phosphatase.md",
+                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Alkaline phosphatase.md"
+                "file": "USMLE/Biochemistry/Familial dyslipidemias.md"
               }
             }
           }
@@ -223,8 +223,18 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
-    "USMLE/GI/Primary sclerosing cholangitis.md",
+    "appendix/Pasted image 20231102145356.png",
+    "appendix/Pasted image 20231102145138.png",
+    "appendix/Pasted image 20231102144950.png",
+    "appendix/Pasted image 20231102144906.png",
+    "appendix/Pasted image 20231102144826.png",
+    "appendix/Pasted image 20231102144754.png",
+    "appendix/Pasted image 20231102144620.png",
+    "appendix/Pasted image 20231102144509.png",
+    "USMLE/GI/Acute pancreatitis.md",
+    "USMLE/Biochemistry/Familial dyslipidemias.md",
     "USMLE/Blood/Alkaline phosphatase.md",
+    "USMLE/GI/Primary sclerosing cholangitis.md",
     "appendix/Pasted image 20231017161223.png",
     "USMLE/MSK/Paget disease.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
@@ -238,15 +248,8 @@
     "USMLE/Lab Values.md",
     "appendix/Pasted image 20230928155924.png",
     "USMLE/MSK/Osteoarthritis.md",
-    "appendix/Pasted image 20231101152902.png",
-    "appendix/Pasted image 20231101152442.png",
-    "appendix/Pasted image 20231101152435.png",
-    "appendix/Pasted image 20231101152337.png",
     "USMLE/GI/GI hormones.md",
-    "appendix/Pasted image 20231101150701.png",
-    "appendix/Pasted image 20231101150650.png",
     "USMLE/Infective disease/Mumps.md",
-    "appendix/Pasted image 20231101105354.png",
     "USMLE/GI/Crohn disease.md",
     "USMLE/Respiratory/Croup.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
@@ -256,8 +259,6 @@
     "USMLE/GI/Lynch syndrome.md",
     "USMLE/GI/Primary biliary cholangitis.md",
     "conflict-files-obsidian-git.md",
-    "USMLE/GI/Pectinate line.md",
-    "USMLE/GI/Nonalcoholic fatty liver disease.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Familial dyslipidemias",
+      "path": "USMLE/Biochemistry/Familial dyslipidemias.md"
+    },
+    {
+      "basename": "Acute pancreatitis",
+      "path": "USMLE/GI/Acute pancreatitis.md"
+    },
+    {
       "basename": "Alkaline phosphatase",
       "path": "USMLE/Blood/Alkaline phosphatase.md"
     },
@@ -109,10 +117,6 @@
       "path": "USMLE/GI/Mallory-Weiss syndrome.md"
     },
     {
-      "basename": "Acute pancreatitis",
-      "path": "USMLE/GI/Acute pancreatitis.md"
-    },
-    {
       "basename": "Ménétrier disease",
       "path": "USMLE/GI/Ménétrier disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Achondroplasia",
       "path": "USMLE/MSK/Achondroplasia.md"
-    },
-    {
-      "basename": "Alopecia",
-      "path": "USMLE/MSK/Alopecia.md"
     }
   ],
   "omittedPaths": [],
