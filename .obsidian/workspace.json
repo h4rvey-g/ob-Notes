@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin A.md",
+                "file": "USMLE/Biochemistry/Collagen.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin A.md",
+                "file": "USMLE/Biochemistry/Collagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin A.md",
+                "file": "USMLE/Biochemistry/Collagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin A.md"
+                "file": "USMLE/Biochemistry/Collagen.md"
               }
             }
           }
@@ -223,9 +223,15 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231103114042.png",
+    "appendix/Pasted image 20231103113807.png",
+    "appendix/Pasted image 20231103113610.png",
+    "USMLE/MSK/Osteogenesis imperfecta.md",
+    "USMLE/Biochemistry/Collagen.md",
+    "appendix/Pasted image 20231103113406.png",
+    "USMLE/Biochemistry/Vitamin A.md",
     "appendix/Pasted image 20231103111548.png",
     "USMLE/Biochemistry/Vitamin K.md",
-    "USMLE/Biochemistry/Vitamin A.md",
     "USMLE/Biochemistry/Vitamin E.md",
     "appendix/Pasted image 20231103105718.png",
     "appendix/Pasted image 20231103105533.png",
@@ -234,10 +240,6 @@
     "appendix/Pasted image 20231102150505.png",
     "appendix/Pasted image 20231102145356.png",
     "appendix/Pasted image 20231102145138.png",
-    "appendix/Pasted image 20231102144950.png",
-    "appendix/Pasted image 20231102144906.png",
-    "appendix/Pasted image 20231102144826.png",
-    "appendix/Pasted image 20231102144754.png",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/GI/Primary sclerosing cholangitis.md",
@@ -257,8 +259,6 @@
     "USMLE/Respiratory/Croup.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "USMLE/Blood/Platinum-based agents.md",
-    "USMLE/GI/Pancreatic cancer.md",
-    "USMLE/GI/Colonic polyps.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

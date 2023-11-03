@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Collagen",
+      "path": "USMLE/Biochemistry/Collagen.md"
+    },
+    {
+      "basename": "Osteogenesis imperfecta",
+      "path": "USMLE/MSK/Osteogenesis imperfecta.md"
+    },
+    {
       "basename": "Vitamin A",
       "path": "USMLE/Biochemistry/Vitamin A.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Calcium pyrophosphate deposition disease",
       "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
-    },
-    {
-      "basename": "Hallux valgus",
-      "path": "USMLE/MSK/Hallux valgus.md"
-    },
-    {
-      "basename": "Calcitonin",
-      "path": "USMLE/MSK/Calcitonin.md"
     }
   ],
   "omittedPaths": [],

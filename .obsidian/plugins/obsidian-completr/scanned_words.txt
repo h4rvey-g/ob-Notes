@@ -3478,6 +3478,8 @@ oFC
 oJA
 oIM
 oXIo
+osteogenesis
+opalescent
 regular
 reentrant
 retrograde
@@ -4779,6 +4781,7 @@ rwW
 revealed
 rQwd
 rAZLZ
+recurrently
 narrow
 negative
 not
@@ -7158,6 +7161,10 @@ trypsinogen
 trypsin
 tier
 tQNJ
+thereafter
+translucent
+teeth
+thorax
 in
 includes
 involving
@@ -8455,6 +8462,7 @@ iEZ
 iwYn
 iBu
 iOn
+imperfecta
 general
 giving
 generation
@@ -10730,6 +10738,7 @@ mwQ
 mOK
 mandatory
 mzt
+mildest
 Sinus
 ST
 Segment
@@ -13870,6 +13879,7 @@ Okg
 OjR
 Oqh
 ODTr
+Osteogenesis
 atrio
 and
 atrial
@@ -17605,6 +17615,8 @@ clz
 cPo
 cGaX
 cEeA
+childbirth
+choroidal
 bypass
 block
 background
@@ -18762,6 +18774,7 @@ bhvY
 became
 bOr
 bFt
+brittle
 flutter
 from
 focus
@@ -19967,6 +19980,7 @@ fracture
 fuHC
 fcf
 fOa
+fatal
 with
 wave
 which
@@ -24217,6 +24231,9 @@ sampling
 sYjZ
 scIy
 sMI
+shins
+sclerae
+sclera
 QRS
 QT
 QDQ
@@ -27491,6 +27508,7 @@ MGF
 MOs
 MBD
 MuF
+Micromelia
 Differentiate
 Drugs
 DDx
@@ -29685,6 +29703,7 @@ FlYwl
 Fyz
 FtP
 FXg
+Fractures
 In
 It
 Intraventricular
@@ -37908,6 +37927,7 @@ heel
 hiJ
 hCDw
 hcks
+hypoplastic
 peaked
 pattern
 precordial
@@ -39325,6 +39345,7 @@ plugs
 pHC
 pPf
 pFLA
+perinatal
 Unusual
 Usually
 Upc
@@ -40325,6 +40346,7 @@ UXSU
 Upr
 UiH
 Ugp
+Underdeveloped
 Bundle
 Branch
 Block
@@ -41405,6 +41427,9 @@ BoI
 BxiA
 Based
 Budd
+Bowing
+Blue
+Brittle
 Characteristic
 CLL
 Clinical
@@ -42552,6 +42577,7 @@ CDDDDDw
 Cae
 CQW
 CDDDDDDDD
+COL
 Right
 Retrograde
 Rates
@@ -44801,6 +44827,7 @@ Vba
 VCQ
 VTwM
 VSmI
+Various
 up
 unusual
 usually
@@ -47798,6 +47825,7 @@ GaM
 GZj
 GpS
 GtF
+Growth
 Jervell
 JYo
 JO
