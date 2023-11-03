@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin A",
+      "path": "USMLE/Biochemistry/Vitamin A.md"
+    },
+    {
+      "basename": "Vitamin E",
+      "path": "USMLE/Biochemistry/Vitamin E.md"
+    },
+    {
+      "basename": "Vitamin K",
+      "path": "USMLE/Biochemistry/Vitamin K.md"
+    },
+    {
       "basename": "Familial dyslipidemias",
       "path": "USMLE/Biochemistry/Familial dyslipidemias.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Calcitonin",
       "path": "USMLE/MSK/Calcitonin.md"
-    },
-    {
-      "basename": "Bone tumors",
-      "path": "USMLE/MSK/Bone tumors.md"
-    },
-    {
-      "basename": "Arthrocentesis",
-      "path": "USMLE/MSK/Arthrocentesis.md"
-    },
-    {
-      "basename": "Achondroplasia",
-      "path": "USMLE/MSK/Achondroplasia.md"
     }
   ],
   "omittedPaths": [],

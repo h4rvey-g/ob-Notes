@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
-                "mode": "preview",
+                "file": "USMLE/Biochemistry/Vitamin A.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
+                "file": "USMLE/Biochemistry/Vitamin A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
+                "file": "USMLE/Biochemistry/Vitamin A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md"
+                "file": "USMLE/Biochemistry/Vitamin A.md"
               }
             }
           }
@@ -223,6 +223,13 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Vitamin K.md",
+    "USMLE/Biochemistry/Vitamin A.md",
+    "USMLE/Biochemistry/Vitamin E.md",
+    "appendix/Pasted image 20231103105718.png",
+    "appendix/Pasted image 20231103105533.png",
+    "appendix/Pasted image 20231103105448.png",
+    "USMLE/Biochemistry/Familial dyslipidemias.md",
     "appendix/Pasted image 20231102150505.png",
     "appendix/Pasted image 20231102145356.png",
     "appendix/Pasted image 20231102145138.png",
@@ -230,18 +237,13 @@
     "appendix/Pasted image 20231102144906.png",
     "appendix/Pasted image 20231102144826.png",
     "appendix/Pasted image 20231102144754.png",
-    "appendix/Pasted image 20231102144620.png",
-    "appendix/Pasted image 20231102144509.png",
     "USMLE/GI/Acute pancreatitis.md",
-    "USMLE/Biochemistry/Familial dyslipidemias.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/GI/Primary sclerosing cholangitis.md",
-    "appendix/Pasted image 20231017161223.png",
     "USMLE/MSK/Paget disease.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/MSK/Erythema nodosum.md",
-    "appendix/Pasted image 20231101152523.png",
     "USMLE/Biochemistry/Lipid transport.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Respiratory/Sarcoidosis.md",
@@ -256,9 +258,6 @@
     "USMLE/Blood/Platinum-based agents.md",
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/GI/Colonic polyps.md",
-    "USMLE/GI/Lynch syndrome.md",
-    "USMLE/GI/Primary biliary cholangitis.md",
-    "conflict-files-obsidian-git.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
