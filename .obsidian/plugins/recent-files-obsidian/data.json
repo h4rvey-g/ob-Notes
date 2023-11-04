@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin B3",
+      "path": "USMLE/Biochemistry/Vitamin B3.md"
+    },
+    {
       "basename": "Collagen",
       "path": "USMLE/Biochemistry/Collagen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Osteopetrosis",
       "path": "USMLE/MSK/Osteopetrosis.md"
-    },
-    {
-      "basename": "Calcium pyrophosphate deposition disease",
-      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
     }
   ],
   "omittedPaths": [],
