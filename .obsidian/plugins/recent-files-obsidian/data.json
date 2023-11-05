@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Bronchiectasis",
+      "path": "USMLE/Respiratory/Bronchiectasis.md"
+    },
+    {
+      "basename": "Primary ciliary dyskinesia",
+      "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
+    },
+    {
       "basename": "Collagen",
       "path": "USMLE/Biochemistry/Collagen.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20230920170116",
       "path": "appendix/Pasted image 20230920170116.png"
-    },
-    {
-      "basename": "Pasted image 20230906150202",
-      "path": "appendix/Pasted image 20230906150202.png"
-    },
-    {
-      "basename": "Pasted image 20230909221338",
-      "path": "appendix/Pasted image 20230909221338.png"
     }
   ],
   "omittedPaths": [],
