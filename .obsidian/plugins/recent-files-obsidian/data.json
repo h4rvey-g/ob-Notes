@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "De novo pyrimidine and purine synthesis",
+      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+    },
+    {
       "basename": "De Novo Purine Synthesis - OG copy",
       "path": "appendix/De Novo Purine Synthesis - OG copy.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reye syndrome",
       "path": "USMLE/Pharmacology/Reye syndrome.md"
-    },
-    {
-      "basename": "How to move the location of Windows Subsystem for Android (WSA)",
-      "path": "Bioinformatics/How to move the location of Windows Subsystem for Android (WSA).md"
     }
   ],
   "omittedPaths": [],
