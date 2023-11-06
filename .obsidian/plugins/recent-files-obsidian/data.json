@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
+    },
+    {
       "basename": "Bronchiectasis",
       "path": "USMLE/Respiratory/Bronchiectasis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230920162430",
       "path": "appendix/Pasted image 20230920162430.png"
-    },
-    {
-      "basename": "Pasted image 20230920170116",
-      "path": "appendix/Pasted image 20230920170116.png"
     }
   ],
   "omittedPaths": [],

@@ -20,7 +20,7 @@ share: true
 ### Etiology
 - Hypercalciuria
 - Hyperoxaluria
-	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., Crohn disease, ulcerative colitis, short bowel syndrome)
+	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., [[Crohn disease]], [[ulcerative colitis]], short bowel syndrome)
 	 - [[Vitamin C# Vitamin C toxicity]]
 		 - <span style="background:rgba(240, 200, 0, 0.2)">[[Vitamin C]] is metabolized to oxalate</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
@@ -42,7 +42,7 @@ share: true
 - Possibly citrate supplementation
 ## Calcium phosphate stones
 ### Etiology
-- Hyperparathyroidism (brushite)
+- [[Hyperparathyroidism]] (brushite)
 - Type 1 renal tubular acidosis (brushite)
 - Develop in persistently alkalic urine
 ### Diagnosis
@@ -81,7 +81,7 @@ share: true
 ### Clinical features
 <span style="background:rgba(240, 200, 0, 0.2)">Recurrent kidney stones (manifesting with e.g., flank pain) starting <u>in childhood</u></span>
 ### Diagnosis
-- Urine microscopy: hexagonal crystals 
+- <span style="background:rgba(240, 200, 0, 0.2)">Urine microscopy: hexagonal crystals</span> ![[Pasted image 20231106145828.png]]
 - X-ray (or CT)
 	- Weakly radiopaque stones
 	- Possibly staghorn calculi
