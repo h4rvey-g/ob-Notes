@@ -88,8 +88,8 @@ share: true
 - Positive cyanide nitroprusside test
 ## Struvite stones (magnesium ammonium phosphate stones)
 ### Etiology
-- Upper UTI with urease-producing bacteria such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
-	- These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation
+- <span style="background:rgba(240, 200, 0, 0.2)">Upper UTI with urease-producing bacteria</span> such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
+	- <span style="background:rgba(240, 200, 0, 0.2)">These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation</span>
 ### Treatment
 - Antibiotic treatment of [[urinary tract infections]]
 - Hydration

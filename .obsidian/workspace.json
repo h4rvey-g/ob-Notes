@@ -11,11 +11,9 @@
             "id": "ef355a497f170f32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/De Novo Purine Synthesis - OG copy.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "appendix/De Novo Purine Synthesis - OG copy.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "appendix/De Novo Purine Synthesis - OG copy.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md"
+                "file": "appendix/De Novo Purine Synthesis - OG copy.png"
               }
             }
           }
@@ -223,6 +221,11 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20230910173723.png",
+    "appendix/Pasted image 20230909215738.png",
+    "appendix/Pasted image 20230909221338.png",
+    "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Biochemistry/Vitamin C.md",
     "appendix/Pasted image 20231106145828.png",
     "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
@@ -237,12 +240,9 @@
     "appendix/Pasted image 20231103113807.png",
     "appendix/Pasted image 20231103113610.png",
     "USMLE/MSK/Osteogenesis imperfecta.md",
-    "appendix/Pasted image 20231103113406.png",
     "USMLE/Biochemistry/Vitamin A.md",
-    "appendix/Pasted image 20231103111548.png",
     "USMLE/Biochemistry/Vitamin K.md",
     "USMLE/Biochemistry/Vitamin E.md",
-    "appendix/Pasted image 20231103105718.png",
     "USMLE/Biochemistry/Familial dyslipidemias.md",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/Blood/Alkaline phosphatase.md",
@@ -257,8 +257,6 @@
     "USMLE/Cardiology/ECGs.md",
     "USMLE/Lab Values.md",
     "USMLE/MSK/Osteoarthritis.md",
-    "USMLE/GI/GI hormones.md",
-    "USMLE/Infective disease/Mumps.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
