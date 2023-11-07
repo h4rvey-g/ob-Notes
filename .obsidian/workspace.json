@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-                "mode": "preview",
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md"
               }
             }
           }
@@ -222,9 +222,14 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231107144314.png",
+    "appendix/Pasted image 20231107144232.png",
+    "appendix/Pasted image 20231107143801.png",
+    "appendix/Pasted image 20231107143619.png",
+    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231106152534.png",
     "appendix/De Novo Purine Synthesis - OG copy.png",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "appendix/Pasted image 20230910173723.png",
     "appendix/Pasted image 20230909215738.png",
     "appendix/Pasted image 20230909221338.png",
@@ -237,10 +242,6 @@
     "USMLE/Renal/Liddle syndrome.md",
     "USMLE/Biochemistry/Vitamin B3.md",
     "appendix/Pasted image 20231104103822.png",
-    "appendix/Pasted image 20231104103708.png",
-    "appendix/Pasted image 20231103115143.png",
-    "appendix/Pasted image 20231103115129.png",
-    "appendix/Pasted image 20231103114042.png",
     "USMLE/MSK/Osteogenesis imperfecta.md",
     "USMLE/Biochemistry/Vitamin A.md",
     "USMLE/Biochemistry/Vitamin K.md",
@@ -257,7 +258,6 @@
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Cardiology/ECGs.md",
-    "USMLE/Lab Values.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

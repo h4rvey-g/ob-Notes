@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Catecholamine Synthesis",
+      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+    },
+    {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Angiodysplasia",
       "path": "USMLE/GI/Angiodysplasia.md"
-    },
-    {
-      "basename": "Reye syndrome",
-      "path": "USMLE/Pharmacology/Reye syndrome.md"
     }
   ],
   "omittedPaths": [],
