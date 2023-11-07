@@ -14,6 +14,7 @@ share: true
 # Albinism
 - Normal NUMBER of Melanocytes
 - Decreased PRODUCTION of Melanin
+- ![[Pasted image 20231107150236.png]]
 ![[Pasted image 20231107144232.png]]
 # Phenylketonuria
 ![[Pasted image 20231107144314.png]]
