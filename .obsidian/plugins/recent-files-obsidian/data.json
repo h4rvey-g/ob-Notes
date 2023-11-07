@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fasting and starvation",
+      "path": "USMLE/Biochemistry/Fasting and starvation.md"
+    },
+    {
       "basename": "Catecholamine Synthesis",
       "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Toxic megacolon",
       "path": "USMLE/GI/Toxic megacolon.md"
-    },
-    {
-      "basename": "Angiodysplasia",
-      "path": "USMLE/GI/Angiodysplasia.md"
     }
   ],
   "omittedPaths": [],

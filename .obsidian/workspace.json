@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "USMLE/Biochemistry/Fasting and starvation.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "USMLE/Biochemistry/Fasting and starvation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "USMLE/Biochemistry/Fasting and starvation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+                "file": "USMLE/Biochemistry/Fasting and starvation.md"
               }
             }
           }
@@ -222,13 +222,15 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231107152615.png",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
+    "USMLE/Biochemistry/Fasting and starvation.md",
     "appendix/Pasted image 20231107150236.png",
     "appendix/Pasted image 20231107144314.png",
     "appendix/Pasted image 20231107144232.png",
     "appendix/Pasted image 20231107143801.png",
     "appendix/Pasted image 20231107143619.png",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231106152534.png",
     "appendix/De Novo Purine Synthesis - OG copy.png",
     "appendix/Pasted image 20230910173723.png",
@@ -236,7 +238,6 @@
     "appendix/Pasted image 20230909221338.png",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Vitamin C.md",
-    "appendix/Pasted image 20231106145828.png",
     "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
     "USMLE/Biochemistry/Collagen.md",
@@ -257,7 +258,6 @@
     "USMLE/Biochemistry/Lipid transport.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Respiratory/Sarcoidosis.md",
-    "USMLE/Cardiology/ECGs.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
