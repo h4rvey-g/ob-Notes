@@ -28,7 +28,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Reed-Sternberg cells (RSCs)</span>
 		- Tumor cells that are pathognomonic of HL
 		- Originate from B cells
-		- <span style="background:rgba(240, 200, 0, 0.2)">Large cells with binuclear/bilobed nuclei with dark centers of chromatin and pale halos, which results in an owl-eye appearance on histopathologic examination.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Large cells with binuclear/bilobed nuclei with dark centers of chromatin and pale halos, which results in an owl-eye appearance on histopathologic examination.</span>![[Pasted image 20231107171030.png]]
 		- CD15/CD30-positive
 	- Hodgkin cells: mononuclear, malignant B lymphocytes 
 		- Polynuclear RSCs are giant cells formed through the fusion of multiple Hodgkin cells.  
