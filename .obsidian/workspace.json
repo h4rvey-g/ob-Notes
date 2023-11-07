@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
+                "file": "USMLE/Blood/HistologyHodgkin lymphoma.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
+                "file": "USMLE/Blood/HistologyHodgkin lymphoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
+                "file": "USMLE/Blood/HistologyHodgkin lymphoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Gluconeogenesis.md"
+                "file": "USMLE/Blood/HistologyHodgkin lymphoma.md"
               }
             }
           }
@@ -222,9 +222,10 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Gluconeogenesis.md",
+    "USMLE/Blood/HistologyHodgkin lymphoma.md",
     "appendix/Pasted image 20231107160524.png",
     "USMLE/Biochemistry/Glycolysis.md",
-    "USMLE/Biochemistry/Gluconeogenesis.md",
     "appendix/Pasted image 20231107154612.png",
     "USMLE/Biochemistry/Fasting and starvation.md",
     "appendix/Pasted image 20231107152615.png",
@@ -237,7 +238,6 @@
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "appendix/Pasted image 20231106152534.png",
     "appendix/De Novo Purine Synthesis - OG copy.png",
-    "appendix/Pasted image 20230910173723.png",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Respiratory/Bronchiectasis.md",
