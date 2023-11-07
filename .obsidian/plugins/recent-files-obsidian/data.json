@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gluconeogenesis",
+      "path": "USMLE/Biochemistry/Gluconeogenesis.md"
+    },
+    {
       "basename": "Glycolysis",
       "path": "USMLE/Biochemistry/Glycolysis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
-    },
-    {
-      "basename": "Hepatitis A",
-      "path": "USMLE/GI/Hepatitis A.md"
     }
   ],
   "omittedPaths": [],

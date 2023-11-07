@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Glycolysis.md",
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Glycolysis.md",
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Glycolysis.md",
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Glycolysis.md"
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md"
               }
             }
           }
@@ -222,9 +222,11 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231107160524.png",
+    "USMLE/Biochemistry/Glycolysis.md",
+    "USMLE/Biochemistry/Gluconeogenesis.md",
     "appendix/Pasted image 20231107154612.png",
     "USMLE/Biochemistry/Fasting and starvation.md",
-    "USMLE/Biochemistry/Glycolysis.md",
     "appendix/Pasted image 20231107152615.png",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231107150236.png",
@@ -236,7 +238,6 @@
     "appendix/Pasted image 20231106152534.png",
     "appendix/De Novo Purine Synthesis - OG copy.png",
     "appendix/Pasted image 20230910173723.png",
-    "appendix/Pasted image 20230909215738.png",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Respiratory/Bronchiectasis.md",
@@ -257,7 +258,6 @@
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/MSK/Erythema nodosum.md",
     "USMLE/Biochemistry/Lipid transport.md",
-    "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
