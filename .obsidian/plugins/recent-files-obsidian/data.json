@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Glycolysis",
+      "path": "USMLE/Biochemistry/Glycolysis.md"
+    },
+    {
       "basename": "Fasting and starvation",
       "path": "USMLE/Biochemistry/Fasting and starvation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hepatitis A",
       "path": "USMLE/GI/Hepatitis A.md"
-    },
-    {
-      "basename": "Toxic megacolon",
-      "path": "USMLE/GI/Toxic megacolon.md"
     }
   ],
   "omittedPaths": [],
