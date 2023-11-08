@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Urea cycle",
+      "path": "USMLE/Biochemistry/Urea cycle.md"
+    },
+    {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ménétrier disease",
       "path": "USMLE/GI/Ménétrier disease.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/Biochemistry/Urea cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/Biochemistry/Urea cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+                "file": "USMLE/Biochemistry/Urea cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,11 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+                "file": "USMLE/Biochemistry/Urea cycle.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,6 +223,11 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231108214221.png",
+    "appendix/Pasted image 20231108214012.png",
+    "appendix/Pasted image 20231108213814.png",
+    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "USMLE/Biochemistry/Urea cycle.md",
     "USMLE/Biochemistry/Fasting and starvation.md",
     "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Blood/HistologyHodgkin lymphoma.md",
@@ -235,9 +241,6 @@
     "appendix/Pasted image 20231107144314.png",
     "appendix/Pasted image 20231107144232.png",
     "appendix/Pasted image 20231107143801.png",
-    "appendix/Pasted image 20231107143619.png",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "appendix/Pasted image 20231106152534.png",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Respiratory/Bronchiectasis.md",
@@ -256,7 +259,6 @@
     "USMLE/MSK/Paget disease.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Ulcerative colitis.md",
-    "USMLE/MSK/Erythema nodosum.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
