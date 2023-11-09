@@ -10777,6 +10777,7 @@ mxf
 mEGJ
 mQF
 muK
+mononuclear
 Sinus
 ST
 Segment
@@ -11902,6 +11903,7 @@ SIHa
 ScGG
 SJv
 SZD
+Sternberg
 AVNRT
 Atrial
 AVRT
@@ -13935,6 +13937,7 @@ OJo
 OJx
 OAL
 ObX
+Originate
 atrio
 and
 atrial
@@ -17679,6 +17682,7 @@ cEeA
 childbirth
 choroidal
 cWqTg
+centers
 bypass
 block
 background
@@ -18840,6 +18844,7 @@ brittle
 begin
 bOJ
 bjJb
+binuclear
 flutter
 from
 focus
@@ -32305,6 +32310,7 @@ PNE
 Pkps
 PzPo
 PXt
+Polynuclear
 ectopic
 elevation
 early
@@ -33555,6 +33561,7 @@ eMc
 eaV
 ePx
 eoj
+excision
 Early
 Elevation
 Etiology
@@ -35762,6 +35769,7 @@ Lifelong
 LhQ
 LKTy
 LaP
+Lymph
 Hyperkalemia
 HIV
 HCV
@@ -38094,6 +38102,8 @@ hypoplastic
 hyperaldosteronism
 hYyZ
 hRl
+halos
+histopathologic
 peaked
 pattern
 precordial
@@ -43966,6 +43976,8 @@ RQE
 RQLb
 RHp
 RsG
+Reed
+RSCs
 Voltage
 VFV
 VoNW

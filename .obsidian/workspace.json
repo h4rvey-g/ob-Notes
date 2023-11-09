@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md",
+                "file": "USMLE/Biochemistry/Glycolysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md",
+                "file": "USMLE/Biochemistry/Glycolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md",
+                "file": "USMLE/Biochemistry/Glycolysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md"
+                "file": "USMLE/Biochemistry/Glycolysis.md"
               }
             }
           }
@@ -223,14 +223,15 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Blood/HistologyHodgkin lymphoma.md",
+    "appendix/De Novo Purine Synthesis - OG copy.png",
+    "USMLE/Biochemistry/Urea cycle.md",
     "appendix/Pasted image 20231108214221.png",
     "appendix/Pasted image 20231108214012.png",
     "appendix/Pasted image 20231108213814.png",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "USMLE/Biochemistry/Urea cycle.md",
     "USMLE/Biochemistry/Fasting and starvation.md",
     "USMLE/Biochemistry/Glycolysis.md",
-    "USMLE/Blood/HistologyHodgkin lymphoma.md",
     "appendix/Pasted image 20231107171030.png",
     "USMLE/Biochemistry/Gluconeogenesis.md",
     "appendix/Pasted image 20231107160524.png",
@@ -239,8 +240,6 @@
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231107150236.png",
     "appendix/Pasted image 20231107144314.png",
-    "appendix/Pasted image 20231107144232.png",
-    "appendix/Pasted image 20231107143801.png",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Respiratory/Bronchiectasis.md",
