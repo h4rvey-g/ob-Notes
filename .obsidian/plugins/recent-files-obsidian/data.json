@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fructose Metabolism",
+      "path": "USMLE/Biochemistry/Fructose Metabolism.md"
+    },
+    {
       "basename": "Urea cycle",
       "path": "USMLE/Biochemistry/Urea cycle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mallory-Weiss syndrome",
       "path": "USMLE/GI/Mallory-Weiss syndrome.md"
-    },
-    {
-      "basename": "Ménétrier disease",
-      "path": "USMLE/GI/Ménétrier disease.md"
     }
   ],
   "omittedPaths": [],
