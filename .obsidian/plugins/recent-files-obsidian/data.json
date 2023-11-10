@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lysosomal Storage Diseases",
+      "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
+    },
+    {
       "basename": "Type I hypersensitivity reaction",
       "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Macrocytic anemias",
       "path": "USMLE/Blood/Macrocytic anemias.md"
-    },
-    {
-      "basename": "Pasted image 20231023204135",
-      "path": "appendix/Pasted image 20231023204135.png"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Immunology/Type I hypersensitivity reaction.md"
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231110170141.png",
+    "USMLE/Immunology/Type I hypersensitivity reaction.md",
+    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Biochemistry/Urea cycle.md",
@@ -256,8 +259,6 @@
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/GI/Primary sclerosing cholangitis.md",
-    "USMLE/MSK/Paget disease.md",
-    "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
