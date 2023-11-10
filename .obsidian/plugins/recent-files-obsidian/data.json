@@ -5,6 +5,10 @@
       "path": "USMLE/Biochemistry/Fructose Metabolism.md"
     },
     {
+      "basename": "Glycolysis",
+      "path": "USMLE/Biochemistry/Glycolysis.md"
+    },
+    {
       "basename": "Urea cycle",
       "path": "USMLE/Biochemistry/Urea cycle.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Fasting and starvation",
       "path": "USMLE/Biochemistry/Fasting and starvation.md"
-    },
-    {
-      "basename": "Glycolysis",
-      "path": "USMLE/Biochemistry/Glycolysis.md"
     },
     {
       "basename": "HistologyHodgkin lymphoma",
