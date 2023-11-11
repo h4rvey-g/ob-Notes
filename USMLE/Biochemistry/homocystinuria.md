@@ -19,18 +19,34 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 
 ---
 # Pathophysiology
-<% tp.file.cursor() %>
+- Methionine synthase (homocysteine methyltransferase) deficiency → impaired conversion of homocysteine into methionine
+- Cystathionine synthase deficiency → impaired conversion of homocysteine into cystathionine
+- All forms result in the accumulation of homocysteine.
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Nonspecific features in infancy: growth faltering, developmental delay
+- Eyes
+	- <span style="background:rgba(240, 200, 0, 0.2)">Downward and inward subluxation of the ocular lens (ectopia lentis) after 3 years of age (in Marfan syndrome, the lens usually luxates upwards and outwards)</span>![[Pasted image 20231111110428.png]]
+	- Myopia and glaucoma later in life
+- <span style="background:rgba(240, 200, 0, 0.2)">Progressive intellectual disability</span>
+- Psychiatric and behavioral disorders
+- Light skin
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Marfanoid features]]</span>
+	- Tall, thin
+	- Pectus deformities (e.g., pectus excavatum)
+	- Scoliosis
+	- Elongated limbs (↑ arm:height ratio; ↓ upper:lower body segment ratio), arachnodactyly
+	- Hyperlaxity of joints and hyperelasticity of the skin
+- Osteoporosis
+- Cardiovascular complications like thromboembolism, premature arteriosclerosis, and coronary heart disease increase the risk of myocardial infarction and stroke
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

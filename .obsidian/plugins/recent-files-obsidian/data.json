@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "homocystinuria",
-      "path": "USMLE/Biochemistry/homocystinuria.md"
+      "basename": "Homocystinuria",
+      "path": "USMLE/Biochemistry/Homocystinuria.md"
+    },
+    {
+      "basename": "Marfanoid features",
+      "path": "USMLE/Biochemistry/Marfanoid features.md"
+    },
+    {
+      "basename": "Pasted image 20230910173723",
+      "path": "appendix/Pasted image 20230910173723.png"
     },
     {
       "basename": "Vitamin B6",
@@ -55,10 +63,6 @@
     {
       "basename": "De Novo Purine Synthesis - OG copy",
       "path": "appendix/De Novo Purine Synthesis - OG copy.png"
-    },
-    {
-      "basename": "Pasted image 20230910173723",
-      "path": "appendix/Pasted image 20230910173723.png"
     },
     {
       "basename": "Pasted image 20230909215738",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230928151653",
       "path": "appendix/Pasted image 20230928151653.png"
-    },
-    {
-      "basename": "Whipple disease",
-      "path": "USMLE/GI/Whipple disease.md"
     }
   ],
   "omittedPaths": [],

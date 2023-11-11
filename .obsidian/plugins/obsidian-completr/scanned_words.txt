@@ -1126,6 +1126,7 @@ Tfx
 TOo
 Txj
 TtMB
+Transamination
 differentials
 differential
 diagnosis
@@ -2464,6 +2465,8 @@ dfh
 dsd
 dOn
 dermatomes
+disability
+dentition
 of
 over
 originate
@@ -3487,6 +3490,9 @@ oIM
 oXIo
 osteogenesis
 opalescent
+ocular
+outwards
+overcrowded
 regular
 reentrant
 retrograde
@@ -7190,6 +7196,8 @@ threE
 tol
 tNMV
 tryptophan
+transfer
+thromboembolism
 in
 includes
 involving
@@ -8497,6 +8505,9 @@ iUUi
 iZSH
 iqKE
 insomnia
+interactions
+inward
+intellectual
 general
 giving
 generation
@@ -9495,6 +9506,7 @@ gAT
 gkP
 gMB
 grains
+glaucoma
 major
 mechanisms
 mark
@@ -10786,6 +10798,10 @@ mQF
 muK
 mononuclear
 metabolically
+methylenetetrahydrofolate
+methyltetrahydrofolate
+methyltransferase
+methionine
 Sinus
 ST
 Segment
@@ -11912,6 +11928,10 @@ ScGG
 SJv
 SZD
 Sternberg
+Serotonin
+Sideroblastic
+Seborrheic
+Scoliosis
 AVNRT
 Atrial
 AVRT
@@ -13015,6 +13035,7 @@ AHE
 AKH
 AGj
 ADBD
+Active
 Orthodromic
 On
 Often
@@ -15231,6 +15252,9 @@ amiloride
 antagonist
 adobe
 aDF
+arachnodactyly
+arteriosclerosis
+arched
 ventricular
 varying
 vaccines
@@ -17692,6 +17716,8 @@ choroidal
 cWqTg
 centers
 collar
+catalyzes
+cystathionine
 bypass
 block
 background
@@ -18855,6 +18881,7 @@ bOJ
 bjJb
 binuclear
 broad
+behavioral
 flutter
 from
 focus
@@ -20064,6 +20091,9 @@ fatal
 fdJ
 fCL
 fkJ
+folate
+functions
+faltering
 with
 wave
 which
@@ -24330,6 +24360,9 @@ sMn
 sXv
 ski
 sKN
+synthase
+subluxation
+slender
 QRS
 QT
 QDQ
@@ -26535,6 +26568,10 @@ lXq
 ljVv
 lIs
 lQA
+lens
+lentis
+luxates
+length
 Multifocal
 Mild
 Moderate
@@ -27633,6 +27670,12 @@ MFh
 MFk
 MMe
 Malnutrition
+Methionine
+Methylenetetrahydrofolate
+MTHFR
+Marfan
+Myopia
+Marfanoid
 Differentiate
 Drugs
 DDx
@@ -28743,6 +28786,9 @@ Danlos
 DrF
 DTQ
 Dementia
+Decarboxylation
+Dopamine
+Downward
 FFF
 Fib
 Fi
@@ -31097,6 +31143,7 @@ Iok
 Ine
 IMa
 IxQW
+Involved
 PACs
 Primary
 Pathophysiology
@@ -32324,6 +32371,8 @@ PzPo
 PXt
 Polynuclear
 Pellagra
+PLP
+Pectus
 ectopic
 elevation
 early
@@ -33575,6 +33624,8 @@ eaV
 ePx
 eoj
 excision
+ectopia
+excavatum
 Early
 Elevation
 Etiology
@@ -34692,6 +34743,8 @@ EhS
 EKsJueN
 EkG
 EDnc
+Epinephrine
+Elongated
 LEFT
 Lengthening
 Left
@@ -36939,6 +36992,9 @@ HGiO
 HaE
 Hartnup
 Hyperpigmented
+Heme
+Histamine
+Hyperlaxity
 hyperkalemia
 hypertrophy
 hereditary
@@ -38120,6 +38176,8 @@ hRl
 halos
 histopathologic
 hallucinations
+hyperelasticity
+habitus
 peaked
 pattern
 precordial
@@ -39544,6 +39602,11 @@ pjDlqO
 pwd
 pjZ
 processed
+pyridoxal
+pyridoxine
+phosphorylase
+pectus
+palate
 Unusual
 Usually
 Upc
@@ -42796,6 +42859,8 @@ Conditions
 Carcinoid
 Circular
 Casal
+Cystathionine
+Cheilosis
 Right
 Retrograde
 Rates
@@ -46146,6 +46211,7 @@ uFb
 ubiquitin
 ueq
 uSP
+upwards
 quinine
 qz
 qM
@@ -48079,6 +48145,9 @@ GSQ
 GAK
 GjL
 Glossitis
+Glycogenolysis
+Gluthathione
+GABA
 Jervell
 JYo
 JO
@@ -50273,6 +50342,8 @@ Nedd
 NEOP
 Nbq
 Neurologic
+Neurotransmitters
+Norepinephrine
 jEQ
 jL
 jO

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/homocystinuria.md",
+                "file": "USMLE/Biochemistry/Homocystinuria.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/homocystinuria.md",
+                "file": "USMLE/Biochemistry/Homocystinuria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/homocystinuria.md",
+                "file": "USMLE/Biochemistry/Homocystinuria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/homocystinuria.md"
+                "file": "USMLE/Biochemistry/Homocystinuria.md"
               }
             }
           }
@@ -223,9 +223,13 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231111104739.png",
+    "appendix/Pasted image 20231111110428.png",
+    "USMLE/Biochemistry/Marfanoid features.md",
+    "USMLE/Biochemistry/Homocystinuria.md",
+    "appendix/Pasted image 20231111110135.png",
+    "appendix/Pasted image 20230910173723.png",
     "USMLE/Biochemistry/Vitamin B6.md",
-    "USMLE/Biochemistry/homocystinuria.md",
+    "appendix/Pasted image 20231111104739.png",
     "appendix/Pasted image 20231111103922.png",
     "USMLE/Biochemistry/Vitamin B3.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
@@ -235,14 +239,11 @@
     "appendix/Pasted image 20231111093052.png",
     "appendix/Pasted image 20231111093050.png",
     "appendix/Pasted image 20231111092449.png",
-    "appendix/Pasted image 20231111091954.png",
-    "appendix/Pasted image 20231110170141.png",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Biochemistry/Urea cycle.md",
     "USMLE/Blood/HistologyHodgkin lymphoma.md",
-    "appendix/Pasted image 20231109185750.png",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "USMLE/Biochemistry/Fasting and starvation.md",
     "USMLE/Biochemistry/Gluconeogenesis.md",
@@ -258,7 +259,6 @@
     "USMLE/Biochemistry/Vitamin K.md",
     "USMLE/Biochemistry/Vitamin E.md",
     "USMLE/Biochemistry/Familial dyslipidemias.md",
-    "USMLE/GI/Acute pancreatitis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
