@@ -13,3 +13,8 @@ share: true
 
 ![[Pasted image 20231111093052.png]]Sphinger -> finger
 ![[Pasted image 20231111093232.png]]
+![[Pasted image 20231111095604.png]]
+1. X -> X link recessive
+2. The gun touches the hunter's **derm** -> Heparan sulfate, dermatan sulfate.
+3. Hunter doesn't have corneal cloudy -> or he couldn't see targets
+4. 
