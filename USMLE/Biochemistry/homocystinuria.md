@@ -11,6 +11,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 
 ---
 # Etiology
+- Autosomal recessive
 - Cause deficiencies in one or more of the following enzymes
 	- Methionine synthase
 	- Cystathionine synthase: an enzyme that catalyzes the conversion of homocysteine and serine to cystathionine, using [[vitamin B6]] as a cofactor.
@@ -38,15 +39,28 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 	- Scoliosis
 	- Elongated limbs (↑ arm:height ratio; ↓ upper:lower body segment ratio), arachnodactyly
 	- Hyperlaxity of joints and hyperelasticity of the skin
+ 
+>[!tip] 
+>Marfan syndrome and homocystinuria both present with marfanoid habitus. Distinguishing features include intellectual disability, which is only seen in homocystinuria, and the direction of lens dislocation (downwards in homocystinuria and upwards in Marfan syndrome).
 - Osteoporosis
 - Cardiovascular complications like thromboembolism, premature arteriosclerosis, and coronary heart disease increase the risk of myocardial infarction and stroke
 
 ---
 # Diagnostics
-
+- ↑ Homocysteine in urine and serum
+- Urine sodium nitroprusside test: Urine changes color to an intense red in the presence of homocysteine.
+- Serum methionine levels
+	- Increased in cystathionine synthase deficiency
+	- Decreased in methionine synthase deficiency and methylenetetrahydrofolate reductase deficiency
 
 ---
 # Treatment
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Some patients respond to large doses of [[Vitamin B6|pyridoxine]] ([[vitamin B6]]).</span>
+- Methionine synthase deficiency: high-methionine diet
+- Cystathionine synthase deficiency
+	- Low-methionine, high-cysteine diet
+	- Supplementation of vitamin B12 and folate
+- Impaired affinity of cystathionine synthase for pyridoxal phosphate: high-cysteine diet
+- MTHFR deficiency: supplementation of folate
 
 ---
