@@ -6,3 +6,7 @@ aliases: Untitled
 share: true
 ---
 ![[Pasted image 20231110170141.png]]
+![[Pasted image 20231111091954.png]] Because you are crying, you need a tissue paper to wipe tears.
+![[Pasted image 20231111092449.png]]Epidemiology: more common in the Ashkenazi Jewish population
+>[!Mnemonic] 
+>Any diseases with a hyphen in the name will presents with Cherry-Red Macula.
