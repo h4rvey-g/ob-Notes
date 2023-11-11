@@ -10,3 +10,6 @@ share: true
 ![[Pasted image 20231111092449.png]]Epidemiology: more common in the Ashkenazi Jewish population
 >[!Mnemonic] 
 >Any diseases with a hyphen in the name will presents with Cherry-Red Macula.
+
+![[Pasted image 20231111093052.png]]Sphinger -> finger
+![[Pasted image 20231111093232.png]]
