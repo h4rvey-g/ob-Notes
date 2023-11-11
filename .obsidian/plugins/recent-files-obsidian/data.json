@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "homocystinuria",
+      "path": "USMLE/Biochemistry/homocystinuria.md"
+    },
+    {
+      "basename": "Vitamin B6",
+      "path": "USMLE/Biochemistry/Vitamin B6.md"
+    },
+    {
+      "basename": "Vitamin B3",
+      "path": "USMLE/Biochemistry/Vitamin B3.md"
+    },
+    {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "Liddle syndrome",
       "path": "USMLE/Renal/Liddle syndrome.md"
-    },
-    {
-      "basename": "Vitamin B3",
-      "path": "USMLE/Biochemistry/Vitamin B3.md"
     },
     {
       "basename": "Osteogenesis imperfecta",
@@ -191,14 +199,6 @@
     {
       "basename": "Whipple disease",
       "path": "USMLE/GI/Whipple disease.md"
-    },
-    {
-      "basename": "Pasted image 20231015105728",
-      "path": "appendix/Pasted image 20231015105728.png"
-    },
-    {
-      "basename": "Macrocytic anemias",
-      "path": "USMLE/Blood/Macrocytic anemias.md"
     }
   ],
   "omittedPaths": [],

@@ -2463,6 +2463,7 @@ detergent
 dfh
 dsd
 dOn
+dermatomes
 of
 over
 originate
@@ -5887,6 +5888,9 @@ nbKj
 nlfd
 nAn
 nTw
+niacin
+nixtamalization
+necklace
 tachycardia
 tract
 the
@@ -7185,6 +7189,7 @@ triamterene
 threE
 tol
 tNMV
+tryptophan
 in
 includes
 involving
@@ -8491,6 +8496,7 @@ iOja
 iUUi
 iZSH
 iqKE
+insomnia
 general
 giving
 generation
@@ -9488,6 +9494,7 @@ gIg
 gAT
 gkP
 gMB
+grains
 major
 mechanisms
 mark
@@ -10778,6 +10785,7 @@ mEGJ
 mQF
 muK
 mononuclear
+metabolically
 Sinus
 ST
 Segment
@@ -17683,6 +17691,7 @@ childbirth
 choroidal
 cWqTg
 centers
+collar
 bypass
 block
 background
@@ -18845,6 +18854,7 @@ begin
 bOJ
 bjJb
 binuclear
+broad
 flutter
 from
 focus
@@ -27622,6 +27632,7 @@ MQc
 MFh
 MFk
 MMe
+Malnutrition
 Differentiate
 Drugs
 DDx
@@ -28731,6 +28742,7 @@ Deficient
 Danlos
 DrF
 DTQ
+Dementia
 FFF
 Fib
 Fi
@@ -32311,6 +32323,7 @@ Pkps
 PzPo
 PXt
 Polynuclear
+Pellagra
 ectopic
 elevation
 early
@@ -36924,6 +36937,8 @@ HfA
 HCv
 HGiO
 HaE
+Hartnup
+Hyperpigmented
 hyperkalemia
 hypertrophy
 hereditary
@@ -38104,6 +38119,7 @@ hYyZ
 hRl
 halos
 histopathologic
+hallucinations
 peaked
 pattern
 precordial
@@ -39527,6 +39543,7 @@ pseudohyperaldosteronism
 pjDlqO
 pwd
 pjZ
+processed
 Unusual
 Usually
 Upc
@@ -42775,6 +42792,10 @@ CEO
 CRns
 Csc
 CRm
+Conditions
+Carcinoid
+Circular
+Casal
 Right
 Retrograde
 Rates
@@ -48057,6 +48078,7 @@ GJC
 GSQ
 GAK
 GjL
+Glossitis
 Jervell
 JYo
 JO
@@ -50250,6 +50272,7 @@ NDZ
 Nedd
 NEOP
 Nbq
+Neurologic
 jEQ
 jL
 jO
