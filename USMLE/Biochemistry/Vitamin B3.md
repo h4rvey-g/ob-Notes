@@ -4,7 +4,13 @@ created: 2023-11-04 10:34
 modified: 2023-11-04 10:34
 aliases:
   - niacin
+  - nicotinic acid
 share: true
+---
+# Function
+>[!Mnemonic] 
+>Active forms of <font color="#ffc000">N</font>iacin are NAD+ and NADP+.
+
 ---
 # Vitamin B3 deficiency
 ## Etiology
@@ -13,7 +19,7 @@ share: true
 - Conditions associated with tryptophan deficiency
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hartnup disease: decreased renal and intestinal tryptophan absorption</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Carcinoid syndrome (if metabolically active): increased tryptophan metabolism</span>
-- Vitamin B6 deficiency (e.g., due to treatment with isoniazid): decreased niacin synthesis from tryptophan
+- [[Vitamin B6]] deficiency (e.g., due to treatment with isoniazid): decreased niacin synthesis from tryptophan
 - Chronic consumption of grains that have not been processed by nixtamalization (common cause in developing countries)
 
 ---

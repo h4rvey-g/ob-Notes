@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
-                "mode": "preview",
+                "file": "template/highlight-yellow 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
+                "file": "template/highlight-yellow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
+                "file": "template/highlight-yellow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md"
+                "file": "template/highlight-yellow 1.md"
               }
             }
           }
@@ -223,10 +223,14 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Vitamin B3.md",
+    "template/highlight-yellow 1.md",
+    "USMLE/Cardiology/Lipid-lowering agents.md",
+    "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
+    "USMLE/Immunology/Systemic lupus erythematosus.md",
+    "USMLE/Biochemistry/Familial dyslipidemias.md",
     "appendix/Pasted image 20231112145415.png",
     "USMLE/Biochemistry/Lipid transport.md",
-    "USMLE/Biochemistry/Familial dyslipidemias.md",
-    "USMLE/Cardiology/Lipid-lowering agents.md",
     "appendix/Pasted image 20231112143342.png",
     "appendix/Pasted image 20230910173723.png",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
@@ -239,10 +243,8 @@
     "USMLE/Biochemistry/Vitamin B6.md",
     "appendix/Pasted image 20231111104739.png",
     "appendix/Pasted image 20231111103922.png",
-    "USMLE/Biochemistry/Vitamin B3.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "appendix/Pasted image 20231111101822.png",
-    "appendix/Pasted image 20231111095604.png",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Biochemistry/Glycolysis.md",
@@ -257,8 +259,6 @@
     "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
     "USMLE/Biochemistry/Collagen.md",
     "USMLE/Renal/Liddle syndrome.md",
-    "USMLE/MSK/Osteogenesis imperfecta.md",
-    "USMLE/Biochemistry/Vitamin A.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
