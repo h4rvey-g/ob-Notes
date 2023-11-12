@@ -1140,6 +1140,7 @@ TTTTTT
 TXP
 TKz
 TED
+Therapeutic
 differentials
 differential
 diagnosis
@@ -2488,6 +2489,9 @@ dalB
 direct
 detect
 dermoepidermal
+derm
+dermatan
+demyelinate
 of
 over
 originate
@@ -4837,6 +4841,7 @@ rUB
 rud
 rDN
 rXlu
+redox
 narrow
 negative
 not
@@ -5944,6 +5949,7 @@ noM
 ncS
 nOl
 nÄ
+nicotinic
 tachycardia
 tract
 the
@@ -7264,6 +7270,8 @@ tZN
 tSC
 tAKy
 technique
+touches
+targets
 in
 includes
 involving
@@ -8588,6 +8596,8 @@ inR
 igI
 imC
 immunoglobulin
+iacin
+isocitrate
 general
 giving
 generation
@@ -9600,6 +9610,7 @@ gpD
 gZZ
 gRq
 gyPs
+gun
 major
 mechanisms
 mark
@@ -12059,6 +12070,7 @@ SFDDDDDDt
 SNq
 SPVf
 SdXV
+Sphinger
 AVNRT
 Atrial
 AVRT
@@ -13186,6 +13198,8 @@ AHZ
 AVV
 Alkaptonuria
 Albinism
+ADP
+Any
 Orthodromic
 On
 Often
@@ -15426,6 +15440,7 @@ avTO
 aao
 aed
 aGf
+aggressive
 ventricular
 varying
 vaccines
@@ -17913,6 +17928,11 @@ cNi
 ctO
 cVY
 cjy
+coadministration
+crying
+corneal
+cloudy
+couldn
 bypass
 block
 background
@@ -19091,6 +19111,7 @@ bXd
 bDyF
 bxA
 bWa
+butterfly
 flutter
 from
 focus
@@ -20317,6 +20338,8 @@ fXVQ
 frq
 fJc
 fWWY
+ffc
+favourite
 with
 wave
 which
@@ -21335,6 +21358,8 @@ wZr
 woB
 wER
 wVZ
+wipe
+walk
 Whenever
 Widening
 William
@@ -22277,6 +22302,7 @@ WUnK
 Wus
 Wuu
 WSS
+World
 you
 young
 ybif
@@ -24632,6 +24658,8 @@ sEuuM
 slH
 sQi
 sUo
+started
+say
 QRS
 QT
 QDQ
@@ -26868,6 +26896,7 @@ lSC
 liA
 lqs
 lCD
+lowers
 Multifocal
 Mild
 Moderate
@@ -27986,6 +28015,8 @@ MIY
 Mqv
 Melanocytes
 Melanin
+Macula
+Metapod
 Differentiate
 Drugs
 DDx
@@ -29120,6 +29151,7 @@ DDDDDDtDt
 DuVVkwS
 Dark
 Discolored
+Dyslipidemia
 FFF
 Fib
 Fi
@@ -30225,6 +30257,9 @@ FgL
 Fcy
 FDDDDDDDDD
 FBz
+Function
+Facial
+Fabrite
 In
 It
 Intraventricular
@@ -37418,6 +37453,10 @@ Hoy
 HgG
 HkZ
 HIHJ
+Hyperglycemia
+Heparan
+Hunter
+Hunters
 hyperkalemia
 hypertrophy
 hereditary
@@ -38610,6 +38649,8 @@ hxA
 hGD
 hcR
 hyperlipidemia
+hyphen
+hunter
 peaked
 pattern
 precordial
@@ -40046,6 +40087,7 @@ pfj
 pff
 pFh
 pVZ
+podagra
 Unusual
 Usually
 Upc
@@ -43338,6 +43380,8 @@ COW
 CfqM
 CwO
 CCN
+Cofactor
+Cherry
 Right
 Retrograde
 Rates
@@ -45633,6 +45677,7 @@ VTTTTTTTTTTTT
 VMd
 VJfy
 VXSc
+VLDL
 up
 unusual
 usually
@@ -48687,6 +48732,8 @@ GrR
 GDDDDDD
 GJU
 GJKx
+Galaxy
+Gala
 Jervell
 JYo
 JO
@@ -50910,6 +50957,10 @@ Nxs
 NXb
 Nö
 NUMBER
+NAD
+NADP
+Niacin
+NOT
 jEQ
 jL
 jO

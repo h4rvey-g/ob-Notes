@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "highlight-yellow 1",
-      "path": "template/highlight-yellow 1.md"
+      "basename": "Lysosomal Storage Diseases",
+      "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
     {
       "basename": "Vitamin B3",
@@ -11,6 +11,10 @@
     {
       "basename": "Lipid-lowering agents",
       "path": "USMLE/Cardiology/Lipid-lowering agents.md"
+    },
+    {
+      "basename": "font-yellow",
+      "path": "template/font-yellow.md"
     },
     {
       "basename": "Drug-induced lupus erythematosus",
@@ -55,10 +59,6 @@
     {
       "basename": "Vitamin B6",
       "path": "USMLE/Biochemistry/Vitamin B6.md"
-    },
-    {
-      "basename": "Lysosomal Storage Diseases",
-      "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
     {
       "basename": "Type I hypersensitivity reaction",

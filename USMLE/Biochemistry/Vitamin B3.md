@@ -9,7 +9,10 @@ share: true
 ---
 # Function
 >[!Mnemonic] 
->Active forms of <font color="#ffc000">N</font>iacin are NAD+ and NADP+.
+>Active forms of <font color="#ffc000">N</font>iacin are <font color="#ffc000">N</font>AD+ and <font color="#ffc000">N</font>ADP+.
+- <span style="background:rgba(240, 200, 0, 0.2)">Cofactor for redox reactions</span> (e.g., alcohol dehydrogenase, isocitrate dehydrogenase, G6PD)
+# Therapeutic use
+- Dyslipidemia: Niacin lowers VLDL and increases HDL serum levels (See [[Lipid-lowering agents]])
 
 ---
 # Vitamin B3 deficiency
@@ -41,11 +44,16 @@ share: true
 >3 typical features of severe vitamin B<sub>3</sub> Deficiency: Dermatitis, Diarrhea, and Dementia.
 
 ---
-# Diagnostics
+## Diagnostics
 
 
 ---
-# Treatment
+## Treatment
 
 
 ---
+# Vitamin B3 toxicity
+- <span style="background:rgba(240, 200, 0, 0.2)">Facial flushing: due to prostaglandin release and NOT due to histamine (typically seen when niacin therapy is started, can be avoided by coadministration of <font color="#ffc000">aspirin</font>)</span>
+- Hyperuricemia, podagra 
+	- Niacin decreases renal uric acid excretion.
+- Hyperglycemia
