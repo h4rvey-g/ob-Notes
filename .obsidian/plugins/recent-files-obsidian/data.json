@@ -73,10 +73,6 @@
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
     {
-      "basename": "Pasted image 20230909215738",
-      "path": "appendix/Pasted image 20230909215738.png"
-    },
-    {
       "basename": "Pancreatic cancer",
       "path": "USMLE/GI/Pancreatic cancer.md"
     },
@@ -204,4 +200,3 @@
   "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"
-}

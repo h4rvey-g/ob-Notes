@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
-                "mode": "preview",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Familial dyslipidemias.md"
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
               }
             }
           }
@@ -223,42 +223,42 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231102150505.png",
-    "appendix/Pasted image 20231102145356.png",
-    "appendix/Pasted image 20231102145138.png",
-    "appendix/Pasted image 20231102144950.png",
-    "appendix/Pasted image 20231102144906.png",
-    "appendix/Pasted image 20231102144826.png",
-    "appendix/Pasted image 20231102144754.png",
-    "appendix/Pasted image 20231102144620.png",
-    "appendix/Pasted image 20231102144509.png",
-    "USMLE/GI/Acute pancreatitis.md",
+    "appendix/Pasted image 20231110170141.png",
+    "USMLE/Immunology/Type I hypersensitivity reaction.md",
+    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+    "USMLE/Biochemistry/Fructose Metabolism.md",
+    "USMLE/Biochemistry/Glycolysis.md",
+    "USMLE/Biochemistry/Urea cycle.md",
+    "USMLE/Blood/HistologyHodgkin lymphoma.md",
+    "appendix/Pasted image 20231109185750.png",
+    "appendix/Pasted image 20231109170522.png",
+    "appendix/De Novo Purine Synthesis - OG copy.png",
+    "appendix/Pasted image 20231108214221.png",
+    "appendix/Pasted image 20231108214012.png",
+    "appendix/Pasted image 20231108213814.png",
+    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
+    "USMLE/Biochemistry/Fasting and starvation.md",
+    "appendix/Pasted image 20231107171030.png",
+    "USMLE/Biochemistry/Gluconeogenesis.md",
+    "appendix/Pasted image 20231107160524.png",
+    "appendix/Pasted image 20231107154612.png",
+    "appendix/Pasted image 20231107152615.png",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
+    "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Biochemistry/Vitamin C.md",
+    "USMLE/Respiratory/Bronchiectasis.md",
+    "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
+    "USMLE/Biochemistry/Collagen.md",
+    "USMLE/Renal/Liddle syndrome.md",
+    "USMLE/Biochemistry/Vitamin B3.md",
+    "USMLE/MSK/Osteogenesis imperfecta.md",
+    "USMLE/Biochemistry/Vitamin A.md",
+    "USMLE/Biochemistry/Vitamin K.md",
+    "USMLE/Biochemistry/Vitamin E.md",
     "USMLE/Biochemistry/Familial dyslipidemias.md",
+    "USMLE/GI/Acute pancreatitis.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/GI/Primary sclerosing cholangitis.md",
-    "appendix/Pasted image 20231017161223.png",
-    "USMLE/MSK/Paget disease.md",
-    "USMLE/Biochemistry/Cystic fibrosis.md",
-    "USMLE/GI/Ulcerative colitis.md",
-    "USMLE/MSK/Erythema nodosum.md",
-    "appendix/Pasted image 20231101152523.png",
-    "USMLE/Biochemistry/Lipid transport.md",
-    "USMLE/Cardiology/Lipid-lowering agents.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
-    "USMLE/Cardiology/ECGs.md",
-    "USMLE/Lab Values.md",
-    "USMLE/MSK/Osteoarthritis.md",
-    "USMLE/GI/GI hormones.md",
-    "USMLE/Infective disease/Mumps.md",
-    "USMLE/GI/Crohn disease.md",
-    "USMLE/Respiratory/Croup.md",
-    "USMLE/Blood/Chemotherapeutic agents.md",
-    "USMLE/Blood/Platinum-based agents.md",
-    "USMLE/GI/Pancreatic cancer.md",
-    "USMLE/GI/Colonic polyps.md",
-    "USMLE/GI/Lynch syndrome.md",
-    "USMLE/GI/Primary biliary cholangitis.md",
-    "conflict-files-obsidian-git.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
