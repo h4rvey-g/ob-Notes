@@ -11,11 +11,9 @@
             "id": "ef355a497f170f32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20230910173723.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "appendix/Pasted image 20230910173723.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "appendix/Pasted image 20230910173723.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,11 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+                "file": "appendix/Pasted image 20230910173723.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,6 +221,7 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231107143619.png",
     "appendix/Pasted image 20231107150236.png",
     "USMLE/Biochemistry/Homocystinuria.md",
@@ -237,7 +237,6 @@
     "appendix/Pasted image 20231111101822.png",
     "appendix/Pasted image 20231111095604.png",
     "appendix/Pasted image 20231111093232.png",
-    "appendix/Pasted image 20231111093052.png",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Biochemistry/Glycolysis.md",
@@ -246,7 +245,6 @@
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "USMLE/Biochemistry/Fasting and starvation.md",
     "USMLE/Biochemistry/Gluconeogenesis.md",
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Respiratory/Bronchiectasis.md",
