@@ -11,9 +11,11 @@
             "id": "ef355a497f170f32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Pasted image 20230910173723.png"
+                "file": "USMLE/Biochemistry/Lipid transport.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appendix/Pasted image 20230910173723.png",
+                "file": "USMLE/Biochemistry/Lipid transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appendix/Pasted image 20230910173723.png",
+                "file": "USMLE/Biochemistry/Lipid transport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appendix/Pasted image 20230910173723.png"
+                "file": "USMLE/Biochemistry/Lipid transport.md"
               }
             }
           }
@@ -221,6 +223,11 @@
   },
   "active": "ef355a497f170f32",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Familial dyslipidemias.md",
+    "USMLE/Biochemistry/Lipid transport.md",
+    "USMLE/Cardiology/Lipid-lowering agents.md",
+    "appendix/Pasted image 20231112143342.png",
+    "appendix/Pasted image 20230910173723.png",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231107143619.png",
     "appendix/Pasted image 20231107150236.png",
@@ -228,7 +235,6 @@
     "appendix/Pasted image 20231111110428.png",
     "USMLE/Biochemistry/Marfanoid features.md",
     "appendix/Pasted image 20231111110135.png",
-    "appendix/Pasted image 20230910173723.png",
     "USMLE/Biochemistry/Vitamin B6.md",
     "appendix/Pasted image 20231111104739.png",
     "appendix/Pasted image 20231111103922.png",
@@ -236,7 +242,6 @@
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "appendix/Pasted image 20231111101822.png",
     "appendix/Pasted image 20231111095604.png",
-    "appendix/Pasted image 20231111093232.png",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Biochemistry/Glycolysis.md",
@@ -254,8 +259,6 @@
     "USMLE/MSK/Osteogenesis imperfecta.md",
     "USMLE/Biochemistry/Vitamin A.md",
     "USMLE/Biochemistry/Vitamin K.md",
-    "USMLE/Biochemistry/Vitamin E.md",
-    "USMLE/Biochemistry/Familial dyslipidemias.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
