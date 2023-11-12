@@ -11,11 +11,9 @@
             "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20230910173723.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+                "file": "appendix/Pasted image 20230910173723.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+                "file": "appendix/Pasted image 20230910173723.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
+                "file": "appendix/Pasted image 20230910173723.png"
               }
             }
           }
@@ -223,8 +221,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Biochemistry/Vitamin B6.md",
+    "appendix/De Novo Purine Synthesis - OG copy.png",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+    "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/Biochemistry/Vitamin B3.md",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
