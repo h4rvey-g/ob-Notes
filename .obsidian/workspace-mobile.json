@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
-                "mode": "preview",
+                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
+            "file": "USMLE/Respiratory/Sarcoidosis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
+            "file": "USMLE/Respiratory/Sarcoidosis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
+            "file": "USMLE/Respiratory/Sarcoidosis.md"
           }
         }
       },
@@ -190,8 +190,10 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
-    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+    "appendix/Pasted image 20231103144254.png",
+    "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
+    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
     "USMLE/MSK/Purpura differential diagnosis.md",
     "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/MSK/IgA vasculitis.md",
@@ -224,8 +226,6 @@
     "USMLE/GI/Peptic ulcer disease.md",
     "USMLE/Immunology/Systemic lupus erythematosus.md",
     "USMLE/Respiratory/Sarcoidosis.md",
-    "USMLE/Blood/Hemochromatosis.md",
-    "USMLE/Lab Values.md",
     "USMLE/Psychiatry",
     "USMLE/Respiratory"
   ]

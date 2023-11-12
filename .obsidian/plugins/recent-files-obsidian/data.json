@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
+      "basename": "Cystic fibrosis",
+      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
+    },
+    {
+      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
+      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
+    },
+    {
       "basename": "Familial dyslipidemias",
       "path": "USMLE/Biochemistry/Familial dyslipidemias.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "Lipid-lowering agents",
       "path": "USMLE/Cardiology/Lipid-lowering agents.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     },
     {
       "basename": "Lab Values",
@@ -191,14 +199,6 @@
     {
       "basename": "Bone tumors",
       "path": "USMLE/MSK/Bone tumors.md"
-    },
-    {
-      "basename": "Arthrocentesis",
-      "path": "USMLE/MSK/Arthrocentesis.md"
-    },
-    {
-      "basename": "Achondroplasia",
-      "path": "USMLE/MSK/Achondroplasia.md"
     }
   ],
   "omittedPaths": [],
