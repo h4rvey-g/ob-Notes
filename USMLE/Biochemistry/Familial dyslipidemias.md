@@ -6,7 +6,7 @@ aliases:
   - Familial hyperlipidemia
 share: true
 ---
-
+![[Pasted image 20231112145415.png]]
 ![[Pasted image 20231102150505.png]]![[Pasted image 20231102144509.png]]
 ![[Pasted image 20231102144620.png]]
 ![[Pasted image 20231102144754.png]]
