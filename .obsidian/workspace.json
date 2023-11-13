@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
-                "mode": "source",
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
+                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md"
               }
             }
           }
@@ -223,8 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231113170927.png",
+    "appendix/Pasted image 20231113173304.png",
+    "appendix/Pasted image 20231113173155.png",
     "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
+    "appendix/Pasted image 20231113170927.png",
     "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "appendix/De Novo Purine Synthesis - OG copy.png",
@@ -248,7 +250,6 @@
     "appendix/Pasted image 20231107143619.png",
     "appendix/Pasted image 20231107150236.png",
     "USMLE/Biochemistry/Homocystinuria.md",
-    "appendix/Pasted image 20231111110428.png",
     "USMLE/Biochemistry/Marfanoid features.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",

@@ -16,16 +16,16 @@ Definition: inherited genetic disorder characterized by the <span style="backgro
 
 ---
 # Pathophysiology
-Deficiency in adenosine deaminase → ↓ breakdown of adenosine and deoxyadenosine → ↑ deoxyadenosine (dATP) accumulation → ↓ enzyme activity of ribonucleotide reductase → lymphocyte toxicity → immunodeficiency
+Deficiency in adenosine deaminase → ↓ breakdown of adenosine and deoxyadenosine → ↑ deoxyadenosine (dATP) accumulation → ↓ enzyme activity of ribonucleotide reductase → lymphocyte toxicity → <span style="background:rgba(240, 200, 0, 0.2)">immunodeficiency</span>
 
 ---
 # Clinical features
-Severe, recurrent infections
-Growth faltering
+- Severe, recurrent infections
+- Growth faltering
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
