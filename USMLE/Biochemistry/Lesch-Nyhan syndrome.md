@@ -15,7 +15,7 @@ Definition: inherited genetic disorder characterized by <span style="background:
 
 ---
 # Pathophysiology
-<span style="background:rgba(240, 200, 0, 0.2)">Defect in the enzyme</span> hypoxanthine-guanine phosphoribosyltransferase (<span style="background:rgba(240, 200, 0, 0.2)">HGPRT</span>) → impaired conversion of hypoxanthine to IMP and guanine to GMP → <span style="background:rgba(240, 200, 0, 0.2)">excess uric acid and ↑ de novo purine synthesis</span>
+<span style="background:rgba(240, 200, 0, 0.2)">Defect in the enzyme</span> hypoxanthine-guanine phosphoribosyltransferase (<span style="background:rgba(240, 200, 0, 0.2)">HGPRT</span>) → impaired conversion of hypoxanthine to IMP and guanine to GMP → <span style="background:rgba(240, 200, 0, 0.2)">excess uric acid and ↑ de novo purine synthesis</span>![[Pasted image 20231113170927.png]]
 
 ---
 # Clinical features
