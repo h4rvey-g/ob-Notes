@@ -2492,6 +2492,10 @@ dermoepidermal
 derm
 dermatan
 demyelinate
+diapers
+dystonia
+dissolution
+dissolving
 of
 over
 originate
@@ -7272,6 +7276,7 @@ tAKy
 technique
 touches
 targets
+tissues
 in
 includes
 involving
@@ -8598,6 +8603,7 @@ imC
 immunoglobulin
 iacin
 isocitrate
+injurious
 general
 giving
 generation
@@ -9611,6 +9617,7 @@ gZZ
 gRq
 gyPs
 gun
+guanine
 major
 mechanisms
 mark
@@ -10926,6 +10933,7 @@ mjPm
 mXi
 mgH
 mka
+megaloblastic
 Sinus
 ST
 Segment
@@ -13200,6 +13208,7 @@ Alkaptonuria
 Albinism
 ADP
 Any
+Aggression
 Orthodromic
 On
 Often
@@ -14141,6 +14150,7 @@ OsBywU
 OZw
 OcD
 OsMr
+Orange
 atrio
 and
 atrial
@@ -15441,6 +15451,7 @@ aao
 aed
 aGf
 aggressive
+anesthesia
 ventricular
 varying
 vaccines
@@ -17933,6 +17944,9 @@ crying
 corneal
 cloudy
 couldn
+cognitive
+chewing
+cholelithiasis
 bypass
 block
 background
@@ -19112,6 +19126,8 @@ bDyF
 bxA
 bWa
 butterfly
+behavior
+biting
 flutter
 from
 focus
@@ -24660,6 +24676,7 @@ sQi
 sUo
 started
 say
+salvage
 QRS
 QT
 QDQ
@@ -26897,6 +26914,7 @@ liA
 lqs
 lCD
 lowers
+lithotripsy
 Multifocal
 Mild
 Moderate
@@ -28017,6 +28035,7 @@ Melanocytes
 Melanin
 Macula
 Metapod
+Macrocytosis
 Differentiate
 Drugs
 DDx
@@ -29152,6 +29171,9 @@ DuVVkwS
 Dark
 Discolored
 Dyslipidemia
+Defect
+Developmental
+Duration
 FFF
 Fib
 Fi
@@ -30260,6 +30282,7 @@ FBz
 Function
 Facial
 Fabrite
+Febuxostat
 In
 It
 Intraventricular
@@ -31533,6 +31556,7 @@ ISy
 ICX
 ICi
 IZHH
+IMP
 PACs
 Primary
 Pathophysiology
@@ -34048,6 +34072,7 @@ etx
 ehx
 eWTZVu
 eUWZ
+extrapyramidal
 Early
 Elevation
 Etiology
@@ -35181,6 +35206,8 @@ EEEEEEEEEEEE
 EEEEEEEE
 EDDDDDDDDDDDDtdt
 EjYdn
+Extracorporeal
+ESWL
 LEFT
 Lengthening
 Left
@@ -37457,6 +37484,7 @@ Hyperglycemia
 Heparan
 Hunter
 Hunters
+HGPRT
 hyperkalemia
 hypertrophy
 hereditary
@@ -38651,6 +38679,8 @@ hcR
 hyperlipidemia
 hyphen
 hunter
+hypoxanthine
+headbanging
 peaked
 pattern
 precordial
@@ -40088,6 +40118,7 @@ pff
 pFh
 pVZ
 podagra
+phosphoribosyltransferase
 Unusual
 Usually
 Upc
@@ -41104,6 +41135,7 @@ Uoyl
 UTVH
 UCC
 UVU
+Ursodeoxycholic
 Bundle
 Branch
 Block
@@ -44600,6 +44632,7 @@ RTTd
 RkH
 Reu
 Rcpl
+Reduce
 Voltage
 VFV
 VoNW
@@ -46770,6 +46803,9 @@ uvt
 uKYX
 uap
 unaffected
+urate
+unwilling
+undergo
 quinine
 qz
 qM
@@ -48734,6 +48770,8 @@ GJU
 GJKx
 Galaxy
 Gala
+GMP
+Gouty
 Jervell
 JYo
 JO
@@ -50961,6 +50999,7 @@ NAD
 NADP
 Niacin
 NOT
+Nonoperative
 jEQ
 jL
 jO

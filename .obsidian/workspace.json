@@ -11,9 +11,11 @@
             "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Pasted image 20230909215738.png"
+                "file": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appendix/Pasted image 20230909215738.png",
+                "file": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appendix/Pasted image 20230909215738.png",
+                "file": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appendix/Pasted image 20230909215738.png"
+                "file": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md"
               }
             }
           }
@@ -221,9 +223,14 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20230910173723.png",
-    "appendix/De Novo Purine Synthesis - OG copy.png",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+    "appendix/De Novo Purine Synthesis - OG copy.png",
+    "appendix/Pasted image 20230910173723.png",
+    "appendix/Pasted image 20230909215738.png",
+    "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
+    "USMLE/GI/Crohn disease.md",
+    "USMLE/GI/Cholelithiasis.md",
     "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/Biochemistry/Vitamin B3.md",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
@@ -242,8 +249,6 @@
     "appendix/Pasted image 20231111110428.png",
     "USMLE/Biochemistry/Marfanoid features.md",
     "appendix/Pasted image 20231111110135.png",
-    "appendix/Pasted image 20231111104739.png",
-    "appendix/Pasted image 20231111103922.png",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Biochemistry/Glycolysis.md",
@@ -252,11 +257,7 @@
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "USMLE/Biochemistry/Fasting and starvation.md",
     "USMLE/Biochemistry/Gluconeogenesis.md",
-    "USMLE/Renal/Nephrolithiasis.md",
     "USMLE/Biochemistry/Vitamin C.md",
-    "USMLE/Respiratory/Bronchiectasis.md",
-    "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
-    "USMLE/Biochemistry/Collagen.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
