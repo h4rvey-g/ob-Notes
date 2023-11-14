@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Urea cycle",
+      "path": "USMLE/Biochemistry/Urea cycle.md"
+    },
+    {
+      "basename": "Pasted image 20231108214012",
+      "path": "appendix/Pasted image 20231108214012.png"
+    },
+    {
+      "basename": "Pasted image 20231113173304",
+      "path": "appendix/Pasted image 20231113173304.png"
+    },
+    {
       "basename": "Idiopathic inflammatory myopathies",
       "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
     },
@@ -113,10 +125,6 @@
       "path": "USMLE/Biochemistry/Fructose Metabolism.md"
     },
     {
-      "basename": "Urea cycle",
-      "path": "USMLE/Biochemistry/Urea cycle.md"
-    },
-    {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "GI hormones",
-      "path": "USMLE/GI/GI hormones.md"
-    },
-    {
-      "basename": "Paget disease",
-      "path": "USMLE/MSK/Paget disease.md"
     }
   ],
   "omittedPaths": [],
