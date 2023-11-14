@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Idiopathic inflammatory myopathies",
+      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+    },
+    {
+      "basename": "Glycolysis",
+      "path": "USMLE/Biochemistry/Glycolysis.md"
+    },
+    {
+      "basename": "Mitochondrial myopathies",
+      "path": "USMLE/Biochemistry/Mitochondrial myopathies.md"
+    },
+    {
       "basename": "Catecholamine Synthesis",
       "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
     },
@@ -97,10 +109,6 @@
       "path": "USMLE/Biochemistry/Fructose Metabolism.md"
     },
     {
-      "basename": "Glycolysis",
-      "path": "USMLE/Biochemistry/Glycolysis.md"
-    },
-    {
       "basename": "Urea cycle",
       "path": "USMLE/Biochemistry/Urea cycle.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Mumps",
       "path": "USMLE/Infective disease/Mumps.md"
-    },
-    {
-      "basename": "Erythema nodosum",
-      "path": "USMLE/MSK/Erythema nodosum.md"
-    },
-    {
-      "basename": "Crohn disease",
-      "path": "USMLE/GI/Crohn disease.md"
     }
   ],
   "omittedPaths": [],

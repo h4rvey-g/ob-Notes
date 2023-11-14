@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md",
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
               }
             }
           }
@@ -223,6 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Glycolysis.md",
+    "USMLE/Biochemistry/Mitochondrial myopathies.md",
+    "appendix/Pasted image 20231114165141.png",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231113173304.png",
     "appendix/Pasted image 20231113173155.png",
     "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
@@ -237,7 +241,6 @@
     "USMLE/GI/Cholelithiasis.md",
     "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/Biochemistry/Vitamin B3.md",
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "appendix/Pasted image 20231112162849.png",
@@ -247,18 +250,14 @@
     "appendix/Pasted image 20231112145415.png",
     "USMLE/Biochemistry/Lipid transport.md",
     "appendix/Pasted image 20231112143342.png",
-    "appendix/Pasted image 20231107143619.png",
-    "appendix/Pasted image 20231107150236.png",
     "USMLE/Biochemistry/Homocystinuria.md",
     "USMLE/Biochemistry/Marfanoid features.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "USMLE/Biochemistry/Fructose Metabolism.md",
-    "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Biochemistry/Urea cycle.md",
     "USMLE/Blood/HistologyHodgkin lymphoma.md",
     "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
     "USMLE/Biochemistry/Fasting and starvation.md",
-    "USMLE/Biochemistry/Gluconeogenesis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
