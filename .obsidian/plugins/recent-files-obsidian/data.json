@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Glycogen storage diseases",
+      "path": "USMLE/Biochemistry/Glycogen storage diseases.md"
+    },
+    {
       "basename": "Idiopathic inflammatory myopathies",
       "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Paget disease",
       "path": "USMLE/MSK/Paget disease.md"
-    },
-    {
-      "basename": "Mumps",
-      "path": "USMLE/Infective disease/Mumps.md"
     }
   ],
   "omittedPaths": [],

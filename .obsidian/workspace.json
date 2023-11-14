@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
-                "mode": "preview",
+                "file": "USMLE/Biochemistry/Glycogen storage diseases.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/Biochemistry/Glycogen storage diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/Biochemistry/Glycogen storage diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+                "file": "USMLE/Biochemistry/Glycogen storage diseases.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231114171252.png",
+    "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+    "USMLE/Biochemistry/Glycogen storage diseases.md",
     "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Biochemistry/Mitochondrial myopathies.md",
     "appendix/Pasted image 20231114165141.png",
@@ -256,8 +259,6 @@
     "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Biochemistry/Urea cycle.md",
     "USMLE/Blood/HistologyHodgkin lymphoma.md",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "USMLE/Biochemistry/Fasting and starvation.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
