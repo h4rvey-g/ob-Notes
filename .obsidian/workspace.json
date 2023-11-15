@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Blood/Pleural effusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Blood/Pleural effusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Blood/Pleural effusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Lab Values.md"
+                "file": "USMLE/Blood/Pleural effusion.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +222,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Blood/Alkaline phosphatase.md",
+    "appendix/Pasted image 20230727145202.png",
     "USMLE/Lab Values.md",
+    "USMLE/Blood/Alkaline phosphatase.md",
     "appendix/Pasted image 20231115161844.png",
     "USMLE/Biochemistry/Urea cycle.md",
     "appendix/Pasted image 20231108214012.png",
@@ -258,7 +258,6 @@
     "USMLE/Biochemistry/Homocystinuria.md",
     "USMLE/Biochemistry/Marfanoid features.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
-    "USMLE/Biochemistry/Fructose Metabolism.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

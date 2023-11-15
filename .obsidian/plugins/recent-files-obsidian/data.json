@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pleural effusion",
+      "path": "USMLE/Blood/Pleural effusion.md"
+    },
+    {
+      "basename": "Pasted image 20230727145202",
+      "path": "appendix/Pasted image 20230727145202.png"
+    },
+    {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Primary sclerosing cholangitis",
       "path": "USMLE/GI/Primary sclerosing cholangitis.md"
-    },
-    {
-      "basename": "Ulcerative colitis",
-      "path": "USMLE/GI/Ulcerative colitis.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
     }
   ],
   "omittedPaths": [],
