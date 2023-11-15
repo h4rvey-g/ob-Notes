@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
+      "basename": "Alkaline phosphatase",
+      "path": "USMLE/Blood/Alkaline phosphatase.md"
+    },
+    {
       "basename": "Urea cycle",
       "path": "USMLE/Biochemistry/Urea cycle.md"
     },
@@ -181,10 +189,6 @@
       "path": "USMLE/GI/Acute pancreatitis.md"
     },
     {
-      "basename": "Alkaline phosphatase",
-      "path": "USMLE/Blood/Alkaline phosphatase.md"
-    },
-    {
       "basename": "Primary sclerosing cholangitis",
       "path": "USMLE/GI/Primary sclerosing cholangitis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sarcoidosis",
       "path": "USMLE/Respiratory/Sarcoidosis.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     }
   ],
   "omittedPaths": [],
