@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Renal/BUN-creatinine ratio.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Renal/BUN-creatinine ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md",
+                "file": "USMLE/Renal/BUN-creatinine ratio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,11 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Pleural effusion.md"
+                "file": "USMLE/Renal/BUN-creatinine ratio.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,6 +223,7 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Blood/Pleural effusion.md",
     "appendix/Pasted image 20230727145202.png",
     "USMLE/Lab Values.md",
     "USMLE/Blood/Alkaline phosphatase.md",
@@ -238,7 +240,6 @@
     "appendix/Pasted image 20231114172757.png",
     "appendix/Pasted image 20231114172701.png",
     "appendix/Pasted image 20231114172325.png",
-    "appendix/Pasted image 20231114172027.png",
     "USMLE/Biochemistry/Mitochondrial myopathies.md",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Biochemistry/Adenosine deaminase deficiency.md",

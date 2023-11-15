@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
       "basename": "Pleural effusion",
       "path": "USMLE/Blood/Pleural effusion.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Acute pancreatitis",
       "path": "USMLE/GI/Acute pancreatitis.md"
-    },
-    {
-      "basename": "Primary sclerosing cholangitis",
-      "path": "USMLE/GI/Primary sclerosing cholangitis.md"
     }
   ],
   "omittedPaths": [],
