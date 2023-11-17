@@ -5,6 +5,10 @@
       "path": "USMLE/Biochemistry/Gluconeogenesis.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Pasted image 20231107154612",
       "path": "appendix/Pasted image 20231107154612.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Primary ciliary dyskinesia",
       "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
-    },
-    {
-      "basename": "Collagen",
-      "path": "USMLE/Biochemistry/Collagen.md"
     }
   ],
   "omittedPaths": [],
