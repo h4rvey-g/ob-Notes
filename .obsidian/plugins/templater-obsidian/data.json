@@ -20,10 +20,12 @@
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "template/callout-tip.md",
     "template/callout-mnemonic.md",
-    "template/highlight-yellow.md"
+    "template/highlight-yellow.md",
+    "template/font-yellow.md"
   ],
   "startup_templates": [
     "template/USMLE-note.md"

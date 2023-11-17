@@ -32,5 +32,7 @@
   "templater-obsidian",
   "callout-manager",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-git",
+  "obsidian-relative-line-numbers"
 ]

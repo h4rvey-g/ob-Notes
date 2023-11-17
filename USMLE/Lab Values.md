@@ -49,3 +49,7 @@ This will help you remember the normal range for glucose is 70-100 [[Myasthenia 
 ---
 # Comprehensive metabolic panel
 ![[Pasted image 20231022111024.png]]
+
+---
+# Coagulation studies
+![[Pasted image 20231115161844.png]]

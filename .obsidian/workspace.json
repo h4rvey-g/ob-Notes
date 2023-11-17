@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "457babcf68401c28",
+        "id": "90dafafcdc85362d",
         "type": "tabs",
         "children": [
           {
-            "id": "ef355a497f170f32",
+            "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
+                "file": "USMLE/Biochemistry/Gluconeogenesis.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,44 +220,44 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "ef355a497f170f32",
+  "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231110170141.png",
-    "USMLE/Immunology/Type I hypersensitivity reaction.md",
-    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-    "USMLE/Biochemistry/Fructose Metabolism.md",
-    "USMLE/Biochemistry/Glycolysis.md",
-    "USMLE/Biochemistry/Urea cycle.md",
-    "USMLE/Blood/HistologyHodgkin lymphoma.md",
-    "appendix/Pasted image 20231109185750.png",
-    "appendix/Pasted image 20231109170522.png",
-    "appendix/De Novo Purine Synthesis - OG copy.png",
-    "appendix/Pasted image 20231108214221.png",
-    "appendix/Pasted image 20231108214012.png",
-    "appendix/Pasted image 20231108213814.png",
-    "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md",
-    "USMLE/Biochemistry/Fasting and starvation.md",
-    "appendix/Pasted image 20231107171030.png",
+    "conflict-files-obsidian-git.md",
     "USMLE/Biochemistry/Gluconeogenesis.md",
-    "appendix/Pasted image 20231107160524.png",
+    "appendix/Pasted image 20231103144254.png",
+    "USMLE/Blood/Acute intermittent porphyria.md",
     "appendix/Pasted image 20231107154612.png",
-    "appendix/Pasted image 20231107152615.png",
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
-    "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/Biochemistry/Vitamin C.md",
-    "USMLE/Respiratory/Bronchiectasis.md",
-    "USMLE/Biochemistry/Primary ciliary dyskinesia.md",
-    "USMLE/Biochemistry/Collagen.md",
-    "USMLE/Renal/Liddle syndrome.md",
-    "USMLE/Biochemistry/Vitamin B3.md",
-    "USMLE/MSK/Osteogenesis imperfecta.md",
-    "USMLE/Biochemistry/Vitamin A.md",
-    "USMLE/Biochemistry/Vitamin K.md",
-    "USMLE/Biochemistry/Vitamin E.md",
-    "USMLE/Biochemistry/Familial dyslipidemias.md",
-    "USMLE/GI/Acute pancreatitis.md",
+    "USMLE/Biochemistry/Mitochondrial myopathies.md",
+    "USMLE/Biochemistry/Glycolysis.md",
+    "USMLE/Blood/Heme synthesis.md",
+    "appendix/Pasted image 20231029144358.png",
+    "USMLE/MSK/Hammer toe.md",
+    "USMLE/MSK/IgA vasculitis.md",
+    "appendix/Pasted image 20231029162243.png",
+    "USMLE/Renal/BUN-creatinine ratio.md",
+    "USMLE/Blood/Pleural effusion.md",
+    "appendix/Pasted image 20230727145202.png",
+    "USMLE/Lab Values.md",
     "USMLE/Blood/Alkaline phosphatase.md",
-    "USMLE/GI/Primary sclerosing cholangitis.md",
+    "appendix/Pasted image 20231115161844.png",
+    "USMLE/Biochemistry/Urea cycle.md",
+    "appendix/Pasted image 20231108214012.png",
+    "appendix/Pasted image 20231113173304.png",
+    "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+    "USMLE/Biochemistry/Glycogen storage diseases.md",
+    "appendix/Pasted image 20231114173104.png",
+    "appendix/Pasted image 20231114173102.png",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
+    "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
+    "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
+    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+    "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/GI/Crohn disease.md",
+    "USMLE/GI/Cholelithiasis.md",
+    "USMLE/Biochemistry/Vitamin B6.md",
+    "USMLE/Biochemistry/Vitamin B3.md",
+    "USMLE/Cardiology/Drug-induced lupus erythematosus.md",
+    "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

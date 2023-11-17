@@ -1,19 +1,202 @@
 {
   "recentFiles": [
     {
-      "basename": "Macrocytic anemias",
-      "path": "USMLE/Blood/Macrocytic anemias.md"
+      "basename": "Gluconeogenesis",
+      "path": "USMLE/Biochemistry/Gluconeogenesis.md"
+    },
+    {
+      "basename": "Pasted image 20231107154612",
+      "path": "appendix/Pasted image 20231107154612.png"
+    },
+    {
+      "basename": "Acute intermittent porphyria",
+      "path": "USMLE/Blood/Acute intermittent porphyria.md"
+    },
+    {
+      "basename": "Pasted image 20231029144358",
+      "path": "appendix/Pasted image 20231029144358.png"
+    },
+    {
+      "basename": "Hammer toe",
+      "path": "USMLE/MSK/Hammer toe.md"
+    },
+    {
+      "basename": "IgA vasculitis",
+      "path": "USMLE/MSK/IgA vasculitis.md"
+    },
+    {
+      "basename": "Pasted image 20231029162243",
+      "path": "appendix/Pasted image 20231029162243.png"
+    },
+    {
+      "basename": "Mitochondrial myopathies",
+      "path": "USMLE/Biochemistry/Mitochondrial myopathies.md"
+    },
+    {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
+      "basename": "Pleural effusion",
+      "path": "USMLE/Blood/Pleural effusion.md"
+    },
+    {
+      "basename": "Pasted image 20230727145202",
+      "path": "appendix/Pasted image 20230727145202.png"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
+      "basename": "Alkaline phosphatase",
+      "path": "USMLE/Blood/Alkaline phosphatase.md"
+    },
+    {
+      "basename": "Urea cycle",
+      "path": "USMLE/Biochemistry/Urea cycle.md"
+    },
+    {
+      "basename": "Pasted image 20231108214012",
+      "path": "appendix/Pasted image 20231108214012.png"
+    },
+    {
+      "basename": "Pasted image 20231113173304",
+      "path": "appendix/Pasted image 20231113173304.png"
+    },
+    {
+      "basename": "Idiopathic inflammatory myopathies",
+      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+    },
+    {
+      "basename": "Glycogen storage diseases",
+      "path": "USMLE/Biochemistry/Glycogen storage diseases.md"
+    },
+    {
+      "basename": "Glycolysis",
+      "path": "USMLE/Biochemistry/Glycolysis.md"
+    },
+    {
+      "basename": "Catecholamine Synthesis",
+      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+    },
+    {
+      "basename": "Adenosine deaminase deficiency",
+      "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
+    },
+    {
+      "basename": "Pasted image 20231113170927",
+      "path": "appendix/Pasted image 20231113170927.png"
+    },
+    {
+      "basename": "Lesch-Nyhan syndrome",
+      "path": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md"
+    },
+    {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
+    },
+    {
+      "basename": "Cholelithiasis",
+      "path": "USMLE/GI/Cholelithiasis.md"
+    },
+    {
+      "basename": "Pasted image 20230909215738",
+      "path": "appendix/Pasted image 20230909215738.png"
     },
     {
       "basename": "Pasted image 20230910173723",
       "path": "appendix/Pasted image 20230910173723.png"
     },
     {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
+      "basename": "De Novo Purine Synthesis - OG copy",
+      "path": "appendix/De Novo Purine Synthesis - OG copy.png"
+    },
+    {
+      "basename": "Lysosomal Storage Diseases",
+      "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
+    },
+    {
+      "basename": "Vitamin B3",
+      "path": "USMLE/Biochemistry/Vitamin B3.md"
+    },
+    {
+      "basename": "Lipid-lowering agents",
+      "path": "USMLE/Cardiology/Lipid-lowering agents.md"
+    },
+    {
+      "basename": "font-yellow",
+      "path": "template/font-yellow.md"
+    },
+    {
+      "basename": "Drug-induced lupus erythematosus",
+      "path": "USMLE/Cardiology/Drug-induced lupus erythematosus.md"
+    },
+    {
+      "basename": "Systemic lupus erythematosus",
+      "path": "USMLE/Immunology/Systemic lupus erythematosus.md"
+    },
+    {
+      "basename": "Familial dyslipidemias",
+      "path": "USMLE/Biochemistry/Familial dyslipidemias.md"
+    },
+    {
+      "basename": "Lipid transport",
+      "path": "USMLE/Biochemistry/Lipid transport.md"
+    },
+    {
+      "basename": "Pasted image 20231107143619",
+      "path": "appendix/Pasted image 20231107143619.png"
+    },
+    {
+      "basename": "Pasted image 20231107150236",
+      "path": "appendix/Pasted image 20231107150236.png"
+    },
+    {
+      "basename": "Homocystinuria",
+      "path": "USMLE/Biochemistry/Homocystinuria.md"
+    },
+    {
+      "basename": "Marfanoid features",
+      "path": "USMLE/Biochemistry/Marfanoid features.md"
+    },
+    {
+      "basename": "Vitamin B6",
+      "path": "USMLE/Biochemistry/Vitamin B6.md"
+    },
+    {
+      "basename": "Type I hypersensitivity reaction",
+      "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
+    },
+    {
+      "basename": "Fructose Metabolism",
+      "path": "USMLE/Biochemistry/Fructose Metabolism.md"
+    },
+    {
+      "basename": "De novo pyrimidine and purine synthesis",
+      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+    },
+    {
+      "basename": "Fasting and starvation",
+      "path": "USMLE/Biochemistry/Fasting and starvation.md"
+    },
+    {
+      "basename": "HistologyHodgkin lymphoma",
+      "path": "USMLE/Blood/HistologyHodgkin lymphoma.md"
+    },
+    {
+      "basename": "Pasted image 20230909221338",
+      "path": "appendix/Pasted image 20230909221338.png"
+    },
+    {
+      "basename": "Bronchiectasis",
+      "path": "USMLE/Respiratory/Bronchiectasis.md"
+    },
+    {
+      "basename": "Primary ciliary dyskinesia",
+      "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
     }
   ],
   "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"
-}
