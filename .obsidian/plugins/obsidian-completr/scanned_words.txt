@@ -3749,6 +3749,7 @@ oFY
 oBa
 olyneuropathy
 ort
+ochronosis
 regular
 reentrant
 retrograde
@@ -5139,6 +5140,8 @@ rssu
 rOX
 rvC
 recipitated
+rhubarb
+rhabdomyolysis
 narrow
 negative
 not
@@ -6318,6 +6321,8 @@ nrn
 nHb
 nmO
 neurotoxic
+nephrolithiasis
+nitrofurantoin
 tachycardia
 tract
 the
@@ -7692,6 +7697,8 @@ tIL
 tEZ
 tbg
 tVn
+thioridazine
+tyrosinemia
 in
 includes
 involving
@@ -11545,6 +11552,11 @@ mQoc
 mEBuq
 meaning
 moldy
+mercury
+methylene
+metronidazole
+methocarbamol
+malianant
 Sinus
 ST
 Segment
@@ -12762,6 +12774,7 @@ SDDD
 SDDDDD
 SDD
 Sulfonamides
+Syndrome
 AVNRT
 Atrial
 AVRT
@@ -13976,6 +13989,7 @@ AkRvX
 AZb
 AIP
 Anesthetics
+Altered
 Orthodromic
 On
 Often
@@ -16364,6 +16378,12 @@ aWW
 aMC
 aminolevulinic
 ainful
+anesthetics
+asparagus
+amitriptyline
+antimalarials
+antimicrobials
+alkaptonuria
 ventricular
 varying
 vaccines
@@ -19010,6 +19030,10 @@ cPYP
 cZN
 cgFO
 cytochrome
+chlorpromazine
+carrots
+cimetidine
+chloroquine
 bypass
 block
 background
@@ -20267,6 +20291,9 @@ blK
 bxH
 biosynthesis
 barbiturates
+beets
+blackberries
+beans
 flutter
 from
 focus
@@ -21561,6 +21588,7 @@ fNOOs
 ffUw
 fRV
 fLt
+fava
 with
 wave
 which
@@ -26199,6 +26227,7 @@ sunlight
 sychologic
 stale
 smell
+senna
 QRS
 QT
 QDQ
@@ -27253,6 +27282,7 @@ QCs
 QPT
 QRX
 Qpl
+Question
 lead
 likely
 limb
@@ -28585,6 +28615,8 @@ ljVvrR
 ljl
 llT
 lxZ
+laxatives
+levodopa
 Multifocal
 Mild
 Moderate
@@ -32193,6 +32225,7 @@ FBt
 Fnbtz
 FMw
 Fasting
+Foods
 In
 It
 Intraventricular
@@ -33546,6 +33579,7 @@ IZi
 InI
 IOt
 IRDDDD
+Indwelling
 PACs
 Primary
 Pathophysiology
@@ -34836,6 +34870,8 @@ PRehK
 PZw
 PBG
 Porphyria
+Purple
+Providencia
 ectopic
 elevation
 early
@@ -41120,6 +41156,7 @@ hkAAE
 hmGN
 heme
 having
+hepatobiliary
 peaked
 pattern
 precordial
@@ -42637,6 +42674,10 @@ polyneuropathies
 paresis
 porphyrins
 porphyros
+propofol
+phenazopyridine
+promethazine
+primaquine
 Unusual
 Usually
 Upc
@@ -44904,6 +44945,7 @@ Bwsm
 BpC
 BWo
 BGc
+Brown
 Characteristic
 CLL
 Clinical
@@ -46142,6 +46184,8 @@ CIu
 CIV
 CXC
 CKN
+Color
+Catheter
 Right
 Retrograde
 Rates
@@ -51888,6 +51932,8 @@ GEo
 Gps
 GVa
 Greek
+Green
+Gilbert
 Jervell
 JYo
 JO

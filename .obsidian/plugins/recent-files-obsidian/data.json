@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin B3",
+      "path": "USMLE/Biochemistry/Vitamin B3.md"
+    },
+    {
+      "basename": "Urine color",
+      "path": "USMLE/Renal/Urine color.md"
+    },
+    {
       "basename": "Catecholamine Synthesis",
       "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
     },
@@ -115,10 +123,6 @@
     {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
-    },
-    {
-      "basename": "Vitamin B3",
-      "path": "USMLE/Biochemistry/Vitamin B3.md"
     },
     {
       "basename": "Lipid-lowering agents",
