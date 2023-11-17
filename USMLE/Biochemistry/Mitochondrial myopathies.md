@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-11-14 16:47
 modified: 2023-11-14 16:47
-aliases: Untitled
+aliases:
+  - mitochondrial myopathy
 share: true
 ---
 Definition: A group of disorders characterized by an <span style="background:rgba(240, 200, 0, 0.2)">impaired energy production that mainly affects organs with a high energy requirement (e.g., brain).</span>

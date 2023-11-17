@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA vasculitis",
+      "path": "USMLE/MSK/IgA vasculitis.md"
+    },
+    {
+      "basename": "Pasted image 20231029162243",
+      "path": "appendix/Pasted image 20231029162243.png"
+    },
+    {
+      "basename": "Mitochondrial myopathies",
+      "path": "USMLE/Biochemistry/Mitochondrial myopathies.md"
+    },
+    {
       "basename": "BUN-creatinine ratio",
       "path": "USMLE/Renal/BUN-creatinine ratio.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "Glycolysis",
       "path": "USMLE/Biochemistry/Glycolysis.md"
-    },
-    {
-      "basename": "Mitochondrial myopathies",
-      "path": "USMLE/Biochemistry/Mitochondrial myopathies.md"
     },
     {
       "basename": "Catecholamine Synthesis",
@@ -191,14 +199,6 @@
     {
       "basename": "Vitamin E",
       "path": "USMLE/Biochemistry/Vitamin E.md"
-    },
-    {
-      "basename": "Vitamin K",
-      "path": "USMLE/Biochemistry/Vitamin K.md"
-    },
-    {
-      "basename": "Acute pancreatitis",
-      "path": "USMLE/GI/Acute pancreatitis.md"
     }
   ],
   "omittedPaths": [],
