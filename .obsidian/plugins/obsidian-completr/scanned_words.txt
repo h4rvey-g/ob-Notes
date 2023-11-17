@@ -1222,6 +1222,8 @@ TQJ
 Tia
 TftT
 TWc
+Trigger
+Triggers
 differentials
 differential
 diagnosis
@@ -2642,6 +2644,10 @@ dTD
 dkkG
 dpv
 dFo
+demand
+derivates
+dermatological
+disorientation
 of
 over
 originate
@@ -3740,6 +3746,8 @@ oSuU
 oPDM
 oFY
 oBa
+olyneuropathy
+ort
 regular
 reentrant
 retrograde
@@ -5129,6 +5137,7 @@ raE
 rssu
 rOX
 rvC
+recipitated
 narrow
 negative
 not
@@ -6307,6 +6316,7 @@ nPCkVZ
 nrn
 nHb
 nmO
+neurotoxic
 tachycardia
 tract
 the
@@ -9071,6 +9081,8 @@ ioow
 ibJ
 itH
 iNb
+intermediates
+inducers
 general
 giving
 generation
@@ -11530,6 +11542,7 @@ mlD
 mQE
 mQoc
 mEBuq
+meaning
 Sinus
 ST
 Segment
@@ -12746,6 +12759,7 @@ SUe
 SDDD
 SDDDDD
 SDD
+Sulfonamides
 AVNRT
 Atrial
 AVRT
@@ -13958,6 +13972,8 @@ Amhr
 AdW
 AkRvX
 AZb
+AIP
+Anesthetics
 Orthodromic
 On
 Often
@@ -16344,6 +16360,8 @@ aTeG
 aTTT
 aWW
 aMC
+aminolevulinic
+ainful
 ventricular
 varying
 vaccines
@@ -18989,6 +19007,7 @@ cZU
 cPYP
 cZN
 cgFO
+cytochrome
 bypass
 block
 background
@@ -20244,6 +20263,8 @@ bggGC
 bcM
 blK
 bxH
+biosynthesis
+barbiturates
 flutter
 from
 focus
@@ -22636,6 +22657,7 @@ wWi
 wuv
 wFY
 wgblL
+wine
 Whenever
 Widening
 William
@@ -26170,6 +26192,9 @@ sJg
 sMa
 sFoo
 sfb
+stimulating
+sunlight
+sychologic
 QRS
 QT
 QDQ
@@ -32161,6 +32186,7 @@ FrL
 FBt
 Fnbtz
 FMw
+Fasting
 In
 It
 Intraventricular
@@ -34802,6 +34828,8 @@ PTz
 Pme
 PRehK
 PZw
+PBG
+Porphyria
 ectopic
 elevation
 early
@@ -39792,6 +39820,7 @@ HDo
 Htw
 HYYYx
 Hqe
+Hormone
 hyperkalemia
 hypertrophy
 hereditary
@@ -41083,6 +41112,7 @@ hPRR
 hjjr
 hkAAE
 hmGN
+heme
 peaked
 pattern
 precordial
@@ -42593,6 +42623,13 @@ pppvvvll
 ptc
 pYLw
 pup
+penetrance
+porphobilinogen
+porphyrias
+polyneuropathies
+paresis
+porphyrins
+porphyros
 Unusual
 Usually
 Upc
@@ -49741,6 +49778,7 @@ uDx
 ugOXh
 uZe
 uvvfj
+uroporphyrinogen
 quinine
 qz
 qM
@@ -51842,6 +51880,7 @@ Gyf
 GEo
 Gps
 GVa
+Greek
 Jervell
 JYo
 JO
