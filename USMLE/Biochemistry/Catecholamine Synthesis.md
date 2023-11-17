@@ -8,7 +8,7 @@ share: true
 
 ![[Pasted image 20231113173155.png]]![[Pasted image 20231107143619.png]]
 # Alkaptonuria
-- Dark urine
+- [[Urine color|Dark urine]]
 - Arthralgia
 - Discolored face
 ![[Pasted image 20231107143801.png]]

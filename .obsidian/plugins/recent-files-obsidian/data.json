@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "HMP shunt",
+      "path": "USMLE/Biochemistry/HMP shunt.md"
+    },
+    {
+      "basename": "Vitamin B1",
+      "path": "USMLE/Biochemistry/Vitamin B1.md"
+    },
+    {
+      "basename": "Maple syrup urine disease",
+      "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
+    },
+    {
+      "basename": "Catecholamine Synthesis",
+      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+    },
+    {
+      "basename": "Vitamin B3",
+      "path": "USMLE/Biochemistry/Vitamin B3.md"
+    },
+    {
+      "basename": "Urine color",
+      "path": "USMLE/Renal/Urine color.md"
+    },
+    {
       "basename": "Gluconeogenesis",
       "path": "USMLE/Biochemistry/Gluconeogenesis.md"
     },
@@ -77,10 +101,6 @@
       "path": "USMLE/Biochemistry/Glycolysis.md"
     },
     {
-      "basename": "Catecholamine Synthesis",
-      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
-    },
-    {
       "basename": "Adenosine deaminase deficiency",
       "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
     },
@@ -115,10 +135,6 @@
     {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
-    },
-    {
-      "basename": "Vitamin B3",
-      "path": "USMLE/Biochemistry/Vitamin B3.md"
     },
     {
       "basename": "Lipid-lowering agents",
@@ -183,18 +199,6 @@
     {
       "basename": "HistologyHodgkin lymphoma",
       "path": "USMLE/Blood/HistologyHodgkin lymphoma.md"
-    },
-    {
-      "basename": "Pasted image 20230909221338",
-      "path": "appendix/Pasted image 20230909221338.png"
-    },
-    {
-      "basename": "Bronchiectasis",
-      "path": "USMLE/Respiratory/Bronchiectasis.md"
-    },
-    {
-      "basename": "Primary ciliary dyskinesia",
-      "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
     }
   ],
   "omittedPaths": [],
