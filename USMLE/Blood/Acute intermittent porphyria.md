@@ -26,10 +26,6 @@ share: true
 - Fasting
 
 ---
-# Pathophysiology
-
-
----
 # Clinical features
 The clinical presentation of AIP is variable and symptoms are often nonspecific. In contrast to some porphyrias, there are no dermatological findings.
 - Acute attacks
@@ -39,7 +35,7 @@ The clinical presentation of AIP is variable and symptoms are often nonspecific.
 	- Autonomic dysfunction: tachycardia, hypertension 
 	- Psychiatric abnormalities: hallucinations, disorientation, anxiety, insomnia 
 	- Red-purple urine
-		- Due to the accumulation of porphyrins and/or bilirubin in urine.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Due to the accumulation of porphyrins and/or bilirubin in urine.</span>
 		- Porphyria is from the Greek “porphyros,” meaning purple. Urine may also show discoloration after prolonged exposure to sunlight.
 
 >[!Mnemonic] 

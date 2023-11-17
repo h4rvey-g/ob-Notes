@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Gluconeogenesis",
+      "path": "USMLE/Biochemistry/Gluconeogenesis.md"
+    },
+    {
+      "basename": "Pasted image 20231107154612",
+      "path": "appendix/Pasted image 20231107154612.png"
+    },
+    {
       "basename": "Acute intermittent porphyria",
       "path": "USMLE/Blood/Acute intermittent porphyria.md"
     },
@@ -177,10 +185,6 @@
       "path": "USMLE/Blood/HistologyHodgkin lymphoma.md"
     },
     {
-      "basename": "Gluconeogenesis",
-      "path": "USMLE/Biochemistry/Gluconeogenesis.md"
-    },
-    {
       "basename": "Pasted image 20230909221338",
       "path": "appendix/Pasted image 20230909221338.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Collagen",
       "path": "USMLE/Biochemistry/Collagen.md"
-    },
-    {
-      "basename": "Liddle syndrome",
-      "path": "USMLE/Renal/Liddle syndrome.md"
     }
   ],
   "omittedPaths": [],
