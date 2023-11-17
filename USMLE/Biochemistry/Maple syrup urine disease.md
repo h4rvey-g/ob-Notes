@@ -15,7 +15,7 @@ autosomal recessive
 
 ---
 # Pathophysiology
-- Absent or deficient branched-chain alpha-ketoacid dehydrogenase → impaired degradation of BCAA (valine, leucine, isoleucine) → elevated α-ketoacid formation
+- Absent or deficient branched-chain alpha-ketoacid dehydrogenase → impaired degradation of BCAA (valine, leucine, isoleucine) → elevated α-ketoacid formation![[Pasted image 20231117163430.png]]
 
 ---
 # Clinical features

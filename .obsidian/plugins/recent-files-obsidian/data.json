@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "HMP shunt",
+      "path": "USMLE/Biochemistry/HMP shunt.md"
+    },
+    {
+      "basename": "Vitamin B1",
+      "path": "USMLE/Biochemistry/Vitamin B1.md"
+    },
+    {
       "basename": "Maple syrup urine disease",
       "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "HistologyHodgkin lymphoma",
       "path": "USMLE/Blood/HistologyHodgkin lymphoma.md"
-    },
-    {
-      "basename": "Pasted image 20230909221338",
-      "path": "appendix/Pasted image 20230909221338.png"
-    },
-    {
-      "basename": "Bronchiectasis",
-      "path": "USMLE/Respiratory/Bronchiectasis.md"
     }
   ],
   "omittedPaths": [],

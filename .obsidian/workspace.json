@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Maple syrup urine disease.md",
+                "file": "USMLE/Biochemistry/HMP shunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Maple syrup urine disease.md",
+                "file": "USMLE/Biochemistry/HMP shunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Maple syrup urine disease.md",
+                "file": "USMLE/Biochemistry/HMP shunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Maple syrup urine disease.md"
+                "file": "USMLE/Biochemistry/HMP shunt.md"
               }
             }
           }
@@ -223,8 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
+    "appendix/Pasted image 20231117165259.png",
+    "appendix/Pasted image 20231117165248.png",
+    "USMLE/Biochemistry/Vitamin B1.md",
+    "USMLE/Biochemistry/HMP shunt.md",
     "USMLE/Biochemistry/Maple syrup urine disease.md",
+    "appendix/Pasted image 20231117163430.png",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Renal/Urine color.md",
     "USMLE/Biochemistry/Vitamin B3.md",
     "USMLE/Blood/Anemia.md",
@@ -249,16 +254,11 @@
     "appendix/Pasted image 20231115161844.png",
     "USMLE/Biochemistry/Urea cycle.md",
     "appendix/Pasted image 20231108214012.png",
-    "appendix/Pasted image 20231113173304.png",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
     "USMLE/Biochemistry/Glycogen storage diseases.md",
-    "appendix/Pasted image 20231114173104.png",
     "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
     "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-    "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/GI/Crohn disease.md",
-    "USMLE/GI/Cholelithiasis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
