@@ -6,5 +6,5 @@ aliases: Untitled
 share: true
 ---
 
-Goal: to pro![[Pasted image 20231117165259.png]]
+Goal: to produce NADPH, for Glutathione Pathways![[Pasted image 20231117165259.png]]
 ![[Pasted image 20231117165248.png]]
