@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Maple syrup urine disease",
+      "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
+    },
+    {
+      "basename": "Catecholamine Synthesis",
+      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+    },
+    {
       "basename": "Vitamin B3",
       "path": "USMLE/Biochemistry/Vitamin B3.md"
     },
     {
       "basename": "Urine color",
       "path": "USMLE/Renal/Urine color.md"
-    },
-    {
-      "basename": "Catecholamine Synthesis",
-      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
     },
     {
       "basename": "Gluconeogenesis",
@@ -195,10 +199,6 @@
     {
       "basename": "Bronchiectasis",
       "path": "USMLE/Respiratory/Bronchiectasis.md"
-    },
-    {
-      "basename": "Primary ciliary dyskinesia",
-      "path": "USMLE/Biochemistry/Primary ciliary dyskinesia.md"
     }
   ],
   "omittedPaths": [],
