@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute intermittent porphyria",
+      "path": "USMLE/Blood/Acute intermittent porphyria.md"
+    },
+    {
+      "basename": "Pasted image 20231029144358",
+      "path": "appendix/Pasted image 20231029144358.png"
+    },
+    {
+      "basename": "Hammer toe",
+      "path": "USMLE/MSK/Hammer toe.md"
+    },
+    {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Liddle syndrome",
       "path": "USMLE/Renal/Liddle syndrome.md"
-    },
-    {
-      "basename": "Osteogenesis imperfecta",
-      "path": "USMLE/MSK/Osteogenesis imperfecta.md"
-    },
-    {
-      "basename": "Vitamin A",
-      "path": "USMLE/Biochemistry/Vitamin A.md"
-    },
-    {
-      "basename": "Vitamin E",
-      "path": "USMLE/Biochemistry/Vitamin E.md"
     }
   ],
   "omittedPaths": [],
