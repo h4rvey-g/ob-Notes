@@ -1224,6 +1224,8 @@ TftT
 TWc
 Trigger
 Triggers
+Thiamine
+Transketolase
 differentials
 differential
 diagnosis
@@ -5142,6 +5144,7 @@ rvC
 recipitated
 rhubarb
 rhabdomyolysis
+ribose
 narrow
 negative
 not
@@ -9091,6 +9094,7 @@ itH
 iNb
 intermediates
 inducers
+isoleucine
 general
 giving
 generation
@@ -13991,6 +13995,7 @@ AZb
 AIP
 Anesthetics
 Altered
+Acetyl
 Orthodromic
 On
 Often
@@ -16385,6 +16390,7 @@ amitriptyline
 antimalarials
 antimicrobials
 alkaptonuria
+acetyl
 ventricular
 varying
 vaccines
@@ -19035,6 +19041,10 @@ chlorpromazine
 carrots
 cimetidine
 chloroquine
+carbohydrate
+connects
+citric
+cycle
 bypass
 block
 background
@@ -26229,6 +26239,8 @@ sychologic
 stale
 smell
 senna
+succinyl
+shunt
 QRS
 QT
 QDQ
@@ -32227,6 +32239,7 @@ Fnbtz
 FMw
 Fasting
 Foods
+Functions
 In
 It
 Intraventricular
@@ -34873,6 +34886,9 @@ PBG
 Porphyria
 Purple
 Providencia
+Pathways
+Pyruvate
+Propionyl
 ectopic
 elevation
 early
@@ -38610,6 +38626,7 @@ LtA
 LFh
 LZO
 LdH
+Leucine
 Hyperkalemia
 HIV
 HCV
@@ -39864,6 +39881,7 @@ Htw
 HYYYx
 Hqe
 Hormone
+HMP
 hyperkalemia
 hypertrophy
 hereditary
@@ -44947,6 +44965,7 @@ BpC
 BWo
 BGc
 Brown
+Branched
 Characteristic
 CLL
 Clinical
@@ -46187,6 +46206,7 @@ CXC
 CKN
 Color
 Catheter
+CoA
 Right
 Retrograde
 Rates
@@ -48659,6 +48679,7 @@ Vwk
 VVk
 VwvT
 Vho
+Valine
 up
 unusual
 usually
@@ -51935,6 +51956,9 @@ GVa
 Greek
 Green
 Gilbert
+Goal
+Glutathione
+Glyceraldehyde
 Jervell
 JYo
 JO
@@ -54308,6 +54332,7 @@ Nxqb
 NCvZ
 NkIM
 Nlr
+NADPH
 jEQ
 jL
 jO
@@ -56665,6 +56690,8 @@ kaQ
 kyCQ
 kDDDDDDDDDDDD
 kFDQ
+ketoglutaric
+ketoacid
 KB
 KR
 KA
@@ -57741,6 +57768,7 @@ KgW
 Kpmryvuh
 KKKL
 Kwa
+Ketoglutarate
 zh
 zx
 zo
@@ -63175,6 +63203,7 @@ xmr
 xSt
 xpE
 xTH
+xylulose
 üa
 üb
 üy
