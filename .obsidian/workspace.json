@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md",
+                "file": "USMLE/Biochemistry/TCA cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md",
+                "file": "USMLE/Biochemistry/TCA cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md",
+                "file": "USMLE/Biochemistry/TCA cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md"
+                "file": "USMLE/Biochemistry/TCA cycle.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +222,12 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Biochemistry/Vitamin B1.md",
+    "appendix/Pasted image 20231123165156.png",
+    "USMLE/Biochemistry/Gluconeogenesis.md",
+    "USMLE/Biochemistry/TCA cycle.md",
+    "appendix/Pasted image 20231107160524.png",
     "USMLE/Biochemistry/HMP shunt.md",
+    "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/Biochemistry/Glycolysis.md",
     "appendix/Pasted image 20231117165441.png",
     "appendix/Pasted image 20231117165259.png",
@@ -236,7 +239,6 @@
     "USMLE/Biochemistry/Vitamin B3.md",
     "USMLE/Blood/Anemia.md",
     "appendix/Pasted image 20231117155939.png",
-    "USMLE/Biochemistry/Gluconeogenesis.md",
     "conflict-files-obsidian-git.md",
     "appendix/Pasted image 20231103144254.png",
     "USMLE/Blood/Acute intermittent porphyria.md",
@@ -249,7 +251,6 @@
     "appendix/Pasted image 20231029162243.png",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Blood/Pleural effusion.md",
-    "appendix/Pasted image 20230727145202.png",
     "USMLE/Lab Values.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/Biochemistry/Urea cycle.md",
@@ -257,7 +258,6 @@
     "USMLE/Biochemistry/Glycogen storage diseases.md",
     "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
     "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
-    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

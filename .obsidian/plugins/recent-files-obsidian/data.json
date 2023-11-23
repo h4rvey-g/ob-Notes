@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "TCA cycle",
+      "path": "USMLE/Biochemistry/TCA cycle.md"
+    },
+    {
+      "basename": "Gluconeogenesis",
+      "path": "USMLE/Biochemistry/Gluconeogenesis.md"
+    },
+    {
+      "basename": "Pasted image 20231107160524",
+      "path": "appendix/Pasted image 20231107160524.png"
+    },
+    {
       "basename": "HMP shunt",
       "path": "USMLE/Biochemistry/HMP shunt.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Urine color",
       "path": "USMLE/Renal/Urine color.md"
-    },
-    {
-      "basename": "Gluconeogenesis",
-      "path": "USMLE/Biochemistry/Gluconeogenesis.md"
     },
     {
       "basename": "Pasted image 20231107154612",
@@ -191,14 +199,6 @@
     {
       "basename": "De novo pyrimidine and purine synthesis",
       "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
-    },
-    {
-      "basename": "Fasting and starvation",
-      "path": "USMLE/Biochemistry/Fasting and starvation.md"
-    },
-    {
-      "basename": "HistologyHodgkin lymphoma",
-      "path": "USMLE/Blood/HistologyHodgkin lymphoma.md"
     }
   ],
   "omittedPaths": [],
