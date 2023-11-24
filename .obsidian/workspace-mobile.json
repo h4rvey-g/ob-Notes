@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Sarcoidosis.md",
+                "file": "template/USMLE-note.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/Respiratory/Sarcoidosis.md",
+            "file": "template/USMLE-note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/Respiratory/Sarcoidosis.md",
+            "file": "template/USMLE-note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/Respiratory/Sarcoidosis.md"
+            "file": "template/USMLE-note.md"
           }
         }
       },
@@ -190,6 +190,14 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
+    "template/Common-note.md",
+    "USMLE/Biochemistry/Arsenic toxicity.md",
+    "USMLE/Biochemistry/Vitamin B6.md",
+    "USMLE/Biochemistry/Fasting and starvation.md",
+    "USMLE/Biochemistry/Gluconeogenesis.md",
+    "USMLE/Blood/Macrocytic anemias.md",
+    "appendix/Pasted image 20230910173723.png",
+    "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20231103144254.png",
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
@@ -209,10 +217,8 @@
     "appendix/Pasted image 20231029144558.png",
     "appendix/Pasted image 20231029144358.png",
     "appendix/Pasted image 20231029144349.png",
-    "appendix/Pasted image 20231029144327.png",
     "USMLE/GI/Erosive gastritis.md",
     "USMLE/GI/Hepatitis B.md",
-    "appendix/Pasted image 20231029112500.png",
     "USMLE/GI/Wilson disease.md",
     "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
     "USMLE/Renal/Immunofluorescence.md",
@@ -220,12 +226,6 @@
     "USMLE/Renal/Membranous nephropathy.md",
     "USMLE/Renal/[[Nephrotic syndrome.md",
     "USMLE/Renal/IgA nephropathy.md",
-    "USMLE/Renal/Nephritic syndrome.md",
-    "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
-    "USMLE/GI/Gastrinoma.md",
-    "USMLE/GI/Peptic ulcer disease.md",
-    "USMLE/Immunology/Systemic lupus erythematosus.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Psychiatry",
     "USMLE/Respiratory"
   ]
