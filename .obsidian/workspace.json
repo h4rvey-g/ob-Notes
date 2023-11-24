@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md"
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md"
               }
             }
           }
@@ -222,11 +222,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231124104117.png",
+    "USMLE/Biochemistry/Ketone body synthesis.md",
+    "USMLE/Biochemistry/Fatty acid oxidation.md",
     "appendix/Pasted image 20231123220153.png",
     "appendix/Pasted image 20231123220120.png",
     "appendix/Pasted image 20231123220108.png",
     "USMLE/Biochemistry/TCA cycle.md",
-    "USMLE/Biochemistry/Ketone body synthesis.md",
     "appendix/Pasted image 20231123165156.png",
     "USMLE/Biochemistry/Gluconeogenesis.md",
     "appendix/Pasted image 20231107160524.png",
@@ -244,7 +246,6 @@
     "USMLE/Blood/Anemia.md",
     "appendix/Pasted image 20231117155939.png",
     "conflict-files-obsidian-git.md",
-    "appendix/Pasted image 20231103144254.png",
     "USMLE/Blood/Acute intermittent porphyria.md",
     "USMLE/Biochemistry/Mitochondrial myopathies.md",
     "USMLE/Blood/Heme synthesis.md",
@@ -257,7 +258,6 @@
     "USMLE/Biochemistry/Urea cycle.md",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
     "USMLE/Biochemistry/Glycogen storage diseases.md",
-    "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

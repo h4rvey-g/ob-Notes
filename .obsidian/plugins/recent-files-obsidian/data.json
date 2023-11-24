@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fatty acid oxidation",
+      "path": "USMLE/Biochemistry/Fatty acid oxidation.md"
+    },
+    {
       "basename": "Ketone body synthesis",
       "path": "USMLE/Biochemistry/Ketone body synthesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Type I hypersensitivity reaction",
       "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
-    },
-    {
-      "basename": "Fructose Metabolism",
-      "path": "USMLE/Biochemistry/Fructose Metabolism.md"
     }
   ],
   "omittedPaths": [],
