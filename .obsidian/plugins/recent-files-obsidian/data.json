@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ketone body synthesis",
+      "path": "USMLE/Biochemistry/Ketone body synthesis.md"
+    },
+    {
       "basename": "TCA cycle",
       "path": "USMLE/Biochemistry/TCA cycle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fructose Metabolism",
       "path": "USMLE/Biochemistry/Fructose Metabolism.md"
-    },
-    {
-      "basename": "De novo pyrimidine and purine synthesis",
-      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
     }
   ],
   "omittedPaths": [],
