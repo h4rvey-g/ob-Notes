@@ -2661,6 +2661,9 @@ damD
 dJpn
 dhj
 daY
+dislocation
+downwards
+doses
 of
 over
 originate
@@ -5174,6 +5177,7 @@ rgC
 rhoo
 ryto
 rYt
+respond
 narrow
 negative
 not
@@ -11644,6 +11648,7 @@ mCU
 mnB
 mseX
 mGK
+marfanoid
 Sinus
 ST
 Segment
@@ -12874,6 +12879,7 @@ STUU
 SiD
 Svt
 SOsN
+Supplementation
 AVNRT
 Atrial
 AVRT
@@ -31270,6 +31276,7 @@ DOC
 Dsa
 DQv
 DKa
+Distinguishing
 FFF
 Fib
 Fi
@@ -41479,6 +41486,7 @@ hGC
 hUB
 hoh
 hmW
+homocystinuria
 peaked
 pattern
 precordial

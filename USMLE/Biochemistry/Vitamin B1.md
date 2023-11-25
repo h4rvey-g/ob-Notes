@@ -7,15 +7,11 @@ aliases:
 share: true
 ---
 # Functions
-- Cofactor for several enzymes involved in carbohydrate and amino acid metabolism:
-	- Pyruvate dehydrogenase (connects [[glycolysis]] to citric acid cycle): pyruvate → acetyl-CoA
-	- Alpha-ketoglutaric acid dehydrogenase (citric acid cycle): α-Ketoglutarate → succinyl-CoA
-	- Transketolase (HMP shunt)
-		- D-xylulose-5-P ⇄ D-ribose-5-P
-		- Glyceraldehyde-3-P ⇄ D-xylulose-5-P
-	- Branched-chain ketoacid dehydrogenase
-		- Valine/isoleucine → Propionyl-CoA
-		- Leucine → Acetyl-CoA
+In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)">a cofactor for several dehydrogenase enzyme reactions</span> (<font color="#ffc000">B</font>e <font color="#ffc000">APT</font>):
+- <font color="#ffc000">B</font>ranched-chain ketoacid dehydrogenase
+- <font color="#ffc000">α</font>-Ketoglutarate dehydrogenase ([[TCA cycle]])
+- <font color="#ffc000">P</font>yruvate dehydrogenase (links [[glycolysis]] to [[TCA cycle]])
+- <font color="#ffc000">T</font>ransketolase ([[HMP shunt]])
 # Epidemiology
 
 
@@ -25,18 +21,18 @@ share: true
 
 ---
 # Pathophysiology
-<% tp.file.cursor() %>
+
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

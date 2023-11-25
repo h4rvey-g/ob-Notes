@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin B1",
+      "path": "USMLE/Biochemistry/Vitamin B1.md"
+    },
+    {
+      "basename": "Homocystinuria",
+      "path": "USMLE/Biochemistry/Homocystinuria.md"
+    },
+    {
       "basename": "Fatty acid oxidation",
       "path": "USMLE/Biochemistry/Fatty acid oxidation.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "HMP shunt",
       "path": "USMLE/Biochemistry/HMP shunt.md"
-    },
-    {
-      "basename": "Vitamin B1",
-      "path": "USMLE/Biochemistry/Vitamin B1.md"
     },
     {
       "basename": "Maple syrup urine disease",
@@ -185,10 +189,6 @@
       "path": "appendix/Pasted image 20231107150236.png"
     },
     {
-      "basename": "Homocystinuria",
-      "path": "USMLE/Biochemistry/Homocystinuria.md"
-    },
-    {
       "basename": "Marfanoid features",
       "path": "USMLE/Biochemistry/Marfanoid features.md"
     },
@@ -204,3 +204,4 @@
   "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"
+}
