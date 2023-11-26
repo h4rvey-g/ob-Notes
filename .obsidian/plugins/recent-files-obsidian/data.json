@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Anorexia nervosa",
+      "path": "USMLE/Psychiatry/Anorexia nervosa.md"
+    },
+    {
+      "basename": "Euthyroid sick syndrome",
+      "path": "USMLE/Endocrine/Euthyroid sick syndrome.md"
+    },
+    {
+      "basename": "Osteoporosis",
+      "path": "USMLE/MSK/Osteoporosis.md"
+    },
+    {
       "basename": "Pharyngeal apparatus",
       "path": "USMLE/Reproductive/Pharyngeal apparatus.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Lipid transport",
       "path": "USMLE/Biochemistry/Lipid transport.md"
-    },
-    {
-      "basename": "Pasted image 20231107143619",
-      "path": "appendix/Pasted image 20231107143619.png"
-    },
-    {
-      "basename": "Pasted image 20231107150236",
-      "path": "appendix/Pasted image 20231107150236.png"
-    },
-    {
-      "basename": "Marfanoid features",
-      "path": "USMLE/Biochemistry/Marfanoid features.md"
     }
   ],
   "omittedPaths": [],

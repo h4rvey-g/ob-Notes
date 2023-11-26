@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Reproductive/Pharyngeal apparatus.md",
-                "mode": "source",
+                "file": "USMLE/Psychiatry/Anorexia nervosa.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Reproductive/Pharyngeal apparatus.md",
+                "file": "USMLE/Psychiatry/Anorexia nervosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Reproductive/Pharyngeal apparatus.md",
+                "file": "USMLE/Psychiatry/Anorexia nervosa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Reproductive/Pharyngeal apparatus.md"
+                "file": "USMLE/Psychiatry/Anorexia nervosa.md"
               }
             }
           }
@@ -223,10 +223,14 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Endocrine/Euthyroid sick syndrome.md",
+    "USMLE/Psychiatry/Anorexia nervosa.md",
+    "appendix/Pasted image 20231126173215.png",
+    "USMLE/MSK/Osteoporosis.md",
+    "USMLE/Reproductive/Pharyngeal apparatus.md",
     "appendix/Pasted image 20231126163855.png",
     "appendix/Pasted image 20231126161859.png",
     "USMLE/Endocrine/Calcitonin.md",
-    "USMLE/Reproductive/Pharyngeal apparatus.md",
     "appendix/Pasted image 20231126161246.png",
     "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/Biochemistry/Glycolysis.md",
@@ -240,9 +244,7 @@
     "appendix/Pasted image 20231124112605.png",
     "appendix/Pasted image 20231124112523.png",
     "USMLE/Biochemistry/Arsenic toxicity.md",
-    "appendix/Pasted image 20231124104117.png",
     "USMLE/Biochemistry/Ketone body synthesis.md",
-    "appendix/Pasted image 20231123220153.png",
     "USMLE/Biochemistry/TCA cycle.md",
     "USMLE/Biochemistry/Gluconeogenesis.md",
     "USMLE/Biochemistry/HMP shunt.md",
@@ -257,8 +259,6 @@
     "USMLE/Blood/Heme synthesis.md",
     "USMLE/MSK/Hammer toe.md",
     "USMLE/MSK/IgA vasculitis.md",
-    "USMLE/Renal/BUN-creatinine ratio.md",
-    "USMLE/Blood/Pleural effusion.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
