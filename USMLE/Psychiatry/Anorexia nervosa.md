@@ -46,6 +46,7 @@ share: true
 	- Wound healing disorders [19]
 	- Hair loss
 	- Lanugo body hair
+
 ![[Pasted image 20231126173215.png]]
 
 ---
