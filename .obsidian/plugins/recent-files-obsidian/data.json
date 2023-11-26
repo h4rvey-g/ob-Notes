@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pharyngeal apparatus",
+      "path": "USMLE/Reproductive/Pharyngeal apparatus.md"
+    },
+    {
+      "basename": "Calcitonin",
+      "path": "USMLE/Endocrine/Calcitonin.md"
+    },
+    {
       "basename": "Vitamin B1",
       "path": "USMLE/Biochemistry/Vitamin B1.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Marfanoid features",
       "path": "USMLE/Biochemistry/Marfanoid features.md"
-    },
-    {
-      "basename": "Vitamin B6",
-      "path": "USMLE/Biochemistry/Vitamin B6.md"
-    },
-    {
-      "basename": "Type I hypersensitivity reaction",
-      "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
     }
   ],
   "omittedPaths": [],
