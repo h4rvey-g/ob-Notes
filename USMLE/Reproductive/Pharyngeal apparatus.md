@@ -7,3 +7,4 @@ aliases:
 share: true
 ---
 ![[Pasted image 20231126161859.png]]
+![[Pasted image 20231126163855.png]](Medical school 2 problems)
