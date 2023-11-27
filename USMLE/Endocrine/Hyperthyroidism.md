@@ -40,7 +40,7 @@ share: true
 ![[Pasted image 20231127211623.png]]
 ## Nuclear medicine thyroid scan and radioactive iodine uptake measurement
 ![[Pasted image 20231127212419.png]]
-- Subacute thyroiditis: The inflammatory disruption of the follicle membranes inhibits the transport of iodine across the thyroid cells.
+- [[Subacute thyroiditis]]: The inflammatory disruption of the follicle membranes inhibits the transport of iodine across the thyroid cells.
 
 
 ---

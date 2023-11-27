@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Hyperthyroidism.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "366784a71f0400fb",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Hyperthyroidism.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Hyperthyroidism.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Hyperthyroidism.md"
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md"
               }
             }
           }
@@ -221,10 +221,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Endocrine/Graves disease.md",
+    "appendix/Pasted image 20231127220045.png",
     "USMLE/Endocrine/Hyperthyroidism.md",
+    "USMLE/Endocrine/Graves disease.md",
+    "USMLE/Endocrine/Subacute thyroiditis.md",
+    "appendix/Pasted image 20231127214913.png",
     "appendix/Pasted image 20231127212700.png",
     "appendix/Pasted image 20231127212419.png",
     "appendix/Pasted image 20231127211623.png",
@@ -245,7 +248,6 @@
     "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/Lab Values.md",
     "appendix/Pasted image 20231115161844.png",
-    "appendix/Pasted image 20231127144838.png",
     "USMLE/Psychiatry/Anorexia nervosa.md",
     "USMLE/MSK/Osteoporosis.md",
     "USMLE/Endocrine/Euthyroid sick syndrome.md",
@@ -257,8 +259,6 @@
     "USMLE/Biochemistry/Marfanoid features.md",
     "USMLE/Biochemistry/Arsenic toxicity.md",
     "USMLE/Biochemistry/Ketone body synthesis.md",
-    "USMLE/Biochemistry/TCA cycle.md",
-    "USMLE/Biochemistry/Gluconeogenesis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

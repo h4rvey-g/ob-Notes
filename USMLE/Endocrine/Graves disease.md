@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-11-27 21:38
 modified: 2023-11-27 21:38
-aliases: []
+aliases:
+  - Grave's disease
 share: true
 ---
 # Epidemiology
@@ -28,6 +29,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">General mechanism: B and T cell-mediated autoimmunity → production of stimulating immunoglobulin G (IgG) against TSH-receptor (TRAb; type II hypersensitivity reaction) → ↑ thyroid function and growth → [[hyperthyroidism]] and diffuse goiter</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Thyroid-associated ophthalmopathy: activated B and T cells infiltrate retro-orbital space targeting orbital fibroblasts → cytokine release (e.g. TNF-α, IFN-γ) → local inflammatory response → fibroblast proliferation and differentiation to adipocytes → production of hyaluronic acid and GAGs and increased amount of adipocytes → increase in the volume of intraorbital fat and muscle tissues → exophthalmos, lid retraction, disturbances in ocular motility (causing diplopia)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Pretibial myxedema: dermal fibroblast stimulation and deposition of glycosaminoglycans in connective tissue</span>
+![[Pasted image 20231127214913.png]]
 
 ---
 # Clinical features
