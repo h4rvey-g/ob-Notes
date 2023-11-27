@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hyperthyroidism",
+      "path": "USMLE/Endocrine/Hyperthyroidism.md"
+    },
+    {
+      "basename": "Pasted image 20230923154726",
+      "path": "appendix/Pasted image 20230923154726.png"
+    },
+    {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Nephrolithiasis",
       "path": "USMLE/Renal/Nephrolithiasis.md"
-    },
-    {
-      "basename": "Cholelithiasis",
-      "path": "USMLE/GI/Cholelithiasis.md"
-    },
-    {
-      "basename": "Pasted image 20230909215738",
-      "path": "appendix/Pasted image 20230909215738.png"
     }
   ],
   "omittedPaths": [],
