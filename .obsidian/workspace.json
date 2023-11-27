@@ -197,7 +197,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,13 +221,14 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "4a841457419c4394",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
+    "USMLE/Endocrine/Graves disease.md",
+    "USMLE/Endocrine/Hyperthyroidism.md",
     "appendix/Pasted image 20231127212700.png",
     "appendix/Pasted image 20231127212419.png",
     "appendix/Pasted image 20231127211623.png",
     "appendix/Pasted image 20230923154726.png",
-    "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "appendix/Pasted image 20231111093052.png",
     "appendix/Pasted image 20231111093050.png",
@@ -244,7 +246,6 @@
     "USMLE/Lab Values.md",
     "appendix/Pasted image 20231115161844.png",
     "appendix/Pasted image 20231127144838.png",
-    "appendix/Pasted image 20231127143520.png",
     "USMLE/Psychiatry/Anorexia nervosa.md",
     "USMLE/MSK/Osteoporosis.md",
     "USMLE/Endocrine/Euthyroid sick syndrome.md",

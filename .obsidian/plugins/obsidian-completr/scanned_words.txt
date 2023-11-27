@@ -1262,6 +1262,8 @@ TFk
 TVVr
 TTTq
 Tiw
+Thyrotoxicosis
+TSH
 differentials
 differential
 diagnosis
@@ -2736,6 +2738,7 @@ djC
 dBn
 dINs
 dENX
+disruption
 of
 over
 originate
@@ -5299,6 +5302,7 @@ roU
 rah
 riokf
 rdi
+radioactive
 narrow
 negative
 not
@@ -7926,6 +7930,8 @@ tAUUTU
 tdMG
 tMT
 tuF
+thyrotoxicosis
+thyroiditis
 in
 includes
 involving
@@ -9370,6 +9376,8 @@ iRYYI
 ijjb
 ifr
 iji
+inappropriately
+iodine
 general
 giving
 generation
@@ -11900,6 +11908,7 @@ mQQaaQ
 mwIiI
 mZlX
 mmmTTTq
+mildly
 Sinus
 ST
 Segment
@@ -13163,6 +13172,7 @@ SSV
 SYUJuM
 Suu
 Stwu
+Subacute
 AVNRT
 Atrial
 AVRT
@@ -15453,6 +15463,7 @@ Oho
 OjT
 OAlA
 OFQ
+Overt
 atrio
 and
 atrial
@@ -16885,6 +16896,7 @@ awa
 aLww
 auz
 ahx
+adenoma
 ventricular
 varying
 vaccines
@@ -22234,6 +22246,9 @@ fHP
 fhc
 fÜ
 fph
+feedback
+follicular
+follicle
 with
 wave
 which
@@ -26995,6 +27010,8 @@ snb
 sYZZ
 sQt
 sNd
+source
+suppression
 QRS
 QT
 QDQ
@@ -37325,6 +37342,7 @@ eWB
 ecV
 eSVVF
 etMB
+experience
 Early
 Elevation
 Etiology
@@ -41124,6 +41142,7 @@ HGR
 HAJ
 HEUADh
 HHWW
+Hyperthyroidism
 hyperkalemia
 hypertrophy
 hereditary
@@ -42458,6 +42477,7 @@ hWD
 hika
 hRfYv
 hTC
+hypermetabolic
 peaked
 pattern
 precordial
@@ -53546,6 +53566,7 @@ GqK
 Gky
 GEy
 GNMM
+Graves
 Jervell
 JYo
 JO
@@ -55983,6 +56004,7 @@ Njjj
 NSWW
 NcCO
 NUUOY
+Nuclear
 jEQ
 jL
 jO
