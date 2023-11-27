@@ -5,6 +5,10 @@
       "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
     },
     {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Anorexia nervosa",
       "path": "USMLE/Psychiatry/Anorexia nervosa.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "Pasted image 20230727145202",
       "path": "appendix/Pasted image 20230727145202.png"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     },
     {
       "basename": "Alkaline phosphatase",
