@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Adrenoleukodystrophy.md",
-                "mode": "preview",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Adrenoleukodystrophy.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Adrenoleukodystrophy.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Adrenoleukodystrophy.md"
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +222,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Biochemistry/Fatty acid oxidation.md",
+    "appendix/Pasted image 20231111093052.png",
+    "appendix/Pasted image 20231111093050.png",
     "USMLE/Biochemistry/Adrenoleukodystrophy.md",
+    "USMLE/Biochemistry/Fatty acid oxidation.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/GI/Chronic pancreatitis.md",
@@ -252,13 +253,11 @@
     "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Biochemistry/Homocystinuria.md",
     "USMLE/Biochemistry/Marfanoid features.md",
-    "appendix/Pasted image 20231124113402.png",
     "USMLE/Biochemistry/Arsenic toxicity.md",
     "USMLE/Biochemistry/Ketone body synthesis.md",
     "USMLE/Biochemistry/TCA cycle.md",
     "USMLE/Biochemistry/Gluconeogenesis.md",
     "USMLE/Biochemistry/HMP shunt.md",
-    "USMLE/Biochemistry/Maple syrup urine disease.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
