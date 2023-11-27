@@ -2680,6 +2680,8 @@ deconjugation
 duodenum
 diagnosed
 distally
+dystrophy
+deterioration
 of
 over
 originate
@@ -3799,6 +3801,8 @@ orj
 overgrowth
 once
 originating
+oxidation
+occipitoparietal
 regular
 reentrant
 retrograde
@@ -7805,6 +7809,7 @@ tropical
 toxin
 thrombocyte
 tail
+testes
 in
 includes
 involving
@@ -14210,6 +14215,8 @@ AcH
 AlM
 AiiiS
 Achlorhydria
+ABCD
+ABC
 Orthodromic
 On
 Often
@@ -16636,6 +16643,8 @@ aSv
 achlorhydria
 already
 acini
+adrenoleukodystrophy
+adrenals
 ventricular
 varying
 vaccines
@@ -19329,6 +19338,7 @@ cholera
 capsule
 circumscribed
 compounds
+cassette
 bypass
 block
 background
@@ -20604,6 +20614,7 @@ bXrg
 bULf
 bronze
 bilious
+boys
 flutter
 from
 focus
@@ -29040,6 +29051,7 @@ lKl
 lxjH
 lFKgf
 lJRLC
+leuko
 Multifocal
 Mild
 Moderate
@@ -30245,6 +30257,7 @@ MjAZ
 Mqw
 MsEE
 MME
+MRI
 Differentiate
 Drugs
 DDx
@@ -31481,6 +31494,7 @@ DKY
 DxN
 DVPr
 Deep
+Death
 FFF
 Fib
 Fi
@@ -36742,6 +36756,7 @@ enteropathy
 encapsulation
 enhancement
 enhancing
+encodes
 Early
 Elevation
 Etiology
@@ -39181,6 +39196,7 @@ Lgz
 LOcn
 LvFl
 LRvs
+Leydig
 Hyperkalemia
 HIV
 HCV
@@ -43312,6 +43328,8 @@ pool
 peptide
 polypeptide
 pseudocysts
+peroxisomal
+peroxisomes
 Unusual
 Usually
 Upc
@@ -46859,6 +46877,7 @@ Cruz
 CiO
 Cholecystokinin
 Cellular
+Coma
 Right
 Retrograde
 Rates
@@ -49369,6 +49388,7 @@ VkPg
 VEk
 VezR
 VIPoma
+VLCFA
 up
 unusual
 usually
