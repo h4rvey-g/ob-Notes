@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pancreatic neuroendocrine tumors",
+      "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
+    },
+    {
       "basename": "Anorexia nervosa",
       "path": "USMLE/Psychiatry/Anorexia nervosa.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Familial dyslipidemias",
       "path": "USMLE/Biochemistry/Familial dyslipidemias.md"
-    },
-    {
-      "basename": "Lipid transport",
-      "path": "USMLE/Biochemistry/Lipid transport.md"
     }
   ],
   "omittedPaths": [],
