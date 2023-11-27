@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Pancreatic cancer",
+      "path": "USMLE/GI/Pancreatic cancer.md"
+    },
+    {
+      "basename": "Chronic pancreatitis",
+      "path": "USMLE/GI/Chronic pancreatitis.md"
+    },
+    {
+      "basename": "Acute pancreatitis",
+      "path": "USMLE/GI/Acute pancreatitis.md"
+    },
+    {
+      "basename": "Steatorrhea",
+      "path": "USMLE/GI/Steatorrhea.md"
+    },
+    {
       "basename": "Pancreatic neuroendocrine tumors",
       "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Lipid-lowering agents",
       "path": "USMLE/Cardiology/Lipid-lowering agents.md"
-    },
-    {
-      "basename": "font-yellow",
-      "path": "template/font-yellow.md"
-    },
-    {
-      "basename": "Drug-induced lupus erythematosus",
-      "path": "USMLE/Cardiology/Drug-induced lupus erythematosus.md"
-    },
-    {
-      "basename": "Systemic lupus erythematosus",
-      "path": "USMLE/Immunology/Systemic lupus erythematosus.md"
-    },
-    {
-      "basename": "Familial dyslipidemias",
-      "path": "USMLE/Biochemistry/Familial dyslipidemias.md"
     }
   ],
   "omittedPaths": [],

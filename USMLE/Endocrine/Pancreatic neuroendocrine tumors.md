@@ -56,10 +56,10 @@ share: true
 # VIPoma
 - Definition: neuroendocrine tumor that secretes VIP (vasoactive intestinal polypeptide)
 - Pathophysiology
-	- Excess VIP → ↑ relaxation of gastric and intestinal smooth muscles and cAMP activity (similar to cholera toxin) → secretory diarrhea and inhibition of gastric acid production
+	- <span style="background:rgba(240, 200, 0, 0.2)">Excess VIP → ↑ relaxation of gastric and intestinal smooth muscles and cAMP activity (similar to cholera toxin) → secretory diarrhea and inhibition of gastric acid production</span>
 - Tumor location: The primary tumor is most frequently found in the pancreas.
 - Clinical features
-	- WDHA syndrome (watery diarrhea, hypokalemia, achlorhydria): tea-colored watery diarrhea (> 700 mL/day) → dehydration
+	- <span style="background:rgba(240, 200, 0, 0.2)">WDHA syndrome (watery diarrhea, hypokalemia, achlorhydria): tea-colored watery diarrhea (> 700 mL/day) → dehydration</span>
 - Diagnostics
 	- ↑ Serum VIP concentration
 	- Hypokalemia

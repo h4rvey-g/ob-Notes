@@ -2676,6 +2676,10 @@ dvt
 dBdXzG
 dKcs
 dpI
+deconjugation
+duodenum
+diagnosed
+distally
 of
 over
 originate
@@ -3792,6 +3796,9 @@ oSzP
 oWF
 oOC
 orj
+overgrowth
+once
+originating
 regular
 reentrant
 retrograde
@@ -5203,6 +5210,8 @@ rcP
 rtvS
 rBVE
 reappear
+regionally
+resectable
 narrow
 negative
 not
@@ -6398,6 +6407,7 @@ ndQ
 naUc
 normochromic
 necrolytic
+nonbilious
 tachycardia
 tract
 the
@@ -7791,6 +7801,10 @@ transgender
 tyK
 tot
 tuuIhaI
+tropical
+toxin
+thrombocyte
+tail
 in
 includes
 involving
@@ -9208,6 +9222,12 @@ induration
 inoperable
 iabetes
 iarrhea
+ileal
+intestines
+inhibitory
+intolerance
+interact
+instances
 general
 giving
 generation
@@ -10305,6 +10325,7 @@ gCkQ
 gql
 gBW
 glucagon
+giardiasis
 major
 mechanisms
 mark
@@ -11713,6 +11734,7 @@ minority
 mFn
 mFK
 make
+multilayered
 Sinus
 ST
 Segment
@@ -12952,6 +12974,10 @@ SzY
 SFa
 SqJc
 SsoJw
+SIBO
+Somatostatinoma
+Somatostatin
+Secretin
 AVNRT
 Atrial
 AVRT
@@ -14183,6 +14209,7 @@ Athletes
 AcH
 AlM
 AiiiS
+Achlorhydria
 Orthodromic
 On
 Often
@@ -16606,6 +16633,9 @@ abuse
 adversity
 aEd
 aSv
+achlorhydria
+already
+acini
 ventricular
 varying
 vaccines
@@ -17799,6 +17829,7 @@ vyL
 vQF
 vEc
 vein
+vasoactive
 conduction
 concealed
 complex
@@ -19292,6 +19323,12 @@ cPb
 cNs
 centrifugally
 crusty
+currently
+cAMP
+cholera
+capsule
+circumscribed
+compounds
 bypass
 block
 background
@@ -20566,6 +20603,7 @@ bQb
 bXrg
 bULf
 bronze
+bilious
 flutter
 from
 focus
@@ -22977,6 +23015,7 @@ wcP
 wmB
 wOS
 wKg
+watery
 Whenever
 Widening
 William
@@ -24010,6 +24049,7 @@ WxeY
 Wound
 WsDFue
 Wvy
+WDHA
 you
 young
 ybif
@@ -26566,6 +26606,13 @@ stS
 snYVuu
 sUIv
 spreading
+sprue
+somatostatin
+secretory
+satiety
+surrounds
+suggestive
+selectin
 QRS
 QT
 QDQ
@@ -34003,6 +34050,7 @@ IMd
 Iqx
 IziL
 Islet
+Insulin
 PACs
 Primary
 Pathophysiology
@@ -35316,6 +35364,8 @@ PHvc
 Preteens
 PIl
 Pmh
+PBC
+Pressure
 ectopic
 elevation
 early
@@ -36688,6 +36738,10 @@ epidermal
 ermatitis
 eclining
 epression
+enteropathy
+encapsulation
+enhancement
+enhancing
 Early
 Elevation
 Etiology
@@ -37925,6 +37979,10 @@ ESfd
 EIvs
 ERlG
 EYU
+EPI
+Excess
+Encapsulated
+Extrapancreatic
 LEFT
 Lengthening
 Left
@@ -41711,6 +41769,7 @@ hNQf
 hvnfi
 hDT
 hzK
+hypochlorhydria
 peaked
 pattern
 precordial
@@ -43249,6 +43308,10 @@ poY
 pTl
 pHnj
 perineum
+pool
+peptide
+polypeptide
+pseudocysts
 Unusual
 Usually
 Upc
@@ -46794,6 +46857,8 @@ Cigarette
 CAC
 Cruz
 CiO
+Cholecystokinin
+Cellular
 Right
 Retrograde
 Rates
@@ -49303,6 +49368,7 @@ VBV
 VkPg
 VEk
 VezR
+VIPoma
 up
 unusual
 usually
@@ -50481,6 +50547,7 @@ ubKo
 uJzT
 uTIz
 uYo
+uneven
 quinine
 qz
 qM
@@ -52619,6 +52686,9 @@ GNm
 GIDM
 Gdk
 Glucagonoma
+Glucagon
+Gastrin
+Gastric
 Jervell
 JYo
 JO
