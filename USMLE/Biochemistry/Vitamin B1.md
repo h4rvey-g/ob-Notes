@@ -7,36 +7,55 @@ aliases:
 share: true
 ---
 # Functions
-- Cofactor for several enzymes involved in carbohydrate and amino acid metabolism:
-	- Pyruvate dehydrogenase (connects [[glycolysis]] to citric acid cycle): pyruvate → acetyl-CoA
-	- Alpha-ketoglutaric acid dehydrogenase (citric acid cycle): α-Ketoglutarate → succinyl-CoA
-	- Transketolase (HMP shunt)
-		- D-xylulose-5-P ⇄ D-ribose-5-P
-		- Glyceraldehyde-3-P ⇄ D-xylulose-5-P
-	- Branched-chain ketoacid dehydrogenase
-		- Valine/isoleucine → Propionyl-CoA
-		- Leucine → Acetyl-CoA
+Active form: thiamine pyrophosphate (TPP)
+In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)">a cofactor for several dehydrogenase enzyme reactions</span> (<font color="#ffc000">B</font>e <font color="#ffc000">APT</font>):
+- <font color="#ffc000">B</font>ranched-chain ketoacid dehydrogenase
+- <font color="#ffc000">α</font>-Ketoglutarate dehydrogenase ([[TCA cycle]])
+- <font color="#ffc000">P</font>yruvate dehydrogenase (links [[glycolysis]] to [[TCA cycle]])
+- <font color="#ffc000">T</font>ransketolase ([[HMP shunt]])
 # Epidemiology
 
 
 ---
 # Etiology
-
+- Heavy drinking
+- Malnutrition, starvation
+- Malabsorption
+- Malignancy
 
 ---
 # Pathophysiology
-<% tp.file.cursor() %>
+- Thiamine deficiency → impaired glucose breakdown → ATP depletion → tissue damage that primarily affects highly aerobic tissues (e.g., brain, heart)
+- High-dose glucose infusions lead to increased ATP depletion, which can trigger Wernicke encephalopathy.
+	- In malnourished individuals and chronic alcohol users/heavy drinkers, thiamine should be administered before glucose infusions.
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Beriberi: inadequate thiamine uptake due to malnutrition, heavy drinking, or increased demand (e.g., hyperthyroidism, pregnancy) 
+	- Dry beriberi
+		- Symmetrical peripheral neuropathy (sensory and motor)
+		- Progressive muscle wasting
+		- Paralysis
+		- Confusion
+	- Wet beriberi
+		- High-output cardiac failure (due to systemic vasodilation)
+		- Dilated cardiomyopathy
+		- Cardiomegaly
+		- Edema
+- Wernicke encephalopathy
+
+>[!tip] 
+>In malnourished or alcohol-dependent patients, always administer thiamine before giving dextrose to decrease the risk of precipitating or exacerbating Wernicke encephalopathy.
+
+>[!Mnemonic] 
+>Vitamin <font color="#ffc000">B1</font> deficiency causes <font color="#ffc000">B</font>er<font color="#ffc000">1B</font>er<font color="#ffc000">1</font>.
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
