@@ -2743,6 +2743,7 @@ dENX
 disruption
 dermal
 differentiates
+describe
 of
 over
 originate
@@ -5315,6 +5316,7 @@ retro
 retraction
 recovers
 relapses
+resolves
 narrow
 negative
 not
@@ -7945,6 +7947,7 @@ tuF
 thyrotoxicosis
 thyroiditis
 thyroglobulin
+terms
 in
 includes
 involving
@@ -9394,6 +9397,8 @@ iodine
 immunologic
 immunosuppression
 intraorbital
+interferon
+interleukin
 general
 giving
 generation
@@ -10510,6 +10515,7 @@ gHg
 gwD
 goiter
 glycosaminoglycans
+germinal
 major
 mechanisms
 mark
@@ -16923,6 +16929,7 @@ autoantigens
 autoimmunity
 adipocytes
 adenovirus
+amiodarone
 ventricular
 varying
 vaccines
@@ -27046,6 +27053,8 @@ source
 suppression
 subacute
 study
+silent
+sparse
 QRS
 QT
 QDQ
@@ -35982,6 +35991,7 @@ PHR
 PDtY
 Psychological
 Pretibial
+Postpartum
 ectopic
 elevation
 early
@@ -44088,6 +44098,7 @@ pXIA
 pernicious
 progesterone
 postpartum
+painless
 Unusual
 Usually
 Upc

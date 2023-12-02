@@ -67,6 +67,9 @@ Subacute lymphocytic thyroiditis is characterized by damage to follicular cells 
 	- Radioiodine uptake study : ↓ iodine uptake 
 		- Iodine uptake decreases for two reasons: <span style="background:rgba(240, 200, 0, 0.2)">1. Follicular cells are damaged and unable to take up iodine; 2. TSH secretion is initially suppressed as a result of thyrotoxicosis.</span> Radioiodine uptake returns to normal when TSH begins to rise during the hypothyroid phase. <span style="background:rgba(240, 200, 0, 0.2)">Decreased iodine uptake is another important feature that differentiates Graves thyrotoxicosis from thyrotoxicosis that occurs with subacute thyroiditis.</span>
 - Thyroid pain differential![[Pasted image 20231127220045.png]]
+- Histology 
+	- Subacute granulomatous thyroiditis: granulomatous inflammation, multinucleated giant cells
+	- Subacute lymphocytic thyroiditis: lymphocytic infiltration, sparse germinal centers
 
 ---
 # Treatment
