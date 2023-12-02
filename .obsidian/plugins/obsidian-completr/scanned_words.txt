@@ -7958,6 +7958,8 @@ thyroiditis
 thyroglobulin
 terms
 top
+thick
+transformation
 in
 includes
 involving
@@ -11948,6 +11950,7 @@ mimicry
 myxedema
 microsomal
 metaplastic
+metaplasia
 Sinus
 ST
 Segment
@@ -19681,6 +19684,7 @@ constituents
 coxsackie
 colloid
 congested
+core
 bypass
 block
 background
@@ -27074,6 +27078,7 @@ study
 silent
 sparse
 subclinical
+schistosomiasis
 QRS
 QT
 QDQ
@@ -36014,6 +36019,7 @@ Pretibial
 Postpartum
 Primarily
 Progression
+Papillary
 ectopic
 elevation
 early
@@ -44127,6 +44133,7 @@ progesterone
 postpartum
 painless
 proposed
+papilla
 Unusual
 Usually
 Upc
@@ -51493,6 +51500,7 @@ ulSG
 uCkM
 uimmE
 uLLM
+ureters
 quinine
 qz
 qM

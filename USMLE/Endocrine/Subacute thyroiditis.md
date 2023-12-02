@@ -12,9 +12,9 @@ share: true
 ---
 # Etiology
 ## Subacute granulomatous thyroiditis (De Quervain thyroiditis)
-- Viral infections: [[mumps]] virus, coxsackie virus, influenza virus, echovirus, adenovirus
+- <span style="background:rgba(240, 200, 0, 0.2)">Viral infections</span>: [[mumps]] virus, coxsackie virus, influenza virus, echovirus, adenovirus
 ## Subacute lymphocytic thyroiditis
-Subacute lymphocytic thyroiditis is characterized by damage to follicular cells with lymphocytic infiltration resembling Hashimoto thyroiditis, rather than granuloma formation. 
+Subacute lymphocytic thyroiditis is characterized by damage to follicular cells with lymphocytic infiltration resembling [[Hashimoto thyroiditis]], rather than granuloma formation. 
 - Drugs: α-interferon, lithium, amiodarone, interleukin-2, tyrosine kinase inhibitors
 - Autoimmune disease 
 - <span style="background:rgba(240, 200, 0, 0.2)">Postpartum thyroiditis</span>

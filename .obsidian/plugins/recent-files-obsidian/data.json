@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Subacute thyroiditis",
-      "path": "USMLE/Endocrine/Subacute thyroiditis.md"
+      "basename": "Urinary tract cancer",
+      "path": "USMLE/Renal/Urinary tract cancer.md"
     },
     {
-      "basename": "Hashimoto thyroiditis",
-      "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
+      "basename": "Schistosomiasis",
+      "path": "USMLE/Infective disease/Schistosomiasis.md"
+    },
+    {
+      "basename": "Hyperthyroidism",
+      "path": "USMLE/Endocrine/Hyperthyroidism.md"
     },
     {
       "basename": "Graves disease",
       "path": "USMLE/Endocrine/Graves disease.md"
     },
     {
-      "basename": "Hyperthyroidism",
-      "path": "USMLE/Endocrine/Hyperthyroidism.md"
+      "basename": "Hashimoto thyroiditis",
+      "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
+    },
+    {
+      "basename": "Subacute thyroiditis",
+      "path": "USMLE/Endocrine/Subacute thyroiditis.md"
     },
     {
       "basename": "Pasted image 20230923154726",
@@ -191,14 +199,6 @@
     {
       "basename": "Glycogen storage diseases",
       "path": "USMLE/Biochemistry/Glycogen storage diseases.md"
-    },
-    {
-      "basename": "Glycolysis",
-      "path": "USMLE/Biochemistry/Glycolysis.md"
-    },
-    {
-      "basename": "Adenosine deaminase deficiency",
-      "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
     }
   ],
   "omittedPaths": [],

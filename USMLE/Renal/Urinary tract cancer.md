@@ -22,7 +22,7 @@ Urinary tract cancer most commonly involves the bladder, although it may also oc
 - Papillary urothelial carcinoma
 	- A thick papilla with a fibrovascular core![[Pasted image 20230819151707.png]]
 - Squamous cell carcinoma
-	- Chronic inflammatory stimuli (e.g., schistosomiasis, chronic cystitis) can lead to transformation of urothelial cells into squamous epithelial cells (squamous metaplasia)
+	- Chronic inflammatory stimuli (e.g., [[schistosomiasis]], chronic cystitis) can lead to transformation of urothelial cells into squamous epithelial cells (squamous metaplasia)
 
 ---
 # Clinical features
