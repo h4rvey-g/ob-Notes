@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md"
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md"
               }
             }
           }
@@ -224,8 +224,10 @@
   "active": "4a841457419c4394",
   "lastOpenFiles": [
     "USMLE/Endocrine/Graves disease.md",
-    "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
+    "USMLE/Endocrine/Hashimoto thyroiditis.md",
+    "appendix/Pasted image 20231202105218.png",
+    "appendix/Pasted image 20231202105205.png",
     "conflict-files-obsidian-git.md",
     "USMLE/Respiratory/Oxygen dissociation curve.md",
     "USMLE/Biochemistry/cystinuria.md",
@@ -245,8 +247,6 @@
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/GI/Chronic pancreatitis.md",
     "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
-    "appendix/Pasted image 20231127153916.png",
-    "appendix/Pasted image 20231127153909.png",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Steatorrhea.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
@@ -258,7 +258,6 @@
     "USMLE/Reproductive/Pharyngeal apparatus.md",
     "USMLE/Endocrine/Calcitonin.md",
     "USMLE/Biochemistry/Vitamin B1.md",
-    "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

@@ -1268,6 +1268,7 @@ TRAb
 Thyrotoxic
 TPOAbs
 TgAbs
+TFTs
 differentials
 differential
 diagnosis
@@ -2746,6 +2747,7 @@ disruption
 dermal
 differentiates
 describe
+dots
 of
 over
 originate
@@ -3884,6 +3886,8 @@ oFUUz
 overstimulation
 ophthalmopathy
 orbital
+occurred
+oncocytic
 regular
 reentrant
 retrograde
@@ -5320,6 +5324,7 @@ recovers
 relapses
 resolves
 responses
+rubbery
 narrow
 negative
 not
@@ -6530,6 +6535,7 @@ nKM
 njD
 nTuc
 ncO
+numerous
 tachycardia
 tract
 the
@@ -7951,6 +7957,7 @@ thyrotoxicosis
 thyroiditis
 thyroglobulin
 terms
+top
 in
 includes
 involving
@@ -11939,6 +11946,8 @@ mmmTTTq
 mildly
 mimicry
 myxedema
+microsomal
+metaplastic
 Sinus
 ST
 Segment
@@ -16934,6 +16943,7 @@ autoimmunity
 adipocytes
 adenovirus
 amiodarone
+arrows
 ventricular
 varying
 vaccines
@@ -19670,6 +19680,7 @@ cQZ
 constituents
 coxsackie
 colloid
+congested
 bypass
 block
 background
@@ -22292,6 +22303,7 @@ feedback
 follicular
 follicle
 firm
+formerly
 with
 wave
 which
@@ -24464,6 +24476,7 @@ WSSSX
 WVd
 WLLL
 WQUTM
+Workup
 you
 young
 ybif
@@ -27060,6 +27073,7 @@ subacute
 study
 silent
 sparse
+subclinical
 QRS
 QT
 QDQ
@@ -33257,6 +33271,7 @@ Fsc
 FLL
 FCx
 Follicular
+Fine
 In
 It
 Intraventricular
@@ -35997,6 +36012,8 @@ PDtY
 Psychological
 Pretibial
 Postpartum
+Primarily
+Progression
 ectopic
 elevation
 early
@@ -37402,6 +37419,7 @@ experience
 enterocolitica
 exophthalmos
 echovirus
+evidenced
 Early
 Elevation
 Etiology
@@ -41206,6 +41224,8 @@ HHWW
 Hyperthyroidism
 Hashimoto
 Hypothyroid
+Hashitoxicosis
+Hurthle
 hyperkalemia
 hypertrophy
 hereditary
@@ -42546,6 +42566,8 @@ hyperactivity
 hyaluronic
 hypothyroidism
 hypothyroid
+heat
+hashitoxicosis
 peaked
 pattern
 precordial
@@ -53646,6 +53668,7 @@ GNMM
 Graves
 GAGs
 Grave
+Goiter
 Jervell
 JYo
 JO
