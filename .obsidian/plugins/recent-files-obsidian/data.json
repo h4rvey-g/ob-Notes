@@ -5,6 +5,10 @@
       "path": "USMLE/Renal/Urinary tract cancer.md"
     },
     {
+      "basename": "Pasted image 20231101150650",
+      "path": "appendix/Pasted image 20231101150650.png"
+    },
+    {
       "basename": "Schistosomiasis",
       "path": "USMLE/Infective disease/Schistosomiasis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Idiopathic inflammatory myopathies",
       "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
-    },
-    {
-      "basename": "Glycogen storage diseases",
-      "path": "USMLE/Biochemistry/Glycogen storage diseases.md"
     }
   ],
   "omittedPaths": [],
