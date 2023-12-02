@@ -12,8 +12,8 @@ Urinary tract cancer most commonly involves the bladder, although it may also oc
 	- Renal pelvis and renal calyces (8%)
 	- Ureter  and urethra (2%)
  - Histological types
-	- Transitional cell (urothelial) carcinoma: most common (∼ 95%) type of cancer of the bladder, ureter, renal pelvis, and proximal urethra in male individuals
-	- Squamous cell carcinoma: most common (∼ 60%) type of cancer of the distal urethra in male individuals and the entire urethra in female individuals
+	- <span style="background:rgba(240, 200, 0, 0.2)">Transitional cell (urothelial) carcinoma</span>: most common (∼ 95%) type of cancer of the <span style="background:rgba(240, 200, 0, 0.2)">bladder, ureter, renal pelvis, and proximal urethra in <font color="#ffc000">male</font> individuals</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Squamous cell carcinoma</span>: most common (∼ 60%) type of cancer of the <span style="background:rgba(240, 200, 0, 0.2)">distal urethra in <font color="#ffc000">male</font> individuals and the entire urethra in <font color="#ffc000">female</font> individuals</span>
 # Risk factors
 # Transitional cell urothelial carcinoma
 - Carcinogens
@@ -38,10 +38,10 @@ Urinary tract cancer most commonly involves the bladder, although it may also oc
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
