@@ -11,11 +11,9 @@
             "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/Infective disease/Schistosomiasis.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20231109170522.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Infective disease/Schistosomiasis.md",
+                "file": "appendix/Pasted image 20231109170522.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Infective disease/Schistosomiasis.md",
+                "file": "appendix/Pasted image 20231109170522.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Infective disease/Schistosomiasis.md"
+                "file": "appendix/Pasted image 20231109170522.png"
               }
             }
           }
@@ -223,10 +221,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Infective disease/Schistosomiasis.md",
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Endocrine/Hyperthyroidism.md",
     "appendix/Pasted image 20231101150650.png",
-    "USMLE/Infective disease/Schistosomiasis.md",
     "USMLE/Endocrine/Graves disease.md",
     "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
