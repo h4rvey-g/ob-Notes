@@ -14,24 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/Endocrine/Subacute thyroiditis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6aaf141d2e90a028",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md"
+              }
             }
           }
         ],
@@ -229,16 +221,16 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "6aaf141d2e90a028",
+  "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "USMLE/Endocrine/Graves disease.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
+    "conflict-files-obsidian-git.md",
     "USMLE/Respiratory/Oxygen dissociation curve.md",
     "USMLE/Biochemistry/cystinuria.md",
     "USMLE/Biochemistry/Vitamin B12.md",
     "appendix/Pasted image 20231127220045.png",
     "USMLE/Endocrine/Hyperthyroidism.md",
-    "USMLE/Endocrine/Graves disease.md",
     "appendix/Pasted image 20231127214913.png",
     "appendix/Pasted image 20231127212700.png",
     "appendix/Pasted image 20231127212419.png",
