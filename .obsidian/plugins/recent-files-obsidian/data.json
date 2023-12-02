@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Subacute thyroiditis",
       "path": "USMLE/Endocrine/Subacute thyroiditis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Adenosine deaminase deficiency",
       "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
-    },
-    {
-      "basename": "Pasted image 20231113170927",
-      "path": "appendix/Pasted image 20231113170927.png"
     }
   ],
   "omittedPaths": [],

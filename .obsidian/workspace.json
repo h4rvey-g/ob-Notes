@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6aaf141d2e90a028",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "USMLE/Endocrine/Subacute thyroiditis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -221,12 +229,16 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "4a841457419c4394",
+  "active": "6aaf141d2e90a028",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "USMLE/Endocrine/Subacute thyroiditis.md",
+    "USMLE/Respiratory/Oxygen dissociation curve.md",
+    "USMLE/Biochemistry/cystinuria.md",
+    "USMLE/Biochemistry/Vitamin B12.md",
     "appendix/Pasted image 20231127220045.png",
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Endocrine/Graves disease.md",
-    "USMLE/Endocrine/Subacute thyroiditis.md",
     "appendix/Pasted image 20231127214913.png",
     "appendix/Pasted image 20231127212700.png",
     "appendix/Pasted image 20231127212419.png",
@@ -247,7 +259,6 @@
     "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/Lab Values.md",
-    "appendix/Pasted image 20231115161844.png",
     "USMLE/Psychiatry/Anorexia nervosa.md",
     "USMLE/MSK/Osteoporosis.md",
     "USMLE/Endocrine/Euthyroid sick syndrome.md",
@@ -256,9 +267,6 @@
     "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/Biochemistry/Glycolysis.md",
     "USMLE/Biochemistry/Homocystinuria.md",
-    "USMLE/Biochemistry/Marfanoid features.md",
-    "USMLE/Biochemistry/Arsenic toxicity.md",
-    "USMLE/Biochemistry/Ketone body synthesis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
