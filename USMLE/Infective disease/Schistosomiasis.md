@@ -31,6 +31,12 @@ share: true
 	- Complications (especially with chronic infection)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Squamous cell carcinoma of the bladder</span> (may cause painless hematuria)
 			- Rare tumor (approximately only 2% of bladder malignancies are squamous cell carcinomas)
+- Hepatosplenic schistosomiasis
+	- Children and adolescents: hepatosplenomegaly
+	- Adults with chronic infection: <span style="background:rgba(240, 200, 0, 0.2)">periportal fibrosis and portal hypertension</span>
+- Pulmonary schistosomiasis
+	- All three pathogens
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary hypertension and cor pulmonale</span>
 
 ---
 # Diagnostics
@@ -38,6 +44,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

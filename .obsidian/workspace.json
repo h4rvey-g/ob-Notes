@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Urinary tract cancer.md",
+                "file": "USMLE/Infective disease/Schistosomiasis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Urinary tract cancer.md",
+                "file": "USMLE/Infective disease/Schistosomiasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Urinary tract cancer.md",
+                "file": "USMLE/Infective disease/Schistosomiasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Urinary tract cancer.md"
+                "file": "USMLE/Infective disease/Schistosomiasis.md"
               }
             }
           }
@@ -223,10 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231101150650.png",
-    "USMLE/Infective disease/Schistosomiasis.md",
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Endocrine/Hyperthyroidism.md",
+    "appendix/Pasted image 20231101150650.png",
+    "USMLE/Infective disease/Schistosomiasis.md",
     "USMLE/Endocrine/Graves disease.md",
     "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
