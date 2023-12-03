@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Galactose metabolism",
+      "path": "USMLE/Biochemistry/Galactose metabolism.md"
+    },
+    {
+      "basename": "Pasted image 20230819170056",
+      "path": "appendix/Pasted image 20230819170056.png"
+    },
+    {
       "basename": "Hypothyroidism",
       "path": "USMLE/Biochemistry/Hypothyroidism.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Mitochondrial myopathies",
       "path": "USMLE/Biochemistry/Mitochondrial myopathies.md"
-    },
-    {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
-      "basename": "Pleural effusion",
-      "path": "USMLE/Blood/Pleural effusion.md"
     }
   ],
   "omittedPaths": [],

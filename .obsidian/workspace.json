@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Hypothyroidism.md",
-                "mode": "preview",
+                "file": "USMLE/Biochemistry/Galactose metabolism.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Hypothyroidism.md",
+                "file": "USMLE/Biochemistry/Galactose metabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Hypothyroidism.md",
+                "file": "USMLE/Biochemistry/Galactose metabolism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Hypothyroidism.md"
+                "file": "USMLE/Biochemistry/Galactose metabolism.md"
               }
             }
           }
@@ -223,9 +223,15 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231203114208.png",
+    "appendix/Pasted image 20231203113830.png",
+    "appendix/Pasted image 20231203113815.png",
+    "appendix/Pasted image 20231203113736.png",
+    "appendix/Pasted image 20230819170056.png",
+    "USMLE/Biochemistry/Galactose metabolism.md",
+    "USMLE/Biochemistry/Hypothyroidism.md",
     "appendix/Pasted image 20231203111502.png",
     "USMLE/Endocrine/Hyperthyroidism.md",
-    "USMLE/Biochemistry/Hypothyroidism.md",
     "USMLE/Reproductive/Menopause.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "appendix/Pasted image 20231012113514.png",
@@ -237,19 +243,14 @@
     "appendix/Pasted image 20231203094317.png",
     "appendix/Pasted image 20231109170522.png",
     "USMLE/Renal/Urinary tract cancer.md",
-    "appendix/Pasted image 20231101150650.png",
     "USMLE/Endocrine/Graves disease.md",
     "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
     "USMLE/GI/Chronic pancreatitis.md",
-    "appendix/Pasted image 20231202105218.png",
-    "appendix/Pasted image 20231202105205.png",
     "conflict-files-obsidian-git.md",
     "USMLE/Respiratory/Oxygen dissociation curve.md",
     "USMLE/Biochemistry/cystinuria.md",
     "USMLE/Biochemistry/Vitamin B12.md",
-    "appendix/Pasted image 20231127220045.png",
-    "appendix/Pasted image 20231127214913.png",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/Biochemistry/Adrenoleukodystrophy.md",
     "USMLE/Biochemistry/Fatty acid oxidation.md",
@@ -258,7 +259,6 @@
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Steatorrhea.md",
     "USMLE/Biochemistry/Cystic fibrosis.md",
-    "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
