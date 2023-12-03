@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Metabolic fuel use.md",
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Metabolic fuel use.md",
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Metabolic fuel use.md",
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Metabolic fuel use.md"
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md"
               }
             }
           }
@@ -223,13 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Metabolic fuel use.md",
+    "USMLE/Infective disease/Schistosomiasis.md",
     "appendix/Pasted image 20231203100119.png",
     "appendix/Pasted image 20231203100107.png",
     "USMLE/Biochemistry/Ketone body synthesis.md",
-    "USMLE/Biochemistry/Metabolic fuel use.md",
     "appendix/Pasted image 20231203094317.png",
     "appendix/Pasted image 20231109170522.png",
-    "USMLE/Infective disease/Schistosomiasis.md",
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Endocrine/Hyperthyroidism.md",
     "appendix/Pasted image 20231101150650.png",
@@ -246,7 +246,6 @@
     "appendix/Pasted image 20231127220045.png",
     "appendix/Pasted image 20231127214913.png",
     "appendix/Pasted image 20231127212700.png",
-    "appendix/Pasted image 20231127212419.png",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/Biochemistry/Adrenoleukodystrophy.md",
     "USMLE/Biochemistry/Fatty acid oxidation.md",
