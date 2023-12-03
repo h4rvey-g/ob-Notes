@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hypothyroidism",
+      "path": "USMLE/Biochemistry/Hypothyroidism.md"
+    },
+    {
+      "basename": "Hyperthyroidism",
+      "path": "USMLE/Endocrine/Hyperthyroidism.md"
+    },
+    {
       "basename": "Menopause",
       "path": "USMLE/Reproductive/Menopause.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Pasted image 20231101150650",
       "path": "appendix/Pasted image 20231101150650.png"
-    },
-    {
-      "basename": "Hyperthyroidism",
-      "path": "USMLE/Endocrine/Hyperthyroidism.md"
     },
     {
       "basename": "Graves disease",
@@ -195,10 +199,6 @@
     {
       "basename": "Pleural effusion",
       "path": "USMLE/Blood/Pleural effusion.md"
-    },
-    {
-      "basename": "Pasted image 20230727145202",
-      "path": "appendix/Pasted image 20230727145202.png"
     }
   ],
   "omittedPaths": [],

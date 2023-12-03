@@ -41,10 +41,18 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+## Supportive studies to confirm menopause
+- <span style="background:rgba(240, 200, 0, 0.2)">FSH: ↑↑</span>; however, levels widely fluctuate during perimenopause
+- <span style="background:rgba(240, 200, 0, 0.2)">Estradiol: ↓ </span>
+- Rarely tested for as not routinely recommended: ↓ progesterone, ↓ inhibin B, and ↓ antimüllerian hormone
+## Studies to exclude differential diagnoses of menopause
+- <span style="background:rgba(240, 200, 0, 0.2)">Pregnancy test: to rule out pregnancy as a cause of amenorrhea</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Prolactin: elevated in hyperprolactinemia</span>
+- LH: elevated in POI
+- <span style="background:rgba(240, 200, 0, 0.2)">TSH: Both hypothyroidism and [[hyperthyroidism]] can cause menstrual irregularities.</span>
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
