@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-11-23 22:00
 modified: 2023-11-23 22:00
-aliases: Untitled
+aliases: []
 share: true
 ---
 ![[Pasted image 20231123220120.png]]

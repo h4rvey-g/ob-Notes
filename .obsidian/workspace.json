@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
+                "file": "USMLE/Biochemistry/Metabolic fuel use.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
+                "file": "USMLE/Biochemistry/Metabolic fuel use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
+                "file": "USMLE/Biochemistry/Metabolic fuel use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Ketone body synthesis.md"
+                "file": "USMLE/Biochemistry/Metabolic fuel use.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231203100119.png",
+    "appendix/Pasted image 20231203100107.png",
+    "USMLE/Biochemistry/Ketone body synthesis.md",
     "USMLE/Biochemistry/Metabolic fuel use.md",
     "appendix/Pasted image 20231203094317.png",
     "appendix/Pasted image 20231109170522.png",
@@ -244,7 +247,6 @@
     "appendix/Pasted image 20231127214913.png",
     "appendix/Pasted image 20231127212700.png",
     "appendix/Pasted image 20231127212419.png",
-    "appendix/Pasted image 20231127211623.png",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/Biochemistry/Adrenoleukodystrophy.md",
     "USMLE/Biochemistry/Fatty acid oxidation.md",
@@ -257,7 +259,6 @@
     "USMLE/Lab Values.md",
     "USMLE/Psychiatry/Anorexia nervosa.md",
     "USMLE/MSK/Osteoporosis.md",
-    "USMLE/Endocrine/Euthyroid sick syndrome.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
