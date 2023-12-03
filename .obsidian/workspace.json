@@ -11,9 +11,11 @@
             "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Pasted image 20231109170522.png"
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appendix/Pasted image 20231109170522.png",
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appendix/Pasted image 20231109170522.png",
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appendix/Pasted image 20231109170522.png"
+                "file": "USMLE/Biochemistry/Ketone body synthesis.md"
               }
             }
           }
@@ -221,6 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Metabolic fuel use.md",
+    "appendix/Pasted image 20231203094317.png",
+    "appendix/Pasted image 20231109170522.png",
     "USMLE/Infective disease/Schistosomiasis.md",
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Endocrine/Hyperthyroidism.md",
@@ -240,9 +245,7 @@
     "appendix/Pasted image 20231127212700.png",
     "appendix/Pasted image 20231127212419.png",
     "appendix/Pasted image 20231127211623.png",
-    "appendix/Pasted image 20230923154726.png",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-    "appendix/Pasted image 20231111093052.png",
     "USMLE/Biochemistry/Adrenoleukodystrophy.md",
     "USMLE/Biochemistry/Fatty acid oxidation.md",
     "USMLE/GI/Pancreatic cancer.md",
@@ -255,7 +258,6 @@
     "USMLE/Psychiatry/Anorexia nervosa.md",
     "USMLE/MSK/Osteoporosis.md",
     "USMLE/Endocrine/Euthyroid sick syndrome.md",
-    "USMLE/Reproductive/Pharyngeal apparatus.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
