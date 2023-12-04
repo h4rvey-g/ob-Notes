@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Diabetes insipidus.md",
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Diabetes insipidus.md",
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Diabetes insipidus.md",
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Diabetes insipidus.md"
+                "file": "USMLE/Biochemistry/Fatty acid oxidation.md"
               }
             }
           }
@@ -223,9 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Renal/Diabetes insipidus.md",
     "appendix/Pasted image 20231204113426.png",
     "USMLE/Endocrine/Diabetes mellitus.md",
-    "USMLE/Renal/Diabetes insipidus.md",
     "USMLE/MSK/Acanthosis nigricans.md",
     "appendix/Pasted image 20231204112802.png",
     "appendix/Pasted image 20231204112121.png",
@@ -239,7 +239,6 @@
     "appendix/Pasted image 20231203113736.png",
     "appendix/Pasted image 20230819170056.png",
     "USMLE/Biochemistry/Hypothyroidism.md",
-    "appendix/Pasted image 20231203111502.png",
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Reproductive/Menopause.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
