@@ -10,3 +10,4 @@ share: true
 
 ---
 ![[Pasted image 20231203113830.png]]Damage caused by accumulation of toxic substances (eg. galacitol).![[Pasted image 20231203114208.png]]
+![[Pasted image 20231204110400.png]]

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Acanthosis nigricans",
+      "path": "USMLE/MSK/Acanthosis nigricans.md"
+    },
+    {
+      "basename": "Pasted image 20230722174657",
+      "path": "appendix/Pasted image 20230722174657.png"
+    },
+    {
       "basename": "Galactose metabolism",
       "path": "USMLE/Biochemistry/Galactose metabolism.md"
+    },
+    {
+      "basename": "Pasted image 20231203113830",
+      "path": "appendix/Pasted image 20231203113830.png"
     },
     {
       "basename": "Pasted image 20230819170056",
@@ -187,18 +199,6 @@
     {
       "basename": "Hammer toe",
       "path": "USMLE/MSK/Hammer toe.md"
-    },
-    {
-      "basename": "IgA vasculitis",
-      "path": "USMLE/MSK/IgA vasculitis.md"
-    },
-    {
-      "basename": "Pasted image 20231029162243",
-      "path": "appendix/Pasted image 20231029162243.png"
-    },
-    {
-      "basename": "Mitochondrial myopathies",
-      "path": "USMLE/Biochemistry/Mitochondrial myopathies.md"
     }
   ],
   "omittedPaths": [],

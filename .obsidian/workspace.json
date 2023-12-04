@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Galactose metabolism.md",
+                "file": "USMLE/MSK/Acanthosis nigricans.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "c5951753b15217bd",
+            "id": "a9bae46ceace5757",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Galactose metabolism.md",
+                "file": "USMLE/MSK/Acanthosis nigricans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Galactose metabolism.md",
+                "file": "USMLE/MSK/Acanthosis nigricans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Galactose metabolism.md"
+                "file": "USMLE/MSK/Acanthosis nigricans.md"
               }
             }
           }
@@ -212,23 +212,27 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "graph:查看关系图谱": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false,
       "notion-like-tables:Create loom": false
     }
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231203114208.png",
+    "appendix/Pasted image 20230722174657.png",
+    "USMLE/MSK/Acanthosis nigricans.md",
+    "USMLE/MSK/Untitled.loom",
+    "USMLE/Biochemistry/Galactose metabolism.md",
     "appendix/Pasted image 20231203113830.png",
+    "appendix/Pasted image 20231204110400.png",
+    "appendix/Pasted image 20231203114208.png",
     "appendix/Pasted image 20231203113815.png",
     "appendix/Pasted image 20231203113736.png",
     "appendix/Pasted image 20230819170056.png",
-    "USMLE/Biochemistry/Galactose metabolism.md",
     "USMLE/Biochemistry/Hypothyroidism.md",
     "appendix/Pasted image 20231203111502.png",
     "USMLE/Endocrine/Hyperthyroidism.md",
@@ -239,9 +243,6 @@
     "USMLE/Biochemistry/Metabolic fuel use.md",
     "USMLE/Infective disease/Schistosomiasis.md",
     "appendix/Pasted image 20231203100119.png",
-    "appendix/Pasted image 20231203100107.png",
-    "appendix/Pasted image 20231203094317.png",
-    "appendix/Pasted image 20231109170522.png",
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Endocrine/Graves disease.md",
     "USMLE/Endocrine/Hashimoto thyroiditis.md",
@@ -258,7 +259,6 @@
     "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
     "USMLE/GI/Acute pancreatitis.md",
     "USMLE/GI/Steatorrhea.md",
-    "USMLE/Biochemistry/Cystic fibrosis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
@@ -268,7 +268,6 @@
     "USMLE/Hematology and Oncology",
     "appendix/Untitled 2.loom",
     "appendix/Untitled 1.loom",
-    "USMLE/Renal",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
