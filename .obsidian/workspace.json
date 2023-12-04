@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Fatty acid oxidation.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Fatty acid oxidation.md"
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Fatty acid oxidation.md",
     "USMLE/Renal/Diabetes insipidus.md",
     "appendix/Pasted image 20231204113426.png",
     "USMLE/Endocrine/Diabetes mellitus.md",
@@ -256,7 +257,6 @@
     "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/Biochemistry/Adrenoleukodystrophy.md",
-    "USMLE/Biochemistry/Fatty acid oxidation.md",
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
     "USMLE/Endocrine",
