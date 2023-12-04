@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Acanthosis nigricans.md",
-                "mode": "source",
+                "file": "USMLE/Renal/Diabetes insipidus.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Acanthosis nigricans.md",
+                "file": "USMLE/Renal/Diabetes insipidus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Acanthosis nigricans.md",
+                "file": "USMLE/Renal/Diabetes insipidus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Acanthosis nigricans.md"
+                "file": "USMLE/Renal/Diabetes insipidus.md"
               }
             }
           }
@@ -223,8 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20230722174657.png",
+    "appendix/Pasted image 20231204113426.png",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "USMLE/Renal/Diabetes insipidus.md",
     "USMLE/MSK/Acanthosis nigricans.md",
+    "appendix/Pasted image 20231204112802.png",
+    "appendix/Pasted image 20231204112121.png",
+    "appendix/Pasted image 20230722174657.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Biochemistry/Galactose metabolism.md",
     "appendix/Pasted image 20231203113830.png",
@@ -238,11 +243,9 @@
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Reproductive/Menopause.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
-    "appendix/Pasted image 20231012113514.png",
     "USMLE/Biochemistry/Ketone body synthesis.md",
     "USMLE/Biochemistry/Metabolic fuel use.md",
     "USMLE/Infective disease/Schistosomiasis.md",
-    "appendix/Pasted image 20231203100119.png",
     "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Endocrine/Graves disease.md",
     "USMLE/Endocrine/Hashimoto thyroiditis.md",
@@ -257,8 +260,6 @@
     "USMLE/Biochemistry/Fatty acid oxidation.md",
     "USMLE/GI/Pancreatic cancer.md",
     "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
-    "USMLE/GI/Acute pancreatitis.md",
-    "USMLE/GI/Steatorrhea.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

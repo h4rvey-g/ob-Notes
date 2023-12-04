@@ -6813,6 +6813,8 @@ nFD
 ncz
 nry
 nDw
+nigricans
+nuchal
 tachycardia
 tract
 the
@@ -9823,6 +9825,9 @@ iYF
 illX
 iCY
 iGY
+intertriginous
+inheritance
+itching
 general
 giving
 generation
@@ -10999,6 +11004,7 @@ gepx
 gNba
 galactose
 galacitol
+groin
 major
 mechanisms
 mark
@@ -13810,6 +13816,8 @@ SjhjPs
 SjjC
 SwiO
 Sxe
+Symmetrical
+Specific
 AVNRT
 Atrial
 AVRT
@@ -15122,6 +15130,7 @@ AzbE
 Alb
 Aar
 APa
+Acrochordons
 Orthodromic
 On
 Often
@@ -17696,6 +17705,9 @@ aCDb
 aIK
 aPu
 accumulates
+axillae
+axilla
+acanthosis
 ventricular
 varying
 vaccines
@@ -18947,6 +18959,7 @@ vJAc
 vtuw
 vLQ
 vnCC
+velvety
 conduction
 concealed
 complex
@@ -21895,6 +21908,7 @@ bRx
 bLb
 bEf
 bwnc
+blurred
 flutter
 from
 focus
@@ -33458,6 +33472,7 @@ DKe
 DEar
 DSP
 Dmu
+DKA
 FFF
 Fib
 Fi
@@ -36208,6 +36223,7 @@ IqU
 IqM
 IZw
 IQq
+IGF
 PACs
 Primary
 Pathophysiology
@@ -37627,6 +37643,9 @@ PrUZ
 PgK
 Pmuu
 Pmk
+PCOS
+Pathogenesis
+Polyphagia
 ectopic
 elevation
 early
@@ -39114,6 +39133,8 @@ eqK
 eJWZS
 eQK
 externalRowOrder
+eruption
+enuresis
 Early
 Elevation
 Etiology
@@ -40444,6 +40465,8 @@ Eoj
 EDDDDDDD
 EEV
 ENs
+Endocrinal
+Elderly
 LEFT
 Lengthening
 Left
@@ -44515,6 +44538,8 @@ hmj
 hlkCCs
 hkc
 hmH
+hyperglycemic
+hyperosmolar
 peaked
 pattern
 precordial
@@ -46137,6 +46162,8 @@ pfW
 pwW
 pMRV
 pXe
+pseudoacanthosis
+papillomatous
 Unusual
 Usually
 Upc
@@ -47313,6 +47340,7 @@ UEY
 UZi
 UVX
 Uzl
+Unexplained
 Bundle
 Branch
 Block
@@ -49920,6 +49948,7 @@ CsU
 CoY
 Cjj
 CZQ
+Cushing
 Right
 Retrograde
 Rates
@@ -52597,6 +52626,7 @@ VDDDD
 VUN
 VAO
 VSX
+Visual
 up
 unusual
 usually
@@ -61233,6 +61263,7 @@ kef
 knI
 kzZ
 kVZ
+ketoacidosis
 KB
 KR
 KA

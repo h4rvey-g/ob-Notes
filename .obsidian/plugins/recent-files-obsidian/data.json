@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes insipidus",
+      "path": "USMLE/Renal/Diabetes insipidus.md"
+    },
+    {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
       "basename": "Acanthosis nigricans",
       "path": "USMLE/MSK/Acanthosis nigricans.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Acute intermittent porphyria",
       "path": "USMLE/Blood/Acute intermittent porphyria.md"
-    },
-    {
-      "basename": "Pasted image 20231029144358",
-      "path": "appendix/Pasted image 20231029144358.png"
-    },
-    {
-      "basename": "Hammer toe",
-      "path": "USMLE/MSK/Hammer toe.md"
     }
   ],
   "omittedPaths": [],
