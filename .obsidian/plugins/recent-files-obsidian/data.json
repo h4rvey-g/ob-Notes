@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetic neuropathy",
+      "path": "USMLE/Endocrine/Diabetic neuropathy.md"
+    },
+    {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231107154612",
       "path": "appendix/Pasted image 20231107154612.png"
-    },
-    {
-      "basename": "Acute intermittent porphyria",
-      "path": "USMLE/Blood/Acute intermittent porphyria.md"
     }
   ],
   "omittedPaths": [],
