@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Lab Values.md",
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Lab Values.md"
+                "file": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
               }
             }
           }
@@ -223,12 +223,14 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Lab Values.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-    "USMLE/Biochemistry/Fatty acid oxidation.md",
-    "USMLE/Renal/Diabetes insipidus.md",
-    "appendix/Pasted image 20231204113426.png",
     "USMLE/Endocrine/Diabetes mellitus.md",
+    "appendix/Pasted image 20230819170056.png",
     "USMLE/MSK/Acanthosis nigricans.md",
+    "USMLE/Renal/Diabetes insipidus.md",
+    "USMLE/Biochemistry/Fatty acid oxidation.md",
+    "appendix/Pasted image 20231204113426.png",
     "appendix/Pasted image 20231204112802.png",
     "appendix/Pasted image 20231204112121.png",
     "appendix/Pasted image 20230722174657.png",
@@ -239,7 +241,6 @@
     "appendix/Pasted image 20231203114208.png",
     "appendix/Pasted image 20231203113815.png",
     "appendix/Pasted image 20231203113736.png",
-    "appendix/Pasted image 20230819170056.png",
     "USMLE/Biochemistry/Hypothyroidism.md",
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Reproductive/Menopause.md",
@@ -258,7 +259,6 @@
     "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/Biochemistry/Adrenoleukodystrophy.md",
     "USMLE/GI/Pancreatic cancer.md",
-    "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
