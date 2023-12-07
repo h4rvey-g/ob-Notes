@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Li-Fraumeni syndrome",
+      "path": "USMLE/Pathology/Li-Fraumeni syndrome.md"
+    },
+    {
       "basename": "Oral white lesions",
       "path": "USMLE/MSK/Oral white lesions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitamin B1",
       "path": "USMLE/Biochemistry/Vitamin B1.md"
-    },
-    {
-      "basename": "Homocystinuria",
-      "path": "USMLE/Biochemistry/Homocystinuria.md"
     }
   ],
   "omittedPaths": [],
