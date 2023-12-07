@@ -4126,6 +4126,7 @@ odq
 oDB
 odor
 oligoovulation
+ovaries
 regular
 reentrant
 retrograde
@@ -5650,6 +5651,8 @@ rIm
 rut
 rXb
 replaces
+responsive
+routinely
 narrow
 negative
 not
@@ -6932,6 +6935,8 @@ nvD
 nop
 nucleated
 needles
+narrows
+norepinephrine
 tachycardia
 tract
 the
@@ -8444,6 +8449,7 @@ tZy
 thiamine
 tapeworm
 theca
+tested
 in
 includes
 involving
@@ -9988,6 +9994,8 @@ irreversible
 impotence
 interna
 infertility
+irregularities
+inhibin
 general
 giving
 generation
@@ -11177,6 +11185,8 @@ gFr
 gSx
 gso
 granulosa
+gonadotropin
+gradually
 major
 mechanisms
 mark
@@ -12698,6 +12708,8 @@ mutase
 metformin
 megaloblasts
 myelin
+menses
+menstrual
 Sinus
 ST
 Segment
@@ -14036,6 +14048,7 @@ Sweet
 Spastic
 Stein
 SHBG
+Studies
 AVNRT
 Atrial
 AVRT
@@ -15358,6 +15371,8 @@ ASI
 Avoid
 Anorexia
 Always
+Androgenic
+Acne
 Orthodromic
 On
 Often
@@ -16451,6 +16466,9 @@ OwG
 OwC
 OWm
 OHUc
+Ovarian
+Oligomenorrhea
+Oily
 atrio
 and
 atrial
@@ -17968,6 +17986,9 @@ aromatase
 androgen
 androgens
 anovulatory
+abrupt
+antimüllerian
+adolescence
 ventricular
 varying
 vaccines
@@ -19243,6 +19264,9 @@ vkO
 valine
 vegan
 vibratory
+vulvar
+vasomotor
+vulgaris
 conduction
 concealed
 complex
@@ -20860,6 +20884,9 @@ coldness
 combined
 corticospinal
 consequent
+ceases
+confirm
+conceiving
 bypass
 block
 background
@@ -23634,6 +23661,8 @@ fLY
 fPyG
 fAjnJ
 feeding
+flashes
+fluctuate
 with
 wave
 which
@@ -28703,6 +28732,7 @@ syrup
 sugar
 strict
 spinocerebellar
+serotonin
 QRS
 QT
 QDQ
@@ -32612,6 +32642,8 @@ MVco
 MXm
 Methylcobalamin
 Methylmalonyl
+Menstrual
+Menorrhagia
 Differentiate
 Drugs
 DDx
@@ -36725,6 +36757,7 @@ Iah
 IIWc
 IIQ
 Intellectual
+Iatrogenic
 PACs
 Primary
 Pathophysiology
@@ -38174,6 +38207,8 @@ PZU
 PNCW
 PBK
 Placenta
+Prolactin
+POI
 ectopic
 elevation
 early
@@ -41033,6 +41068,8 @@ EZV
 EHjI
 EFvM
 Enteritis
+Estradiol
+Endometrial
 LEFT
 Lengthening
 Left
@@ -43726,6 +43763,11 @@ HFJ
 HwPS
 Hyf
 Hyperandrogenic
+Hypothalamic
+Hypoestrogenism
+Hot
+Heat
+Hirsutism
 hyperkalemia
 hypertrophy
 hereditary
@@ -45150,6 +45192,8 @@ hEp
 hLM
 hgGN
 hyperinsulinemia
+hypergonadotropic
+hyperprolactinemia
 peaked
 pattern
 precordial
@@ -46796,6 +46840,7 @@ pallor
 pins
 proprioception
 paranoia
+perimenopause
 Unusual
 Usually
 Upc
@@ -52059,6 +52104,7 @@ RKb
 RCG
 RBQ
 RdI
+Rarely
 Voltage
 VFV
 VoNW
@@ -53328,6 +53374,8 @@ VVr
 VKi
 VKB
 VJI
+Vasomotor
+VMS
 up
 unusual
 usually
@@ -54614,6 +54662,7 @@ uym
 uZee
 uIU
 uzuyze
+umbilicus
 quinine
 qz
 qM
@@ -56917,6 +56966,7 @@ GKT
 GWn
 Gastrectomy
 Gait
+GnRH
 Jervell
 JYo
 JO
@@ -64409,6 +64459,7 @@ zub
 zcf
 znMUfZ
 zEu
+zone
 YCZ
 YL
 Yt
