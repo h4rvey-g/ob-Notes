@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Halothane hepatitis.md",
-                "mode": "source",
+                "file": "USMLE/GI/Liver zones.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Halothane hepatitis.md",
+                "file": "USMLE/GI/Liver zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Halothane hepatitis.md",
+                "file": "USMLE/GI/Liver zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Halothane hepatitis.md"
+                "file": "USMLE/GI/Liver zones.md"
               }
             }
           }
@@ -223,13 +223,16 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231207091221.png",
+    "appendix/Pasted image 20231207091202.png",
+    "USMLE/GI/Halothane hepatitis.md",
+    "USMLE/GI/Liver zones.md",
     "USMLE/GI/Nonalcoholic fatty liver disease.md",
     "USMLE/GI/Alcoholic hepatitis.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "USMLE/Pathology/Amyloidosis.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/GI/Hepatitis B.md",
-    "USMLE/GI/Halothane hepatitis.md",
     "USMLE/Endocrine/Diabetic neuropathy.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Endocrine/Diabetic gastroparesis.md",
@@ -249,7 +252,6 @@
     "appendix/Pasted image 20231204110400.png",
     "appendix/Pasted image 20231203114208.png",
     "appendix/Pasted image 20231203113815.png",
-    "appendix/Pasted image 20231203113736.png",
     "USMLE/Biochemistry/Hypothyroidism.md",
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Reproductive/Menopause.md",
@@ -258,8 +260,6 @@
     "USMLE/Biochemistry/Metabolic fuel use.md",
     "USMLE/Infective disease/Schistosomiasis.md",
     "USMLE/Renal/Urinary tract cancer.md",
-    "USMLE/Endocrine/Graves disease.md",
-    "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
