@@ -37,7 +37,7 @@ share: true
 ---
 # Clinical features
 - Intestinal symptoms
-	- Bloody diarrhea with mucus
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bloody diarrhea with mucus</span>
 	- Fecal urgency
 	- Abdominal pain and cramps
 	- Tenesmus
@@ -67,8 +67,8 @@ Recommended method for diagnosis and disease monitoring
 - Fibrin-covered ulcers![[Pasted image 20231101152523.png]]
 ### Chronic disease
 - Loss of haustra
-- Pseudopolyps 
-	- Raised areas of normal mucosal tissue that result from repeated cycles of ulceration and healing
+- <span style="background:rgba(240, 200, 0, 0.2)">Pseudopolyps </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Raised areas of normal mucosal tissue that result from repeated cycles of ulceration and healing</span>
 	- Ulceration → formation of granulation tissue → deposition of granulation tissue → epithelialization![[Pasted image 20231101152902.png]]
 
 ---
@@ -78,6 +78,7 @@ Recommended method for diagnosis and disease monitoring
 ---
 # Complications
 - ↑ Risk of cancer
+	- chronic inflammation → hyperplasia → <span style="background:rgba(240, 200, 0, 0.2)">non-polypoid dysplasia</span> → neoplasia
 - [[Toxic megacolon]]
 - Fulminant colitis
 - Gastrointestinal bleeding (both acute and chronic)

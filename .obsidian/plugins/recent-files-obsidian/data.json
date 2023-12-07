@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ulcerative colitis",
+      "path": "USMLE/GI/Ulcerative colitis.md"
+    },
+    {
+      "basename": "Peptic ulcer disease",
+      "path": "USMLE/GI/Peptic ulcer disease.md"
+    },
+    {
       "basename": "Liver zones",
       "path": "USMLE/GI/Liver zones.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "TCA cycle",
       "path": "USMLE/Biochemistry/TCA cycle.md"
-    },
-    {
-      "basename": "Gluconeogenesis",
-      "path": "USMLE/Biochemistry/Gluconeogenesis.md"
-    },
-    {
-      "basename": "Pasted image 20231107160524",
-      "path": "appendix/Pasted image 20231107160524.png"
     }
   ],
   "omittedPaths": [],
