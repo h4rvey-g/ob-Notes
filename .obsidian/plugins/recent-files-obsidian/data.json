@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Meniere disease",
+      "path": "USMLE/Neurology/Meniere disease.md"
+    },
+    {
       "basename": "Li-Fraumeni syndrome",
       "path": "USMLE/Pathology/Li-Fraumeni syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Calcitonin",
       "path": "USMLE/Endocrine/Calcitonin.md"
-    },
-    {
-      "basename": "Vitamin B1",
-      "path": "USMLE/Biochemistry/Vitamin B1.md"
     }
   ],
   "omittedPaths": [],

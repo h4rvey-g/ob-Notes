@@ -9,7 +9,7 @@ Autosomal dominant mutation of the <span style="background:rgba(240, 200, 0, 0.2
 - Pathophysiology
 	- One abnormal copy of the TP53 gene is inherited.
 	- If the second allele is somatically mutated or deleted (loss of heterozygosity), it results in unregulated cell proliferation and cancer.
-- Clinical features: multiple malignancies at an early age
+- Clinical features: <span style="background:rgba(240, 200, 0, 0.2)">multiple malignancies at an early age</span>
 	- Breast cancer
 	- Osteosarcoma
 	- Leukemia, lymphoma

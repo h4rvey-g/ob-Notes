@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Pathology/Li-Fraumeni syndrome.md",
+                "file": "USMLE/Neurology/Meniere disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Pathology/Li-Fraumeni syndrome.md",
+                "file": "USMLE/Neurology/Meniere disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Pathology/Li-Fraumeni syndrome.md",
+                "file": "USMLE/Neurology/Meniere disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Pathology/Li-Fraumeni syndrome.md"
+                "file": "USMLE/Neurology/Meniere disease.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/MSK/Oral white lesions.md",
     "USMLE/Pathology/Li-Fraumeni syndrome.md",
+    "USMLE/Neurology/Meniere disease.md",
+    "USMLE/MSK/Oral white lesions.md",
     "appendix/Pasted image 20231207105737.png",
     "appendix/Pasted image 20231207104851.png",
     "appendix/Pasted image 20231207104642.png",
@@ -259,7 +260,6 @@
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Reproductive/Menopause.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
-    "USMLE/Biochemistry/Ketone body synthesis.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",
