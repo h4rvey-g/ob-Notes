@@ -41,7 +41,8 @@ share: true
 - Early: decreased heart variability
 - Late:
 	- <span style="background:rgba(240, 200, 0, 0.2)">Orthostatic hypotension</span>
-	- Tachycardia at rest
+	- <span style="background:rgba(240, 200, 0, 0.2)">Tachycardia at rest</span>
+		- due to unopposed sympathetic nerve activity
 
 >[!warning] 
 >Patients with cardiovascular autonomic neuropathy are at increased risk for silent myocardial infarction, arrhythmias, and death.

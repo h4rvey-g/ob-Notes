@@ -5,6 +5,14 @@
       "path": "USMLE/Endocrine/Diabetic neuropathy.md"
     },
     {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
+      "basename": "Diabetic gastroparesis",
+      "path": "USMLE/Endocrine/Diabetic gastroparesis.md"
+    },
+    {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Diabetes insipidus",
       "path": "USMLE/Renal/Diabetes insipidus.md"
-    },
-    {
-      "basename": "Diabetes mellitus",
-      "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
     {
       "basename": "Acanthosis nigricans",
@@ -195,10 +199,6 @@
     {
       "basename": "Urine color",
       "path": "USMLE/Renal/Urine color.md"
-    },
-    {
-      "basename": "Pasted image 20231107154612",
-      "path": "appendix/Pasted image 20231107154612.png"
     }
   ],
   "omittedPaths": [],

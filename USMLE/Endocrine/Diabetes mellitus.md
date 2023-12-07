@@ -45,6 +45,18 @@ share: true
 - Possible cutaneous signs of insulin resistance 
 	- Benign [[acanthosis nigricans]] ![[Pasted image 20231204112121.png]]
 	- Acrochordons![[Pasted image 20231204112802.png]]
+# Complications
+## Microvascular disease
+- Onset: typically arises 5–10 years after onset of disease
+- Pathophysiology: <span style="background:rgba(240, 200, 0, 0.2)">chronic hyperglycemia → nonenzymatic glycation of proteins and lipids → thickening of the basal membrane with progressive function impairment and tissue damage</span>
+- Manifestations
+	- [[Diabetic kidney disease|Diabetic nephropathy]]
+	- Diabetic retinopathy, glaucoma
+	- [[Diabetic neuropathy]] including [[diabetic gastroparesis]]
+	- Diabetic foot
+
+>[!tip] 
+>Strict glycemic control is crucial in preventing microvascular disease.
 
 ---
 # Diagnostics

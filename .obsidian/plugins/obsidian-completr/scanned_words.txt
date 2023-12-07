@@ -1314,6 +1314,7 @@ Tdu
 TZn
 TeQm
 TzqK
+Tingling
 differentials
 differential
 diagnosis
@@ -5556,6 +5557,8 @@ rqU
 rhxX
 rMX
 rows
+retinopathy
+reduction
 narrow
 negative
 not
@@ -6815,6 +6818,7 @@ nry
 nDw
 nigricans
 nuchal
+nonenzymatic
 tachycardia
 tract
 the
@@ -8304,6 +8308,7 @@ tvm
 tjRy
 tKxq
 tNbbb
+tuning
 in
 includes
 involving
@@ -9828,6 +9833,7 @@ iGY
 intertriginous
 inheritance
 itching
+income
 general
 giving
 generation
@@ -11005,6 +11011,9 @@ gNba
 galactose
 galacitol
 groin
+gastroparesis
+glycemic
+glove
 major
 mechanisms
 mark
@@ -12495,6 +12504,7 @@ mmnC
 mnl
 miUeuZ
 mHn
+microvascular
 Sinus
 ST
 Segment
@@ -13818,6 +13828,7 @@ SwiO
 Sxe
 Symmetrical
 Specific
+Strict
 AVNRT
 Atrial
 AVRT
@@ -16209,6 +16220,7 @@ OGJ
 OLD
 Oyo
 OGh
+Orthostatic
 atrio
 and
 atrial
@@ -17708,6 +17720,7 @@ accumulates
 axillae
 axilla
 acanthosis
+axon
 ventricular
 varying
 vaccines
@@ -18960,6 +18973,7 @@ vtuw
 vLQ
 vnCC
 velvety
+variability
 conduction
 concealed
 complex
@@ -20550,6 +20564,7 @@ cZbe
 cGUWW
 cIU
 cTC
+crucial
 bypass
 block
 background
@@ -21909,6 +21924,7 @@ bLb
 bEf
 bwnc
 blurred
+balance
 flutter
 from
 focus
@@ -23301,6 +23317,7 @@ fFt
 fMk
 frontmatterKey
 filters
+fork
 with
 wave
 which
@@ -28297,6 +28314,10 @@ sAU
 ssQ
 substances
 showCalculationRow
+sensomotor
+stocking
+sense
+stream
 QRS
 QT
 QDQ
@@ -32157,6 +32178,8 @@ MvM
 Mgu
 Mbnq
 MXG
+Microvascular
+Manifestations
 Differentiate
 Drugs
 DDx
@@ -33473,6 +33496,7 @@ DEar
 DSP
 Dmu
 DKA
+Dysesthesia
 FFF
 Fib
 Fi
@@ -39135,6 +39159,7 @@ eQK
 externalRowOrder
 eruption
 enuresis
+erectile
 Early
 Elevation
 Etiology
@@ -52627,6 +52652,7 @@ VUN
 VAO
 VSX
 Visual
+Vibration
 up
 unusual
 usually
@@ -58728,6 +58754,7 @@ NuF
 NoH
 NZN
 NkJ
+Numbness
 jEQ
 jL
 jO
