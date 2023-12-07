@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin B7",
+      "path": "USMLE/Biochemistry/Vitamin B7.md"
+    },
+    {
+      "basename": "Pasted image 20231107160524",
+      "path": "appendix/Pasted image 20231107160524.png"
+    },
+    {
       "basename": "Acute appendicitis",
       "path": "USMLE/GI/Acute appendicitis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Anorexia nervosa",
       "path": "USMLE/Psychiatry/Anorexia nervosa.md"
-    },
-    {
-      "basename": "Euthyroid sick syndrome",
-      "path": "USMLE/Endocrine/Euthyroid sick syndrome.md"
-    },
-    {
-      "basename": "Osteoporosis",
-      "path": "USMLE/MSK/Osteoporosis.md"
     }
   ],
   "omittedPaths": [],
