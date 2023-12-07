@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Stomach histology",
+      "path": "USMLE/GI/Stomach histology.md"
+    },
+    {
       "basename": "Meniere disease",
       "path": "USMLE/Neurology/Meniere disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pharyngeal apparatus",
       "path": "USMLE/Reproductive/Pharyngeal apparatus.md"
-    },
-    {
-      "basename": "Calcitonin",
-      "path": "USMLE/Endocrine/Calcitonin.md"
     }
   ],
   "omittedPaths": [],
