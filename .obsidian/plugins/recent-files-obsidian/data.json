@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute appendicitis",
+      "path": "USMLE/GI/Acute appendicitis.md"
+    },
+    {
       "basename": "Stomach histology",
       "path": "USMLE/GI/Stomach histology.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Osteoporosis",
       "path": "USMLE/MSK/Osteoporosis.md"
-    },
-    {
-      "basename": "Pharyngeal apparatus",
-      "path": "USMLE/Reproductive/Pharyngeal apparatus.md"
     }
   ],
   "omittedPaths": [],
