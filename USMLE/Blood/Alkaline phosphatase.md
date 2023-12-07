@@ -20,9 +20,19 @@ A group of enzymes found throughout the body but produced predominantly in the l
 # Differential Diagnosis Based on Elevated LFTs
 
 ## Hepatocellular pattern: Elevated aminotransferases out of proportion to alkaline phosphatase
-
-- **ALT-predominant**:  Acute or chronic viral hepatitis, steatohepatitis, acute Budd-Chiari syndrome, ischemic hepatitis, autoimmune, [[hemochromatosis]], medications/toxins, autoimmune, alpha1-antitrypsin deficiency, [[Wilson disease]], [[Celiac disease]]
-- **AST-predominant**: Alcohol-related, steatohepatitis, [[cirrhosis]], non-hepatic (hemolysis, myopathy, thyroid disease, exercise)
+- AST/ALT < 1 (AST < ALT) (Also called <font color="#ffc000">inflammatory type hepatocellular injury</font>)
+	- Uncomplicated viral hepatitis
+	- Minor fatty liver disease
+	- Extrahepatic cholestasis
+- AST/ALT ≥ 1 (AST > ALT) (Also called <font color="#ffc000">necrotic type hepatocellular injury</font>)
+	- [[Alcoholic hepatitis]]
+		- Typically AST/ALT > 2
+		- AST usually does not exceed 500 U/L in [[alcoholic hepatitis]].
+	- Fulminant, necrotic hepatitis
+	- (Decompensated) [[cirrhosis]]: The AST/ALT ratio can increase as fibrosis advances.
+	- Hepatocellular carcinoma, liver metastases
+	- Muscle damage 
+	- Myocardial infarction
 ## Cholestatic pattern: Elevated alkaline phosphatase +gamma glutamyl transferase + bilirubin out of proportion to AST and ALT
 
 - **Hepatobiliary causes**: Bile duct obstruction, [[Primary biliary cholangitis|primary biliary cirrhosis]], [[primary sclerosing cholangitis]], medication-induced, infiltrating diseases of the liver ([[sarcoidosis]], [[amyloidosis]], lymphoma, among others), [[cystic fibrosis]], hepatic metastasis, cholestasis

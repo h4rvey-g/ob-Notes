@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Halothane hepatitis",
+      "path": "USMLE/GI/Halothane hepatitis.md"
+    },
+    {
+      "basename": "Nonalcoholic fatty liver disease",
+      "path": "USMLE/GI/Nonalcoholic fatty liver disease.md"
+    },
+    {
+      "basename": "Alcoholic hepatitis",
+      "path": "USMLE/GI/Alcoholic hepatitis.md"
+    },
+    {
+      "basename": "Alkaline phosphatase",
+      "path": "USMLE/Blood/Alkaline phosphatase.md"
+    },
+    {
       "basename": "Diabetic neuropathy",
       "path": "USMLE/Endocrine/Diabetic neuropathy.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "HMP shunt",
       "path": "USMLE/Biochemistry/HMP shunt.md"
-    },
-    {
-      "basename": "Maple syrup urine disease",
-      "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
-    },
-    {
-      "basename": "Catecholamine Synthesis",
-      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
-    },
-    {
-      "basename": "Vitamin B3",
-      "path": "USMLE/Biochemistry/Vitamin B3.md"
-    },
-    {
-      "basename": "Urine color",
-      "path": "USMLE/Renal/Urine color.md"
     }
   ],
   "omittedPaths": [],

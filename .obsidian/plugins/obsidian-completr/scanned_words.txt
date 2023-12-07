@@ -1315,6 +1315,7 @@ TZn
 TeQm
 TzqK
 Tingling
+Triglyceride
 differentials
 differential
 diagnosis
@@ -5559,6 +5560,9 @@ rMX
 rows
 retinopathy
 reduction
+remnant
+regardless
+receiving
 narrow
 negative
 not
@@ -6819,6 +6823,9 @@ nDw
 nigricans
 nuchal
 nonenzymatic
+nonalcoholic
+nutrients
+nipples
 tachycardia
 tract
 the
@@ -8309,6 +8316,9 @@ tjRy
 tKxq
 tNbbb
 tuning
+transparent
+toAST
+transaminases
 in
 includes
 involving
@@ -9834,6 +9844,10 @@ intertriginous
 inheritance
 itching
 income
+infiltrated
+ipids
+intracytoplasmic
+immunoreaction
 general
 giving
 generation
@@ -12505,6 +12519,8 @@ mnl
 miUeuZ
 mHn
 microvascular
+macrovesicular
+massive
 Sinus
 ST
 Segment
@@ -13829,6 +13845,7 @@ Sxe
 Symmetrical
 Specific
 Strict
+Schaumann
 AVNRT
 Atrial
 AVRT
@@ -17721,6 +17738,10 @@ axillae
 axilla
 acanthosis
 axon
+apoptotic
+antiviral
+alcoholic
+advances
 ventricular
 varying
 vaccines
@@ -20565,6 +20586,9 @@ cGUWW
 cIU
 cTC
 crucial
+contraindications
+cracked
+centrilobular
 bypass
 block
 background
@@ -21925,6 +21949,7 @@ bEf
 bwnc
 blurred
 balance
+ballooning
 flutter
 from
 focus
@@ -23318,6 +23343,7 @@ fMk
 frontmatterKey
 filters
 fork
+filaments
 with
 wave
 which
@@ -24501,6 +24527,7 @@ wJUe
 wfZ
 wOMMMk
 wTZq
+withdrawal
 Whenever
 Widening
 William
@@ -28318,6 +28345,9 @@ sensomotor
 stocking
 sense
 stream
+swollen
+steatosis
+stratification
 QRS
 QT
 QDQ
@@ -30895,6 +30925,8 @@ lbq
 lpzrFDD
 lQl
 lib
+lobules
+laminar
 Multifocal
 Mild
 Moderate
@@ -32180,6 +32212,9 @@ Mbnq
 MXG
 Microvascular
 Manifestations
+Macrovesicular
+Mallory
+Myocardial
 Differentiate
 Drugs
 DDx
@@ -33497,6 +33532,9 @@ DSP
 Dmu
 DKA
 Dysesthesia
+Descriptions
+Damaged
+Decompensated
 FFF
 Fib
 Fi
@@ -34785,6 +34823,7 @@ Ftuuczz
 FyR
 FLd
 FRuEP
+Fibrous
 In
 It
 Intraventricular
@@ -36248,6 +36287,8 @@ IqM
 IZw
 IQq
 IGF
+Interface
+Indicates
 PACs
 Primary
 Pathophysiology
@@ -37670,6 +37711,8 @@ Pmk
 PCOS
 Pathogenesis
 Polyphagia
+Periportal
+Perinatal
 ectopic
 elevation
 early
@@ -39160,6 +39203,7 @@ externalRowOrder
 eruption
 enuresis
 erectile
+exceed
 Early
 Elevation
 Etiology
@@ -40492,6 +40536,7 @@ EEV
 ENs
 Endocrinal
 Elderly
+Extrahepatic
 LEFT
 Lengthening
 Left
@@ -43158,6 +43203,9 @@ HKh
 HMAT
 HXjZIb
 HZy
+Hepatomegaly
+Hepatocytes
+HBsAg
 hyperkalemia
 hypertrophy
 hereditary
@@ -44565,6 +44613,9 @@ hkc
 hmH
 hyperglycemic
 hyperosmolar
+hepatocytes
+hydropic
+halothane
 peaked
 pattern
 precordial
@@ -46189,6 +46240,7 @@ pMRV
 pXe
 pseudoacanthosis
 papillomatous
+piecemeal
 Unusual
 Usually
 Upc
@@ -47366,6 +47418,7 @@ UZi
 UVX
 Uzl
 Unexplained
+Uncomplicated
 Bundle
 Branch
 Block
@@ -48660,6 +48713,8 @@ Bsm
 BtD
 BbRV
 BxE
+Bridging
+Breastfeeding
 Characteristic
 CLL
 Clinical
@@ -49974,6 +50029,7 @@ CoY
 Cjj
 CZQ
 Cushing
+Councilman
 Right
 Retrograde
 Rates
@@ -56199,6 +56255,7 @@ GBj
 GDDDDDDD
 Galactose
 Galactitol
+Ground
 Jervell
 JYo
 JO
@@ -58755,6 +58812,8 @@ NoH
 NZN
 NkJ
 Numbness
+NAFLD
+NASH
 jEQ
 jL
 jO
