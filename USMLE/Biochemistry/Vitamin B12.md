@@ -11,7 +11,6 @@ share: true
 	- Methionine synthase: Methylcobalamin is required for the transfer of methyl groups (e.g., in DNA synthesis).
 	- Methylmalonyl-CoA mutase (e.g., in odd-chain fatty acid metabolism)
 
-
 ---
 # Epidemiology
 
@@ -34,7 +33,7 @@ share: true
 		- Enteritis
 		- Achlorhydria
 - Malnutrition
-	- Anorexia nervosa
+	- [[Anorexia nervosa]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Strict vegan diets: occurs only after years of a strict diet that excludes all animal products (unlike folate deficiency, which occurs within a few months of insufficient intake)</span>
 		- Found almost exclusively in animal products (except yeast extract)
 - Increased demand: e.g., during pregnancy, breastfeeding, fish tapeworm (Diphyllobothrium latum) infection, and leukemia [1]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md",
+                "file": "USMLE/Reproductive/Polycystic ovary syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md",
+                "file": "USMLE/Reproductive/Polycystic ovary syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md",
+                "file": "USMLE/Reproductive/Polycystic ovary syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/HMP shunt.md"
+                "file": "USMLE/Reproductive/Polycystic ovary syndrome.md"
               }
             }
           }
@@ -223,6 +223,14 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/MSK/Acanthosis nigricans.md",
+    "USMLE/Reproductive/Polycystic ovary syndrome.md",
+    "USMLE/Biochemistry/Vitamin B12.md",
+    "USMLE/Biochemistry/Maple syrup urine disease.md",
+    "appendix/Pasted image 20231117163430.png",
+    "USMLE/Biochemistry/Urea cycle.md",
+    "appendix/Pasted image 20231108214012.png",
+    "USMLE/Biochemistry/HMP shunt.md",
     "appendix/Pasted image 20231113170927.png",
     "appendix/De Novo Purine Synthesis - OG copy.png",
     "USMLE/Biochemistry/Homocystinuria.md",
@@ -239,9 +247,6 @@
     "USMLE/Pathology/Li-Fraumeni syndrome.md",
     "USMLE/MSK/Oral white lesions.md",
     "appendix/Pasted image 20231207105737.png",
-    "appendix/Pasted image 20231207104851.png",
-    "appendix/Pasted image 20231207104642.png",
-    "appendix/Pasted image 20231207104421.png",
     "USMLE/GI/Ulcerative colitis.md",
     "USMLE/GI/Peptic ulcer disease.md",
     "USMLE/GI/Liver zones.md",
@@ -254,11 +259,6 @@
     "USMLE/GI/Hepatitis B.md",
     "USMLE/Endocrine/Diabetic neuropathy.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
-    "USMLE/Endocrine/Diabetic gastroparesis.md",
-    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-    "USMLE/Lab Values.md",
-    "USMLE/MSK/Acanthosis nigricans.md",
-    "USMLE/Renal/Diabetes insipidus.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
