@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "HMP shunt",
+      "path": "USMLE/Biochemistry/HMP shunt.md"
+    },
+    {
+      "basename": "Pasted image 20231113170927",
+      "path": "appendix/Pasted image 20231113170927.png"
+    },
+    {
+      "basename": "De Novo Purine Synthesis - OG copy",
+      "path": "appendix/De Novo Purine Synthesis - OG copy.png"
+    },
+    {
+      "basename": "Homocystinuria",
+      "path": "USMLE/Biochemistry/Homocystinuria.md"
+    },
+    {
+      "basename": "Pasted image 20231111104739",
+      "path": "appendix/Pasted image 20231111104739.png"
+    },
+    {
       "basename": "Vitamin B7",
       "path": "USMLE/Biochemistry/Vitamin B7.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Pancreatic cancer",
       "path": "USMLE/GI/Pancreatic cancer.md"
-    },
-    {
-      "basename": "Chronic pancreatitis",
-      "path": "USMLE/GI/Chronic pancreatitis.md"
-    },
-    {
-      "basename": "Acute pancreatitis",
-      "path": "USMLE/GI/Acute pancreatitis.md"
-    },
-    {
-      "basename": "Steatorrhea",
-      "path": "USMLE/GI/Steatorrhea.md"
-    },
-    {
-      "basename": "Pancreatic neuroendocrine tumors",
-      "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
-    },
-    {
-      "basename": "Anorexia nervosa",
-      "path": "USMLE/Psychiatry/Anorexia nervosa.md"
     }
   ],
   "omittedPaths": [],
