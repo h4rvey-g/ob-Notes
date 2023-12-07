@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
-                "mode": "preview",
+                "file": "USMLE/MSK/Oral white lesions.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/MSK/Oral white lesions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md",
+                "file": "USMLE/MSK/Oral white lesions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Ulcerative colitis.md"
+                "file": "USMLE/MSK/Oral white lesions.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231207103929.png",
+    "USMLE/GI/Ulcerative colitis.md",
+    "USMLE/MSK/Oral white lesions.md",
     "USMLE/GI/Peptic ulcer disease.md",
     "USMLE/GI/Liver zones.md",
     "appendix/Pasted image 20231207091221.png",
@@ -257,9 +260,6 @@
     "USMLE/Reproductive/Menopause.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Biochemistry/Ketone body synthesis.md",
-    "USMLE/Biochemistry/Metabolic fuel use.md",
-    "USMLE/Infective disease/Schistosomiasis.md",
-    "USMLE/Renal/Urinary tract cancer.md",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
     "USMLE/Biochemistry/Untitled.loom",

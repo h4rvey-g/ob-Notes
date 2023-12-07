@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Oral white lesions",
+      "path": "USMLE/MSK/Oral white lesions.md"
+    },
+    {
       "basename": "Ulcerative colitis",
       "path": "USMLE/GI/Ulcerative colitis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Homocystinuria",
       "path": "USMLE/Biochemistry/Homocystinuria.md"
-    },
-    {
-      "basename": "TCA cycle",
-      "path": "USMLE/Biochemistry/TCA cycle.md"
     }
   ],
   "omittedPaths": [],
