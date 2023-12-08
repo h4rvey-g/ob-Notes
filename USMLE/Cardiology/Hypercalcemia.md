@@ -38,5 +38,12 @@ PTH-mediated or non-PTH-mediated causes
 - Nausea and vomiting
 - Anorexia
 - [[Peptic ulcer disease]]
-ECG: Shorten QT interval
+	- hypercalcemia-induced increase of gastric acid secretion and gastrin levels.
+- Neuropsychiatric symptoms such as anxiety, depression, fatigue, and cognitive dysfunction
+- Diminished muscle excitability
+	- Cardiac arrhythmias
+		- ECG: Shorten QT interval
+	- Muscle weakness, paresis
+- <span style="background:rgba(240, 200, 0, 0.2)">Polyuria and dehydration</span>
+	- Due to acquired renal ADH resistance. Although ADH is being secreted, the kidneys no longer respond to it adequately (nephrogenic [[diabetes insipidus]]).
 ![[Pasted image 20230622205511.png]]

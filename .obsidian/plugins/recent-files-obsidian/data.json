@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hyperparathyroidism",
+      "path": "USMLE/Endocrine/Hyperparathyroidism.md"
+    },
+    {
       "basename": "Hypercalcemia",
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hypothyroidism",
       "path": "USMLE/Biochemistry/Hypothyroidism.md"
-    },
-    {
-      "basename": "Hyperthyroidism",
-      "path": "USMLE/Endocrine/Hyperthyroidism.md"
     }
   ],
   "omittedPaths": [],
