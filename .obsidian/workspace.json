@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md",
+                "file": "USMLE/Cardiology/Hypercalcemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md"
+                "file": "USMLE/Cardiology/Hypercalcemia.md"
               }
             }
           }
@@ -223,20 +223,24 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Renal/Parathyroid hormone-related protein.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Reproductive/Polycystic ovary syndrome.md",
+    "appendix/Pasted image 20231208172457.png",
+    "appendix/Pasted image 20231208172449.png",
+    "USMLE/Endocrine/Adrenal insufficiency.md",
+    "USMLE/Neurology/Syndrome of inappropriate antidiuretic hormone secretion.md",
+    "USMLE/Renal/Urine specific gravity.md",
     "USMLE/Psychiatry/Anorexia nervosa.md",
     "USMLE/Endocrine/Euthyroid sick syndrome.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "appendix/Pasted image 20231208143231.png",
-    "USMLE/Endocrine/Adrenal insufficiency.md",
-    "USMLE/Neurology/Syndrome of inappropriate antidiuretic hormone secretion.md",
     "USMLE/Renal/Renal physiology.md",
     "USMLE/Renal/Diabetes insipidus.md",
     "appendix/Pasted image 20231204113426.png",
-    "USMLE/Renal/Urine specific gravity.md",
     "USMLE/Renal/Urine osmolality.md",
     "USMLE/Endocrine/Cushing syndrome.md",
     "appendix/Pasted image 20231208103735.png",
-    "USMLE/Reproductive/Polycystic ovary syndrome.md",
     "appendix/Pasted image 20231208102353.png",
     "USMLE/MSK/Alopecia.md",
     "USMLE/Reproductive/Menopause.md",
@@ -250,15 +254,11 @@
     "appendix/Pasted image 20231113170927.png",
     "appendix/De Novo Purine Synthesis - OG copy.png",
     "USMLE/Biochemistry/Homocystinuria.md",
-    "appendix/Pasted image 20231111104739.png",
     "USMLE/Biochemistry/Vitamin B7.md",
     "USMLE/Biochemistry/Vitamin K.md",
-    "appendix/Pasted image 20231107160524.png",
     "USMLE/GI/Acute appendicitis.md",
     "USMLE/GI/Stomach histology.md",
     "USMLE/Neurology/Meniere disease.md",
-    "USMLE/Pathology/Li-Fraumeni syndrome.md",
-    "USMLE/MSK/Oral white lesions.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

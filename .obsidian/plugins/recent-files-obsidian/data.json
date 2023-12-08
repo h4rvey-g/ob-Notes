@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hypercalcemia",
+      "path": "USMLE/Cardiology/Hypercalcemia.md"
+    },
+    {
+      "basename": "Polycystic ovary syndrome",
+      "path": "USMLE/Reproductive/Polycystic ovary syndrome.md"
+    },
+    {
       "basename": "Adrenal insufficiency",
       "path": "USMLE/Endocrine/Adrenal insufficiency.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Cushing syndrome",
       "path": "USMLE/Endocrine/Cushing syndrome.md"
-    },
-    {
-      "basename": "Polycystic ovary syndrome",
-      "path": "USMLE/Reproductive/Polycystic ovary syndrome.md"
     },
     {
       "basename": "Alopecia",
@@ -195,10 +199,6 @@
     {
       "basename": "Hyperthyroidism",
       "path": "USMLE/Endocrine/Hyperthyroidism.md"
-    },
-    {
-      "basename": "Menopause",
-      "path": "USMLE/Reproductive/Menopause.md"
     }
   ],
   "omittedPaths": [],

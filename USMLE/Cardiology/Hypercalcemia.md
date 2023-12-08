@@ -3,7 +3,7 @@ title: Hypercalcemia
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
-aliases: <% tp.file.title %>
+aliases: []
 share: true
 ---
 
@@ -18,15 +18,15 @@ PTH-mediated or non-PTH-mediated causes
 >For causes of hypercalcemia, remember “Thinking Chimpanzees!”
 >- Thinking: [[Thiazides]], thyroid
 >- Calcium supplementation
->- Hyperparathyroidism
+>- [[Hyperparathyroidism]]
 >- Immobilization, inherited (FHH)
 >- Milk-alkali synd., meds ([[thiazides]], lithium)
 >- Paraneoplastic [[Parathyroid hormone-related protein|PTHrP]]
->- Adrenal insufficiency
+>- [[Adrenal insufficiency]]
 >- Neoplasm (multiple myeloma, breast, lung)
->- Zollinger-Ellison syndrome
+>- [[Gastrinoma|Zollinger-Ellison syndrome]]
 >- Excessive vitamin D
->- Excessive vitamin A
+>- Excessive [[vitamin A]]
 >- [[Sarcoidosis]] & granulomatous diseases
 # Clinical features
 ECG: Shorten QT interval

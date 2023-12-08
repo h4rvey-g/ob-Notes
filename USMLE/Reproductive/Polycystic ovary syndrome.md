@@ -18,10 +18,10 @@ share: true
 # Pathophysiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Strong association with obesity → ↑ in peripheral estrogen synthesis from adipose tissue and ↓ in peripheral sensitivity to insulin</span>
 	- Estrogen is also produced in other aromatase-containing tissues: Fatty tissue, Placenta
-- Reduced insulin sensitivity (peripheral insulin resistance) and the consequent hyperinsulinemia result in:
+- <span style="background:rgba(240, 200, 0, 0.2)">Reduced insulin sensitivity (peripheral insulin resistance) and the consequent hyperinsulinemia</span> result in: ↑LH:FSH
 	- Epidermal hyperplasia and hyperpigmentation ([[acanthosis nigricans]])
-	- ↑ Androgen production in ovarian theca interna cells → imbalance between androgen precursors and the resulting estrogen produced in granulosa cells
-		- ↑ LH secretion disrupts the LH/FSH balance → impaired follicle maturation with cyst formation due to lack of follicle rupture and anovulation/oligoovulation → infertility
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Androgen production in ovarian theca interna cells</span> → imbalance between androgen precursors and the resulting estrogen produced in granulosa cells
+		- <span style="background:rgba(240, 200, 0, 0.2)">↑ LH secretion disrupts the LH/FSH balance → impaired follicle maturation → unruptured follicles and anovulation/oligoovulation</span> <span style="background:rgba(240, 200, 0, 0.2)">→ cyst formation</span> and infertility![[Pasted image 20231208172457.png]]
 		- ↑ Androgen precursor release and ↑ estrogen production in adipose tissue
 	- Inhibition of SHBG in the liver → ↑ free androgens and estrogens
 		- <span style="background:rgba(240, 200, 0, 0.2)">↑ Unopposed estrogen (lack of progesterone) during anovulatory cycles → endometrial hyperplasia → ↑ risk of endometrial carcinoma</span>
