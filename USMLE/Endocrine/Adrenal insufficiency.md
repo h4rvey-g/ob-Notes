@@ -32,9 +32,17 @@ Tertiary adrenal insufficiency is caused by conditions that decrease CRH product
 	- Glucocorticoids play an important role in catecholamine‑induced vasoconstriction and myocardial contractility.
 ### Lab findings
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypoglycemia </span>
-	- Glucocorticoids inhibit peripheral glucose utilization and increase gluconeogenesis.
+	- Glucocorticoids inhibit peripheral glucose utilization and increase [[gluconeogenesis]].
 - <span style="background:rgba(240, 200, 0, 0.2)">Hyponatremia</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Glucocorticoids inhibit ADH secretion and thereby prevent excessive water retention. With adrenal insufficiency, ADH secretion is disinhibited causing increased reabsorption of free water with subsequent dilution hyponatremia.</span>
+## Hypoandrogenism
+- Loss of libido
+- Loss of axillary and pubic hair
+### Lab findings
+- ↓ DHEA-S
+## Elevated ACTH
+- Hyperpigmentation of areas that are not normally exposed to sunlight (e.g., palmar creases, mucous membrane of the oral cavity)
+	- caused by increased production of MSH, which is cleaved from the same precursor peptide (POMC) as ACTH.
 
 ---
 # Diagnostics
