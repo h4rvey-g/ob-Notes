@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cushing syndrome",
+      "path": "USMLE/Endocrine/Cushing syndrome.md"
+    },
+    {
       "basename": "Polycystic ovary syndrome",
       "path": "USMLE/Reproductive/Polycystic ovary syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231101150650",
       "path": "appendix/Pasted image 20231101150650.png"
-    },
-    {
-      "basename": "Graves disease",
-      "path": "USMLE/Endocrine/Graves disease.md"
     }
   ],
   "omittedPaths": [],

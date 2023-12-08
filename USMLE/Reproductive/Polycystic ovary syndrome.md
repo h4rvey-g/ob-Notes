@@ -46,6 +46,7 @@ Onset of symptoms typically occurs during adolescence.
 	- [[Acanthosis nigricans]]
 - Psychiatric conditions
 - Malignancy (increased risk before [[menopause]]): Endometrial cancer
+![[Pasted image 20231208102353.png]]
 
 ---
 # Diagnostics
