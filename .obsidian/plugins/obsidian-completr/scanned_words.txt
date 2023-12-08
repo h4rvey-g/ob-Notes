@@ -2939,6 +2939,7 @@ dAj
 dUbl
 dgM
 drc
+diaphragm
 of
 over
 originate
@@ -5714,6 +5715,8 @@ rVj
 rKbW
 rxj
 rOOO
+radiolucency
+rarification
 narrow
 negative
 not
@@ -10086,6 +10089,7 @@ ice
 ihhho
 iXS
 iiiJ
+intercostal
 general
 giving
 generation
@@ -21075,6 +21079,7 @@ clv
 czhY
 crmjr
 cccPP
+centriacinar
 bypass
 block
 background
@@ -23869,6 +23874,7 @@ fpzL
 fPZ
 fxz
 fDb
+flat
 with
 wave
 which
@@ -26203,6 +26209,7 @@ WOs
 WVZ
 WXn
 WRSS
+Widened
 you
 young
 ybif
@@ -28987,6 +28994,7 @@ sFT
 sEU
 sof
 sfgg
+spherical
 QRS
 QT
 QDQ
@@ -38551,6 +38559,8 @@ Ptz
 PKusx
 PFwZp
 PzX
+Panacinar
+Prussian
 ectopic
 elevation
 early
@@ -41447,6 +41457,7 @@ EVP
 EEEe
 Ecs
 EQs
+Electrophoresis
 LEFT
 Lengthening
 Left
@@ -44165,6 +44176,7 @@ Hrn
 HbN
 HuqH
 HiS
+Hyperinflation
 hyperkalemia
 hypertrophy
 hereditary
