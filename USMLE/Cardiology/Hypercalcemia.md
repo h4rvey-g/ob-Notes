@@ -29,5 +29,14 @@ PTH-mediated or non-PTH-mediated causes
 >- Excessive [[vitamin A]]
 >- [[Sarcoidosis]] & granulomatous diseases
 # Clinical features
+- <span style="background:rgba(240, 200, 0, 0.2)">Nephrolithiasis</span>, nephrocalcinosis (calcium oxalate > calcium phosphate stones)
+- <span style="background:rgba(240, 200, 0, 0.2)">Bone pain</span>, arthralgias, myalgias, fractures
+	- Because most of the calcium is released from bones
+- <span style="background:rgba(240, 200, 0, 0.2)">Constipation</span>
+	- Increase in extracellular Ca2+ → membrane potential outside is more positive → more amount of depolarization is needed to initiate action potential → decreased excitability of muscle and nerve tissue
+- Abdominal pain
+- Nausea and vomiting
+- Anorexia
+- Peptic ulcer disease
 ECG: Shorten QT interval
 ![[Pasted image 20230622205511.png]]
