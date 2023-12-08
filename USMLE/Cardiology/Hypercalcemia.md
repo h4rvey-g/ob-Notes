@@ -34,7 +34,7 @@ PTH-mediated or non-PTH-mediated causes
 	- Because most of the calcium is released from bones
 - <span style="background:rgba(240, 200, 0, 0.2)">Constipation</span>
 	- Increase in extracellular Ca2+ → membrane potential outside is more positive → more amount of depolarization is needed to initiate action potential → decreased excitability of muscle and nerve tissue
-- Abdominal pain
+- <span style="background:rgba(240, 200, 0, 0.2)">Abdominal pain</span>
 - Nausea and vomiting
 - Anorexia
 - [[Peptic ulcer disease]]
