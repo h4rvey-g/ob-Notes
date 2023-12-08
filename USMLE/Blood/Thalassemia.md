@@ -6,10 +6,10 @@ aliases: Untitled
 share: true
 ---
 # Epidemiology
-- Beta thalassemia: most commonly seen in people of Mediterranean descent
-- Alpha thalassemia: most commonly seen in people of Asian and African descent
+- Beta thalassemia:<font color="#ffc000"></font> most commonly seen in people of Mediterranean descent
+- <span style="background:rgba(240, 200, 0, 0.2)">Alpha thalassemia: most commonly seen in people of Asian and African descent</span>
 >[!Mnemonic] 
->Alpha thalassemia is common in Asia and Africa.
+><font color="#ffc000">A</font>lpha thalassemia is common in <font color="#ffc000">A</font>sia and <font color="#ffc000">A</font>frica.
 
 ---
 # Etiology

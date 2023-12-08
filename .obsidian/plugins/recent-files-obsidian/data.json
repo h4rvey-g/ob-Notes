@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Thalassemia",
+      "path": "USMLE/Blood/Thalassemia.md"
+    },
+    {
       "basename": "Cushing syndrome",
       "path": "USMLE/Endocrine/Cushing syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Galactose metabolism",
       "path": "USMLE/Biochemistry/Galactose metabolism.md"
-    },
-    {
-      "basename": "Pasted image 20231203113830",
-      "path": "appendix/Pasted image 20231203113830.png"
     }
   ],
   "omittedPaths": [],
