@@ -12,8 +12,8 @@ share: true
 # Etiology
 - Parenteral
 	- Needle sharing among individuals who use injection drugs 
-	- Needlestick injury (e.g., health care workers)  [7]
-	- Blood [[transfusion]]  [8]
+	- Needlestick injury (e.g., health care workers)
+	- Blood [[transfusion]]
 	- Dialysis
 - Organ transplantation
 - Sexual: rare (in contrast to HBV and HIV)
@@ -27,7 +27,7 @@ share: true
 ## Incubation period
 - 2 weeks to 6 months
 ## Chronic course
-- Seen especially in asymptomatic individuals (up to 85%), as the disease may go undiagnosed and treatment may be delayed or never initiated (carrier state). [1]
+- Seen especially in asymptomatic individuals (up to 85%), as the disease may go undiagnosed and treatment may be delayed or never initiated (carrier state).
 - Findings often mild, nonspecific (e.g., fatigue)
 - Liver [[cirrhosis]] (up to 25% of cases) within 20 years of infection
 - Extrahepatic features of HCV (common) 
@@ -42,10 +42,10 @@ share: true
 		- Membranous glomerulonephritis
 	- Dermatological
 		- <span style="background:rgba(240, 200, 0, 0.2)">Porphyria cutanea tarda</span>
-		- Lichen planus
+		- [[Oral white lesions|Lichen planus]]
 	- Endocrine
-		- Diabetes mellitus
-		- Autoimmune thyroiditis (may lead to hypothyroidism)
+		- [[Diabetes mellitus]]
+		- Autoimmune thyroiditis (may lead to [[hypothyroidism]])
 	- Vascular: leukocytoclastic vasculitis
 
 ---
@@ -54,6 +54,19 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+## Antiviral therapy
+- Direct-acting antivirals (DAAs)
+	- Antivirals target and inhibit HCV-encoded proteins that are essential for the HCV replication cycle.
+	- Example regimens
+		- Glecaprevir PLUS pibrentasvir (all 6 genotypes)
+		- Sofosbuvir PLUS velpatasvir (all 6 genotypes)
+		- Ledipasvir PLUS sofosbuvir (genotypes 1, 4, 5, and 6)
+- Interferon PLUS ribavirin
+	- Was the preferred treatment before the development of DAAs
+	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with severe adverse effects</span> (e.g., arthralgias, thrombocytopenia, leukopenia, depression, anemia) and teratogenicity
+	- Contraindicated in patients with decompensated [[cirrhosis]] (high risk of worsening [[cirrhosis]] decompensation)
+
+>[!tip] 
+>DAAs have superior efficacy and safety profiles compared with interferon or ribavirin-based regimens and are thus preferred.
 
 ---

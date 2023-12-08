@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Oral white lesions",
+      "path": "USMLE/MSK/Oral white lesions.md"
+    },
+    {
+      "basename": "Hepatitis C",
+      "path": "USMLE/GI/Hepatitis C.md"
+    },
+    {
+      "basename": "Hepatitis B",
+      "path": "USMLE/GI/Hepatitis B.md"
+    },
+    {
+      "basename": "De Novo Purine Synthesis - OG copy",
+      "path": "appendix/De Novo Purine Synthesis - OG copy.png"
+    },
+    {
+      "basename": "Pasted image 20231002103937",
+      "path": "appendix/Pasted image 20231002103937.png"
+    },
+    {
+      "basename": "Adrenal insufficiency",
+      "path": "USMLE/Endocrine/Adrenal insufficiency.md"
+    },
+    {
+      "basename": "Pasted image 20231117165441",
+      "path": "appendix/Pasted image 20231117165441.png"
+    },
+    {
       "basename": "Alpha-1 antitrypsin deficiency",
       "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
     },
@@ -69,10 +97,6 @@
       "path": "appendix/Pasted image 20231113170927.png"
     },
     {
-      "basename": "De Novo Purine Synthesis - OG copy",
-      "path": "appendix/De Novo Purine Synthesis - OG copy.png"
-    },
-    {
       "basename": "Homocystinuria",
       "path": "USMLE/Biochemistry/Homocystinuria.md"
     },
@@ -103,10 +127,6 @@
     {
       "basename": "Li-Fraumeni syndrome",
       "path": "USMLE/Pathology/Li-Fraumeni syndrome.md"
-    },
-    {
-      "basename": "Oral white lesions",
-      "path": "USMLE/MSK/Oral white lesions.md"
     },
     {
       "basename": "Ulcerative colitis",
@@ -179,26 +199,6 @@
     {
       "basename": "Hypothyroidism",
       "path": "USMLE/Biochemistry/Hypothyroidism.md"
-    },
-    {
-      "basename": "Hyperthyroidism",
-      "path": "USMLE/Endocrine/Hyperthyroidism.md"
-    },
-    {
-      "basename": "Menopause",
-      "path": "USMLE/Reproductive/Menopause.md"
-    },
-    {
-      "basename": "Lipid-lowering agents",
-      "path": "USMLE/Cardiology/Lipid-lowering agents.md"
-    },
-    {
-      "basename": "Pasted image 20231012113514",
-      "path": "appendix/Pasted image 20231012113514.png"
-    },
-    {
-      "basename": "Ketone body synthesis",
-      "path": "USMLE/Biochemistry/Ketone body synthesis.md"
     }
   ],
   "omittedPaths": [],

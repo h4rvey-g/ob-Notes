@@ -11,9 +11,11 @@
             "id": "6a783152b61b4f52",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Pasted image 20231117165441.png"
+                "file": "USMLE/MSK/Oral white lesions.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -109,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "appendix/Pasted image 20231117165441.png",
+            "file": "USMLE/MSK/Oral white lesions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "appendix/Pasted image 20231117165441.png",
+            "file": "USMLE/MSK/Oral white lesions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -138,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "appendix/Pasted image 20231117165441.png"
+            "file": "USMLE/MSK/Oral white lesions.md"
           }
         }
       },
@@ -188,8 +190,14 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231107160524.png",
+    "USMLE/GI/Hepatitis C.md",
+    "USMLE/GI/Hepatitis B.md",
+    "appendix/De Novo Purine Synthesis - OG copy.png",
+    "appendix/Pasted image 20231002103937.png",
+    "USMLE/Endocrine/Adrenal insufficiency.md",
+    "appendix/Pasted image 20231208143231.png",
     "appendix/Pasted image 20231117165441.png",
+    "appendix/Pasted image 20231107160524.png",
     "appendix/Pasted image 20231107154612.png",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Respiratory/Oxygen dissociation curve.md",
@@ -212,18 +220,11 @@
     "appendix/Pasted image 20231029162851.png",
     "appendix/Pasted image 20230928151653.png",
     "USMLE/MSK/Vasculitides.md",
-    "appendix/Pasted image 20231029162243.png",
     "USMLE/GI/Pectinate line.md",
-    "appendix/Pasted image 20231029154259.png",
-    "appendix/Pasted image 20231029153854.png",
     "USMLE/Blood/Heme synthesis.md",
-    "USMLE/GI/Hepatitis C.md",
-    "appendix/Pasted image 20231029144558.png",
     "USMLE/GI/Erosive gastritis.md",
-    "USMLE/GI/Hepatitis B.md",
     "USMLE/GI/Wilson disease.md",
     "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
-    "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Psychiatry",
     "USMLE/Respiratory"
   ]

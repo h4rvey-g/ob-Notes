@@ -1,25 +1,24 @@
 {
   "github": {
+    "user": "h4rvey-g",
+    "repo": "Notes-blog",
     "branch": "main",
     "automaticallyMergePR": true,
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
     },
-    "otherRepo": [],
     "workflow": {
-      "name": "",
-      "commitMessage": "PUBLISHER"
+      "commitMessage": "PUBLISHER",
+      "name": ""
     },
-    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
-    "repo": "Notes-blog",
-    "user": "h4rvey-g",
-    "rateLimit": 4924,
-    "verifiedRepo": true
+    "otherRepo": [],
+    "verifiedRepo": true,
+    "rateLimit": 4924
   },
   "upload": {
     "behavior": "obsidian",
-    "subFolder": "",
     "defaultName": "docs",
     "rootFolder": "docs",
     "yamlFolderKey": "category",
@@ -28,6 +27,7 @@
       "key": "title"
     },
     "replaceTitle": [],
+    "replacePath": [],
     "autoclean": {
       "enable": true,
       "excluded": [
@@ -40,10 +40,14 @@
     },
     "folderNote": {
       "enable": true,
-      "rename": "index.md"
+      "rename": "index.md",
+      "addTitle": {
+        "enable": false,
+        "key": "title"
+      }
     },
     "metadataExtractorPath": "",
-    "replacePath": []
+    "subFolder": ""
   },
   "conversion": {
     "hardbreak": false,
@@ -57,16 +61,20 @@
     "links": {
       "internal": true,
       "unshared": true,
-      "wiki": false
+      "wiki": false,
+      "slugify": false
     }
   },
   "embed": {
     "attachments": true,
+    "forcePushAttachments": [],
     "keySendFile": [
       "image"
     ],
     "notes": true,
-    "folder": "docs/assets/img"
+    "folder": "docs/assets/img",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->"
   },
   "plugin": {
     "shareKey": "share",
@@ -86,5 +94,6 @@
     "noticeError": true,
     "displayModalRepoEditing": false,
     "migrated": true
-  }
+  },
+  "tabsID": "github-configuration"
 }
