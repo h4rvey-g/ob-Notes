@@ -29,7 +29,7 @@ PTH-mediated or non-PTH-mediated causes
 >- Excessive [[vitamin A]]
 >- [[Sarcoidosis]] & granulomatous diseases
 # Clinical features
-- <span style="background:rgba(240, 200, 0, 0.2)">Nephrolithiasis</span>, nephrocalcinosis (calcium oxalate > calcium phosphate stones)
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Nephrolithiasis]]</span>, nephrocalcinosis (calcium oxalate > calcium phosphate stones)
 - <span style="background:rgba(240, 200, 0, 0.2)">Bone pain</span>, arthralgias, myalgias, fractures
 	- Because most of the calcium is released from bones
 - <span style="background:rgba(240, 200, 0, 0.2)">Constipation</span>
@@ -37,6 +37,6 @@ PTH-mediated or non-PTH-mediated causes
 - Abdominal pain
 - Nausea and vomiting
 - Anorexia
-- Peptic ulcer disease
+- [[Peptic ulcer disease]]
 ECG: Shorten QT interval
 ![[Pasted image 20230622205511.png]]
