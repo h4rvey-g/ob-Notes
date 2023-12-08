@@ -19,7 +19,8 @@ share: true
 
 ---
 # Clinical features
-
+>[!Mnemonic] 
+>诱发三高和溃疡，伤口感染不好长，骨松眼青人发狂
 
 ---
 # Diagnostics

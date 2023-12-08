@@ -54,13 +54,13 @@ Tertiary adrenal insufficiency is caused by conditions that <span style="backgro
 
 ---
 # Adrenal crisis
-Adrenal crisis is an acute, severe glucocorticoid deficiency that requires immediate emergency treatment.
+Adrenal crisis is an <span style="background:rgba(240, 200, 0, 0.2)">acute, severe glucocorticoid deficiency that requires immediate emergency treatment.</span>
 ## Precipitating factors for adrenal crisis
-- Stress in patients with underlying adrenal insufficiency e.g.:
+- <span style="background:rgba(240, 200, 0, 0.2)">Stress in patients with underlying adrenal insufficiency</span> e.g.:
 	- Gastrointestinal illness (most common)
 	- Other infections
 	- Perioperative period
-- Sudden discontinuation of glucocorticoids after prolonged glucocorticoid therapy 
+- <span style="background:rgba(240, 200, 0, 0.2)">Sudden discontinuation of glucocorticoids</span> after prolonged glucocorticoid therapy 
 - Bilateral adrenal hemorrhage or infarction (e.g., Waterhouse-Friderichsen syndrome)
 - Pituitary apoplexy
 >[!tip] 
