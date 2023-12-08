@@ -19,7 +19,7 @@ share: true
 # Pathophysiology
 - **Inefficient erythropoiesis** → [[anemia]] 
 	- Beta-thalassemia minor and major: faulty β-globin chain synthesis → ↓ β-chains→ <span style="background:rgba(240, 200, 0, 0.2)">↑ γ-,δ-chains → ↑ HbF and ↑ HbA2. </span>
-	- Alpha-thalassemia intermedia (HbH disease) and alpha-thalassemia major (Bart's disease): faulty α-globin chain synthesis → <span style="background:rgba(240, 200, 0, 0.2)">↓ α-chains → impaired pairing of α-chains with β-chains and γ-chains→ ↑ free β-, γ-chains → ↑ HbH, ↑ [[Hemoglobin Barts|Hb Barts]] </span>
+	- Alpha-thalassemia intermedia (HbH disease) and alpha-thalassemia major (Bart's disease): faulty α-globin chain synthesis → <span style="background:rgba(240, 200, 0, 0.2)">↓ α-chains → impaired pairing of α-chains with β-chains and γ-chains→ ↑ free β-, γ-chains → ↑ HbH, ↑ [[Hemoglobin Barts|Hb Barts]] </span>![[Pasted image 20231208210704.png]]
 - **Increased hemolysis**: One of the chains (either α or β) is reduced → compensatory overproduction of other chains → <span style="background:rgba(240, 200, 0, 0.2)">excess globin chains precipitate and form inclusions within RBCs</span> → erythrocyte instability with hemolysis 
 - Anemia → ↑ erythropoietin → bone marrow hyperplasia and skeletal deformities
 

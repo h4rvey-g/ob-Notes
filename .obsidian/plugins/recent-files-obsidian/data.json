@@ -5,6 +5,10 @@
       "path": "USMLE/Blood/Thalassemia.md"
     },
     {
+      "basename": "Hemoglobin variants",
+      "path": "USMLE/Blood/Hemoglobin variants.md"
+    },
+    {
       "basename": "Cushing syndrome",
       "path": "USMLE/Endocrine/Cushing syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230722174657",
       "path": "appendix/Pasted image 20230722174657.png"
-    },
-    {
-      "basename": "Galactose metabolism",
-      "path": "USMLE/Biochemistry/Galactose metabolism.md"
     }
   ],
   "omittedPaths": [],
