@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
+                "file": "USMLE/Lab Values.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
+                "file": "USMLE/Lab Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md",
+                "file": "USMLE/Lab Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Hyperparathyroidism.md"
+                "file": "USMLE/Lab Values.md"
               }
             }
           }
@@ -223,6 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/GI/Lactose intolerance.md",
+    "USMLE/GI/Stool osmotic gap.md",
+    "USMLE/Renal/Urine osmolality.md",
+    "USMLE/Endocrine/Hyperparathyroidism.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Renal/Parathyroid hormone-related protein.md",
@@ -240,7 +244,6 @@
     "USMLE/Renal/Renal physiology.md",
     "USMLE/Renal/Diabetes insipidus.md",
     "appendix/Pasted image 20231204113426.png",
-    "USMLE/Renal/Urine osmolality.md",
     "USMLE/Endocrine/Cushing syndrome.md",
     "appendix/Pasted image 20231208103735.png",
     "appendix/Pasted image 20231208102353.png",
@@ -256,9 +259,6 @@
     "appendix/Pasted image 20231113170927.png",
     "USMLE/Biochemistry/Homocystinuria.md",
     "USMLE/Biochemistry/Vitamin B7.md",
-    "USMLE/Biochemistry/Vitamin K.md",
-    "USMLE/GI/Acute appendicitis.md",
-    "USMLE/GI/Stomach histology.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
