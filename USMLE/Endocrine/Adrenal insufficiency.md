@@ -11,7 +11,7 @@ share: true
 ---
 # Etiology
 ## Tertiary adrenal insufficiency
-Tertiary adrenal insufficiency is caused by conditions that decrease CRH production.
+Tertiary adrenal insufficiency is caused by conditions that <span style="background:rgba(240, 200, 0, 0.2)">decrease CRH production.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">The most common cause is sudden discontinuation of chronic glucocorticoid therapy.</span>
 - Rarer causes include hypothalamic dysfunction (e.g., due to trauma, mass, hemorrhage, or anorexia): ↓ CRH → ↓ ACTH → ↓ cortisol release
 
