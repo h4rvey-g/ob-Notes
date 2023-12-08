@@ -29,7 +29,11 @@ share: true
 
 ---
 # Diagnostics
-
+- Hb-electrophoresis![[Pasted image 20231208212553.png]]
+>[!tip] 
+>α-thalassemia minima vs β-thalassemia minor:
+>- Both asymptomatic
+>- α-thalassemia minima is normal on electrophoresis, while <font color="#ffc000">β-thalassemia shows narrowed HbA band and widened HbA2 band</font>
 
 ---
 # Treatment

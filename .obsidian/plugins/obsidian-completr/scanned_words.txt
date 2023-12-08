@@ -2945,6 +2945,7 @@ discontinuation
 disinhibited
 dilution
 drawn
+doppler
 of
 over
 originate
@@ -5725,6 +5726,7 @@ rOOO
 radiolucency
 rarification
 representing
+replaced
 narrow
 negative
 not
@@ -8547,6 +8549,8 @@ tFS
 ttY
 tapered
 transsphenoidal
+transcranial
+till
 in
 includes
 involving
@@ -10107,6 +10111,7 @@ intensive
 immediate
 intracranial
 initiate
+invasive
 general
 giving
 generation
@@ -11305,6 +11310,7 @@ ggZ
 gMn
 gUf
 gluconeogenesis
+glutamic
 major
 mechanisms
 mark
@@ -14197,6 +14203,7 @@ SrOz
 SEp
 Sugar
 SIADH
+Stimulation
 AVNRT
 Atrial
 AVRT
@@ -15536,6 +15543,7 @@ AFk
 Ajt
 AWA
 ANP
+Annual
 Orthodromic
 On
 Often
@@ -18185,6 +18193,7 @@ abruptly
 axillary
 administering
 adrenalectomy
+allele
 ventricular
 varying
 vaccines
@@ -19477,6 +19486,7 @@ vkÖE
 voqtt
 vsNK
 vquuMOO
+vasoocclusive
 conduction
 concealed
 complex
@@ -21121,6 +21131,8 @@ calculation
 curative
 controlled
 confirms
+create
+carry
 bypass
 block
 background
@@ -37155,6 +37167,7 @@ Ihj
 IqS
 IHHx
 Increase
+Infants
 PACs
 Primary
 Pathophysiology
@@ -38621,6 +38634,7 @@ Prussian
 Perioperative
 POMC
 Peptic
+Point
 ectopic
 elevation
 early
@@ -44249,6 +44263,12 @@ Hyponatremia
 Hypoandrogenism
 Hydrogen
 Hypercortisolism
+Hydroxyurea
+Hemoglobin
+Heterozygotes
+HbAS
+Homozygotes
+HbSS
 hyperkalemia
 hypertrophy
 hereditary

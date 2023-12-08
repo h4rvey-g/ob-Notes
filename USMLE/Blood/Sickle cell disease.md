@@ -14,7 +14,20 @@ share: true
 
 ---
 # Pathophysiology
-
+- Point mutation in the β-globin gene (chromosome 11) → glutamic acid replaced with valine (single amino acid substitution) → <span style="background:rgba(240, 200, 0, 0.2)">2 α-globin and 2 mutated β-globin subunits create pathological [[Hemoglobin variants|hemoglobin]] S (HbS)</span>.
+	- Heterozygotes (HbAS): carry one sickle allele and one other (usually normal) → sickle cell trait
+	- Homozygotes (HbSS): carry two sickle alleles → sickle cell anemia
+- <span style="background:rgba(240, 200, 0, 0.2)">HbS polymerizes when deoxygenated, causing deformation of erythrocytes (“sickling”).</span> This can be triggered by any event associated with reduced oxygen tension.
+	- Hypoxia (e.g., at high altitudes)
+		- In homozygotes, up to 100% of the hemoglobin molecules are affected, leading to sickle cell formation under minimally decreased oxygen tension.
+		- In heterozygotes, sickling only occurs due to severe reduction in oxygen tension.
+	- Infections
+	- Dehydration
+	- Acidosis
+	- Sudden changes in temperature
+	- Stress
+- Sickle cells lack elasticity and adhere to vascular endothelium, which disrupts microcirculation and causes <span style="background:rgba(240, 200, 0, 0.2)">vascular occlusion and subsequent tissue infarction</span>.
+- <span style="background:rgba(240, 200, 0, 0.2)">Extravascular hemolysis and intravascular hemolysis are common and result in anemia.</span>
 
 ---
 # Clinical features
@@ -39,6 +52,6 @@ share: true
 	- Severe symptomatic anemia
 	- History of severe and/or recurrent acute chest syndrome
 #### Mechanism of action
-Stimulation of erythropoiesis and increased fetal hemoglobin
+Stimulation of erythropoiesis and increased fetal [[Hemoglobin variants|hemoglobin]]
 
 ---

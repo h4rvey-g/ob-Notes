@@ -9,8 +9,16 @@
       "path": "USMLE/Blood/Hemoglobin variants.md"
     },
     {
+      "basename": "Hemoglobin Barts",
+      "path": "USMLE/Blood/Hemoglobin Barts.md"
+    },
+    {
       "basename": "Cushing syndrome",
       "path": "USMLE/Endocrine/Cushing syndrome.md"
+    },
+    {
+      "basename": "Sickle cell disease",
+      "path": "USMLE/Blood/Sickle cell disease.md"
     },
     {
       "basename": "Adrenal insufficiency",
@@ -191,14 +199,6 @@
     {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
-    },
-    {
-      "basename": "Fatty acid oxidation",
-      "path": "USMLE/Biochemistry/Fatty acid oxidation.md"
-    },
-    {
-      "basename": "Pasted image 20230722174657",
-      "path": "appendix/Pasted image 20230722174657.png"
     }
   ],
   "omittedPaths": [],
