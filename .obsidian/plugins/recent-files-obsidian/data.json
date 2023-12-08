@@ -5,6 +5,10 @@
       "path": "USMLE/Reproductive/Polycystic ovary syndrome.md"
     },
     {
+      "basename": "Alopecia",
+      "path": "USMLE/MSK/Alopecia.md"
+    },
+    {
       "basename": "Acanthosis nigricans",
       "path": "USMLE/MSK/Acanthosis nigricans.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Graves disease",
       "path": "USMLE/Endocrine/Graves disease.md"
-    },
-    {
-      "basename": "Hashimoto thyroiditis",
-      "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
     }
   ],
   "omittedPaths": [],
