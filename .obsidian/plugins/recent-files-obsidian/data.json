@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Renal physiology",
+      "path": "USMLE/Renal/Renal physiology.md"
+    },
+    {
+      "basename": "Diabetes insipidus",
+      "path": "USMLE/Renal/Diabetes insipidus.md"
+    },
+    {
+      "basename": "Urine specific gravity",
+      "path": "USMLE/Renal/Urine specific gravity.md"
+    },
+    {
+      "basename": "Urine osmolality",
+      "path": "USMLE/Renal/Urine osmolality.md"
+    },
+    {
       "basename": "Cushing syndrome",
       "path": "USMLE/Endocrine/Cushing syndrome.md"
     },
@@ -137,10 +153,6 @@
       "path": "USMLE/Biochemistry/Fatty acid oxidation.md"
     },
     {
-      "basename": "Diabetes insipidus",
-      "path": "USMLE/Renal/Diabetes insipidus.md"
-    },
-    {
       "basename": "Pasted image 20230722174657",
       "path": "appendix/Pasted image 20230722174657.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20231109170522",
       "path": "appendix/Pasted image 20231109170522.png"
-    },
-    {
-      "basename": "Schistosomiasis",
-      "path": "USMLE/Infective disease/Schistosomiasis.md"
-    },
-    {
-      "basename": "Urinary tract cancer",
-      "path": "USMLE/Renal/Urinary tract cancer.md"
-    },
-    {
-      "basename": "Pasted image 20231101150650",
-      "path": "appendix/Pasted image 20231101150650.png"
     }
   ],
   "omittedPaths": [],
