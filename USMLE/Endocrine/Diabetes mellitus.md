@@ -66,10 +66,15 @@ share: true
 # Treatment
 ## T1DM
 - Insulin![[Pasted image 20231209112442.png]]
+>[!Mnemonic] 
+>- glu<font color="#ffc000">LI</font>sine <font color="#ffc000">Little</font> Short acting (Also use the LI to remember LIspro)
+>- g<font color="#ffc000">LARGE</font>ne <font color="#ffc000">LARGEine</font> Long acting
 ## T2DM
 - Metformin![[Pasted image 20231209113337.png]]
 >[!Mnemonic] 
 ><font color="#ffc000">Met</font>formin accumulation will cause <font color="#ffc000">met</font>abolic acidosis (lactic acidosis), so stop it before contrast CT scan.
+- Sulfonylureas
+	- Close K+ channels in pancreatic B cell membrane → cell depolarizes → insulin release via → Ca2+ influx.![[Pasted image 20231209134835.png]]
 - 
 
 ---
