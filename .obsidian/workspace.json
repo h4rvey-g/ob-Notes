@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md",
+                "file": "USMLE/Blood/Mycosis fungoides.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md",
+                "file": "USMLE/Blood/Mycosis fungoides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md",
+                "file": "USMLE/Blood/Mycosis fungoides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md"
+                "file": "USMLE/Blood/Mycosis fungoides.md"
               }
             }
           }
@@ -223,8 +223,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/MSK/Purpura differential diagnosis.md",
+    "USMLE/Blood/Sézary syndrome.md",
+    "USMLE/Blood/Mycosis fungoides.md",
+    "USMLE/Blood/Hodgkin lymphoma.md",
     "USMLE/MSK/IgA vasculitis.md",
+    "USMLE/MSK/Purpura differential diagnosis.md",
     "USMLE/Blood/Granulomatosis with polyangiitis.md",
     "appendix/Pasted image 20231209150857.png",
     "appendix/Pasted image 20231209150554.png",
@@ -235,7 +238,6 @@
     "USMLE/Blood/Vitamin C.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
-    "USMLE/Blood/Hodgkin lymphoma.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "appendix/Pasted image 20231209143656.png",
     "appendix/Pasted image 20231209142943.png",
@@ -257,8 +259,6 @@
     "USMLE/GI/Whipple disease.md",
     "USMLE/MSK/Behcet disease.md",
     "USMLE/MSK/Erythema nodosum.md",
-    "USMLE/GI/Nonalcoholic fatty liver disease.md",
-    "USMLE/Reproductive/Polycystic ovary syndrome.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

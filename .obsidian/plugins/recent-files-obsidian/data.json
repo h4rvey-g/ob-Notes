@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mycosis fungoides",
+      "path": "USMLE/Blood/Mycosis fungoides.md"
+    },
+    {
+      "basename": "Sézary syndrome",
+      "path": "USMLE/Blood/Sézary syndrome.md"
+    },
+    {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231113170927",
       "path": "appendix/Pasted image 20231113170927.png"
-    },
-    {
-      "basename": "De Novo Purine Synthesis - OG copy",
-      "path": "appendix/De Novo Purine Synthesis - OG copy.png"
-    },
-    {
-      "basename": "Homocystinuria",
-      "path": "USMLE/Biochemistry/Homocystinuria.md"
     }
   ],
   "omittedPaths": [],
