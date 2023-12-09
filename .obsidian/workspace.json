@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Vasculitides.md",
-                "mode": "preview",
+                "file": "USMLE/Blood/Granulomatosis with polyangiitis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Vasculitides.md",
+                "file": "USMLE/Blood/Granulomatosis with polyangiitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Vasculitides.md",
+                "file": "USMLE/Blood/Granulomatosis with polyangiitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Vasculitides.md"
+                "file": "USMLE/Blood/Granulomatosis with polyangiitis.md"
               }
             }
           }
@@ -223,6 +223,12 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231209150857.png",
+    "appendix/Pasted image 20231209150554.png",
+    "USMLE/MSK/Vasculitides.md",
+    "USMLE/Blood/Granulomatosis with polyangiitis.md",
+    "appendix/Pasted image 20231209150114.png",
+    "USMLE/MSK/Polyarteritis nodosa.md",
     "USMLE/Biochemistry/Collagen.md",
     "USMLE/Blood/Vitamin C.md",
     "USMLE/Biochemistry/Vitamin C.md",
@@ -237,8 +243,6 @@
     "appendix/Pasted image 20231209140759.png",
     "appendix/Pasted image 20231209140221.png",
     "appendix/Pasted image 20231209140013.png",
-    "appendix/Pasted image 20231209135936.png",
-    "appendix/Pasted image 20231209135739.png",
     "USMLE/Endocrine/Diabetic gastroparesis.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
@@ -255,10 +259,6 @@
     "USMLE/GI/Nonalcoholic fatty liver disease.md",
     "USMLE/Reproductive/Polycystic ovary syndrome.md",
     "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/GI/Eosinophilic esophagitis.md",
-    "USMLE/Renal/Tubulointerstitial diseases.md",
-    "USMLE/Blood/Anemia.md",
-    "USMLE/MSK/Acanthosis nigricans.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

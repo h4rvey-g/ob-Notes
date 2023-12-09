@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Granulomatosis with polyangiitis",
+      "path": "USMLE/Blood/Granulomatosis with polyangiitis.md"
+    },
+    {
       "basename": "Vasculitides",
       "path": "USMLE/MSK/Vasculitides.md"
+    },
+    {
+      "basename": "Polyarteritis nodosa",
+      "path": "USMLE/MSK/Polyarteritis nodosa.md"
     },
     {
       "basename": "Collagen",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231111104739",
       "path": "appendix/Pasted image 20231111104739.png"
-    },
-    {
-      "basename": "Vitamin B7",
-      "path": "USMLE/Biochemistry/Vitamin B7.md"
-    },
-    {
-      "basename": "Pasted image 20231107160524",
-      "path": "appendix/Pasted image 20231107160524.png"
     }
   ],
   "omittedPaths": [],

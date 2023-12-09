@@ -7556,6 +7556,8 @@ nOGc
 nonbloody
 nonsevere
 neurotransmission
+nasopharyngeal
+necrotizing
 tachycardia
 tract
 the
@@ -22791,6 +22793,7 @@ cuts
 coordination
 coiled
 corkscrew
+crescentic
 bypass
 block
 background
@@ -31338,6 +31341,7 @@ splenomegaly
 schistocyte
 spasms
 splash
+saddle
 QRS
 QT
 QDQ
@@ -41637,6 +41641,7 @@ Prkr
 POr
 PPIs
 Petechiae
+Pauci
 ectopic
 elevation
 early
@@ -49236,6 +49241,7 @@ homozygotes
 heterozygotes
 hypovolemic
 hydroxylation
+hemoptysis
 peaked
 pattern
 precordial
@@ -62084,6 +62090,7 @@ Gqx
 GUW
 GAw
 Gingivitis
+GPA
 Jervell
 JYo
 JO
