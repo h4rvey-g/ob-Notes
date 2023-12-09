@@ -85,7 +85,17 @@ share: true
 - DPP-4 inhibitor and GLP-1 analogs
 	- ![[Pasted image 20231209140221.png]]
 	- ![[Pasted image 20231209140759.png]]
+
 >[!Mnemonic] 
-><font color="#ffc000">Gulf</font>ing down tide pods -> <font color="#ffc000">GL</font>P-1
+>- <font color="#ffc000">Gulf</font>ing down tide pods -> <font color="#ffc000">GL</font>P-1 agonist![[Pasted image 20231209141619.png]] 
+>- Liptin makes you <font color="#ffc000">pee (PP4)</font> more times
+- SGLT-2 inhibitors
+	- ![[Pasted image 20231209142321.png]]
+- α-glucosidase inhibitors
+	- ![[Pasted image 20231209142546.png]]
+- Pioglitazone
+	- ![[Pasted image 20231209142943.png]]
+>[!Mnemonic] 
+>glita -> 
 
 ---
