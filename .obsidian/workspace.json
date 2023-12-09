@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md"
+                "file": "USMLE/Endocrine/Diabetes mellitus.md"
               }
             }
           }
@@ -221,10 +221,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Respiratory/Sarcoidosis.md",
+    "appendix/Pasted image 20231209112442.png",
+    "USMLE/Endocrine/Diabetic gastroparesis.md",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
+    "appendix/Pasted image 20231209111151.png",
+    "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/GI/Crohn disease.md",
     "USMLE/Lab Values.md",
     "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
@@ -237,9 +242,7 @@
     "USMLE/MSK/Erythema nodosum.md",
     "USMLE/GI/Nonalcoholic fatty liver disease.md",
     "USMLE/Reproductive/Polycystic ovary syndrome.md",
-    "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Renal/Nephrolithiasis.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/GI/Eosinophilic esophagitis.md",
     "USMLE/Renal/Tubulointerstitial diseases.md",
     "USMLE/Blood/Anemia.md",
@@ -248,8 +251,6 @@
     "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
     "USMLE/Renal/Diabetes insipidus.md",
     "USMLE/Biochemistry/Vitamin B12.md",
-    "USMLE/GI/Absorption.md",
-    "USMLE/GI/Ulcerative colitis.md",
     "appendix/Pasted image 20231026112626.png",
     "appendix/Pasted image 20231208212553.png",
     "appendix/Pasted image 20231208210704.png",
@@ -258,7 +259,6 @@
     "appendix/Pasted image 20231208172449.png",
     "appendix/Pasted image 20231208143231.png",
     "appendix/Pasted image 20231204113426.png",
-    "appendix/Pasted image 20231208103735.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

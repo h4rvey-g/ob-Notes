@@ -64,6 +64,7 @@ share: true
 
 ---
 # Treatment
-
+## T1DM
+- Insulin![[Pasted image 20231209112442.png]]
 
 ---

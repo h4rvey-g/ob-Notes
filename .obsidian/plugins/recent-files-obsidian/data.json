@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
+      "basename": "Hypercalcemia",
+      "path": "USMLE/Cardiology/Hypercalcemia.md"
+    },
+    {
       "basename": "Familial hypocalciuric hypercalcemia",
       "path": "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "Hyperparathyroidism",
       "path": "USMLE/Endocrine/Hyperparathyroidism.md"
-    },
-    {
-      "basename": "Hypercalcemia",
-      "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
     {
       "basename": "Polycystic ovary syndrome",
@@ -195,10 +199,6 @@
     {
       "basename": "Oral white lesions",
       "path": "USMLE/MSK/Oral white lesions.md"
-    },
-    {
-      "basename": "Liver zones",
-      "path": "USMLE/GI/Liver zones.md"
     }
   ],
   "omittedPaths": [],

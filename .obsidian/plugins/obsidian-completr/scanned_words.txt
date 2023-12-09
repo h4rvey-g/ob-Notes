@@ -7554,6 +7554,7 @@ nbE
 nOGc
 nonbloody
 nonsevere
+neurotransmission
 tachycardia
 tract
 the
@@ -13816,6 +13817,7 @@ microvasculature
 metalloprotease
 multimers
 microthrombosis
+myenteric
 Sinus
 ST
 Segment
@@ -15275,6 +15277,7 @@ Scsj
 Splenic
 Simple
 Seizure
+Succussion
 AVNRT
 Atrial
 AVRT
@@ -19576,6 +19579,8 @@ altitudes
 adhere
 avoid
 accumulate
+antral
+antroduodenal
 ventricular
 varying
 vaccines
@@ -22776,6 +22781,7 @@ corrugations
 corrugated
 cleaves
 cuts
+coordination
 bypass
 block
 background
@@ -31320,6 +31326,8 @@ sGH
 sickling
 splenomegaly
 schistocyte
+spasms
+splash
 QRS
 QT
 QDQ
@@ -50984,6 +50992,7 @@ protective
 polymerizes
 pooling
 petechiae
+pyloric
 Unusual
 Usually
 Upc
@@ -53734,6 +53743,7 @@ Bcb
 BmV
 BQC
 Breakdown
+Bloating
 Characteristic
 CLL
 Clinical
@@ -55177,6 +55187,7 @@ CmC
 CEN
 CZj
 Circumferential
+Cajal
 Right
 Retrograde
 Rates
