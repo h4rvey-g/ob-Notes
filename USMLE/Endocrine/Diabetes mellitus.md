@@ -64,6 +64,7 @@ share: true
 
 ---
 # Treatment
+![[Pasted image 20231209143656.png]]
 ## T1DM
 - Insulin![[Pasted image 20231209112442.png]]
 >[!Mnemonic] 
@@ -95,7 +96,13 @@ share: true
 	- ![[Pasted image 20231209142546.png]]
 - Pioglitazone
 	- ![[Pasted image 20231209142943.png]]
+
 >[!Mnemonic] 
->glita -> 
+>glita <- glitter
+- Amylin analogs (Pramlintide)
+	- Works with insulin to ↓ glucagon release, ↓ gastric emptying.
+
+>[!Mnemonic] 
+>Amy<font color="#ffc000">lin</font> analogs (Pram<font color="#ffc000">lin</font>tide) works with insu<font color="#ffc000">lin</font>.
 
 ---

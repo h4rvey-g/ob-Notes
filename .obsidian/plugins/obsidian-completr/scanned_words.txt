@@ -3140,6 +3140,7 @@ dRC
 dwgX
 dOR
 dizziness
+dopamine
 of
 over
 originate
@@ -10876,6 +10877,7 @@ iwP
 iOW
 iaAdnfhVZhnrPf
 iMvekACwYKoysoiCoA
+illicit
 general
 giving
 generation
@@ -12160,6 +12162,7 @@ gow
 gQc
 gPiT
 gastrin
+gums
 major
 mechanisms
 mark
@@ -15278,6 +15281,8 @@ Splenic
 Simple
 Seizure
 Succussion
+Scurvy
+Subperiosteal
 AVNRT
 Atrial
 AVRT
@@ -19581,6 +19586,8 @@ avoid
 accumulate
 antral
 antroduodenal
+alcoholism
+antioxidant
 ventricular
 varying
 vaccines
@@ -22782,6 +22789,8 @@ corrugated
 cleaves
 cuts
 coordination
+coiled
+corkscrew
 bypass
 block
 background
@@ -24268,6 +24277,7 @@ brw
 bkFf
 being
 bolus
+bruising
 flutter
 from
 focus
@@ -34178,6 +34188,7 @@ lZfXf
 lnqpj
 lIO
 lzzpr
+lysine
 Multifocal
 Mild
 Moderate
@@ -38463,6 +38474,7 @@ FaO
 Fsu
 FNAH
 FrtIfJe
+Facilitates
 In
 It
 Intraventricular
@@ -43294,6 +43306,7 @@ evd
 erythrocytes
 event
 expert
+easy
 Early
 Elevation
 Etiology
@@ -47665,6 +47678,7 @@ Hlg
 Histopathologic
 Hypoxia
 Headache
+Hydrophilic
 hyperkalemia
 hypertrophy
 hereditary
@@ -49221,6 +49235,7 @@ hFK
 homozygotes
 heterozygotes
 hypovolemic
+hydroxylation
 peaked
 pattern
 precordial
@@ -50993,6 +51008,9 @@ polymerizes
 pooling
 petechiae
 pyloric
+proline
+perifollicular
+paleness
 Unusual
 Usually
 Upc
@@ -55188,6 +55206,8 @@ CEN
 CZj
 Circumferential
 Cajal
+Conversion
+Collagen
 Right
 Retrograde
 Rates
@@ -62063,6 +62083,7 @@ Gqe
 Gqx
 GUW
 GAw
+Gingivitis
 Jervell
 JYo
 JO
@@ -67735,6 +67756,7 @@ kOm
 kYZ
 kiaHig
 kGz
+keeps
 KB
 KR
 KA

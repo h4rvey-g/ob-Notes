@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Vasculitides",
+      "path": "USMLE/MSK/Vasculitides.md"
+    },
+    {
+      "basename": "Collagen",
+      "path": "USMLE/Biochemistry/Collagen.md"
+    },
+    {
+      "basename": "Vitamin C",
+      "path": "USMLE/Blood/Vitamin C.md"
+    },
+    {
+      "basename": "Erythrocyte morphology and hemoglobin",
+      "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
+    },
+    {
+      "basename": "Hodgkin lymphoma",
+      "path": "USMLE/Blood/Hodgkin lymphoma.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Pasted image 20231107160524",
       "path": "appendix/Pasted image 20231107160524.png"
-    },
-    {
-      "basename": "Acute appendicitis",
-      "path": "USMLE/GI/Acute appendicitis.md"
-    },
-    {
-      "basename": "Stomach histology",
-      "path": "USMLE/GI/Stomach histology.md"
-    },
-    {
-      "basename": "Meniere disease",
-      "path": "USMLE/Neurology/Meniere disease.md"
-    },
-    {
-      "basename": "Li-Fraumeni syndrome",
-      "path": "USMLE/Pathology/Li-Fraumeni syndrome.md"
-    },
-    {
-      "basename": "Oral white lesions",
-      "path": "USMLE/MSK/Oral white lesions.md"
     }
   ],
   "omittedPaths": [],

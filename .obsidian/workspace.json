@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
-                "mode": "source",
+                "file": "USMLE/MSK/Vasculitides.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/MSK/Vasculitides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/MSK/Vasculitides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md"
+                "file": "USMLE/MSK/Vasculitides.md"
               }
             }
           }
@@ -223,6 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Collagen.md",
+    "USMLE/Blood/Vitamin C.md",
+    "USMLE/Biochemistry/Vitamin C.md",
+    "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
+    "USMLE/Blood/Hodgkin lymphoma.md",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "appendix/Pasted image 20231209143656.png",
     "appendix/Pasted image 20231209142943.png",
     "appendix/Pasted image 20231209142546.png",
     "appendix/Pasted image 20231209142321.png",
@@ -232,10 +239,7 @@
     "appendix/Pasted image 20231209140013.png",
     "appendix/Pasted image 20231209135936.png",
     "appendix/Pasted image 20231209135739.png",
-    "appendix/Pasted image 20231209134835.png",
-    "appendix/Pasted image 20231209113337.png",
     "USMLE/Endocrine/Diabetic gastroparesis.md",
-    "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
     "USMLE/Respiratory/Sarcoidosis.md",
@@ -255,10 +259,6 @@
     "USMLE/Renal/Tubulointerstitial diseases.md",
     "USMLE/Blood/Anemia.md",
     "USMLE/MSK/Acanthosis nigricans.md",
-    "USMLE/MSK/Alopecia.md",
-    "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
-    "USMLE/Renal/Diabetes insipidus.md",
-    "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
