@@ -66,5 +66,10 @@ share: true
 # Treatment
 ## T1DM
 - Insulin![[Pasted image 20231209112442.png]]
+## T2DM
+- Metformin![[Pasted image 20231209113337.png]]
+>[!Mnemonic] 
+><font color="#ffc000">Met</font>formin accumulation will cause <font color="#ffc000">met</font>abolic acidosis (lactic acidosis), so stop it before contrast CT scan.
+- 
 
 ---
