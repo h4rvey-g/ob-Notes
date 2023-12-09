@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md",
-                "mode": "source",
+                "file": "USMLE/GI/Crohn disease.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md",
+                "file": "USMLE/GI/Crohn disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md",
+                "file": "USMLE/GI/Crohn disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Thalassemia.md"
+                "file": "USMLE/GI/Crohn disease.md"
               }
             }
           }
@@ -223,9 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/GI/Ulcerative colitis.md",
+    "USMLE/GI/Crohn disease.md",
+    "appendix/Pasted image 20231026112626.png",
+    "USMLE/GI/Peptic ulcer disease.md",
+    "USMLE/Blood/Thalassemia.md",
     "appendix/Pasted image 20231208212553.png",
     "USMLE/Blood/Hemoglobin Barts.md",
-    "USMLE/Blood/Thalassemia.md",
     "USMLE/Blood/Hemoglobin variants.md",
     "USMLE/Endocrine/Cushing syndrome.md",
     "USMLE/Blood/Sickle cell disease.md",
@@ -254,11 +258,6 @@
     "appendix/Pasted image 20231204113426.png",
     "appendix/Pasted image 20231208103735.png",
     "appendix/Pasted image 20231208102353.png",
-    "USMLE/MSK/Alopecia.md",
-    "USMLE/Reproductive/Menopause.md",
-    "USMLE/MSK/Acanthosis nigricans.md",
-    "appendix/Pasted image 20231117163430.png",
-    "appendix/Pasted image 20231108214012.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
