@@ -38,15 +38,19 @@ share: true
 - Fatigue
 ## Gastrointestinal symptoms
 CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the terminal ileum and colon</span>, but involvement of any part of the GI tract (from mouth to anus) is possible. In contrast to [[ulcerative colitis]], <span style="background:rgba(240, 200, 0, 0.2)">rectal involvement is uncommon</span>. 
-- <span style="background:rgba(240, 200, 0, 0.2)">Chronic diarrhea</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Chronic diarrhea, typically nonbloody, watery</span>
 - Lower gastrointestinal bleeding (uncommon)
 	- microscopic (i.e., identified only on stool analysis) or overt
 - Abdominal pain, typically in the RLQ
 - <span style="background:rgba(240, 200, 0, 0.2)">Palpable abdominal mass  in the RLQ  </span>
 	- Due to adhesions within the intestine caused by inflammation![[Pasted image 20231026105145.png]]
 - Features of CD complications
-	- Malabsorption (e.g., weight loss, [[anemia]], failure to thrive)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Malabsorption (e.g., weight loss, [[anemia]], failure to thrive)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Since [[ulcerative colitis]] does not affect the small intestine, [[absorption]] of nutrients is not impaired.</span> However, loss of appetite, poor tolerance of or avoidance of certain foods, and adjustment of diet without medical consultation can lead to malnutrition already in nonsevere disease.
 	- Enterocutaneous or perianal fistulas, often associated with abscess formation
+
+>[!tip] 
+>Anemia in CD may result from chronic disease, iron deficiency, and/or [[vitamin B12]] deficiency.
 ## Extraintestinal symptoms
 - Joints
 	- Enteropathic arthritis
@@ -55,7 +59,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 	- Iritis
 	- Episcleritis
 - Oral mucosa
-	- Oral aphthae
+	- <span style="background:rgba(240, 200, 0, 0.2)">Oral aphthae</span>
 	- Pyostomatitis vegetans
 - Skin
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Erythema nodosum]]</span>

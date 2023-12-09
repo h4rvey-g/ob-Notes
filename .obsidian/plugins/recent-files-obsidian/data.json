@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Whipple disease",
+      "path": "USMLE/GI/Whipple disease.md"
+    },
+    {
+      "basename": "Behcet disease",
+      "path": "USMLE/MSK/Behcet disease.md"
+    },
+    {
       "basename": "Crohn disease",
       "path": "USMLE/GI/Crohn disease.md"
+    },
+    {
+      "basename": "Acanthosis nigricans",
+      "path": "USMLE/MSK/Acanthosis nigricans.md"
     },
     {
       "basename": "Ulcerative colitis",
@@ -97,10 +109,6 @@
       "path": "USMLE/MSK/Alopecia.md"
     },
     {
-      "basename": "Acanthosis nigricans",
-      "path": "USMLE/MSK/Acanthosis nigricans.md"
-    },
-    {
       "basename": "Vitamin B12",
       "path": "USMLE/Biochemistry/Vitamin B12.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Diabetic neuropathy",
       "path": "USMLE/Endocrine/Diabetic neuropathy.md"
-    },
-    {
-      "basename": "Diabetes mellitus",
-      "path": "USMLE/Endocrine/Diabetes mellitus.md"
-    },
-    {
-      "basename": "Diabetic gastroparesis",
-      "path": "USMLE/Endocrine/Diabetic gastroparesis.md"
     }
   ],
   "omittedPaths": [],

@@ -10,7 +10,7 @@ share: true
 	- Endocrinal
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[Diabetes mellitus|Diabetes]] mellitus type 2</span>
 		- [[Polycystic ovary syndrome|PCOS]]
-		- Cushing syndrome
+		- [[Cushing syndrome]]
 	- Obesity: pseudoacanthosis nigricans 
 	- Familial causes: autosomal dominant inheritance
 	- Drug-related causes (e.g., glucocorticoids, oral contraceptives)

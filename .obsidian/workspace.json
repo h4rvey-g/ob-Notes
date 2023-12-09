@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Whipple disease.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md",
+                "file": "USMLE/GI/Whipple disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md",
+                "file": "USMLE/GI/Whipple disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Crohn disease.md"
+                "file": "USMLE/GI/Whipple disease.md"
               }
             }
           }
@@ -223,8 +223,24 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/GI/Ulcerative colitis.md",
+    "USMLE/MSK/Behcet disease.md",
+    "USMLE/MSK/Erythema nodosum.md",
     "USMLE/GI/Crohn disease.md",
+    "USMLE/GI/Nonalcoholic fatty liver disease.md",
+    "USMLE/Reproductive/Polycystic ovary syndrome.md",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/GI/Eosinophilic esophagitis.md",
+    "USMLE/Renal/Tubulointerstitial diseases.md",
+    "USMLE/Blood/Anemia.md",
+    "USMLE/MSK/Acanthosis nigricans.md",
+    "USMLE/MSK/Alopecia.md",
+    "USMLE/Biochemistry/Adenosine deaminase deficiency.md",
+    "USMLE/Renal/Diabetes insipidus.md",
+    "USMLE/Biochemistry/Vitamin B12.md",
+    "USMLE/GI/Absorption.md",
+    "USMLE/GI/Ulcerative colitis.md",
     "appendix/Pasted image 20231026112626.png",
     "USMLE/GI/Peptic ulcer disease.md",
     "USMLE/Blood/Thalassemia.md",
@@ -236,25 +252,10 @@
     "appendix/Pasted image 20231208210704.png",
     "USMLE/Endocrine/Adrenal insufficiency.md",
     "USMLE/Lab Values.md",
-    "USMLE/Endocrine/Euthyroid sick syndrome.md",
-    "USMLE/GI/Lactose intolerance.md",
-    "USMLE/GI/Stool osmotic gap.md",
-    "USMLE/Renal/Urine osmolality.md",
-    "USMLE/Endocrine/Hyperparathyroidism.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
-    "USMLE/Renal/Parathyroid hormone-related protein.md",
     "appendix/Pasted image 20231208174528.png",
-    "USMLE/Reproductive/Polycystic ovary syndrome.md",
     "appendix/Pasted image 20231208172457.png",
     "appendix/Pasted image 20231208172449.png",
-    "USMLE/Neurology/Syndrome of inappropriate antidiuretic hormone secretion.md",
-    "USMLE/Renal/Urine specific gravity.md",
-    "USMLE/Psychiatry/Anorexia nervosa.md",
-    "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "appendix/Pasted image 20231208143231.png",
-    "USMLE/Renal/Renal physiology.md",
-    "USMLE/Renal/Diabetes insipidus.md",
     "appendix/Pasted image 20231204113426.png",
     "appendix/Pasted image 20231208103735.png",
     "appendix/Pasted image 20231208102353.png",
