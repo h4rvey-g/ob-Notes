@@ -23,7 +23,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 >![[Pasted image 20230803213835.png]]
 
 - <span style="background:rgba(240, 200, 0, 0.2)">Asteroid bodies: star-shaped, eosinophilic inclusion bodies consisting of various lipids (e.g., from sarcoidosis, foreign body reactions)</span>![[Pasted image 20230807213802.png]]
-- Calcium dysregulation: activated pulmonary alveolar macrophages → ↑ 1-alpha hydroxylase expression and activity → ↑ 1,25-dihydroxyvitamin D (calcitriol) → hypervitaminosis D → hyperphosphatemia, [[hypercalcemia]], and, possibly, renal failure
+- Calcium dysregulation: activated pulmonary alveolar macrophages → ↑ 1-alpha hydroxylase expression and activity → <span style="background:rgba(240, 200, 0, 0.2)">↑ 1,25-dihydroxyvitamin D (calcitriol) → hypervitaminosis D → hyperphosphatemia, [[hypercalcemia]], and, possibly, renal failure</span>
 
 ---
 # Clinical features
@@ -34,13 +34,13 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 - Interstitial fibrosis
 	- Cough, exertional dyspnea, chest pain
 	- Mild rales on pulmonary auscultation
-## Cutaneous sarcoidosis [8]
+## Cutaneous sarcoidosis
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Erythema nodosum]]</span>: most common nonspecific cutaneous manifestation 
 ![[Pasted image 20230720153101.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Lupus pernio</span>
 	- A pathognomonic manifestation of sarcoidosis characterized by extensive, violaceous skin plaques (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears 
 
-Butterfly rash as seen in systemic lupus erythematosus
+Butterfly rash as seen in [[systemic lupus erythematosus]]
 
 ---
 # Diagnostics
@@ -52,7 +52,7 @@ Butterfly rash as seen in systemic lupus erythematosus
 	- Preferred initial test for all patients with suspected sarcoidosis
 	- Classic findings: bilateral hilar lymphadenopathy with or without pulmonary infiltrates (i.e., reticular and/or ground glass opacities)
 ## Biopsy
-- Schaumann bodies: cellular inclusion bodies consisting of intracytoplasmic calcium and protein with laminar stratification (e.g., sarcoidosis, tuberculosis, Crohn disease, berylliosis)![[Pasted image 20231103144254.png]] 
+- Schaumann bodies: cellular inclusion bodies consisting of intracytoplasmic calcium and protein with laminar stratification (e.g., sarcoidosis, tuberculosis, [[Crohn disease]], berylliosis)![[Pasted image 20231103144254.png]] 
 
 ---
 # Treatment

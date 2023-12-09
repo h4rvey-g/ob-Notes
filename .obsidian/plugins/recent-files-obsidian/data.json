@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Familial hypocalciuric hypercalcemia",
+      "path": "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md"
+    },
+    {
+      "basename": "Sarcoidosis",
+      "path": "USMLE/Respiratory/Sarcoidosis.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Thrombotic thrombocytopenic purpura (TTP)",
       "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "Adrenal insufficiency",
       "path": "USMLE/Endocrine/Adrenal insufficiency.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     },
     {
       "basename": "Lactose intolerance",
@@ -191,14 +199,6 @@
     {
       "basename": "Liver zones",
       "path": "USMLE/GI/Liver zones.md"
-    },
-    {
-      "basename": "Halothane hepatitis",
-      "path": "USMLE/GI/Halothane hepatitis.md"
-    },
-    {
-      "basename": "Nonalcoholic fatty liver disease",
-      "path": "USMLE/GI/Nonalcoholic fatty liver disease.md"
     }
   ],
   "omittedPaths": [],
