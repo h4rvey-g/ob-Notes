@@ -19,7 +19,7 @@ share: true
 	- Homozygotes (HbSS): carry two sickle alleles → sickle cell anemia
 - <span style="background:rgba(240, 200, 0, 0.2)">HbS polymerizes when deoxygenated, causing deformation of erythrocytes (“sickling”).</span> This can be triggered by any event associated with reduced oxygen tension.
 	- Hypoxia (e.g., at high altitudes)
-		- In homozygotes, up to 100% of the hemoglobin molecules are affected, leading to sickle cell formation under minimally decreased oxygen tension.
+		- In homozygotes, up to 100% of the [[Hemoglobin variants|hemoglobin]] molecules are affected, leading to sickle cell formation under minimally decreased oxygen tension.
 		- In heterozygotes, sickling only occurs due to severe reduction in oxygen tension.
 	- Infections
 	- Dehydration
@@ -27,7 +27,7 @@ share: true
 	- Sudden changes in temperature
 	- Stress
 - Sickle cells lack elasticity and adhere to vascular endothelium, which disrupts microcirculation and causes <span style="background:rgba(240, 200, 0, 0.2)">vascular occlusion and subsequent tissue infarction</span>.
-- <span style="background:rgba(240, 200, 0, 0.2)">Extravascular hemolysis and intravascular hemolysis are common and result in anemia.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Lab findings of hemolysis|Extravascular hemolysis]] and [[Lab findings of hemolysis|intravascular hemolysis]] are common and result in anemia.</span>
 
 ---
 # Clinical features
@@ -55,3 +55,18 @@ share: true
 Stimulation of erythropoiesis and increased fetal [[Hemoglobin variants|hemoglobin]]
 
 ---
+# Complications
+## Splenic sequestration
+- Pathophysiology: <span style="background:rgba(240, 200, 0, 0.2)">splenic vasoocclusion and entrapment and pooling of large amounts of blood in the spleen</span>
+- Clinical presentation
+	- Most commonly affects children < 5 years of age
+	- <span style="background:rgba(240, 200, 0, 0.2)">Acute left upper quadrant pain, [[splenomegaly]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hypotension and/or hypovolemic shock</span>, especially in infants
+		- <span style="background:rgba(240, 200, 0, 0.2)">Due to the trapping of blood in the spleen</span>
+	- Symptoms of anemia (e.g., pallor, fatigue)
+- Supportive findings 
+	- Anemia (Hb drop of ≥ 2 g/dL) with reticulocytosis
+	- Thrombocytopenia
+- Acute management
+	- Immediate IV fluid resuscitation for hypovolemia
+	- Simple RBC [[transfusion]] in consultation with a sickle cell expert (avoid raising hemoglobin > 8 g/dL)

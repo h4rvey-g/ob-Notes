@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Whipple disease.md",
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Whipple disease.md",
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Whipple disease.md",
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Whipple disease.md"
+                "file": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
               }
             }
           }
@@ -223,6 +223,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Blood/Splenomegaly.md",
+    "USMLE/Blood/Sickle cell disease.md",
+    "USMLE/Blood/Lab findings of hemolysis.md",
+    "appendix/Pasted image 20231209103354.png",
+    "USMLE/GI/Whipple disease.md",
     "USMLE/MSK/Behcet disease.md",
     "USMLE/MSK/Erythema nodosum.md",
     "USMLE/GI/Crohn disease.md",
@@ -247,18 +252,13 @@
     "appendix/Pasted image 20231208212553.png",
     "USMLE/Blood/Hemoglobin Barts.md",
     "USMLE/Blood/Hemoglobin variants.md",
-    "USMLE/Endocrine/Cushing syndrome.md",
-    "USMLE/Blood/Sickle cell disease.md",
     "appendix/Pasted image 20231208210704.png",
-    "USMLE/Endocrine/Adrenal insufficiency.md",
-    "USMLE/Lab Values.md",
     "appendix/Pasted image 20231208174528.png",
     "appendix/Pasted image 20231208172457.png",
     "appendix/Pasted image 20231208172449.png",
     "appendix/Pasted image 20231208143231.png",
     "appendix/Pasted image 20231204113426.png",
     "appendix/Pasted image 20231208103735.png",
-    "appendix/Pasted image 20231208102353.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

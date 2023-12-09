@@ -1460,6 +1460,8 @@ TyTa
 TTv
 Tmo
 TpdR
+Thrombotic
+TTP
 differentials
 differential
 diagnosis
@@ -3137,6 +3139,7 @@ dKo
 dRC
 dwgX
 dOR
+dizziness
 of
 over
 originate
@@ -4468,6 +4471,8 @@ ofB
 oco
 obO
 oOk
+occlusion
+occlude
 regular
 reentrant
 retrograde
@@ -6130,6 +6135,9 @@ rXGvOmjwflg
 rKe
 rSIF
 rings
+reticulocytosis
+resuscitation
+raising
 narrow
 negative
 not
@@ -9192,6 +9200,7 @@ teccU
 twU
 taoYj
 trachealization
+thrombocytopenic
 in
 includes
 involving
@@ -13800,6 +13809,13 @@ mukc
 mquuaeyv
 mcR
 mlI
+microcirculation
+microangiopathy
+microthrombi
+microvasculature
+metalloprotease
+multimers
+microthrombosis
 Sinus
 ST
 Segment
@@ -15256,6 +15272,9 @@ SJjpy
 SEr
 Shdw
 Scsj
+Splenic
+Simple
+Seizure
 AVNRT
 Atrial
 AVRT
@@ -16691,6 +16710,8 @@ Ani
 AkJY
 AKHiwT
 AwS
+Acidosis
+Arteriolar
 Orthodromic
 On
 Often
@@ -19551,6 +19572,10 @@ adjustment
 acquired
 adequately
 alimentary
+altitudes
+adhere
+avoid
+accumulate
 ventricular
 varying
 vaccines
@@ -20984,6 +21009,7 @@ vVg
 vlV
 vylaqP
 vutj
+vasoocclusion
 conduction
 concealed
 complex
@@ -22748,6 +22774,8 @@ cMrY
 consultation
 corrugations
 corrugated
+cleaves
+cuts
 bypass
 block
 background
@@ -25759,6 +25787,7 @@ fFW
 fJdT
 furrowed
 furrows
+five
 with
 wave
 which
@@ -31288,6 +31317,9 @@ sXA
 sbi
 sqy
 sGH
+sickling
+splenomegaly
+schistocyte
 QRS
 QT
 QDQ
@@ -35550,6 +35582,7 @@ Muc
 Mnr
 MSfiMj
 MMx
+Microthrombi
 Differentiate
 Drugs
 DDx
@@ -36994,6 +37027,7 @@ DXFm
 DPj
 DMe
 DuyP
+Dehydration
 FFF
 Fib
 Fi
@@ -40028,6 +40062,7 @@ IIy
 ITk
 IfN
 Intraepithelial
+Intravascular
 PACs
 Primary
 Pathophysiology
@@ -41581,6 +41616,7 @@ PKB
 Prkr
 POr
 PPIs
+Petechiae
 ectopic
 elevation
 early
@@ -43247,6 +43283,9 @@ eyqs
 exc
 euOOT
 evd
+erythrocytes
+event
+expert
 Early
 Elevation
 Etiology
@@ -44693,6 +44732,7 @@ EBKPJ
 Ersc
 EYT
 Endoscopic
+Extravascular
 LEFT
 Lengthening
 Left
@@ -47615,6 +47655,8 @@ HgE
 HzDZM
 Hlg
 Histopathologic
+Hypoxia
+Headache
 hyperkalemia
 hypertrophy
 hereditary
@@ -49168,6 +49210,9 @@ hkS
 hvYHj
 hrZ
 hFK
+homozygotes
+heterozygotes
+hypovolemic
 peaked
 pattern
 precordial
@@ -50936,6 +50981,9 @@ peocby
 ptu
 peaks
 protective
+polymerizes
+pooling
+petechiae
 Unusual
 Usually
 Upc
@@ -53685,6 +53733,7 @@ BGM
 Bcb
 BmV
 BQC
+Breakdown
 Characteristic
 CLL
 Clinical
@@ -59500,6 +59549,7 @@ uox
 uÜ
 uYoW
 unruptured
+under
 quinine
 qz
 qM

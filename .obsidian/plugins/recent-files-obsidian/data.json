@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Thrombotic thrombocytopenic purpura (TTP)",
+      "path": "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md"
+    },
+    {
+      "basename": "Splenomegaly",
+      "path": "USMLE/Blood/Splenomegaly.md"
+    },
+    {
+      "basename": "Sickle cell disease",
+      "path": "USMLE/Blood/Sickle cell disease.md"
+    },
+    {
+      "basename": "Lab findings of hemolysis",
+      "path": "USMLE/Blood/Lab findings of hemolysis.md"
+    },
+    {
       "basename": "Whipple disease",
       "path": "USMLE/GI/Whipple disease.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Cushing syndrome",
       "path": "USMLE/Endocrine/Cushing syndrome.md"
-    },
-    {
-      "basename": "Sickle cell disease",
-      "path": "USMLE/Blood/Sickle cell disease.md"
     },
     {
       "basename": "Adrenal insufficiency",
@@ -187,18 +199,6 @@
     {
       "basename": "Nonalcoholic fatty liver disease",
       "path": "USMLE/GI/Nonalcoholic fatty liver disease.md"
-    },
-    {
-      "basename": "Alcoholic hepatitis",
-      "path": "USMLE/GI/Alcoholic hepatitis.md"
-    },
-    {
-      "basename": "Alkaline phosphatase",
-      "path": "USMLE/Blood/Alkaline phosphatase.md"
-    },
-    {
-      "basename": "Diabetic neuropathy",
-      "path": "USMLE/Endocrine/Diabetic neuropathy.md"
     }
   ],
   "omittedPaths": [],
