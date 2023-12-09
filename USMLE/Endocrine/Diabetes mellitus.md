@@ -74,7 +74,18 @@ share: true
 >[!Mnemonic] 
 ><font color="#ffc000">Met</font>formin accumulation will cause <font color="#ffc000">met</font>abolic acidosis (lactic acidosis), so stop it before contrast CT scan.
 - Sulfonylureas
-	- Close K+ channels in pancreatic B cell membrane → cell depolarizes → insulin release via → Ca2+ influx.![[Pasted image 20231209134835.png]]
-- 
+	- Close K+ channels in pancreatic B cell membrane → cell depolarizes → <span style="background:rgba(240, 200, 0, 0.2)">insulin release via ↑ Ca2+ influx.</span>![[Pasted image 20231209134835.png]]
+
+>[!Mnemonic] 
+>G (Gee), IDE take your sulfonylurea.
+>The G is because all sulfonylureas start with G. 
+>This helps to separate the sulfonylureas from the meglitinides since they also end with IDE
+- Meglitinides
+	- ![[Pasted image 20231209135739.png]]
+- DPP-4 inhibitor and GLP-1 analogs
+	- ![[Pasted image 20231209140221.png]]
+	- ![[Pasted image 20231209140759.png]]
+>[!Mnemonic] 
+><font color="#ffc000">Gulf</font>ing down tide pods -> <font color="#ffc000">GL</font>P-1
 
 ---
