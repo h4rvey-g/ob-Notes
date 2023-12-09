@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA vasculitis",
+      "path": "USMLE/MSK/IgA vasculitis.md"
+    },
+    {
       "basename": "Granulomatosis with polyangiitis",
       "path": "USMLE/Blood/Granulomatosis with polyangiitis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Homocystinuria",
       "path": "USMLE/Biochemistry/Homocystinuria.md"
-    },
-    {
-      "basename": "Pasted image 20231111104739",
-      "path": "appendix/Pasted image 20231111104739.png"
     }
   ],
   "omittedPaths": [],

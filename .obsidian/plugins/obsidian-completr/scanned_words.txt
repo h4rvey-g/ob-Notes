@@ -4474,6 +4474,7 @@ obO
 oOk
 occlusion
 occlude
+oedema
 regular
 reentrant
 retrograde
@@ -10880,6 +10881,8 @@ iOW
 iaAdnfhVZhnrPf
 iMvekACwYKoysoiCoA
 illicit
+implies
+ischaemic
 general
 giving
 generation
@@ -19590,6 +19593,7 @@ antral
 antroduodenal
 alcoholism
 antioxidant
+aetiology
 ventricular
 varying
 vaccines
@@ -41642,6 +41646,7 @@ POr
 PPIs
 Petechiae
 Pauci
+Palpability
 ectopic
 elevation
 early
