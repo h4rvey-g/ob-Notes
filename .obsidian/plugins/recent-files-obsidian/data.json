@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Choledocholithiasis",
+      "path": "USMLE/GI/Choledocholithiasis.md"
+    },
+    {
+      "basename": "Mirizzi syndrome",
+      "path": "USMLE/GI/Mirizzi syndrome.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231117163430",
       "path": "appendix/Pasted image 20231117163430.png"
-    },
-    {
-      "basename": "Urea cycle",
-      "path": "USMLE/Biochemistry/Urea cycle.md"
-    },
-    {
-      "basename": "Pasted image 20231108214012",
-      "path": "appendix/Pasted image 20231108214012.png"
     }
   ],
   "omittedPaths": [],

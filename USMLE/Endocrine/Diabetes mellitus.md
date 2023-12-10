@@ -60,7 +60,7 @@ share: true
 
 ---
 # Diagnostics
-
+![[Pasted image 20231210111903.png]]
 
 ---
 # Treatment

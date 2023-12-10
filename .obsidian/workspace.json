@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/GI/Choledocholithiasis.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "366784a71f0400fb",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/GI/Choledocholithiasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/GI/Choledocholithiasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md"
+                "file": "USMLE/GI/Choledocholithiasis.md"
               }
             }
           }
@@ -223,6 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231210113759.png",
+    "appendix/Pasted image 20231210113752.png",
+    "appendix/Pasted image 20231210113528.png",
+    "USMLE/GI/Mirizzi syndrome.md",
+    "USMLE/GI/Choledocholithiasis.md",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "appendix/Pasted image 20231210111903.png",
     "appendix/Pasted image 20231209142943.png",
     "USMLE/GI/Diarrhea.md",
     "USMLE/Blood/Hodgkin lymphoma.md",
@@ -240,13 +247,9 @@
     "USMLE/Blood/Vitamin C.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
-    "USMLE/Endocrine/Diabetes mellitus.md",
     "appendix/Pasted image 20231209143656.png",
     "appendix/Pasted image 20231209142546.png",
     "appendix/Pasted image 20231209142321.png",
-    "appendix/Pasted image 20231209141619.png",
-    "appendix/Pasted image 20231209140759.png",
-    "appendix/Pasted image 20231209140221.png",
     "USMLE/Endocrine/Diabetic gastroparesis.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
@@ -256,8 +259,6 @@
     "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
     "USMLE/Blood/Splenomegaly.md",
     "USMLE/Blood/Sickle cell disease.md",
-    "USMLE/Blood/Lab findings of hemolysis.md",
-    "USMLE/GI/Whipple disease.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

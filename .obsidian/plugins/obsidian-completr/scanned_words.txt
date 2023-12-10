@@ -10989,6 +10989,8 @@ ijR
 influx
 ing
 insu
+impacted
+infundibulum
 general
 giving
 generation
@@ -12301,6 +12303,8 @@ gsN
 glucosidase
 glita
 glitter
+gallstone
+gallbladder
 major
 mechanisms
 mark
@@ -23053,6 +23057,8 @@ cZW
 cAI
 cDbW
 cneb
+choledocholithiasis
+communication
 bypass
 block
 background
@@ -26102,6 +26108,7 @@ flm
 flT
 fEN
 formin
+fistula
 with
 wave
 which
@@ -55848,6 +55855,7 @@ CoxX
 CKv
 Crh
 Close
+Cholecystocholedochal
 Right
 Retrograde
 Rates
