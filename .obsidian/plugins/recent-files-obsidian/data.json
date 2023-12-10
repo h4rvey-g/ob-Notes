@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Malabsorption",
+      "path": "USMLE/GI/Malabsorption.md"
+    },
+    {
+      "basename": "Malrotation",
+      "path": "USMLE/GI/Malrotation.md"
+    },
+    {
       "basename": "Riedel thyroiditis",
       "path": "USMLE/Endocrine/Riedel thyroiditis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Acanthosis nigricans",
       "path": "USMLE/MSK/Acanthosis nigricans.md"
-    },
-    {
-      "basename": "Ulcerative colitis",
-      "path": "USMLE/GI/Ulcerative colitis.md"
-    },
-    {
-      "basename": "Peptic ulcer disease",
-      "path": "USMLE/GI/Peptic ulcer disease.md"
     }
   ],
   "omittedPaths": [],
