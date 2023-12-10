@@ -11,11 +11,9 @@
             "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/GI/Diarrhea.md",
-                "mode": "preview",
-                "source": false
+                "file": "appendix/Pasted image 20231209142943.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Diarrhea.md",
+                "file": "appendix/Pasted image 20231209142943.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Diarrhea.md",
+                "file": "appendix/Pasted image 20231209142943.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Diarrhea.md"
+                "file": "appendix/Pasted image 20231209142943.png"
               }
             }
           }
@@ -223,8 +221,8 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Blood/Hodgkin lymphoma.md",
     "USMLE/GI/Diarrhea.md",
+    "USMLE/Blood/Hodgkin lymphoma.md",
     "USMLE/Blood/Mycosis fungoides.md",
     "USMLE/Blood/Sézary syndrome.md",
     "USMLE/MSK/IgA vasculitis.md",
