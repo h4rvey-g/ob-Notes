@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Esophageal cancer",
+      "path": "USMLE/GI/Esophageal cancer.md"
+    },
+    {
+      "basename": "Osteoarthritis",
+      "path": "USMLE/MSK/Osteoarthritis.md"
+    },
+    {
       "basename": "Rheumatoid arthritis",
       "path": "USMLE/MSK/Rheumatoid arthritis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hemoglobin Barts",
       "path": "USMLE/Blood/Hemoglobin Barts.md"
-    },
-    {
-      "basename": "Cushing syndrome",
-      "path": "USMLE/Endocrine/Cushing syndrome.md"
-    },
-    {
-      "basename": "Adrenal insufficiency",
-      "path": "USMLE/Endocrine/Adrenal insufficiency.md"
     }
   ],
   "omittedPaths": [],

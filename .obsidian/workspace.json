@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md",
+                "file": "USMLE/GI/Esophageal cancer.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "366784a71f0400fb",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md",
+                "file": "USMLE/GI/Esophageal cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md",
+                "file": "USMLE/GI/Esophageal cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md"
+                "file": "USMLE/GI/Esophageal cancer.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/MSK/Osteoarthritis.md",
+    "USMLE/GI/Esophageal cancer.md",
+    "USMLE/MSK/Rheumatoid arthritis.md",
     "USMLE/MSK/Reactive arthritis.md",
     "appendix/Pasted image 20231210165709.png",
     "appendix/Pasted image 20230928151653.png",
@@ -256,8 +259,6 @@
     "USMLE/MSK/IgA vasculitis.md",
     "USMLE/GI/Choledocholithiasis.md",
     "USMLE/GI/Mirizzi syndrome.md",
-    "USMLE/Endocrine/Diabetes mellitus.md",
-    "USMLE/GI/Diarrhea.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
