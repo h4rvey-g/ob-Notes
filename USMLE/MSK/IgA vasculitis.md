@@ -40,7 +40,7 @@ An upper respiratory tract infection often precedes symptom onset by 1–3 weeks
 	- Intussusception 
 	- Hematochezia or melena
 	- Nausea and/or vomiting
-- Kidneys: IgAV nephritis (20–50% of children; 50–80% of adults)
+- Kidneys: IgA nephritis (20–50% of children; 50–80% of adults)
 	- [[Nephritic syndrome]]
 
 >[!tip] 

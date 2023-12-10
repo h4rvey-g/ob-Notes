@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IgA vasculitis",
+      "path": "USMLE/MSK/IgA vasculitis.md"
+    },
+    {
+      "basename": "Poststreptococcal glomerulonephritis",
+      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
+    },
+    {
       "basename": "Choledocholithiasis",
       "path": "USMLE/GI/Choledocholithiasis.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Sézary syndrome",
       "path": "USMLE/Blood/Sézary syndrome.md"
-    },
-    {
-      "basename": "IgA vasculitis",
-      "path": "USMLE/MSK/IgA vasculitis.md"
     },
     {
       "basename": "Granulomatosis with polyangiitis",
@@ -195,10 +199,6 @@
     {
       "basename": "Maple syrup urine disease",
       "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
-    },
-    {
-      "basename": "Pasted image 20231117163430",
-      "path": "appendix/Pasted image 20231117163430.png"
     }
   ],
   "omittedPaths": [],

@@ -21,7 +21,7 @@ Infection with nephritogenic strains of group A beta-hemolytic streptococci → 
 Approx. 50% of patients remain asymptomatic. Symptoms occur approximately 1–6 weeks following an acute infection.
 - [[Nephritic syndrome]]
 	- Hematuria:<span style="background:rgba(240, 200, 0, 0.2)"> tea- or cola-colored urine</span>
-	- Hypertension: can lead to headaches
+	- Hypertension: can lead to [[headaches]]
 	- Edema (prominent facial edema) 
 	- Oliguria
 - Influenza-like symptoms 
