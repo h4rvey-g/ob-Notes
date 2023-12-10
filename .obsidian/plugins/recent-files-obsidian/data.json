@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Leukocyte alkaline phosphatase",
+      "path": "USMLE/Blood/Leukocyte alkaline phosphatase.md"
+    },
+    {
       "basename": "HIV therapy",
       "path": "USMLE/Infective disease/HIV therapy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hyperparathyroidism",
       "path": "USMLE/Endocrine/Hyperparathyroidism.md"
-    },
-    {
-      "basename": "Polycystic ovary syndrome",
-      "path": "USMLE/Reproductive/Polycystic ovary syndrome.md"
     }
   ],
   "omittedPaths": [],

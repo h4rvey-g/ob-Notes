@@ -17,3 +17,8 @@ share: true
 # Protease inhibitors
 ![[Pasted image 20231210155730.png]]![[Pasted image 20231210155747.png]]![[Pasted image 20231210155804.png]]![[Pasted image 20231210155836.png]]![[Pasted image 20231210155911.png]]
 NAVIR -> never
+# Integrase inhibitors
+![[Pasted image 20231210160422.png]]![[Pasted image 20231210160518.png]]
+>[!Mnemonic] 
+>In<font color="#ffc000">tegra</font>se -> -<font color="#ffc000">tegra</font>vir
+
