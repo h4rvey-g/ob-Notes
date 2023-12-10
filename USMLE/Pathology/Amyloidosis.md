@@ -7,6 +7,7 @@ share: true
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Amyloid: insoluble protein or protein fragments</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Amyloidosis: extracellular aggregation and subsequent deposition of amyloid in various organs</span>
+![[Pasted image 20231210144343.png]]
 # AL amyloidosis (primary amyloidosis)
 Most common form of amyloidosis
 ## Etiology
@@ -38,7 +39,7 @@ Increased production of the light chains of immunoglobulins → deposition of am
 # AA amyloidosis (secondary amyloidosis)
 ## Etiology
 AA amyloidosis is secondary to a chronic disease, such as:
-- Chronic inflammatory conditions (e.g., IBD, rheumatoid arthritis, SLE, vasculitis, familial Mediterranean fever)
+- Chronic inflammatory conditions (e.g., IBD, [[rheumatoid arthritis]], [[Systemic lupus erythematosus|SLE]], vasculitis, familial Mediterranean fever)
 - Chronic infectious diseases (e.g., tuberculosis, [[bronchiectasis]], leprosy, osteomyelitis)
 
 ---

@@ -17,7 +17,7 @@ share: true
 ---
 # [[Nephritic syndrome]]
 ## [[Poststreptococcal glomerulonephritis]]
-Characteristic by granular (​ lumpy-bumpy​ ) pattern of staining of the GBM![[Pasted image 20230826151448.png]]![[Pasted image 20230826154120.png]]
+Characteristic by granular (​ lumpy-bumpy​ ) pattern of staining of the GBM![[Pasted image 20231210144605.png]]![[Pasted image 20230826151448.png]]![[Pasted image 20230826154120.png]]
 ## [[Membranoproliferative glomerulonephritis]]
 ![[Pasted image 20230825152436.png]]
 ### Type I [[Membranoproliferative glomerulonephritis|MPGN]]:
@@ -28,6 +28,9 @@ Characteristic by granular (​ lumpy-bumpy​ ) pattern of staining of the GBM!
 - Is characterised by deposition of dark, ribbon like electron dense material in the central layer of (Lamina Densa) of glomerular basement membrane![[Pasted image 20230825153751.png]]
 - Immunofluorescence – C3 deposition on both sides of the basement membrane in irregular granular or linear pattern
 - C3 can also be identified in mesangium in the ring shaped aggregates
+# Diffuse proliferative glomerulonephritis
+![[Diffuse proliferative glomerulonephritis#Diagnostics]]
+
 # [[IgA nephropathy]]
 Note that the pattern is that of mesangial deposition in the glomerulus.![[Pasted image 20230826155137.png]]
 # [[Goodpasture syndrome]]

@@ -5,6 +5,18 @@
       "path": "USMLE/Renal/Immunofluorescence.md"
     },
     {
+      "basename": "Diffuse proliferative glomerulonephritis",
+      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
+    },
+    {
+      "basename": "Poststreptococcal glomerulonephritis",
+      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
+    },
+    {
+      "basename": "Amyloidosis",
+      "path": "USMLE/Pathology/Amyloidosis.md"
+    },
+    {
       "basename": "Minimal change disease",
       "path": "USMLE/Renal/Minimal change disease.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
-    },
-    {
-      "basename": "Poststreptococcal glomerulonephritis",
-      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
     },
     {
       "basename": "Choledocholithiasis",
@@ -191,14 +199,6 @@
     {
       "basename": "Syndrome of inappropriate antidiuretic hormone secretion",
       "path": "USMLE/Neurology/Syndrome of inappropriate antidiuretic hormone secretion.md"
-    },
-    {
-      "basename": "Renal physiology",
-      "path": "USMLE/Renal/Renal physiology.md"
-    },
-    {
-      "basename": "Diabetes insipidus",
-      "path": "USMLE/Renal/Diabetes insipidus.md"
     }
   ],
   "omittedPaths": [],
