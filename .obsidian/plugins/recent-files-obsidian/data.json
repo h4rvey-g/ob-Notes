@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diarrhea",
+      "path": "USMLE/GI/Diarrhea.md"
+    },
+    {
       "basename": "Hodgkin lymphoma",
       "path": "USMLE/Blood/Hodgkin lymphoma.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HMP shunt",
       "path": "USMLE/Biochemistry/HMP shunt.md"
-    },
-    {
-      "basename": "Pasted image 20231113170927",
-      "path": "appendix/Pasted image 20231113170927.png"
     }
   ],
   "omittedPaths": [],
