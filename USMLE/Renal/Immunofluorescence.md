@@ -10,6 +10,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Subepithelial (aka on basement membrane)</span> deposits of IgG and C3 (dense deposits) → spike and dome appearance
 - ![[Pasted image 20230825144153.png]]![[Pasted image 20230825151926.png]]
 - ![[Pasted image 20230824164048.png]]
+## Minimal change disease
+- EM: effacement of podocyte foot processes
 
 ---
 # [[Nephritic syndrome]]

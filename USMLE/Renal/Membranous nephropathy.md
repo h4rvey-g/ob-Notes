@@ -13,7 +13,7 @@ share: true
 - Primary: <span style="background:rgba(240, 200, 0, 0.2)">anti-PLA2R antibodies</span>
 - Secondary:
 	- <span style="background:rgba(240, 200, 0, 0.2)">Infections (HBV, HCV, malaria</span>, syphilis)
-	- Autoimmune diseases (e.g., <span style="background:rgba(240, 200, 0, 0.2)">SLE</span>)
+	- Autoimmune diseases (e.g., <span style="background:rgba(240, 200, 0, 0.2)">[[Systemic lupus erythematosus|SLE]]</span>)
 	- Tumors (e.g., [[lung cancer]], prostate cancer)
 	- Medications (e.g., NSAIDs, penicillamine, gold)
 

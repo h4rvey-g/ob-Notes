@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Immunofluorescence",
+      "path": "USMLE/Renal/Immunofluorescence.md"
+    },
+    {
+      "basename": "Minimal change disease",
+      "path": "USMLE/Renal/Minimal change disease.md"
+    },
+    {
+      "basename": "Focal segmental glomerulosclerosis",
+      "path": "USMLE/Renal/Focal segmental glomerulosclerosis.md"
+    },
+    {
+      "basename": "Nephritic syndrome",
+      "path": "USMLE/Renal/Nephritic syndrome.md"
+    },
+    {
+      "basename": "IgA nephropathy",
+      "path": "USMLE/Renal/IgA nephropathy.md"
+    },
+    {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Diabetes insipidus",
       "path": "USMLE/Renal/Diabetes insipidus.md"
-    },
-    {
-      "basename": "Urine specific gravity",
-      "path": "USMLE/Renal/Urine specific gravity.md"
-    },
-    {
-      "basename": "Urine osmolality",
-      "path": "USMLE/Renal/Urine osmolality.md"
-    },
-    {
-      "basename": "Alopecia",
-      "path": "USMLE/MSK/Alopecia.md"
-    },
-    {
-      "basename": "Vitamin B12",
-      "path": "USMLE/Biochemistry/Vitamin B12.md"
-    },
-    {
-      "basename": "Maple syrup urine disease",
-      "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
     }
   ],
   "omittedPaths": [],

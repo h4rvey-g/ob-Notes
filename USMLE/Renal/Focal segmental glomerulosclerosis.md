@@ -12,7 +12,7 @@ share: true
 # Etiology
 - Heroin use
 - HIV infection
-- Sickle cell disease
+- [[Sickle cell disease]]
 - Massive obesity
 - Interferon treatment
 - Congenital malformations (e.g., Charcot-Marie-Tooth syndrome)
@@ -28,12 +28,12 @@ Focal segmental glomerulosclerosis: sclerosis of glomeruli → damage and loss o
 ---
 # Diagnostics
 - <span style="background:rgba(240, 200, 0, 0.2)">LM: segmental sclerosis and hyalinosis</span>![[Pasted image 20230823154612.png]]
-- <span style="background:rgba(240, 200, 0, 0.2)">EM: effacement of podocyte foot processes</span> (similar to minimal change disease)
+- <span style="background:rgba(240, 200, 0, 0.2)">EM: effacement of podocyte foot processes</span> (similar to [[minimal change disease]])
 
 ---
 # Treatment
 - Initial management: supportive therapy including an RAAS inhibitor (i.e., ACEI or ARB).
-- Consider immunosuppressive therapy for all patients with nephrotic syndrome due to FSGS.
+- Consider immunosuppressive therapy for all patients with [[nephrotic syndrome]] due to FSGS.
 	- Prednisone
 
 ---

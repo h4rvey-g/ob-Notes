@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md",
+                "file": "USMLE/Renal/Immunofluorescence.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md",
+                "file": "USMLE/Renal/Immunofluorescence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md",
+                "file": "USMLE/Renal/Immunofluorescence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/IgA vasculitis.md"
+                "file": "USMLE/Renal/Immunofluorescence.md"
               }
             }
           }
@@ -223,8 +223,20 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+    "USMLE/Renal/Minimal change disease.md",
+    "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Renal/IgA nephropathy.md",
+    "USMLE/Renal/Nephritic syndrome.md",
+    "appendix/Pasted image 20231210141840.png",
+    "USMLE/Renal/Focal segmental glomerulosclerosis.md",
+    "USMLE/MSK/Vasculitides.md",
+    "USMLE/Renal/Goodpasture syndrome.md",
+    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+    "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
+    "USMLE/Renal/Membranous nephropathy.md",
+    "USMLE/Renal/Nephrotic syndrome.md",
+    "appendix/Pasted image 20230825144153.png",
+    "USMLE/MSK/IgA vasculitis.md",
     "USMLE/GI/Choledocholithiasis.md",
     "appendix/Pasted image 20231210113759.png",
     "appendix/Pasted image 20231210113752.png",
@@ -237,28 +249,16 @@
     "USMLE/Blood/Hodgkin lymphoma.md",
     "USMLE/Blood/Mycosis fungoides.md",
     "USMLE/Blood/Sézary syndrome.md",
-    "USMLE/MSK/IgA vasculitis.md",
     "USMLE/MSK/Purpura differential diagnosis.md",
     "USMLE/Blood/Granulomatosis with polyangiitis.md",
     "appendix/Pasted image 20231209150857.png",
     "appendix/Pasted image 20231209150554.png",
-    "USMLE/MSK/Vasculitides.md",
     "appendix/Pasted image 20231209150114.png",
     "USMLE/MSK/Polyarteritis nodosa.md",
     "USMLE/Biochemistry/Collagen.md",
     "USMLE/Blood/Vitamin C.md",
     "USMLE/Biochemistry/Vitamin C.md",
     "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
-    "appendix/Pasted image 20231209143656.png",
-    "appendix/Pasted image 20231209142546.png",
-    "USMLE/Endocrine/Diabetic gastroparesis.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md",
-    "USMLE/Respiratory/Sarcoidosis.md",
-    "USMLE/GI/Crohn disease.md",
-    "USMLE/Lab Values.md",
-    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
-    "USMLE/Blood/Splenomegaly.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
