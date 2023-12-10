@@ -11,9 +11,11 @@
             "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "appendix/Pasted image 20231209142943.png"
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appendix/Pasted image 20231209142943.png",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appendix/Pasted image 20231209142943.png",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appendix/Pasted image 20231209142943.png"
+                "file": "USMLE/Endocrine/Diabetes mellitus.md"
               }
             }
           }
@@ -221,6 +223,7 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231209142943.png",
     "USMLE/GI/Diarrhea.md",
     "USMLE/Blood/Hodgkin lymphoma.md",
     "USMLE/Blood/Mycosis fungoides.md",
@@ -239,7 +242,6 @@
     "USMLE/Blood/Erythrocyte morphology and hemoglobin.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "appendix/Pasted image 20231209143656.png",
-    "appendix/Pasted image 20231209142943.png",
     "appendix/Pasted image 20231209142546.png",
     "appendix/Pasted image 20231209142321.png",
     "appendix/Pasted image 20231209141619.png",
@@ -256,7 +258,6 @@
     "USMLE/Blood/Sickle cell disease.md",
     "USMLE/Blood/Lab findings of hemolysis.md",
     "USMLE/GI/Whipple disease.md",
-    "USMLE/MSK/Behcet disease.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

@@ -3165,6 +3165,7 @@ dTmt
 dZm
 dbM
 dIA
+depolarizes
 of
 over
 originate
@@ -9297,6 +9298,7 @@ tkd
 tnYgm
 tomo
 tPIt
+tide
 in
 includes
 involving
@@ -10984,6 +10986,9 @@ iKe
 iVlcs
 iKNdR
 ijR
+influx
+ing
+insu
 general
 giving
 generation
@@ -12293,6 +12298,9 @@ gzn
 gIte
 gGm
 gsN
+glucosidase
+glita
+glitter
 major
 mechanisms
 mark
@@ -13976,6 +13984,7 @@ mwWu
 mIv
 mgm
 mjC
+meglitinides
 Sinus
 ST
 Segment
@@ -15448,6 +15457,7 @@ SGvR
 SIz
 SXj
 Sdb
+Sulfonylureas
 AVNRT
 Atrial
 AVRT
@@ -16900,6 +16910,7 @@ ADR
 Avw
 AWos
 AsR
+Amylin
 Orthodromic
 On
 Often
@@ -19803,6 +19814,9 @@ aNA
 atUog
 aST
 aCr
+abolic
+analogs
+agonist
 ventricular
 varying
 vaccines
@@ -26087,6 +26101,7 @@ fKv
 flm
 flT
 fEN
+formin
 with
 wave
 which
@@ -27430,6 +27445,7 @@ wzv
 wHiA
 wGc
 wiR
+works
 Whenever
 Widening
 William
@@ -28651,6 +28667,7 @@ WVlo
 WbF
 WgG
 WOj
+Works
 you
 young
 ybif
@@ -31698,6 +31715,11 @@ sGtY
 sOFX
 sKQj
 sim
+sine
+stop
+sulfonylurea
+sulfonylureas
+separate
 QRS
 QT
 QDQ
@@ -34584,6 +34606,7 @@ lrzN
 lzv
 lJWW
 lCI
+lin
 Multifocal
 Mild
 Moderate
@@ -36017,6 +36040,8 @@ MZGM
 MBX
 MMMK
 MJd
+Metformin
+Meglitinides
 Differentiate
 Drugs
 DDx
@@ -42110,6 +42135,9 @@ PAT
 PIC
 PNt
 Pmf
+Pioglitazone
+Pramlintide
+Pram
 ectopic
 elevation
 early
@@ -46688,6 +46716,11 @@ Lms
 LRL
 LtQ
 LcBD
+Little
+LIspro
+LARGE
+LARGEine
+Liptin
 Hyperkalemia
 HIV
 HCV
@@ -49790,6 +49823,7 @@ hOd
 hJJ
 hix
 hEKGc
+helps
 peaked
 pattern
 precordial
@@ -51577,6 +51611,7 @@ pUx
 piI
 pNY
 pMT
+pods
 Unusual
 Usually
 Upc
@@ -55812,6 +55847,7 @@ CpX
 CoxX
 CKv
 Crh
+Close
 Right
 Retrograde
 Rates
@@ -62765,6 +62801,8 @@ GmD
 GTzJ
 Grsa
 GhF
+Gee
+Gulf
 Jervell
 JYo
 JO

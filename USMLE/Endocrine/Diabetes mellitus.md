@@ -81,6 +81,7 @@ share: true
 >G (Gee), IDE take your sulfonylurea.
 >The G is because all sulfonylureas start with G. 
 >This helps to separate the sulfonylureas from the meglitinides since they also end with IDE
+
 - Meglitinides
 	- ![[Pasted image 20231209135739.png]]
 - DPP-4 inhibitor and GLP-1 analogs
@@ -95,6 +96,18 @@ share: true
 - α-glucosidase inhibitors
 	- ![[Pasted image 20231209142546.png]]
 - Pioglitazone
+	- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the transcription factor PPARγ</span> (peroxisome proliferator-activated receptor of gamma type in the nucleus) → ↑ transcription of genes involved in glucose and lipid metabolism → ↑ levels of adipokines such as adiponectin and insulin sensitivity → <span style="background:rgba(240, 200, 0, 0.2)">↑ storage of fatty acids in adipocytes</span>, ↓ products of lipid metabolism (e.g., free fatty acids) → ↓ free fatty acids in circulation → <span style="background:rgba(240, 200, 0, 0.2)">↑ glucose utilization and ↓ hepatic glucose productio</span>n
+	- Clinical characteristics
+		- Glycemic efficacy: lowers HbA1c by 1% in 3 months
+		- Favorable effect on lipid metabolism: ↓ triglyceride, ↓ LDL, ↑ HDL
+		- No risk of hypoglycemia
+		- <span style="background:rgba(240, 200, 0, 0.2)">Onset of action is delayed by several weeks. </span>
+			- because it acts at the level of transcription
+	- Important side effects
+		- ↑ Risk of heart failure
+		- ↑ Risk of bone fractures ([[osteoporosis]])
+		- Fluid retention and edema
+		- <span style="background:rgba(240, 200, 0, 0.2)">Weight gain</span>
 	- ![[Pasted image 20231209142943.png]]
 
 >[!Mnemonic] 
