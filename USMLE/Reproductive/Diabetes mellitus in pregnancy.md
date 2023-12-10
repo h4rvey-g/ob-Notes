@@ -12,10 +12,14 @@ share: true
 - Onset: <span style="background:rgba(240, 200, 0, 0.2)">second and third trimesters</span>
 - Pathophysiology: maternal hyperglycemia → fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">stimulation of fetal pancreas → fetal hyperinsulinemia</span> → <span style="background:rgba(240, 200, 0, 0.2)">↑ metabolic rate, oxygen consumption, and fetal hypoxemia</span> → metabolic, respiratory, and cardiovascular complications
 ### Manifestations
-- Growth defect: fetal macrosomia
+- Growth defect: <span style="background:rgba(240, 200, 0, 0.2)">fetal macrosomia</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Polyhydramnios]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Increased maternal glucose levels increase fetal glucose levels, as well, resulting in polyuria.</span>
 - Metabolic defects
-	- Neonatal hypoglycemia: maternal hyperglycemia → fetal hyperglycemia → beta cell hypertrophy and hyperfunctioning → fetal and neonatal hyperinsulinemia → transient hypoglycemia after birth (when maternal glucose supply stops)
-	- Neonatal polycythemia: maternal hyperglycemia → chronic fetal hyperglycemia → ↑ metabolic effects and oxygen demand → fetal hypoxemia → ↑ erythropoietin concentrations→ ↑ erythrocyte count
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal hypoglycemia</span>
+		- maternal hyperglycemia → fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">beta cell hypertrophy and hyperfunctioning → fetal and neonatal hyperinsulinemia → transient hypoglycemia after birth (when maternal glucose supply stops)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal polycythemia</span>
+		- maternal hyperglycemia → chronic fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">↑ metabolic effects and oxygen demand → fetal hypoxemia → ↑ erythropoietin concentrations→ ↑ erythrocyte count</span>
 	- Neonatal hypocalcemia and neonatal hypomagnesemia: maternal hyperglycemia → abnormal maternal calcium-phosphorus metabolism → ↑ maternal urinary Mg excretion → maternal hypomagnesemia → fetal hypomagnesemia → impaired PTH synthesis in the fetus → fetal hypocalcemia and hypomagnesemia
 - Respiratory defects
 	- [[Acute respiratory distress syndrome]]

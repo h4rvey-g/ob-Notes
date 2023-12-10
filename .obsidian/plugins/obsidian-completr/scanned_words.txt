@@ -9301,6 +9301,7 @@ tomo
 tPIt
 tide
 trimesters
+twin
 in
 includes
 involving
@@ -10995,6 +10996,7 @@ impacted
 infundibulum
 interventricular
 intraventricular
+incompatibility
 general
 giving
 generation
@@ -13995,6 +13997,7 @@ mgm
 mjC
 meglitinides
 macrosomia
+meningomyelocele
 Sinus
 ST
 Segment
@@ -19827,6 +19830,8 @@ aCr
 abolic
 analogs
 agonist
+atresia
+anencephaly
 ventricular
 varying
 vaccines
@@ -23065,6 +23070,7 @@ cDbW
 cneb
 choledocholithiasis
 communication
+cerebrospinal
 bypass
 block
 background
@@ -31735,6 +31741,7 @@ sulfonylurea
 sulfonylureas
 separate
 stops
+swallowing
 QRS
 QT
 QDQ
@@ -60285,6 +60292,7 @@ uOO
 uOT
 uvs
 uEvZ
+urination
 quinine
 qz
 qM

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "HIV therapy",
+      "path": "USMLE/Infective disease/HIV therapy.md"
+    },
+    {
+      "basename": "Polyhydramnios",
+      "path": "USMLE/Reproductive/Polyhydramnios.md"
+    },
+    {
       "basename": "Diabetes mellitus in pregnancy",
       "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Polycystic ovary syndrome",
       "path": "USMLE/Reproductive/Polycystic ovary syndrome.md"
-    },
-    {
-      "basename": "Anorexia nervosa",
-      "path": "USMLE/Psychiatry/Anorexia nervosa.md"
-    },
-    {
-      "basename": "Euthyroid sick syndrome",
-      "path": "USMLE/Endocrine/Euthyroid sick syndrome.md"
     }
   ],
   "omittedPaths": [],
