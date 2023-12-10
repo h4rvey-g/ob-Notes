@@ -36049,6 +36049,7 @@ MMMK
 MJd
 Metformin
 Meglitinides
+Minimal
 Differentiate
 Drugs
 DDx

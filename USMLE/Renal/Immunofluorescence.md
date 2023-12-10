@@ -7,11 +7,12 @@ share: true
 ---
 # [[Nephrotic syndrome]]
 ## [[Membranous nephropathy]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Subepithelial (aka on basement membrane)</span> deposits of IgG and C3 (dense deposits) → spike and dome appearance
+- <span style="background:rgba(240, 200, 0, 0.2)">Subepithelial (aka on basement membrane)</span> deposits of IgG and C3 (dense deposits) → spike and dome appearance![[Pasted image 20231210142203.png]]
 - ![[Pasted image 20230825144153.png]]![[Pasted image 20230825151926.png]]
 - ![[Pasted image 20230824164048.png]]
 ## Minimal change disease
-- EM: effacement of podocyte foot processes
+- EM: effacement of podocyte foot processes![[Pasted image 20231210142052.png]]![[Pasted image 20231210141840.png]]
+
 
 ---
 # [[Nephritic syndrome]]
