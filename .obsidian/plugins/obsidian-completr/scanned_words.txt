@@ -4525,6 +4525,7 @@ oAc
 onb
 oyM
 oGcnP
+outflow
 regular
 reentrant
 retrograde
@@ -9299,6 +9300,7 @@ tnYgm
 tomo
 tPIt
 tide
+trimesters
 in
 includes
 involving
@@ -10991,6 +10993,8 @@ ing
 insu
 impacted
 infundibulum
+interventricular
+intraventricular
 general
 giving
 generation
@@ -12305,6 +12309,7 @@ glita
 glitter
 gallstone
 gallbladder
+gestational
 major
 mechanisms
 mark
@@ -13989,6 +13994,7 @@ mIv
 mgm
 mjC
 meglitinides
+macrosomia
 Sinus
 ST
 Segment
@@ -26109,6 +26115,7 @@ flT
 fEN
 formin
 fistula
+fetopathy
 with
 wave
 which
@@ -31727,6 +31734,7 @@ stop
 sulfonylurea
 sulfonylureas
 separate
+stops
 QRS
 QT
 QDQ
@@ -49832,6 +49840,7 @@ hJJ
 hix
 hEKGc
 helps
+hyperfunctioning
 peaked
 pattern
 precordial
@@ -51620,6 +51629,7 @@ piI
 pNY
 pMT
 pods
+phosphorus
 Unusual
 Usually
 Upc

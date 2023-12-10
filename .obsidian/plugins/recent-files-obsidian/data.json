@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes mellitus in pregnancy",
+      "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
+    },
+    {
+      "basename": "Myasthenia gravis",
+      "path": "USMLE/MSK/Myasthenia gravis.md"
+    },
+    {
       "basename": "Immunofluorescence",
       "path": "USMLE/Renal/Immunofluorescence.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Euthyroid sick syndrome",
       "path": "USMLE/Endocrine/Euthyroid sick syndrome.md"
-    },
-    {
-      "basename": "Alpha-1 antitrypsin deficiency",
-      "path": "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md"
-    },
-    {
-      "basename": "Syndrome of inappropriate antidiuretic hormone secretion",
-      "path": "USMLE/Neurology/Syndrome of inappropriate antidiuretic hormone secretion.md"
     }
   ],
   "omittedPaths": [],
