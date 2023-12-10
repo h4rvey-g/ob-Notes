@@ -22,3 +22,8 @@ NAVIR -> never
 >[!Mnemonic] 
 >In<font color="#ffc000">tegra</font>se -> -<font color="#ffc000">tegra</font>vir
 
+# Fusion inhibitors
+![[Pasted image 20231210163346.png]]
+>[!Mnemonic] 
+>- En<font color="#ffc000">fu</font>virtide inhibits <font color="#ffc000">fu</font>sion.
+>- <font color="#ffc000">Ma</font>zda -> <font color="#ffc000">Ma</font>raviroc
