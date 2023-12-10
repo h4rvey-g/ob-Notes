@@ -7639,6 +7639,7 @@ nmlF
 nUa
 nGC
 never
+nyctalopia
 tachycardia
 tract
 the
@@ -9311,6 +9312,7 @@ trimesters
 twin
 trying
 tegra
+triangular
 in
 includes
 involving
@@ -14007,6 +14009,7 @@ mjC
 meglitinides
 macrosomia
 meningomyelocele
+measles
 Sinus
 ST
 Segment
@@ -23083,6 +23086,8 @@ choledocholithiasis
 communication
 cerebrospinal
 calculate
+conjunctiva
+cystoscopy
 bypass
 block
 background
@@ -51661,6 +51666,7 @@ phosphorus
 poop
 premenopausal
 pannus
+pearl
 Unusual
 Usually
 Upc
@@ -54433,6 +54439,7 @@ BVWh
 BLQ
 BAb
 Bouts
+Bitot
 Characteristic
 CLL
 Clinical
@@ -57467,6 +57474,7 @@ Rdjf
 Ruf
 RHGt
 RxY
+Retinopathy
 Voltage
 VFV
 VoNW
@@ -65744,6 +65752,7 @@ NCS
 NRTIs
 NNRTIs
 NAVIR
+Night
 jEQ
 jL
 jO
@@ -68607,6 +68616,7 @@ kGn
 kEra
 kWrD
 kQO
+keratinization
 KB
 KR
 KA
@@ -69864,6 +69874,8 @@ Kelq
 KWyO
 Kpl
 KVHQayB
+Keratomalacia
+Keratinizing
 zh
 zx
 zo
@@ -73754,6 +73766,8 @@ XYu
 XXj
 XxD
 XsX
+Xerophthalmia
+Xerosis
 ZH
 Zh
 ZRg

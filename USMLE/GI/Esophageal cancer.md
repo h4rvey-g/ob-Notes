@@ -22,7 +22,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Barrett esophagus</span>
 - Localization: mostly in the lower third of the esophagus
 >[!tip] 
->The most important risk factors for esophageal adenocarcinoma are gastroesophageal reflux and associated Barrett esophagus.
+>The most important risk factors for esophageal adenocarcinoma are <span style="background:rgba(240, 200, 0, 0.2)">gastroesophageal reflux and associated Barrett esophagus.</span>
 
 ## Squamous cell carcinoma (SCC)
 - Exogenous risk factors
@@ -31,6 +31,12 @@ share: true
 	- Diet low in fruits and vegetables
 	- Hot beverages
 	- Nitrosamines exposure (e.g., cured meat, fish, bacon)
+- Endogenous risk factors
+	- [[Plummer-Vinson syndrome]]
+	- Achalasia
+ - Localization: mostly in the upper two-thirds of the esophagus
+>[!tip] 
+>The primary risk factors for squamous cell esophageal cancer are <span style="background:rgba(240, 200, 0, 0.2)">alcohol consumption, smoking, and dietary factors (e.g., diet low in fruits and vegetables).</span>
 
 ---
 # Pathophysiology
@@ -46,6 +52,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

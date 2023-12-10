@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Riedel thyroiditis",
+      "path": "USMLE/Endocrine/Riedel thyroiditis.md"
+    },
+    {
+      "basename": "Vitamin A",
+      "path": "USMLE/Biochemistry/Vitamin A.md"
+    },
+    {
+      "basename": "Idiopathic inflammatory myopathies",
+      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+    },
+    {
       "basename": "Esophageal cancer",
       "path": "USMLE/GI/Esophageal cancer.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Peptic ulcer disease",
       "path": "USMLE/GI/Peptic ulcer disease.md"
-    },
-    {
-      "basename": "Thalassemia",
-      "path": "USMLE/Blood/Thalassemia.md"
-    },
-    {
-      "basename": "Hemoglobin variants",
-      "path": "USMLE/Blood/Hemoglobin variants.md"
-    },
-    {
-      "basename": "Hemoglobin Barts",
-      "path": "USMLE/Blood/Hemoglobin Barts.md"
     }
   ],
   "omittedPaths": [],
