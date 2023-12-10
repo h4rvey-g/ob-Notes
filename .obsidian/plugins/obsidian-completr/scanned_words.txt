@@ -3169,6 +3169,7 @@ depolarizes
 dov
 dog
 den
+disposition
 of
 over
 originate
@@ -6204,6 +6205,7 @@ rpKu
 rOM
 rki
 rid
+removing
 narrow
 negative
 not
@@ -19840,6 +19842,7 @@ analogs
 agonist
 atresia
 anencephaly
+angiogenesis
 ventricular
 varying
 vaccines
@@ -31752,6 +31755,7 @@ separate
 stops
 swallowing
 score
+suggesting
 QRS
 QT
 QDQ
@@ -43858,6 +43862,7 @@ ezv
 eGJ
 etN
 eIW
+extraarticular
 Early
 Elevation
 Etiology
@@ -48284,6 +48289,8 @@ HIz
 HgO
 HcpI
 HSG
+Hormonal
+HSR
 hyperkalemia
 hypertrophy
 hereditary
@@ -51652,6 +51659,8 @@ pMT
 pods
 phosphorus
 poop
+premenopausal
+pannus
 Unusual
 Usually
 Upc
@@ -54423,6 +54432,7 @@ BTK
 BVWh
 BLQ
 BAb
+Bouts
 Characteristic
 CLL
 Clinical

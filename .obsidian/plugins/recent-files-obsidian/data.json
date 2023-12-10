@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Rheumatoid arthritis",
+      "path": "USMLE/MSK/Rheumatoid arthritis.md"
+    },
+    {
+      "basename": "Reactive arthritis",
+      "path": "USMLE/MSK/Reactive arthritis.md"
+    },
+    {
+      "basename": "Pasted image 20230928151653",
+      "path": "appendix/Pasted image 20230928151653.png"
+    },
+    {
       "basename": "HIV therapy",
       "path": "USMLE/Infective disease/HIV therapy.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Adrenal insufficiency",
       "path": "USMLE/Endocrine/Adrenal insufficiency.md"
-    },
-    {
-      "basename": "Lactose intolerance",
-      "path": "USMLE/GI/Lactose intolerance.md"
-    },
-    {
-      "basename": "Stool osmotic gap",
-      "path": "USMLE/GI/Stool osmotic gap.md"
-    },
-    {
-      "basename": "Hyperparathyroidism",
-      "path": "USMLE/Endocrine/Hyperparathyroidism.md"
     }
   ],
   "omittedPaths": [],
