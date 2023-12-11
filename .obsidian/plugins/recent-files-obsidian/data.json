@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Hirschsprung disease",
-      "path": "USMLE/GI/Hirschsprung disease.md"
-    },
-    {
       "basename": "Malrotation",
       "path": "USMLE/GI/Malrotation.md"
+    },
+    {
+      "basename": "Malabsorption",
+      "path": "USMLE/GI/Malabsorption.md"
+    },
+    {
+      "basename": "Hirschsprung disease",
+      "path": "USMLE/GI/Hirschsprung disease.md"
     },
     {
       "basename": "Intestinal atresia",
@@ -23,10 +27,6 @@
     {
       "basename": "Riedel thyroiditis",
       "path": "USMLE/Endocrine/Riedel thyroiditis.md"
-    },
-    {
-      "basename": "Malabsorption",
-      "path": "USMLE/GI/Malabsorption.md"
     },
     {
       "basename": "Idiopathic inflammatory myopathies",
