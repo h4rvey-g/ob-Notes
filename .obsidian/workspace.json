@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Intestinal atresia.md",
-                "mode": "source",
+                "file": "USMLE/GI/Hirschsprung disease.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Intestinal atresia.md",
+                "file": "USMLE/GI/Hirschsprung disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Intestinal atresia.md",
+                "file": "USMLE/GI/Hirschsprung disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Intestinal atresia.md"
+                "file": "USMLE/GI/Hirschsprung disease.md"
               }
             }
           }
@@ -223,15 +223,16 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231211111800.png",
-    "USMLE/GI/Gastroesophageal reflux disease.md",
+    "USMLE/GI/Malrotation.md",
     "USMLE/GI/Intestinal atresia.md",
+    "USMLE/GI/Gastroesophageal reflux disease.md",
+    "appendix/Pasted image 20231211113316.png",
+    "appendix/Pasted image 20231211111800.png",
     "USMLE/Biochemistry/Vitamin A.md",
     "appendix/Pasted image 20231103111548.png",
     "USMLE/Endocrine/Riedel thyroiditis.md",
     "USMLE/GI/Malabsorption.md",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
-    "USMLE/GI/Malrotation.md",
     "USMLE/GI/Esophageal cancer.md",
     "USMLE/MSK/Osteoarthritis.md",
     "USMLE/MSK/Rheumatoid arthritis.md",
@@ -245,8 +246,6 @@
     "appendix/Pasted image 20231210160422.png",
     "appendix/Pasted image 20231210155911.png",
     "appendix/Pasted image 20231210155836.png",
-    "appendix/Pasted image 20231210155804.png",
-    "appendix/Pasted image 20231210155747.png",
     "USMLE/Blood/Hemoglobin variants.md",
     "USMLE/Reproductive/Polyhydramnios.md",
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",

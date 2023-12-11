@@ -1530,6 +1530,7 @@ TQo
 TTE
 Tag
 TqOTwo
+Tight
 differentials
 differential
 diagnosis
@@ -6424,6 +6425,7 @@ rtP
 rfj
 rlg
 rBVsB
+resembles
 narrow
 negative
 not
@@ -7906,6 +7908,7 @@ nKW
 naG
 npo
 nte
+neuroblasts
 tachycardia
 tract
 the
@@ -9644,6 +9647,7 @@ tnpK
 tGNLgnl
 teG
 ttS
+triple
 in
 includes
 involving
@@ -12753,6 +12757,8 @@ gMK
 gXKI
 gxLdz
 gsE
+gasless
+ganglion
 major
 mechanisms
 mark
@@ -14490,6 +14496,8 @@ mFGb
 mLK
 mZIt
 mZX
+microarray
+migration
 Sinus
 ST
 Segment
@@ -16004,6 +16012,7 @@ SeX
 SOr
 SsAf
 SZxLUp
+Squirt
 AVNRT
 Atrial
 AVRT
@@ -17493,6 +17502,9 @@ AKe
 AHx
 Abq
 AtD
+Air
+Affected
+Auerbach
 Orthodromic
 On
 Often
@@ -20554,6 +20566,10 @@ aeF
 aLX
 aHD
 asa
+accident
+anorectal
+aganglionic
+anal
 ventricular
 varying
 vaccines
@@ -23911,6 +23927,11 @@ cKxv
 cUMY
 cHD
 cCx
+connected
+cocaine
+correlate
+caudal
+crest
 bypass
 block
 background
@@ -25484,6 +25505,8 @@ bEi
 bLjbX
 buD
 bXw
+bubble
+bubbles
 flutter
 from
 focus
@@ -32906,6 +32929,10 @@ sMr
 sOn
 seW
 sGKxce
+scaphoid
+separated
+standard
+slowed
 QRS
 QT
 QDQ
@@ -37412,6 +37439,9 @@ MUG
 Mik
 MLQHN
 MiHJ
+MDMA
+MEN
+Meissner
 Differentiate
 Drugs
 DDx
@@ -38916,6 +38946,9 @@ Dzh
 DUG
 DtD
 DaQa
+Down
+Distended
+Double
 FFF
 Fib
 Fi
@@ -42111,6 +42144,7 @@ InSdw
 IjL
 IuT
 IxT
+Inability
 PACs
 Primary
 Pathophysiology
@@ -43721,6 +43755,9 @@ PQh
 PzL
 PtA
 PHy
+Prenatal
+Postnatal
+PPI
 ectopic
 elevation
 early
@@ -45459,6 +45496,7 @@ ejL
 eZi
 ejBU
 eFMC
+explosive
 Early
 Elevation
 Etiology
@@ -46978,6 +47016,8 @@ EqJVd
 EyXt
 EiWD
 EIK
+Expansion
+Empty
 LEFT
 Lengthening
 Left
@@ -50049,6 +50089,7 @@ HbL
 HGCKV
 HwDxbDxbL
 HXH
+Hirschsprung
 hyperkalemia
 hypertrophy
 hereditary
@@ -51683,6 +51724,7 @@ hyk
 hCX
 hJz
 hcu
+histologically
 peaked
 pattern
 precordial
@@ -53574,6 +53616,10 @@ pcW
 pdE
 pBlE
 pfu
+prevents
+passing
+plexus
+peristalsis
 Unusual
 Usually
 Upc
@@ -59610,6 +59656,8 @@ Rrm
 RqG
 RxLW
 Rlc
+RET
+REcTum
 Voltage
 VFV
 VoNW
@@ -62589,6 +62637,7 @@ uRC
 uVI
 uLI
 ueUw
+uncoordinated
 quinine
 qz
 qM
@@ -65218,6 +65267,7 @@ GWDM
 GvD
 GCt
 GmiX
+Gasless
 Jervell
 JYo
 JO
@@ -66700,6 +66750,7 @@ JiP
 JAwg
 Jhq
 JwzJ
+Jejunal
 Nielsen
 NB
 No
@@ -69705,6 +69756,8 @@ jJB
 jsQG
 jnK
 jVRf
+jejunal
+jejunum
 kO
 kWCQ
 ky
@@ -71167,6 +71220,7 @@ kag
 kHa
 kOy
 kIC
+karyotyping
 KB
 KR
 KA

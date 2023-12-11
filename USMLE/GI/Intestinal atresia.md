@@ -36,3 +36,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[Polyhydramnios]] (intrauterine)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Bilious vomiting and upper abdominal distention (postpartum)</span>
 - Diagnostics: Abdominal x-ray shows a triple bubble sign (dilated small bowel loops and air-fluid levels; the three bubbles correlate with the distended stomach, duodenum, and jejunum proximal to the obstruction) and gasless colon.
+# Differential diagnostics
+![[Pasted image 20231211113316.png]]
+- [[Malrotation]]
+- [[Hirschsprung disease]]

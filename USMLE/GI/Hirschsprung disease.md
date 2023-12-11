@@ -21,6 +21,7 @@ share: true
 	- Inability of the myenteric plexus to control the intestinal wall muscles → uncoordinated peristalsis and slowed motility
 	- Spastic contraction of intestinal muscles → stenosis and functional obstruction
 	- Expansion of the colon segment proximal to the aganglionic section (possible megacolon)
+ 
 ![[Pasted image 20231013203052.png]]
 
 ---

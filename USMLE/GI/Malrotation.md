@@ -30,6 +30,8 @@ share: true
 ---
 # Diagnostics
 ![[Pasted image 20231012173759.png]]
+# Differential diagnostics
+![[Intestinal atresia#Differential diagnostics]]
 
 ---
 # Treatment
