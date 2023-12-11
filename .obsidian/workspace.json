@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/GI/Gastroesophageal reflux disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/GI/Gastroesophageal reflux disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+                "file": "USMLE/GI/Gastroesophageal reflux disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+                "file": "USMLE/GI/Gastroesophageal reflux disease.md"
               }
             }
           }
@@ -223,11 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/GI/Malabsorption.md",
-    "USMLE/Endocrine/Riedel thyroiditis.md",
-    "USMLE/GI/Malrotation.md",
     "USMLE/Biochemistry/Vitamin A.md",
+    "USMLE/GI/Gastroesophageal reflux disease.md",
+    "appendix/Pasted image 20231103111548.png",
+    "USMLE/Endocrine/Riedel thyroiditis.md",
+    "USMLE/GI/Malabsorption.md",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
+    "USMLE/GI/Malrotation.md",
     "USMLE/GI/Esophageal cancer.md",
     "USMLE/MSK/Osteoarthritis.md",
     "USMLE/MSK/Rheumatoid arthritis.md",
@@ -243,7 +245,6 @@
     "appendix/Pasted image 20231210155836.png",
     "appendix/Pasted image 20231210155804.png",
     "appendix/Pasted image 20231210155747.png",
-    "appendix/Pasted image 20231210155730.png",
     "USMLE/Blood/Hemoglobin variants.md",
     "USMLE/Reproductive/Polyhydramnios.md",
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
@@ -258,7 +259,6 @@
     "USMLE/Renal/Focal segmental glomerulosclerosis.md",
     "USMLE/MSK/Vasculitides.md",
     "USMLE/Renal/Goodpasture syndrome.md",
-    "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

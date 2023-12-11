@@ -27,10 +27,14 @@ share: true
 ---
 # Clinical features
 ![[Pasted image 20230923164647.png]]
+>[!tip] 
+>The clinical features of PM is similar to DM except no cutaneous features.
 
 ---
 # Diagnostics
-
+↑ CK
+Antinuclear antibodies (ANAs)
+Myositis-specific antibodies
 
 ---
 # Treatment

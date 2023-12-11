@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Idiopathic inflammatory myopathies",
-      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+      "basename": "Gastroesophageal reflux disease",
+      "path": "USMLE/GI/Gastroesophageal reflux disease.md"
     },
     {
-      "basename": "Malabsorption",
-      "path": "USMLE/GI/Malabsorption.md"
-    },
-    {
-      "basename": "Malrotation",
-      "path": "USMLE/GI/Malrotation.md"
+      "basename": "Vitamin A",
+      "path": "USMLE/Biochemistry/Vitamin A.md"
     },
     {
       "basename": "Riedel thyroiditis",
       "path": "USMLE/Endocrine/Riedel thyroiditis.md"
     },
     {
-      "basename": "Vitamin A",
-      "path": "USMLE/Biochemistry/Vitamin A.md"
+      "basename": "Malabsorption",
+      "path": "USMLE/GI/Malabsorption.md"
+    },
+    {
+      "basename": "Idiopathic inflammatory myopathies",
+      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
+    },
+    {
+      "basename": "Malrotation",
+      "path": "USMLE/GI/Malrotation.md"
     },
     {
       "basename": "Esophageal cancer",
@@ -195,10 +199,6 @@
     {
       "basename": "Crohn disease",
       "path": "USMLE/GI/Crohn disease.md"
-    },
-    {
-      "basename": "Acanthosis nigricans",
-      "path": "USMLE/MSK/Acanthosis nigricans.md"
     }
   ],
   "omittedPaths": [],
