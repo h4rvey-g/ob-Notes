@@ -2,7 +2,9 @@
 author: Harvey Guo
 created: 2023-09-23 16:42
 modified: 2023-09-23 16:42
-aliases: Untitled
+aliases:
+  - Dermatomyositis
+  - Polymyositis
 share: true
 ---
 # Definition
