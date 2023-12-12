@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hyperprolactinemia",
+      "path": "USMLE/Endocrine/Hyperprolactinemia.md"
+    },
+    {
+      "basename": "Pituitary adenoma",
+      "path": "USMLE/Endocrine/Pituitary adenoma.md"
+    },
+    {
       "basename": "Selective IgA deficiency",
       "path": "USMLE/Immunology/Selective IgA deficiency.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Vasculitides",
       "path": "USMLE/MSK/Vasculitides.md"
-    },
-    {
-      "basename": "Polyarteritis nodosa",
-      "path": "USMLE/MSK/Polyarteritis nodosa.md"
-    },
-    {
-      "basename": "Collagen",
-      "path": "USMLE/Biochemistry/Collagen.md"
     }
   ],
   "omittedPaths": [],
