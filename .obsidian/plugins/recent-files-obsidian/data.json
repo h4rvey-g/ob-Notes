@@ -5,6 +5,10 @@
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
     {
+      "basename": "Diabetic kidney disease",
+      "path": "USMLE/Renal/Diabetic kidney disease.md"
+    },
+    {
       "basename": "Malrotation",
       "path": "USMLE/GI/Malrotation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lab findings of hemolysis",
       "path": "USMLE/Blood/Lab findings of hemolysis.md"
-    },
-    {
-      "basename": "Whipple disease",
-      "path": "USMLE/GI/Whipple disease.md"
     }
   ],
   "omittedPaths": [],

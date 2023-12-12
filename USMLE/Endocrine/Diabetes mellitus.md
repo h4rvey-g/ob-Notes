@@ -24,7 +24,7 @@ share: true
 		- Numerous genetic and environmental factors
 			- Central obesity → <span style="background:rgba(240, 200, 0, 0.2)">increased plasma levels of free fatty acids → impaired insulin-dependent glucose uptake</span> into hepatocytes, myocytes, and adipocytes 
 			- Increased serine kinase activity in fat and skeletal muscle cells → phosphorylation of insulin receptor substrate (IRS)-1 → decreased affinity of IRS-1 for PI3K → <span style="background:rgba(240, 200, 0, 0.2)">decreased expression of GLUT4 channels → decreased cellular glucose uptake</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic β cell dysfunction: accumulation of pro-amylin (islet amyloid polypeptide) in the pancreas</span>  → decreased endogenous insulin production
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic β cell dysfunction: accumulation of pro-amylin (islet amyloid polypeptide) in the pancreas  → decreased endogenous insulin production</span>
 - Progression
 	- Initially, insulin resistance is compensated by increased insulin and amylin secretion. 
 	- Over the course of the disease, insulin resistance progresses, while insulin secretion capacity declines.
