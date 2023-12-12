@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Antiphospholipid syndrome",
+      "path": "USMLE/MSK/Antiphospholipid syndrome.md"
+    },
+    {
       "basename": "Systemic lupus erythematosus",
       "path": "USMLE/Immunology/Systemic lupus erythematosus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Splenomegaly",
       "path": "USMLE/Blood/Splenomegaly.md"
-    },
-    {
-      "basename": "Sickle cell disease",
-      "path": "USMLE/Blood/Sickle cell disease.md"
     }
   ],
   "omittedPaths": [],

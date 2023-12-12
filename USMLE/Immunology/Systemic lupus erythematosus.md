@@ -43,11 +43,11 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Photosensitivity → maculopapular rash </span>![[Pasted image 20231212100519.png]]
 	- Discoid rash  
 	- <span style="background:rgba(240, 200, 0, 0.2)">Oral ulcers (usually painless)</span>
-	- Nonscarring alopecia (except with discoid rashes)
+	- Nonscarring [[alopecia]] (except with discoid rashes)
 	- Periungual telangiectasia 
 
 >[!tip] 
->Both rheumatoid arthritis and SLE arthritis affect the MCP and PIP joints, but SLE does not usually lead to deformities.
+>Both [[rheumatoid arthritis]] and SLE arthritis affect the MCP and PIP joints, but SLE does not usually lead to deformities.
 
 ---
 # Diagnostics
@@ -63,7 +63,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Sm antibodies</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibodies against Smith antigens (nonhistone nuclear proteins)</span>
 		- Positive in < 30% of patients, but highly specific for SLE
-- Antiphospholipid antibodies: Screen all patients for antiphospholipid syndrome.
+- Antiphospholipid antibodies: Screen all patients for [[antiphospholipid syndrome]].
 ## Skin biopsy
 - Lupus band test (LBT): a direct immunofluorescence staining technique used to detect immunoglobulin and complement component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[Pasted image 20231029092317.png]]
 
