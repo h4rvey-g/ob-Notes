@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Selective IgA deficiency",
+      "path": "USMLE/Immunology/Selective IgA deficiency.md"
+    },
+    {
+      "basename": "Transfusion reactions",
+      "path": "USMLE/Blood/Transfusion reactions.md"
+    },
+    {
+      "basename": "Transfusion",
+      "path": "USMLE/Blood/Transfusion.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Alpha fetoprotein",
       "path": "USMLE/Reproductive/Alpha fetoprotein.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Erythrocyte morphology and hemoglobin",
       "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
-    },
-    {
-      "basename": "Hypercalcemia",
-      "path": "USMLE/Cardiology/Hypercalcemia.md"
-    },
-    {
-      "basename": "Familial hypocalciuric hypercalcemia",
-      "path": "USMLE/Endocrine/Familial hypocalciuric hypercalcemia.md"
-    },
-    {
-      "basename": "Sarcoidosis",
-      "path": "USMLE/Respiratory/Sarcoidosis.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     }
   ],
   "omittedPaths": [],
