@@ -10,10 +10,13 @@ share: true
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">most common primary immunodeficiency</span> that is characterized by a near or total absence of serum and secretory IgA
 - Clinical features
 	- Often asymptomatic
-	- May manifest with <span style="background:rgba(240, 200, 0, 0.2)">sinusitis or respiratory infections (S. pneumoniae, H. influenzae)</span>, seen in childhood
-	- Chronic diarrhea, partially due to elevated susceptibility to parasitic infection (e.g. by Giardia lamblia)
-	- Associated with autoimmune diseases (e.g., gluten-sensitive enteropathy, inflammatory bowel disease, immune thrombocytopenia) and atopy
-	- Anaphylactic reaction to products containing IgA (e.g., intravenous immunoglobulin)
+	- May manifest with <span style="background:rgba(240, 200, 0, 0.2)">[[sinusitis]] or respiratory infections (S. pneumoniae, H. influenzae)</span>, seen in childhood
+	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic [[diarrhea]], partially due to elevated susceptibility to parasitic infection (e.g. by Giardia lamblia)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with autoimmune diseases</span> (e.g., [[Celiac disease|gluten-sensitive enteropathy]], inflammatory bowel disease, immune thrombocytopenia) and [[atopy]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anaphylactic reaction to products containing IgA (e.g., intravenous immunoglobulin)</span>
+
+>[!tip] 
+>To prevent [[transfusion reactions]], IgA-deficient patients must be given washed blood products without IgA or obtain blood from an IgA-deficient donor.
 - Diagnosis
 	- Decreased serum IgA levels (< 7 mg/dL)
 	- Normal IgG and IgM levels

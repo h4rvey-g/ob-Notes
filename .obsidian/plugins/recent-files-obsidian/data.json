@@ -5,6 +5,14 @@
       "path": "USMLE/Immunology/Selective IgA deficiency.md"
     },
     {
+      "basename": "Celiac disease",
+      "path": "USMLE/GI/Celiac disease.md"
+    },
+    {
+      "basename": "Atopy",
+      "path": "USMLE/Respiratory/Atopy.md"
+    },
+    {
       "basename": "Transfusion reactions",
       "path": "USMLE/Blood/Transfusion reactions.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Collagen",
       "path": "USMLE/Biochemistry/Collagen.md"
-    },
-    {
-      "basename": "Vitamin C",
-      "path": "USMLE/Blood/Vitamin C.md"
-    },
-    {
-      "basename": "Erythrocyte morphology and hemoglobin",
-      "path": "USMLE/Blood/Erythrocyte morphology and hemoglobin.md"
     }
   ],
   "omittedPaths": [],
