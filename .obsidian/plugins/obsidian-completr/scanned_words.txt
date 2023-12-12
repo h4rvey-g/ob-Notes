@@ -11619,6 +11619,7 @@ inÄ
 iSF
 iXCE
 intolerant
+inactive
 general
 giving
 generation
@@ -30358,6 +30359,7 @@ Wsc
 WRz
 WDin
 WCH
+Warfarin
 you
 young
 ybif
@@ -36650,6 +36652,7 @@ laH
 lUUT
 law
 lAx
+lives
 Multifocal
 Mild
 Moderate
@@ -54660,6 +54663,7 @@ pMt
 pBN
 pgA
 phagocytose
+procoagulants
 Unusual
 Usually
 Upc
