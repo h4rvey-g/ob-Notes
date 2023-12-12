@@ -42,12 +42,28 @@ share: true
 	- Raynaud phenomenon
 	- <span style="background:rgba(240, 200, 0, 0.2)">Photosensitivity → maculopapular rash </span>![[Pasted image 20231212100519.png]]
 	- Discoid rash  
-	- Oral ulcers (usually painless)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Oral ulcers (usually painless)</span>
 	- Nonscarring alopecia (except with discoid rashes)
 	- Periungual telangiectasia 
 
+>[!tip] 
+>Both rheumatoid arthritis and SLE arthritis affect the MCP and PIP joints, but SLE does not usually lead to deformities.
+
 ---
 # Diagnostics
+## Laboratory studies
+- <span style="background:rgba(240, 200, 0, 0.2)">Antinuclear antibodies (ANAs)</span>
+	- Positive titers of ≥ 1:80 have <span style="background:rgba(240, 200, 0, 0.2)">∼ 98% sensitivity for SLE</span>
+- Antigen-specific ANAs: Request only if ANAs are positive.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-dsDNA antibodies</span>
+		- Autoantibodies against double-stranded DNA
+		- Positive in 60–70% of patients
+		- Highly specific for SLE
+		- Levels correlate with disease activity (especially lupus nephritis activity). 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Sm antibodies</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibodies against Smith antigens (nonhistone nuclear proteins)</span>
+		- Positive in < 30% of patients, but highly specific for SLE
+- Antiphospholipid antibodies: Screen all patients for antiphospholipid syndrome.
 ## Skin biopsy
 - Lupus band test (LBT): a direct immunofluorescence staining technique used to detect immunoglobulin and complement component deposits along the dermoepidermal junction in affected and unaffected skin in patients with SLE![[Pasted image 20231029092317.png]]
 
