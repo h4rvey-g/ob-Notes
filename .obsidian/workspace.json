@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/Immunology/Systemic lupus erythematosus.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/Immunology/Systemic lupus erythematosus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/Immunology/Systemic lupus erythematosus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md"
+                "file": "USMLE/Immunology/Systemic lupus erythematosus.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Renal/Diabetic kidney disease.md",
+    "appendix/Pasted image 20231212100519.png",
     "USMLE/Endocrine/Diabetes mellitus.md",
+    "USMLE/Renal/Diabetic kidney disease.md",
     "appendix/Pasted image 20231209113337.png",
     "appendix/Pasted image 20231210111903.png",
     "appendix/Pasted image 20231209142321.png",
@@ -258,7 +259,6 @@
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Minimal change disease.md",
     "USMLE/Pathology/Amyloidosis.md",
-    "USMLE/Renal/IgA nephropathy.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Systemic lupus erythematosus",
+      "path": "USMLE/Immunology/Systemic lupus erythematosus.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sickle cell disease",
       "path": "USMLE/Blood/Sickle cell disease.md"
-    },
-    {
-      "basename": "Lab findings of hemolysis",
-      "path": "USMLE/Blood/Lab findings of hemolysis.md"
     }
   ],
   "omittedPaths": [],
