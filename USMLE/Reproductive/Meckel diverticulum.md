@@ -25,14 +25,22 @@ share: true
 
 ---
 # Clinical features
-
+## Asymptomatic
+- Most common manifestation
+- Symptomatic
+- Lower gastrointestinal bleeding (most common feature)
+	- Presence of <span style="background:rgba(240, 200, 0, 0.2)">ectopic gastric mucosa</span> or pancreatic tissue → <span style="background:rgba(240, 200, 0, 0.2)">acid or enzyme secretion within the diverticulum → ileal ulceration → bleeding</span>
+	- Can manifest as:
+		- Hematochezia 
+		- Tarry stools 
+		- Currant jelly stools
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

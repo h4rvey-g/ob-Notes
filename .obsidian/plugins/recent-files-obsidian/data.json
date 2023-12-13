@@ -5,6 +5,18 @@
       "path": "USMLE/Reproductive/Meckel diverticulum.md"
     },
     {
+      "basename": "Vitamin B1",
+      "path": "USMLE/Biochemistry/Vitamin B1.md"
+    },
+    {
+      "basename": "TCA cycle",
+      "path": "USMLE/Biochemistry/TCA cycle.md"
+    },
+    {
+      "basename": "Pasted image 20231123165156",
+      "path": "appendix/Pasted image 20231123165156.png"
+    },
+    {
       "basename": "Hyperprolactinemia",
       "path": "USMLE/Endocrine/Hyperprolactinemia.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Hodgkin lymphoma",
       "path": "USMLE/Blood/Hodgkin lymphoma.md"
-    },
-    {
-      "basename": "Mycosis fungoides",
-      "path": "USMLE/Blood/Mycosis fungoides.md"
-    },
-    {
-      "basename": "Sézary syndrome",
-      "path": "USMLE/Blood/Sézary syndrome.md"
-    },
-    {
-      "basename": "Granulomatosis with polyangiitis",
-      "path": "USMLE/Blood/Granulomatosis with polyangiitis.md"
     }
   ],
   "omittedPaths": [],
