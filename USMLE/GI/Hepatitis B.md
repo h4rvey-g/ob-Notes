@@ -39,7 +39,9 @@ share: true
 
 ---
 # Diagnostics
-- Chronic infection (inactive): HBsAg (+), Anti-HBc (+, IgG), Anti-HBe (+)
+- Chronic infection (inactive): HBsAg (+), Anti-HBc (+, IgG), Anti-HBe (+)![[Pasted image 20231213111859.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Recovery: conversion from HBsAg (+) to Anti-Hbs (+) in chronic infection, also HBV DNA needs to be undetectable</span>
+- ![[Pasted image 20231213112059.png]]
 
 ---
 # Treatment
