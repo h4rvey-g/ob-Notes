@@ -12,7 +12,7 @@ share: true
 ---
 # Etiology
 - Genetic predisposition
-	- 50% of patients with Graves disease have a family history of autoimmune disorders (e.g., type 1 diabetes mellitus, Hashimoto disease, pernicious [[anemia]], [[myasthenia gravis]])
+	- 50% of patients with Graves disease have a family history of autoimmune disorders (e.g., type 1 [[diabetes mellitus]], Hashimoto disease, pernicious [[anemia]], [[myasthenia gravis]])
 	- Associated with HLA-DR3 and HLA-B8 alleles
 - Autoimmunity: B and T [[lymphocyte]]-mediated disorder
 - Triggers
@@ -30,6 +30,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Thyroid-associated ophthalmopathy: activated B and T cells infiltrate retro-orbital space targeting orbital fibroblasts → cytokine release (e.g. TNF-α, IFN-γ) → local inflammatory response → fibroblast proliferation and differentiation to adipocytes → production of hyaluronic acid and GAGs and increased amount of adipocytes → increase in the volume of intraorbital fat and muscle tissues → exophthalmos, lid retraction, disturbances in ocular motility (causing diplopia)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Pretibial myxedema: dermal fibroblast stimulation and deposition of glycosaminoglycans in connective tissue</span>
 ![[Pasted image 20231127214913.png]]
+>[!tip] 
+>Although the majority of symptoms are due to increased thyroid hormone levels, <span style="background:rgba(240, 200, 0, 0.2)">myxedema (nonpitting edema) and exophthalmos</span> in patients with Graves disease are instead due to autoantibody-mediated activation of TSH receptors on peripheral tissue. <span style="background:rgba(240, 200, 0, 0.2)">Therefore they are not seen on other [[Hyperthyroidism]] diseases.</span>
 
 ---
 # Clinical features

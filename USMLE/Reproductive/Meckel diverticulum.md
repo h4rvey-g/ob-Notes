@@ -32,8 +32,11 @@ share: true
 	- Presence of <span style="background:rgba(240, 200, 0, 0.2)">ectopic gastric mucosa</span> or pancreatic tissue → <span style="background:rgba(240, 200, 0, 0.2)">acid or enzyme secretion within the diverticulum → ileal ulceration → bleeding</span>
 	- Can manifest as:
 		- Hematochezia 
+			- Indicates a brisk hemorrhage
 		- Tarry stools 
+			- Indicate a slow hemorrhage
 		- Currant jelly stools
+			- Indicate intussusception with bowel ischemia
 
 ---
 # Diagnostics

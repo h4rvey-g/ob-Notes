@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hyperthyroidism",
+      "path": "USMLE/Endocrine/Hyperthyroidism.md"
+    },
+    {
+      "basename": "Graves disease",
+      "path": "USMLE/Endocrine/Graves disease.md"
+    },
+    {
       "basename": "Meckel diverticulum",
       "path": "USMLE/Reproductive/Meckel diverticulum.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231209142943",
       "path": "appendix/Pasted image 20231209142943.png"
-    },
-    {
-      "basename": "Diarrhea",
-      "path": "USMLE/GI/Diarrhea.md"
-    },
-    {
-      "basename": "Hodgkin lymphoma",
-      "path": "USMLE/Blood/Hodgkin lymphoma.md"
     }
   ],
   "omittedPaths": [],
