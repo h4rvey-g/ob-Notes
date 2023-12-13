@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GI hormones",
+      "path": "USMLE/GI/GI hormones.md"
+    },
+    {
+      "basename": "Pasted image 20231101150650",
+      "path": "appendix/Pasted image 20231101150650.png"
+    },
+    {
       "basename": "Cellular adaptations",
       "path": "USMLE/Pathology/Cellular adaptations.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "IgA vasculitis",
       "path": "USMLE/MSK/IgA vasculitis.md"
-    },
-    {
-      "basename": "Choledocholithiasis",
-      "path": "USMLE/GI/Choledocholithiasis.md"
-    },
-    {
-      "basename": "Mirizzi syndrome",
-      "path": "USMLE/GI/Mirizzi syndrome.md"
     }
   ],
   "omittedPaths": [],
