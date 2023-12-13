@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/GI hormones.md",
+                "file": "USMLE/GI/Hepatitis B.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/GI hormones.md",
+                "file": "USMLE/GI/Hepatitis B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/GI hormones.md",
+                "file": "USMLE/GI/Hepatitis B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,11 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/GI hormones.md"
+                "file": "USMLE/GI/Hepatitis B.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,6 +223,7 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/GI/GI hormones.md",
     "appendix/Pasted image 20231101150650.png",
     "USMLE/Pathology/Cellular adaptations.md",
     "appendix/Pasted image 20231213102922.png",
@@ -254,7 +256,6 @@
     "USMLE/Renal/Diabetic kidney disease.md",
     "appendix/Pasted image 20231209113337.png",
     "appendix/Pasted image 20231210111903.png",
-    "appendix/Pasted image 20231209142321.png",
     "USMLE/GI/Malrotation.md",
     "USMLE/GI/Malabsorption.md",
     "USMLE/Endocrine/Riedel thyroiditis.md",

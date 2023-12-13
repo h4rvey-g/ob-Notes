@@ -39,7 +39,7 @@ share: true
 
 ---
 # Diagnostics
-
+- Chronic infection (inactive): HBsAg (+), Anti-HBc (+, IgG), Anti-HBe (+)
 
 ---
 # Treatment
@@ -50,5 +50,5 @@ share: true
 ## Perinatal Hep B
 ![[Pasted image 20231029112500.png]]
 - Breastfeeding may be started immediately if there are no contraindications (e.g., cracked or bleeding nipples), regardless of whether individuals:
-	- Have HBsAg positive or unknown status [5]
+	- Have HBsAg positive or unknown status
 	- Are receiving antiviral therapy
