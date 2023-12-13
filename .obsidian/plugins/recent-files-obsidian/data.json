@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Meckel diverticulum",
+      "path": "USMLE/Reproductive/Meckel diverticulum.md"
+    },
+    {
       "basename": "Hyperprolactinemia",
       "path": "USMLE/Endocrine/Hyperprolactinemia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Granulomatosis with polyangiitis",
       "path": "USMLE/Blood/Granulomatosis with polyangiitis.md"
-    },
-    {
-      "basename": "Vasculitides",
-      "path": "USMLE/MSK/Vasculitides.md"
     }
   ],
   "omittedPaths": [],

@@ -26,6 +26,9 @@ share: true
 	- Reduced facial and body hair
 	- [[Osteoporosis]]
 
+>[!tip] 
+>Patients with hyperprolactinemia due to a [[pituitary adenoma]] may also present with bitemporal hemianopsia and headache.
+
 ---
 # Diagnostics
 <% tp.file.cursor() %>
