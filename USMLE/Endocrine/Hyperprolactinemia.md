@@ -19,7 +19,12 @@ share: true
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+## Male
+- ↓ Testosterone
+	- Loss of libido, erectile dysfunction, infertility
+	- Gynecomastia 
+	- Reduced facial and body hair
+	- [[Osteoporosis]]
 
 ---
 # Diagnostics
