@@ -19,7 +19,7 @@ PTH-mediated or non-PTH-mediated causes
 >- Thinking: [[Thiazides]], thyroid
 >- Calcium supplementation
 >- [[Hyperparathyroidism]]
->- Immobilization, inherited (FHH)
+>- Immobilization, inherited ([[Familial hypocalciuric hypercalcemia|FHH]])
 >- Milk-alkali synd., meds ([[thiazides]], lithium)
 >- Paraneoplastic [[Parathyroid hormone-related protein|PTHrP]]
 >- [[Adrenal insufficiency]]
