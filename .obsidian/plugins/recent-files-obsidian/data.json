@@ -5,6 +5,14 @@
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
     {
+      "basename": "Paraneoplastic syndromes",
+      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
+    },
+    {
+      "basename": "Parathyroid hormone-related protein",
+      "path": "USMLE/Renal/Parathyroid hormone-related protein.md"
+    },
+    {
       "basename": "Hepatitis B",
       "path": "USMLE/GI/Hepatitis B.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Minimal change disease",
       "path": "USMLE/Renal/Minimal change disease.md"
-    },
-    {
-      "basename": "Focal segmental glomerulosclerosis",
-      "path": "USMLE/Renal/Focal segmental glomerulosclerosis.md"
-    },
-    {
-      "basename": "Nephritic syndrome",
-      "path": "USMLE/Renal/Nephritic syndrome.md"
     }
   ],
   "omittedPaths": [],

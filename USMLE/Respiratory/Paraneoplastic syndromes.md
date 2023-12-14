@@ -8,11 +8,11 @@ share: true
 # Endocrine
 ## [[Hypercalcemia]] of malignancy
 - Etiology
-	- Humoral hypercalcemia of malignancy (pseudohyperparathyroidism): PTHrP secretion by the tumor
+	- Humoral [[hypercalcemia]] of malignancy (pseudohyperparathyroidism): [[Parathyroid hormone-related protein|PTHrP]] secretion by the tumor
 		- Squamous cell carcinomas (lung, head, and neck)
 	- Ectopic vitamin D production due to 1α-hydroxylase activity in tumor cells
-		- Hodgkin lymphoma
+		- [[Hodgkin lymphoma]]
 		- NHL
-	- Local osteolytic hypercalcemia: osteolytic activity at sites of skeletal metastases
+	- Local osteolytic [[hypercalcemia]]: osteolytic activity at sites of skeletal metastases
 		- Multiple myeloma
 		- Breast cancer
