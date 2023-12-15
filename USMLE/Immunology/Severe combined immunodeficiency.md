@@ -10,4 +10,4 @@ share: true
 - Etiology: various mutations, the most common of which are:
 	- <span style="background:rgba(240, 200, 0, 0.2)">X-linked recessive: mutations in the gene encoding the common gamma chain → defective IL-2R gamma chain receptor linked to JAK3 (most common SCID mutation)</span>
 	- Autosomal recessive
-		- [[Adenosine deaminase deficiency]] → accumulation of toxic metabolites (deoxyadenosine and dATP) and disrupted purine metabolism → accumulation of dATP inhibits the function of ribonucleotide reductase → impaired generation of deoxynucleotides
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Adenosine deaminase deficiency]]</span> → accumulation of toxic metabolites (deoxyadenosine and dATP) and disrupted purine metabolism →<span style="background:rgba(240, 200, 0, 0.2)"> accumulation of dATP inhibits the function of ribonucleotide reductase → impaired generation of deoxynucleotides</span>
