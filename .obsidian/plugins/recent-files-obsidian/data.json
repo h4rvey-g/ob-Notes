@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ketone body synthesis",
+      "path": "USMLE/Biochemistry/Ketone body synthesis.md"
+    },
+    {
+      "basename": "Pasted image 20231123220120",
+      "path": "appendix/Pasted image 20231123220120.png"
+    },
+    {
       "basename": "Prostate cancer",
       "path": "USMLE/Renal/Prostate cancer.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hirschsprung disease",
       "path": "USMLE/GI/Hirschsprung disease.md"
-    },
-    {
-      "basename": "Intestinal atresia",
-      "path": "USMLE/GI/Intestinal atresia.md"
-    },
-    {
-      "basename": "Gastroesophageal reflux disease",
-      "path": "USMLE/GI/Gastroesophageal reflux disease.md"
     }
   ],
   "omittedPaths": [],
