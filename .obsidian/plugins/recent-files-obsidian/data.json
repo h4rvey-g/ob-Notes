@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Prostate cancer",
+      "path": "USMLE/Renal/Prostate cancer.md"
+    },
+    {
       "basename": "Malaria",
       "path": "USMLE/Infective disease/Malaria.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gastroesophageal reflux disease",
       "path": "USMLE/GI/Gastroesophageal reflux disease.md"
-    },
-    {
-      "basename": "Vitamin A",
-      "path": "USMLE/Biochemistry/Vitamin A.md"
     }
   ],
   "omittedPaths": [],
