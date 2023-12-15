@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Dermatitis herpetiformis.md",
-                "mode": "source",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Dermatitis herpetiformis.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Dermatitis herpetiformis.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Dermatitis herpetiformis.md"
+                "file": "USMLE/Endocrine/Diabetes mellitus.md"
               }
             }
           }
@@ -223,8 +223,13 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/GI/Celiac disease.md",
+    "appendix/Pasted image 20231215112826.png",
+    "USMLE/Endocrine/Diabetic gastroparesis.md",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
+    "USMLE/Lab Values.md",
     "USMLE/MSK/Dermatitis herpetiformis.md",
+    "USMLE/GI/Celiac disease.md",
     "USMLE/Cardiology/Acute rheumatic fever.md",
     "USMLE/Infective disease/Streptococcus pyogenes.md",
     "USMLE/MSK/Scarlet fever.md",
@@ -252,13 +257,8 @@
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Endocrine/Graves disease.md",
     "USMLE/Reproductive/Meckel diverticulum.md",
-    "USMLE/Biochemistry/Vitamin B1.md",
-    "USMLE/Biochemistry/TCA cycle.md",
     "appendix/Pasted image 20231123165156.png",
     "appendix/Pasted image 20231213092707.png",
-    "USMLE/Endocrine/Hyperprolactinemia.md",
-    "USMLE/Endocrine/Pituitary adenoma.md",
-    "USMLE/Immunology/Selective IgA deficiency.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
+      "basename": "Pancreatic neuroendocrine tumors",
+      "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Dermatitis herpetiformis",
       "path": "USMLE/MSK/Dermatitis herpetiformis.md"
     },
@@ -121,10 +133,6 @@
       "path": "USMLE/Blood/Transfusion.md"
     },
     {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
-    },
-    {
       "basename": "Alpha fetoprotein",
       "path": "USMLE/Reproductive/Alpha fetoprotein.md"
     },
@@ -139,10 +147,6 @@
     {
       "basename": "Antiphospholipid syndrome",
       "path": "USMLE/MSK/Antiphospholipid syndrome.md"
-    },
-    {
-      "basename": "Diabetes mellitus",
-      "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
     {
       "basename": "Diabetic kidney disease",
@@ -195,10 +199,6 @@
     {
       "basename": "Reactive arthritis",
       "path": "USMLE/MSK/Reactive arthritis.md"
-    },
-    {
-      "basename": "Pasted image 20230928151653",
-      "path": "appendix/Pasted image 20230928151653.png"
     }
   ],
   "omittedPaths": [],

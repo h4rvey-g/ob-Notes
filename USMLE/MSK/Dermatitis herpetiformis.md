@@ -15,8 +15,8 @@ share: true
 - Bilateral, symmetrical distribution, commonly over elbows, knees, buttocks, shoulders, scalp
 - No mucosal involvement![[Pasted image 20231005110109.png]]
 # Diagnostics
-- Autoantibodies against tissue transglutaminase
+- <span style="background:rgba(240, 200, 0, 0.2)">IgA autoantibodies against tissue transglutaminase</span>
 - Histology and immunohistochemistry
 	- Subepidermal vesicle formation
-	- Neutrophilic papillary microabscesses
-	- Deposition of granular IgA in dermal papillae
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neutrophilic papillary microabscesses</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Deposition of granular IgA in dermal papillae</span>

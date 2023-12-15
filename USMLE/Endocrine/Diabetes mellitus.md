@@ -73,6 +73,10 @@ share: true
 ---
 # Diagnostics
 ![[Pasted image 20231210111903.png]]
+## Additional studies
+- <span style="background:rgba(240, 200, 0, 0.2)">C-peptide</span>: can help differentiate between types of diabetes![[Pasted image 20231215112826.png]]
+	- ↑ C-peptide levels may indicate insulin resistance and hyperinsulinemia → T2DM
+	- ↓ C-peptide levels indicate an absolute insulin deficiency → T1DM
 
 ---
 # Treatment
