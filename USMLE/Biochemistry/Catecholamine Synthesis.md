@@ -17,12 +17,8 @@ share: true
 - Decreased PRODUCTION of Melanin
 - ![[Pasted image 20231107150236.png]]
 ![[Pasted image 20231107144232.png]]
-# Phenylketonuria
+# [[Phenylketonuria]]
 ![[Pasted image 20231113173304.png]]
 ![[Pasted image 20231107144314.png]]
 >[!Mnemonic] 
 >Musty -> having a stale, moldy, or damp smell -> <font color="#ffc000">MOLD-E</font>
-## Diagnostics
-- Newborn screening: direct measurement of serum phenylalanine levels on 2<sup>nd</sup>–3<sup>rd</sup> day after birth (phenylalanine levels are normal at birth because of circulating maternal PAH)
-- ↑ Phenylketones in urine
-- Hyperphenylalaninemia

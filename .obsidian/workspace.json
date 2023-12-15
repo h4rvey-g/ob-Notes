@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/Biochemistry/Phenylketonuria.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -197,7 +197,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,10 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "appendix/Pasted image 20231215101227.png",
-    "appendix/Pasted image 20231215101226.png",
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Biochemistry/Phenylketonuria.md",
+    "appendix/Pasted image 20231215101227.png",
+    "appendix/Pasted image 20231215101226.png",
     "appendix/Pasted image 20231113173304.png",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "appendix/Pasted image 20230909221338.png",
@@ -250,7 +251,6 @@
     "USMLE/Biochemistry/TCA cycle.md",
     "appendix/Pasted image 20231123165156.png",
     "appendix/Pasted image 20231213092707.png",
-    "appendix/Pasted image 20231213092649.png",
     "USMLE/Endocrine/Hyperprolactinemia.md",
     "USMLE/Endocrine/Pituitary adenoma.md",
     "USMLE/Immunology/Selective IgA deficiency.md",
