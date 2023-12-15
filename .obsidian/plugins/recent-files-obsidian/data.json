@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Acute rheumatic fever",
+      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
+    },
+    {
+      "basename": "Streptococcus pyogenes",
+      "path": "USMLE/Infective disease/Streptococcus pyogenes.md"
+    },
+    {
+      "basename": "Scarlet fever",
+      "path": "USMLE/MSK/Scarlet fever.md"
+    },
+    {
       "basename": "Phenylketonuria",
       "path": "USMLE/Biochemistry/Phenylketonuria.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "HIV therapy",
       "path": "USMLE/Infective disease/HIV therapy.md"
-    },
-    {
-      "basename": "Leukocyte alkaline phosphatase",
-      "path": "USMLE/Blood/Leukocyte alkaline phosphatase.md"
-    },
-    {
-      "basename": "Polyhydramnios",
-      "path": "USMLE/Reproductive/Polyhydramnios.md"
-    },
-    {
-      "basename": "Diabetes mellitus in pregnancy",
-      "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
     }
   ],
   "omittedPaths": [],

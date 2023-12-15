@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Phenylketonuria.md",
+                "file": "USMLE/Cardiology/Acute rheumatic fever.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Phenylketonuria.md",
+                "file": "USMLE/Cardiology/Acute rheumatic fever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Phenylketonuria.md",
+                "file": "USMLE/Cardiology/Acute rheumatic fever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Phenylketonuria.md"
+                "file": "USMLE/Cardiology/Acute rheumatic fever.md"
               }
             }
           }
@@ -223,8 +223,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
+    "USMLE/Infective disease/Streptococcus pyogenes.md",
+    "USMLE/Cardiology/Acute rheumatic fever.md",
+    "USMLE/MSK/Scarlet fever.md",
     "USMLE/Biochemistry/Phenylketonuria.md",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231215101227.png",
     "appendix/Pasted image 20231215101226.png",
     "appendix/Pasted image 20231113173304.png",
@@ -256,8 +259,6 @@
     "USMLE/Immunology/Selective IgA deficiency.md",
     "USMLE/GI/Celiac disease.md",
     "USMLE/MSK/Dermatitis herpetiformis.md",
-    "USMLE/Respiratory/Atopy.md",
-    "USMLE/Blood/Transfusion reactions.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
