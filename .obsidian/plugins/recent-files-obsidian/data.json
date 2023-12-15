@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Severe combined immunodeficiency",
+      "path": "USMLE/Immunology/Severe combined immunodeficiency.md"
+    },
+    {
+      "basename": "De Novo Purine Synthesis - OG copy",
+      "path": "appendix/De Novo Purine Synthesis - OG copy.png"
+    },
+    {
+      "basename": "Lesch-Nyhan syndrome",
+      "path": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md"
+    },
+    {
+      "basename": "Pasted image 20231113170927",
+      "path": "appendix/Pasted image 20231113170927.png"
+    },
+    {
+      "basename": "Adenosine deaminase deficiency",
+      "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Riedel thyroiditis",
       "path": "USMLE/Endocrine/Riedel thyroiditis.md"
-    },
-    {
-      "basename": "Idiopathic inflammatory myopathies",
-      "path": "USMLE/MSK/Idiopathic inflammatory myopathies.md"
-    },
-    {
-      "basename": "Esophageal cancer",
-      "path": "USMLE/GI/Esophageal cancer.md"
-    },
-    {
-      "basename": "Osteoarthritis",
-      "path": "USMLE/MSK/Osteoarthritis.md"
-    },
-    {
-      "basename": "Rheumatoid arthritis",
-      "path": "USMLE/MSK/Rheumatoid arthritis.md"
-    },
-    {
-      "basename": "Reactive arthritis",
-      "path": "USMLE/MSK/Reactive arthritis.md"
     }
   ],
   "omittedPaths": [],
