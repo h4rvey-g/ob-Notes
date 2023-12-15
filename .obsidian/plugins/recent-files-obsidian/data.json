@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Catecholamine Synthesis",
+      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+    },
+    {
+      "basename": "Pasted image 20231113173304",
+      "path": "appendix/Pasted image 20231113173304.png"
+    },
+    {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Myasthenia gravis",
       "path": "USMLE/MSK/Myasthenia gravis.md"
-    },
-    {
-      "basename": "Immunofluorescence",
-      "path": "USMLE/Renal/Immunofluorescence.md"
-    },
-    {
-      "basename": "Diffuse proliferative glomerulonephritis",
-      "path": "USMLE/Renal/Diffuse proliferative glomerulonephritis.md"
     }
   ],
   "omittedPaths": [],
