@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Cardiology/Hypercalcemia.md"
+                "file": "USMLE/Blood/Chemotherapeutic agents.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +222,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Blood/Anemia.md",
+    "appendix/Pasted image 20230909221338.png",
+    "USMLE/Blood/Sickle cell disease.md",
+    "USMLE/Blood/Lab findings of hemolysis.md",
     "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Blood/Anemia.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Renal/Parathyroid hormone-related protein.md",
     "USMLE/GI/Gastrinoma.md",
@@ -254,9 +256,6 @@
     "USMLE/Blood/Transfusion.md",
     "USMLE/Lab Values.md",
     "USMLE/Reproductive/Alpha fetoprotein.md",
-    "USMLE/Blood/Anticoagulants.md",
-    "USMLE/Immunology/Systemic lupus erythematosus.md",
-    "USMLE/MSK/Antiphospholipid syndrome.md",
     "appendix/Pasted image 20231212150949.png",
     "appendix/Pasted image 20231212100519.png",
     "USMLE/MSK/Untitled.loom",
