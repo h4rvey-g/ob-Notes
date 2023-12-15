@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Malaria",
+      "path": "USMLE/Infective disease/Malaria.md"
+    },
+    {
       "basename": "Severe combined immunodeficiency",
       "path": "USMLE/Immunology/Severe combined immunodeficiency.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitamin A",
       "path": "USMLE/Biochemistry/Vitamin A.md"
-    },
-    {
-      "basename": "Riedel thyroiditis",
-      "path": "USMLE/Endocrine/Riedel thyroiditis.md"
     }
   ],
   "omittedPaths": [],
