@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Colonic polyps",
+      "path": "USMLE/GI/Colonic polyps.md"
+    },
+    {
+      "basename": "Pasted image 20231213102922",
+      "path": "appendix/Pasted image 20231213102922.png"
+    },
+    {
       "basename": "Ketone body synthesis",
       "path": "USMLE/Biochemistry/Ketone body synthesis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Malrotation",
       "path": "USMLE/GI/Malrotation.md"
-    },
-    {
-      "basename": "Malabsorption",
-      "path": "USMLE/GI/Malabsorption.md"
-    },
-    {
-      "basename": "Hirschsprung disease",
-      "path": "USMLE/GI/Hirschsprung disease.md"
     }
   ],
   "omittedPaths": [],
