@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Phenylketonuria",
+      "path": "USMLE/Biochemistry/Phenylketonuria.md"
+    },
+    {
       "basename": "Catecholamine Synthesis",
       "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Diabetes mellitus in pregnancy",
       "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
-    },
-    {
-      "basename": "Myasthenia gravis",
-      "path": "USMLE/MSK/Myasthenia gravis.md"
     }
   ],
   "omittedPaths": [],
