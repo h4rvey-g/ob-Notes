@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Chronic tubulointerstitial nephritis",
+      "path": "USMLE/Renal/Chronic tubulointerstitial nephritis.md"
+    },
+    {
+      "basename": "Tubulointerstitial diseases",
+      "path": "USMLE/Renal/Tubulointerstitial diseases.md"
+    },
+    {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Colonic polyps",
       "path": "USMLE/GI/Colonic polyps.md"
     },
@@ -51,10 +67,6 @@
     {
       "basename": "Pancreatic neuroendocrine tumors",
       "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     },
     {
       "basename": "Dermatitis herpetiformis",
@@ -187,18 +199,6 @@
     {
       "basename": "Systemic lupus erythematosus",
       "path": "USMLE/Immunology/Systemic lupus erythematosus.md"
-    },
-    {
-      "basename": "Antiphospholipid syndrome",
-      "path": "USMLE/MSK/Antiphospholipid syndrome.md"
-    },
-    {
-      "basename": "Diabetic kidney disease",
-      "path": "USMLE/Renal/Diabetic kidney disease.md"
-    },
-    {
-      "basename": "Malrotation",
-      "path": "USMLE/GI/Malrotation.md"
     }
   ],
   "omittedPaths": [],
