@@ -5,8 +5,18 @@ modified: 2023-10-05 10:59
 aliases: Untitled
 share: true
 ---
+
+# Etiology
+- Most likely genetic predisposition to autoimmune reaction (associated with HLA-DR3 and HLA-DQ2)
+- <span style="background:rgba(240, 200, 0, 0.2)">Associated with [[celiac disease]]</span> and sensitivity to potassium iodide (e.g., contrast medium)
 # Clinical features
 - Tense, grouped subepidermal vesicles, papules, and/or bullae (herpetiform appearance) 
 - Intense pruritus
 - Bilateral, symmetrical distribution, commonly over elbows, knees, buttocks, shoulders, scalp
 - No mucosal involvement![[Pasted image 20231005110109.png]]
+# Diagnostics
+- Autoantibodies against tissue transglutaminase
+- Histology and immunohistochemistry
+	- Subepidermal vesicle formation
+	- Neutrophilic papillary microabscesses
+	- Deposition of granular IgA in dermal papillae

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dermatitis herpetiformis",
+      "path": "USMLE/MSK/Dermatitis herpetiformis.md"
+    },
+    {
+      "basename": "Celiac disease",
+      "path": "USMLE/GI/Celiac disease.md"
+    },
+    {
       "basename": "Acute rheumatic fever",
       "path": "USMLE/Cardiology/Acute rheumatic fever.md"
     },
@@ -101,10 +109,6 @@
       "path": "USMLE/Immunology/Selective IgA deficiency.md"
     },
     {
-      "basename": "Celiac disease",
-      "path": "USMLE/GI/Celiac disease.md"
-    },
-    {
       "basename": "Atopy",
       "path": "USMLE/Respiratory/Atopy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230928151653",
       "path": "appendix/Pasted image 20230928151653.png"
-    },
-    {
-      "basename": "HIV therapy",
-      "path": "USMLE/Infective disease/HIV therapy.md"
     }
   ],
   "omittedPaths": [],
