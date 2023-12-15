@@ -10,7 +10,7 @@ Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal 
 
 ---
 # Etiology
-<span style="background:rgba(240, 200, 0, 0.2)">Medications (most common)</span> [2]
+<span style="background:rgba(240, 200, 0, 0.2)">Medications (most common)</span>
 - Antibiotics: β-lactams, sulfonamides, rifampin, fluoroquinolones
 - NSAIDs
 - Proton pump inhibitors and H2 blockers
@@ -40,7 +40,7 @@ Clinical features of [[acute kidney injury]], with or without:
 - Blood tests 
 	- BMP: ↑ BUN and creatinine
 	- CBC: ↑ eosinophils (more common in drug-induced ATIN) 
-- Urine studies [2][3][6]
+- Urine studies
 	- Urinalysis
 		- Sterile pyuria
 		- Subnephrotic-range proteinuria

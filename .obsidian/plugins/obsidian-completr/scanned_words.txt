@@ -18077,6 +18077,7 @@ AFDDD
 Adenomatous
 ABe
 AtK
+Analgesic
 Orthodromic
 On
 Often
@@ -21232,6 +21233,7 @@ aIsV
 agjeF
 agoMl
 anXJ
+analgesics
 ventricular
 varying
 vaccines
@@ -24680,6 +24682,7 @@ cnG
 cco
 cdL
 clg
+chemistries
 bypass
 block
 background
@@ -33965,6 +33968,7 @@ sGy
 saMHI
 sawtooth
 serrated
+sterile
 QRS
 QT
 QDQ
@@ -55269,6 +55273,7 @@ pDDD
 pbB
 pIp
 polyp
+prostacyclin
 Unusual
 Usually
 Upc

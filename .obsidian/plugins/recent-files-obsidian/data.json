@@ -5,6 +5,14 @@
       "path": "USMLE/Renal/Chronic tubulointerstitial nephritis.md"
     },
     {
+      "basename": "Acute tubulointerstitial nephritis",
+      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
+    },
+    {
+      "basename": "Acute kidney injury",
+      "path": "USMLE/Renal/Acute kidney injury.md"
+    },
+    {
       "basename": "Tubulointerstitial diseases",
       "path": "USMLE/Renal/Tubulointerstitial diseases.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Alpha fetoprotein",
       "path": "USMLE/Reproductive/Alpha fetoprotein.md"
-    },
-    {
-      "basename": "Anticoagulants",
-      "path": "USMLE/Blood/Anticoagulants.md"
-    },
-    {
-      "basename": "Systemic lupus erythematosus",
-      "path": "USMLE/Immunology/Systemic lupus erythematosus.md"
     }
   ],
   "omittedPaths": [],

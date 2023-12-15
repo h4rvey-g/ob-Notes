@@ -15,4 +15,9 @@ Chronic tubulointerstitial nephritis (CTIN) is a condition of chronic inflammati
 # Etiology
 - Medications
 	- Analgesic nephropathy: combination analgesics , NSAIDs, and acetaminophen
-#
+# Clinical features
+- Painless hematuria, pyuria, oliguria, or polyuria
+- Colicky flank pain
+# Diagnostics
+- Blood tests: <span style="background:rgba(240, 200, 0, 0.2)">↑ BUN and creatinine</span>, ↓ K+  or ↑ K+; normal anion gap ; anemia of CKD
+- Urine chemistries in [[tubulointerstitial diseases]] (findings similar to [[Acute tubulointerstitial nephritis|ATIN]]): <span style="background:rgba(240, 200, 0, 0.2)">sterile pyuria, proteinuria, hematuria, RBC casts, WBC casts</span>
