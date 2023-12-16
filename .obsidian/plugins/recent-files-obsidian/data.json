@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Rheumatoid arthritis",
+      "path": "USMLE/MSK/Rheumatoid arthritis.md"
+    },
+    {
       "basename": "Antiphospholipid syndrome",
       "path": "USMLE/MSK/Antiphospholipid syndrome.md"
+    },
+    {
+      "basename": "Budd-Chiari syndrome",
+      "path": "USMLE/GI/Budd-Chiari syndrome.md"
     },
     {
       "basename": "Vitamin B1",
@@ -191,14 +199,6 @@
     {
       "basename": "Meckel diverticulum",
       "path": "USMLE/Reproductive/Meckel diverticulum.md"
-    },
-    {
-      "basename": "TCA cycle",
-      "path": "USMLE/Biochemistry/TCA cycle.md"
-    },
-    {
-      "basename": "Pasted image 20231123165156",
-      "path": "appendix/Pasted image 20231123165156.png"
     }
   ],
   "omittedPaths": [],
