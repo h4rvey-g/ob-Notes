@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Chronic tubulointerstitial nephritis.md",
-                "mode": "source",
+                "file": "USMLE/GI/Colorectal cancer.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Chronic tubulointerstitial nephritis.md",
+                "file": "USMLE/GI/Colorectal cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Chronic tubulointerstitial nephritis.md",
+                "file": "USMLE/GI/Colorectal cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Chronic tubulointerstitial nephritis.md"
+                "file": "USMLE/GI/Colorectal cancer.md"
               }
             }
           }
@@ -223,9 +223,12 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231216095151.png",
+    "USMLE/GI/Lynch syndrome.md",
+    "USMLE/GI/Colorectal cancer.md",
+    "USMLE/Renal/Chronic tubulointerstitial nephritis.md",
     "USMLE/Renal/Acute tubulointerstitial nephritis.md",
     "USMLE/Renal/Acute kidney injury.md",
-    "USMLE/Renal/Chronic tubulointerstitial nephritis.md",
     "USMLE/Renal/Tubulointerstitial diseases.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "USMLE/Lab Values.md",
@@ -253,12 +256,9 @@
     "USMLE/Infective disease/Streptococcus pyogenes.md",
     "USMLE/MSK/Scarlet fever.md",
     "USMLE/Biochemistry/Phenylketonuria.md",
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "appendix/Pasted image 20231215101227.png",
     "appendix/Pasted image 20231215101226.png",
     "appendix/Pasted image 20231113173304.png",
-    "USMLE/Blood/Chemotherapeutic agents.md",
-    "USMLE/Blood/Sickle cell disease.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

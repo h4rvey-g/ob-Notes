@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Colorectal cancer",
+      "path": "USMLE/GI/Colorectal cancer.md"
+    },
+    {
+      "basename": "Lynch syndrome",
+      "path": "USMLE/GI/Lynch syndrome.md"
+    },
+    {
       "basename": "Chronic tubulointerstitial nephritis",
       "path": "USMLE/Renal/Chronic tubulointerstitial nephritis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Transfusion reactions",
       "path": "USMLE/Blood/Transfusion reactions.md"
-    },
-    {
-      "basename": "Transfusion",
-      "path": "USMLE/Blood/Transfusion.md"
-    },
-    {
-      "basename": "Alpha fetoprotein",
-      "path": "USMLE/Reproductive/Alpha fetoprotein.md"
     }
   ],
   "omittedPaths": [],
