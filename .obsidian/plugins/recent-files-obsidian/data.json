@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Wernicke encephalopathy and Korsakoff syndrome",
+      "path": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
+    },
+    {
+      "basename": "Vitamin B1",
+      "path": "USMLE/Biochemistry/Vitamin B1.md"
+    },
+    {
       "basename": "Sideroblastic anemia",
       "path": "USMLE/Blood/Sideroblastic anemia.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Budd-Chiari syndrome",
       "path": "USMLE/GI/Budd-Chiari syndrome.md"
-    },
-    {
-      "basename": "Vitamin B1",
-      "path": "USMLE/Biochemistry/Vitamin B1.md"
     },
     {
       "basename": "Hepatomegaly",
@@ -195,10 +199,6 @@
     {
       "basename": "GI hormones",
       "path": "USMLE/GI/GI hormones.md"
-    },
-    {
-      "basename": "Pasted image 20231101150650",
-      "path": "appendix/Pasted image 20231101150650.png"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Sideroblastic anemia.md",
+                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Sideroblastic anemia.md",
+                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Sideroblastic anemia.md",
+                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Sideroblastic anemia.md"
+                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Vitamin B1.md",
+    "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
     "USMLE/Blood/Sideroblastic anemia.md",
     "appendix/Pasted image 20231216153055.png",
     "appendix/Pasted image 20231216153044.png",
@@ -234,7 +236,6 @@
     "USMLE/MSK/Antiphospholipid syndrome.md",
     "appendix/Pasted image 20231216111912.png",
     "USMLE/GI/Budd-Chiari syndrome.md",
-    "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/GI/Hepatomegaly.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
