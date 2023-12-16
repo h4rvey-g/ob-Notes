@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diarrhea",
+      "path": "USMLE/GI/Diarrhea.md"
+    },
+    {
       "basename": "GI hormones",
       "path": "USMLE/GI/GI hormones.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Paraneoplastic syndromes",
       "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
-    },
-    {
-      "basename": "Parathyroid hormone-related protein",
-      "path": "USMLE/Renal/Parathyroid hormone-related protein.md"
     }
   ],
   "omittedPaths": [],
