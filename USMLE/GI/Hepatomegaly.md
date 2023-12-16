@@ -14,4 +14,31 @@ share: true
 ## Impaired venous outflow
 - Budd-Chiari syndrome
 - Right heart failure
-- 
+- Hepatic sinusoidal obstruction syndrome (SOS)
+- Peliosis hepatis
+# Causes of nontender hepatomegaly
+## Cholestatic liver disease
+- [[Primary biliary cholangitis]] (PBC)
+- [[Primary sclerosing cholangitis]] ([[Primary sclerosing cholangitis|PSC]])
+## Storage disorders
+- Disorders of lipid metabolism
+	- alcohol-associated fatty liver disease
+	- [[nonalcoholic fatty liver disease]]
+	- [[diabetes mellitus]]
+	- Lysosomal acid lipase deficiency
+- Disorders of glycogen metabolism, see [[Glycogen storage diseases]]
+- Gaucher disease, see [[Lysosomal Storage Diseases]]
+- [[Alpha-1 antitrypsin deficiency]] (AAT)
+- Hereditary [[hemochromatosis]]
+- [[Wilson disease]]
+## Infiltrative diseases
+- Granulomatous disease
+	- infection (eg, tuberculosis)
+	- autoimmune conditions (eg, [[sarcoidosis]])
+	- drug-induced liver injury
+- Hepatic [[amyloidosis]]
+- Hepatosplenic T cell lymphoma
+- Malignant tumors
+	- hepatocellular carcinoma
+	- cholangiocarcinoma
+- Benign lesions

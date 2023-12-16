@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin B1",
+      "path": "USMLE/Biochemistry/Vitamin B1.md"
+    },
+    {
       "basename": "Hepatomegaly",
       "path": "USMLE/GI/Hepatomegaly.md"
+    },
+    {
+      "basename": "Lysosomal Storage Diseases",
+      "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
     {
       "basename": "Alcoholic hepatitis",
@@ -181,10 +189,6 @@
       "path": "USMLE/Reproductive/Meckel diverticulum.md"
     },
     {
-      "basename": "Vitamin B1",
-      "path": "USMLE/Biochemistry/Vitamin B1.md"
-    },
-    {
       "basename": "TCA cycle",
       "path": "USMLE/Biochemistry/TCA cycle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hyperprolactinemia",
       "path": "USMLE/Endocrine/Hyperprolactinemia.md"
-    },
-    {
-      "basename": "Pituitary adenoma",
-      "path": "USMLE/Endocrine/Pituitary adenoma.md"
     }
   ],
   "omittedPaths": [],

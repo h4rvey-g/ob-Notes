@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Hepatomegaly.md",
-                "mode": "source",
+                "file": "USMLE/Biochemistry/Vitamin B1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Hepatomegaly.md",
+                "file": "USMLE/Biochemistry/Vitamin B1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Hepatomegaly.md",
+                "file": "USMLE/Biochemistry/Vitamin B1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Hepatomegaly.md"
+                "file": "USMLE/Biochemistry/Vitamin B1.md"
               }
             }
           }
@@ -223,8 +223,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/GI/Alcoholic hepatitis.md",
     "USMLE/GI/Hepatomegaly.md",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
+    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+    "USMLE/GI/Alcoholic hepatitis.md",
     "USMLE/Blood/Hemochromatosis.md",
     "USMLE/GI/Colorectal cancer.md",
     "appendix/Pasted image 20231216095151.png",
@@ -249,14 +252,11 @@
     "appendix/De Novo Purine Synthesis - OG copy.png",
     "USMLE/Biochemistry/Lesch-Nyhan syndrome.md",
     "appendix/Pasted image 20231113170927.png",
-    "USMLE/Endocrine/Diabetes mellitus.md",
     "appendix/Pasted image 20231215112826.png",
     "USMLE/Endocrine/Diabetic gastroparesis.md",
     "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
     "USMLE/MSK/Dermatitis herpetiformis.md",
     "USMLE/GI/Celiac disease.md",
-    "USMLE/Cardiology/Acute rheumatic fever.md",
-    "USMLE/Infective disease/Streptococcus pyogenes.md",
     "appendix/Pasted image 20231215101227.png",
     "appendix/Pasted image 20231215101226.png",
     "USMLE/MSK/Untitled.loom",
