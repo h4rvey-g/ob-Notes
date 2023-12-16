@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
+      "basename": "Gallstones",
+      "path": "USMLE/GI/Gallstones.md"
+    },
+    {
+      "basename": "Choledocholithiasis",
+      "path": "USMLE/GI/Choledocholithiasis.md"
+    },
+    {
       "basename": "Maple syrup urine disease",
       "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
     },
@@ -157,10 +169,6 @@
       "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
     },
     {
-      "basename": "Diabetes mellitus",
-      "path": "USMLE/Endocrine/Diabetes mellitus.md"
-    },
-    {
       "basename": "Pancreatic neuroendocrine tumors",
       "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Catecholamine Synthesis",
       "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
-    },
-    {
-      "basename": "Pasted image 20231113173304",
-      "path": "appendix/Pasted image 20231113173304.png"
-    },
-    {
-      "basename": "Chemotherapeutic agents",
-      "path": "USMLE/Blood/Chemotherapeutic agents.md"
     }
   ],
   "omittedPaths": [],
