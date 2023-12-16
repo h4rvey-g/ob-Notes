@@ -3,10 +3,18 @@ title: Antiphospholipid syndrome
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
-aliases: <% tp.file.title %>
+aliases:
+  - APS
 share: true
 ---
 Antiphospholipid syndrome (APS) is an autoimmune disease associated with <span style="background:rgba(240, 200, 0, 0.2)">increased risk of thrombosis due to the presence of procoagulatory antibodies.</span>
+# Etiology
+- Primary
+	- Idiopathic
+- Secondary
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[Systemic lupus erythematosus]] (most common cause of secondary APS)</span>
+	- [[Rheumatoid arthritis]]
+	- Neoplasms
 # Pathophysiology
 - Formation of procoagulatory antiphospholipid antibodies 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antibodies form complexes with anticoagulant proteins, thereby inactivating them (e.g., protein C, protein S, antithrombin III).</span>

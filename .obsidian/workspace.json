@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B1.md",
-                "mode": "preview",
+                "file": "USMLE/MSK/Antiphospholipid syndrome.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B1.md",
+                "file": "USMLE/MSK/Antiphospholipid syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B1.md",
+                "file": "USMLE/MSK/Antiphospholipid syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B1.md"
+                "file": "USMLE/MSK/Antiphospholipid syndrome.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/GI/Hepatomegaly.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
@@ -256,7 +257,6 @@
     "USMLE/Endocrine/Diabetic gastroparesis.md",
     "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md",
     "USMLE/MSK/Dermatitis herpetiformis.md",
-    "USMLE/GI/Celiac disease.md",
     "appendix/Pasted image 20231215101227.png",
     "appendix/Pasted image 20231215101226.png",
     "USMLE/MSK/Untitled.loom",
