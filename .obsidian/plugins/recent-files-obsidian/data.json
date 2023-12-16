@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Cystic fibrosis",
+      "path": "USMLE/Biochemistry/Cystic fibrosis.md"
+    },
+    {
+      "basename": "Cyanide poisoning",
+      "path": "USMLE/Blood/Cyanide poisoning.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Scarlet fever",
       "path": "USMLE/MSK/Scarlet fever.md"
-    },
-    {
-      "basename": "Phenylketonuria",
-      "path": "USMLE/Biochemistry/Phenylketonuria.md"
-    },
-    {
-      "basename": "Catecholamine Synthesis",
-      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
     }
   ],
   "omittedPaths": [],

@@ -22,18 +22,18 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 # Clinical features
 ## GI
 - <span style="background:rgba(240, 200, 0, 0.2)">Meconium ileus (in newborns)</span>
-- Failure to thrive (due to malabsorption)
+- Failure to thrive (due to [[malabsorption]])
 - <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic disease (obstruction of pancreatic ducts)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Autopsy revealed pancreas develops cysts and became scarred, that's how it's named cystic fibrosis</span>
 	- Pancreatitis
 	- Exocrine pancreatic insufficiency 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Foul-smelling [[steatorrhea]]</span> (fatty stools) may occur.
-		- <span style="background:rgba(240, 200, 0, 0.2)">Malabsorption</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Malabsorption]]</span>
 		- Abdominal distention 
-		- Diarrhea
+		- [[Diarrhea]]
 		- Hypoproteinemia
 		- Deficiency of fat-soluble vitamins
-- CF-related diabetes mellitus (CFRD)  [12]
+- CF-related [[diabetes mellitus]] (CFRD)  [12]
 - Liver and bile duct abnormalities
 	- Biliary [[cirrhosis]] with portal hypertension, jaundice, and/or esophageal varices
 - Intestinal obstruction: abdominal distention, pain, and a palpable mass
