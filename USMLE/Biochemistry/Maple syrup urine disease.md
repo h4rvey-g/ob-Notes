@@ -35,6 +35,6 @@ autosomal recessive
 ---
 # Treatment
 - Avoid foods containing BCAA
-- Supplementation of thiamine, a cofactor of branched-chain alpha-ketoacid dehydrogenase
+- Supplementation of [[Vitamin B1|thiamine]], a cofactor of branched-chain alpha-ketoacid dehydrogenase
 
 ---
