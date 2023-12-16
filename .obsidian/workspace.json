@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
-                "mode": "source",
+                "file": "USMLE/Biochemistry/Vitamin B1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
+                "file": "USMLE/Biochemistry/Vitamin B1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
+                "file": "USMLE/Biochemistry/Vitamin B1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
+                "file": "USMLE/Biochemistry/Vitamin B1.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
     "USMLE/Blood/Sideroblastic anemia.md",
@@ -256,7 +257,6 @@
     "appendix/Pasted image 20231215205043.png",
     "USMLE/Pathology/Cellular adaptations.md",
     "appendix/Pasted image 20231213102922.png",
-    "USMLE/Biochemistry/Ketone body synthesis.md",
     "appendix/Pasted image 20231123220120.png",
     "appendix/De Novo Purine Synthesis - OG copy.png",
     "USMLE/MSK/Untitled.loom",

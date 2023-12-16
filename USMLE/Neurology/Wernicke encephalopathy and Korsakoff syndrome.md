@@ -23,14 +23,15 @@ share: true
 # Clinical features
 ## Wernicke encephalopathy (acute, reversible)
 - Should be suspected in any patient with a history of chronic heavy alcohol use who presents with one/more symptoms of the<span style="background:rgba(240, 200, 0, 0.2)"> classic triad of Wernicke encephalopathy</span> 
-	1. Confusion (most common) 
+	1. <span style="background:rgba(240, 200, 0, 0.2)">Confusion (most common) </span>
 		- Disorientation, impaired vigilance, and cognitive deficits
 	2. Oculomotor dysfunction 
 		- Due to involvement of the CN III, CN IV, and CN VI nuclei
-		- Gaze-induced horizontal/vertical nystagmus (most common)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Gaze-induced horizontal/vertical nystagmus (most common)</span>
 		- Diplopia 
 		- Conjugate gaze palsy
-	4. Gait ataxia: wide-based, small steps 
+	3. <span style="background:rgba(240, 200, 0, 0.2)">Gait ataxia: wide-based, small steps </span>
+		- Due to a combination of peripheral neuropathy, vestibular dysfunction, and cerebellar dysfunction
 
 ---
 # Diagnostics
@@ -38,6 +39,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

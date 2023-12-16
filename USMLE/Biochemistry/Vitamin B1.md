@@ -27,7 +27,7 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 ---
 # Pathophysiology
 - Thiamine deficiency → impaired glucose breakdown → ATP depletion → <span style="background:rgba(240, 200, 0, 0.2)">tissue damage that primarily affects highly aerobic tissues (e.g., brain, heart)</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">High-dose glucose infusions lead to increased ATP depletion, which can trigger Wernicke encephalopathy.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">High-dose glucose infusions lead to increased ATP depletion, which can trigger [[Wernicke encephalopathy and Korsakoff syndrome|Wernicke encephalopathy]].</span>
 	- In malnourished individuals and chronic alcohol users/heavy drinkers, thiamine should be administered before glucose infusions.
 
 ---
@@ -43,17 +43,17 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 		- Dilated cardiomyopathy
 		- Cardiomegaly
 		- Edema
-- <span style="background:rgba(240, 200, 0, 0.2)">Wernicke encephalopathy</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Wernicke encephalopathy and Korsakoff syndrome|Wernicke encephalopathy]]</span>
 
 >[!tip] 
->In malnourished or alcohol-dependent patients, always administer thiamine before giving dextrose to decrease the risk of precipitating or exacerbating Wernicke encephalopathy.
+>In malnourished or alcohol-dependent patients, always administer thiamine before giving dextrose to decrease the risk of precipitating or exacerbating [[Wernicke encephalopathy and Korsakoff syndrome|Wernicke encephalopathy]].
 
 >[!Mnemonic] 
 >Vitamin <font color="#ffc000">B1</font> deficiency causes <font color="#ffc000">B</font>er<font color="#ffc000">1B</font>er<font color="#ffc000">1</font>.
 
 ---
 # Diagnostics
-
+- Vitamin B1 administration → ↑ RBC transketolase activity
 
 ---
 # Treatment

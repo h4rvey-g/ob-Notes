@@ -4849,6 +4849,7 @@ oVqP
 org
 olaqt
 ofk
+outstretched
 regular
 reentrant
 retrograde
@@ -9956,6 +9957,7 @@ tAT
 tXMe
 transferrin
 testicular
+transketolase
 in
 includes
 involving
@@ -21252,6 +21254,7 @@ anXJ
 analgesics
 adenomatous
 absolute
+acutely
 ventricular
 varying
 vaccines
@@ -51673,6 +51676,7 @@ HGeT
 HGB
 HWZ
 HCSX
+Hyperthyroid
 hyperkalemia
 hypertrophy
 hereditary
@@ -66045,6 +66049,7 @@ qsEpY
 qcK
 qBs
 qUG
+quadriceps
 GpIIb
 GpIb
 Gg
