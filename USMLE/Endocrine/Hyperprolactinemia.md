@@ -10,7 +10,15 @@ share: true
 
 ---
 # Etiology
-
+- Prolactin-secreting pituitary adenomas (prolactinomas) 
+- Damage to the hypothalamus and/or infundibular stalk
+- Severe primary [[hypothyroidism]]: ↓ T3/T4 → ↑ TRH → ↑ prolactin
+- Drugs
+	- Dopamine antagonists: 
+		- Antiemetics: metoclopramide, domperidone 
+		- Antipsychotics (e.g., haloperidol, risperidone)
+	- Certain tricyclic antidepressants: e.g., clomipramine
+- Physiological causes: stress, pregnancy, lactation, nipple stimulation, crying baby, sexual orgasm, sleep, exercise
 
 ---
 # Pathophysiology

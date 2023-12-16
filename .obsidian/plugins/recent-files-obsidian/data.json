@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hyperprolactinemia",
+      "path": "USMLE/Endocrine/Hyperprolactinemia.md"
+    },
+    {
       "basename": "Vitamin B1",
       "path": "USMLE/Biochemistry/Vitamin B1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hepatitis B",
       "path": "USMLE/GI/Hepatitis B.md"
-    },
-    {
-      "basename": "GI hormones",
-      "path": "USMLE/GI/GI hormones.md"
     }
   ],
   "omittedPaths": [],
