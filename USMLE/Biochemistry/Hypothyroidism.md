@@ -51,3 +51,9 @@ share: true
 - Decreased activity, poor feeding, and adipsia 
 - Hoarse cry, macroglossia
 - <span style="background:rgba(240, 200, 0, 0.2)">Cretinism: a complication of severe, untreated congenital hypothyroidism that leads to impaired development of the brain and skeleton, resulting in skeletal abnormalities (e.g., short stature and delayed fontanelle closure) and permanent intellectual disabilities</span>
+>[!warning] 
+>Most children with congenital hypothyroidism do not have symptoms at the time of birth because the placenta supplies the fetus with maternal thyroid hormone. For this reason, neonatal screening is vital even if children are asymptomatic. Irreversible intellectual disabilities can be avoided through early initiation of adequate therapy!
+
+## Diagnostics
+- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal screening to measure TSH levels</span> 24–48 hours after birth is required by law.
+- Increased TSH levels indicate congenital hypothyroidism.
