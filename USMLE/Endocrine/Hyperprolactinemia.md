@@ -10,8 +10,9 @@ share: true
 
 ---
 # Etiology
-- Prolactin-secreting pituitary adenomas (prolactinomas) 
-- Damage to the hypothalamus and/or infundibular stalk
+- <span style="background:rgba(240, 200, 0, 0.2)">Prolactin-secreting [[pituitary adenoma]] (prolactinomas) </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Damage to the hypothalamus and/or infundibular stalk</span>
+	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic dopamine on the secretion of prolactin![[Pasted image 20231216164848.png]]
 - Severe primary [[hypothyroidism]]: ↓ T3/T4 → ↑ TRH → ↑ prolactin
 - Drugs
 	- Dopamine antagonists: 
@@ -23,14 +24,14 @@ share: true
 ---
 # Pathophysiology
 - ↑ Prolactin → galactorrhea
-- ↑ Prolactin → suppression of GnRH → ↓ LH, ↓ FSH → ↓ estrogen, ↓ testosterone → hypogonadotropic hypogonadism
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Prolactin → suppression of GnRH → ↓ LH, ↓ FSH → ↓ estrogen, ↓ testosterone → hypogonadotropic hypogonadism</span>
 
 ---
 # Clinical features
 ## Male
 - ↓ Testosterone
-	- Loss of libido, erectile dysfunction, infertility
-	- Gynecomastia 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Loss of libido, erectile dysfunction, infertility</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Gynecomastia</span> 
 	- Reduced facial and body hair
 	- [[Osteoporosis]]
 
@@ -39,10 +40,10 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---
