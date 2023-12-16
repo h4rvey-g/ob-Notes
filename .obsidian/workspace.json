@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Colorectal cancer.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Hepatomegaly.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Colorectal cancer.md",
+                "file": "USMLE/GI/Hepatomegaly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Colorectal cancer.md",
+                "file": "USMLE/GI/Hepatomegaly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Colorectal cancer.md"
+                "file": "USMLE/GI/Hepatomegaly.md"
               }
             }
           }
@@ -223,9 +223,12 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/GI/Alcoholic hepatitis.md",
+    "USMLE/GI/Hepatomegaly.md",
+    "USMLE/Blood/Hemochromatosis.md",
+    "USMLE/GI/Colorectal cancer.md",
     "appendix/Pasted image 20231216095151.png",
     "USMLE/GI/Lynch syndrome.md",
-    "USMLE/GI/Colorectal cancer.md",
     "USMLE/Renal/Chronic tubulointerstitial nephritis.md",
     "USMLE/Renal/Acute tubulointerstitial nephritis.md",
     "USMLE/Renal/Acute kidney injury.md",
@@ -254,11 +257,8 @@
     "USMLE/GI/Celiac disease.md",
     "USMLE/Cardiology/Acute rheumatic fever.md",
     "USMLE/Infective disease/Streptococcus pyogenes.md",
-    "USMLE/MSK/Scarlet fever.md",
-    "USMLE/Biochemistry/Phenylketonuria.md",
     "appendix/Pasted image 20231215101227.png",
     "appendix/Pasted image 20231215101226.png",
-    "appendix/Pasted image 20231113173304.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

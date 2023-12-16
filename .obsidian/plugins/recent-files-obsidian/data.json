@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Hepatomegaly",
+      "path": "USMLE/GI/Hepatomegaly.md"
+    },
+    {
+      "basename": "Alcoholic hepatitis",
+      "path": "USMLE/GI/Alcoholic hepatitis.md"
+    },
+    {
+      "basename": "Hemochromatosis",
+      "path": "USMLE/Blood/Hemochromatosis.md"
+    },
+    {
       "basename": "Colorectal cancer",
       "path": "USMLE/GI/Colorectal cancer.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pituitary adenoma",
       "path": "USMLE/Endocrine/Pituitary adenoma.md"
-    },
-    {
-      "basename": "Selective IgA deficiency",
-      "path": "USMLE/Immunology/Selective IgA deficiency.md"
-    },
-    {
-      "basename": "Atopy",
-      "path": "USMLE/Respiratory/Atopy.md"
-    },
-    {
-      "basename": "Transfusion reactions",
-      "path": "USMLE/Blood/Transfusion reactions.md"
     }
   ],
   "omittedPaths": [],
