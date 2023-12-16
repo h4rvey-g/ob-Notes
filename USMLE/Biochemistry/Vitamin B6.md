@@ -29,7 +29,7 @@ Active form: pyridoxal phosphate (PLP)
 	- Amino acid metabolism
 	- Glycogenolysis (glycogen phosphorylase)
 - Involved in the synthesis of:
-	- <span style="background:rgba(240, 200, 0, 0.2)">Heme</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Heme</span>, see [[Heme synthesis]]
 	- Histamine
 	- [[Vitamin B3|Niacin]]
 	- Gluthathione

@@ -1573,6 +1573,7 @@ TEl
 TmXE
 TnO
 Turcot
+TIBC
 differentials
 differential
 diagnosis
@@ -6636,6 +6637,7 @@ rnH
 raXt
 rvER
 relatives
+ringed
 narrow
 negative
 not
@@ -24698,6 +24700,7 @@ cco
 cdL
 clg
 chemistries
+chloramphenicol
 bypass
 block
 background
@@ -33986,6 +33989,9 @@ sawtooth
 serrated
 sterile
 siderosis
+sideroblastic
+saturation
+stippling
 QRS
 QT
 QDQ
@@ -58284,6 +58290,7 @@ BvR
 BFV
 BOb
 BEGC
+Basophilic
 Characteristic
 CLL
 Clinical
