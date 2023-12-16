@@ -6690,6 +6690,7 @@ rIF
 rbW
 rDL
 reevaluation
+radioiodine
 narrow
 negative
 not
@@ -10031,6 +10032,7 @@ tFM
 tRp
 tHA
 transit
+thyroidectomy
 in
 includes
 involving
@@ -21422,6 +21424,7 @@ aedXM
 antisecretory
 antimicrobial
 antiinflammatory
+antithyroid
 ventricular
 varying
 vaccines
@@ -22986,6 +22989,7 @@ vxm
 vFp
 vDp
 vbg
+vitiligo
 conduction
 concealed
 complex
@@ -30979,6 +30983,7 @@ WNSb
 WTVQy
 Wiy
 WrGK
+Wolff
 you
 young
 ybif
@@ -37399,6 +37404,7 @@ ljS
 lRc
 lkB
 lZF
+lingual
 Multifocal
 Mild
 Moderate
@@ -60370,6 +60376,7 @@ CoN
 CdJ
 Converts
 Cautions
+Chaikoff
 Right
 Retrograde
 Rates
@@ -62073,6 +62080,7 @@ RNq
 RMYUUIE
 RBO
 RHeA
+Riedel
 Voltage
 VFV
 VoNW
@@ -71050,6 +71058,7 @@ NGrk
 Npw
 NtD
 Noyj
+Nutritional
 jEQ
 jL
 jO

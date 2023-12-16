@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hypothyroidism",
+      "path": "USMLE/Biochemistry/Hypothyroidism.md"
+    },
+    {
       "basename": "Diarrhea",
       "path": "USMLE/GI/Diarrhea.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hypercalcemia",
       "path": "USMLE/Cardiology/Hypercalcemia.md"
-    },
-    {
-      "basename": "Paraneoplastic syndromes",
-      "path": "USMLE/Respiratory/Paraneoplastic syndromes.md"
     }
   ],
   "omittedPaths": [],
