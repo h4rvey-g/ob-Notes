@@ -11,11 +11,9 @@
             "id": "4a841457419c4394",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md",
-                "mode": "source",
-                "source": false
+                "file": "appendix/Pasted image 20231029144358.png"
               }
             }
           }
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md",
+                "file": "appendix/Pasted image 20231029144358.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md",
+                "file": "appendix/Pasted image 20231029144358.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Rheumatoid arthritis.md"
+                "file": "appendix/Pasted image 20231029144358.png"
               }
             }
           }
@@ -223,6 +221,7 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/MSK/Rheumatoid arthritis.md",
     "USMLE/MSK/Antiphospholipid syndrome.md",
     "appendix/Pasted image 20231216111912.png",
     "USMLE/GI/Budd-Chiari syndrome.md",
