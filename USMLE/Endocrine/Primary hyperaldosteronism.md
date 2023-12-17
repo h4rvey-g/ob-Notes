@@ -25,6 +25,18 @@ share: true
 ---
 # Diagnostics
 
+# Differential diagnostics
+### Secondary hyperaldosteronism
+- Etiology
+	- Renal artery stenosis (e.g., due to atherosclerosis, fibromuscular dysplasia)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Renin-secreting tumor</span>
+	- Chronic kidney disease
+	- Advanced CHF
+	- Fibromuscular dysplasia
+	- Liver [[cirrhosis]]
+	- Diuretics
+	- Laxative abuse
+- Diagnostics: ↑ PAC (Plasma aldosterone concentration) and ↑ PRA (Plasma renin activity)
 
 ---
 # Treatment

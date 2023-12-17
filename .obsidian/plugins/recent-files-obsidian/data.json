@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Hepatitis B",
-      "path": "USMLE/GI/Hepatitis B.md"
+      "basename": "Liddle syndrome",
+      "path": "USMLE/Renal/Liddle syndrome.md"
     },
     {
       "basename": "Primary hyperaldosteronism",
       "path": "USMLE/Endocrine/Primary hyperaldosteronism.md"
+    },
+    {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
+      "basename": "Hepatitis B",
+      "path": "USMLE/GI/Hepatitis B.md"
     },
     {
       "basename": "Leukocyte adhesion deficiency",
@@ -51,10 +59,6 @@
     {
       "basename": "Cyanide poisoning",
       "path": "USMLE/Blood/Cyanide poisoning.md"
-    },
-    {
-      "basename": "Diabetes mellitus",
-      "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
     {
       "basename": "Gallstones",
@@ -195,10 +199,6 @@
     {
       "basename": "Malaria",
       "path": "USMLE/Infective disease/Malaria.md"
-    },
-    {
-      "basename": "Severe combined immunodeficiency",
-      "path": "USMLE/Immunology/Severe combined immunodeficiency.md"
     }
   ],
   "omittedPaths": [],

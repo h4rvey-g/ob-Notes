@@ -22,7 +22,7 @@ Structural alteration in the ENaC subunits → inability of these subunits to bi
 # Clinical features
 - Hypertension
 >[!tip] 
->The clinical features of Liddle syndrome are similar to those of hyperaldosteronism, except that Liddle syndrome manifests with decreased renin and aldosterone levels!
+>The clinical features of Liddle syndrome are similar to those of [[Primary hyperaldosteronism|hyperaldosteronism]], except that Liddle syndrome manifests with decreased renin and aldosterone levels!
 
 
 ---

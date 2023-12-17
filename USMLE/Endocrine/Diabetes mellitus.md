@@ -8,7 +8,11 @@ aliases:
 share: true
 ---
 # Epidemiology
-
+## Type 2 DM
+- Age
+	- Adult onset typically > 40 years
+	- Mean age of onset is decreasing
+- Race: highest prevalence in <span style="background:rgba(240, 200, 0, 0.2)">Native Americans</span>, Hispanics, African Americans, and Asian non-Hispanic Americans
 
 ---
 # Etiology
@@ -135,3 +139,8 @@ share: true
 >Amy<font color="#ffc000">lin</font> analogs (Pram<font color="#ffc000">lin</font>tide) works with insu<font color="#ffc000">lin</font>.
 
 ---
+# Screening
+- All individuals ≥ 35 years of age
+- Patients < 35 years of age who: 
+	- Are overweight or obese AND have ≥ 1 additional risk factor for T2DM
+		- BMI of ≥ 23 kg/m<sup>2</sup> in Asian American individuals or a BMI of ≥ 25 kg/m<sup>2</sup> in all other individuals
