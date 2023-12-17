@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Liddle syndrome.md",
-                "mode": "preview",
+                "file": "USMLE/MSK/Avascular necrosis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Liddle syndrome.md",
+                "file": "USMLE/MSK/Avascular necrosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Liddle syndrome.md",
+                "file": "USMLE/MSK/Avascular necrosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Liddle syndrome.md"
+                "file": "USMLE/MSK/Avascular necrosis.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Renal/Liddle syndrome.md",
+    "USMLE/MSK/Avascular necrosis.md",
     "USMLE/Endocrine/Primary hyperaldosteronism.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/GI/Hepatitis B.md",
@@ -257,8 +259,6 @@
     "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/Endocrine/Hyperthyroidism.md",
     "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
-    "USMLE/Blood/Sideroblastic anemia.md",
-    "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

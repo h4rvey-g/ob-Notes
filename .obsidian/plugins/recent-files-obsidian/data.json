@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Avascular necrosis",
+      "path": "USMLE/MSK/Avascular necrosis.md"
+    },
+    {
       "basename": "Liddle syndrome",
       "path": "USMLE/Renal/Liddle syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prostate cancer",
       "path": "USMLE/Renal/Prostate cancer.md"
-    },
-    {
-      "basename": "Malaria",
-      "path": "USMLE/Infective disease/Malaria.md"
     }
   ],
   "omittedPaths": [],
