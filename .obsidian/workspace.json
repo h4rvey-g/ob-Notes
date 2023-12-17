@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md",
+                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md",
+                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md",
+                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md"
+                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md"
               }
             }
           }
@@ -223,8 +223,12 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Biochemistry/Ketone body synthesis.md",
+    "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md",
+    "USMLE/Immunology/Type IV hypersensitivity reaction.md",
+    "USMLE/Immunology/Type I hypersensitivity reaction.md",
+    "appendix/Pasted image 20231210144605.png",
     "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md",
+    "USMLE/Biochemistry/Ketone body synthesis.md",
     "USMLE/Biochemistry/Pyruvate metabolism.md",
     "appendix/Pasted image 20231217101722.png",
     "appendix/Pasted image 20231217100400.png",
@@ -255,10 +259,6 @@
     "appendix/Pasted image 20231029144358.png",
     "USMLE/MSK/Rheumatoid arthritis.md",
     "USMLE/MSK/Antiphospholipid syndrome.md",
-    "appendix/Pasted image 20231216111912.png",
-    "USMLE/GI/Budd-Chiari syndrome.md",
-    "USMLE/GI/Hepatomegaly.md",
-    "USMLE/Respiratory/Alpha-1 antitrypsin deficiency.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

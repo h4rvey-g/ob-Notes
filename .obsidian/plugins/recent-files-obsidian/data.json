@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Type IV hypersensitivity reaction",
+      "path": "USMLE/Immunology/Type IV hypersensitivity reaction.md"
+    },
+    {
+      "basename": "Drug reaction with eosinophilia and systemic symptoms",
+      "path": "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md"
+    },
+    {
+      "basename": "Type I hypersensitivity reaction",
+      "path": "USMLE/Immunology/Type I hypersensitivity reaction.md"
+    },
+    {
+      "basename": "Pasted image 20231210144605",
+      "path": "appendix/Pasted image 20231210144605.png"
+    },
+    {
       "basename": "Pyruvate dehydrogenase complex deficiency",
       "path": "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Adenosine deaminase deficiency",
       "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
-    },
-    {
-      "basename": "Pancreatic neuroendocrine tumors",
-      "path": "USMLE/Endocrine/Pancreatic neuroendocrine tumors.md"
-    },
-    {
-      "basename": "Dermatitis herpetiformis",
-      "path": "USMLE/MSK/Dermatitis herpetiformis.md"
-    },
-    {
-      "basename": "Celiac disease",
-      "path": "USMLE/GI/Celiac disease.md"
-    },
-    {
-      "basename": "Acute rheumatic fever",
-      "path": "USMLE/Cardiology/Acute rheumatic fever.md"
     }
   ],
   "omittedPaths": [],
