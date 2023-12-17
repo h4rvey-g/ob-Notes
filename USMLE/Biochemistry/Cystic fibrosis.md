@@ -7,7 +7,7 @@ aliases:
 share: true
 ---
 # Etiology
-CF is a hereditary autosomal recessive disorder caused by defective <mark style="background: #FFF3A34A;">CFTR</mark> (cystic fibrosis transmembrane conductance regulator) protein due to mutation in the CFTR gene located on the long arm of chromosome 7.
+CF is a hereditary autosomal recessive disorder caused by defective <mark style="background: #FFF3A34A;">CFTR</mark> (cystic fibrosis transmembrane conductance regulator) protein due to <span style="background:rgba(240, 200, 0, 0.2)">mutation in the CFTR gene located on the long arm of chromosome 7</span>.
 
 ---
 # Pathophysiology
@@ -33,7 +33,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 		- [[Diarrhea]]
 		- Hypoproteinemia
 		- Deficiency of fat-soluble vitamins
-- CF-related [[diabetes mellitus]] (CFRD)  [12]
+- CF-related [[diabetes mellitus]] (CFRD)
 - Liver and bile duct abnormalities
 	- Biliary [[cirrhosis]] with portal hypertension, jaundice, and/or esophageal varices
 - Intestinal obstruction: abdominal distention, pain, and a palpable mass
