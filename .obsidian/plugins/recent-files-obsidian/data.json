@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Subacute thyroiditis",
+      "path": "USMLE/Endocrine/Subacute thyroiditis.md"
+    },
+    {
+      "basename": "Hyperthyroidism",
+      "path": "USMLE/Endocrine/Hyperthyroidism.md"
+    },
+    {
+      "basename": "Lab Values",
+      "path": "USMLE/Lab Values.md"
+    },
+    {
       "basename": "Chemotherapeutic agents",
       "path": "USMLE/Blood/Chemotherapeutic agents.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Alcoholic hepatitis",
       "path": "USMLE/GI/Alcoholic hepatitis.md"
-    },
-    {
-      "basename": "Hemochromatosis",
-      "path": "USMLE/Blood/Hemochromatosis.md"
-    },
-    {
-      "basename": "Colorectal cancer",
-      "path": "USMLE/GI/Colorectal cancer.md"
-    },
-    {
-      "basename": "Lynch syndrome",
-      "path": "USMLE/GI/Lynch syndrome.md"
     }
   ],
   "omittedPaths": [],
