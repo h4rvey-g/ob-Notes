@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Pyruvate dehydrogenase complex deficiency",
+      "path": "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md"
+    },
+    {
+      "basename": "Pyruvate metabolism",
+      "path": "USMLE/Biochemistry/Pyruvate metabolism.md"
+    },
+    {
       "basename": "Cystic fibrosis",
       "path": "USMLE/Biochemistry/Cystic fibrosis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Acute rheumatic fever",
       "path": "USMLE/Cardiology/Acute rheumatic fever.md"
-    },
-    {
-      "basename": "Streptococcus pyogenes",
-      "path": "USMLE/Infective disease/Streptococcus pyogenes.md"
-    },
-    {
-      "basename": "Scarlet fever",
-      "path": "USMLE/MSK/Scarlet fever.md"
     }
   ],
   "omittedPaths": [],
