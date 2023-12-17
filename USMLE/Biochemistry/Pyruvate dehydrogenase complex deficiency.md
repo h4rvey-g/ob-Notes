@@ -19,5 +19,12 @@ share: true
 	- Developmental delay
 	- Progressive neurological symptoms (e.g., seizures)
 - Diagnostics
-	- ↑ Lactate (lactic acidosis) and pyruvate in serum
-	- ↑ Alanine in serum and urine
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Lactate (lactic acidosis) and pyruvate in serum</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Alanine in serum and urine</span>
+- Treatment
+	- Acute: correction of acidosis
+	- Long-term: ketogenic diet
+		- High in fat, low in carbohydrates
+		- High in ketogenic amino acids (lysine and leucine) 
+		- Avoidance of glucogenic acids (e.g., valine)
+	  - <span style="background:rgba(240, 200, 0, 0.2)">Avoid glucogenic amino acids: Methionine, histidine, valine.</span>

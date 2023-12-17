@@ -3465,6 +3465,8 @@ dBf
 dqqq
 dlO
 dcV
+depleted
+deficit
 of
 over
 originate
@@ -13414,6 +13416,7 @@ gOL
 gQBQ
 gbF
 gZv
+glucogenic
 major
 mechanisms
 mark
@@ -15234,6 +15237,7 @@ mPp
 mBN
 mBk
 mdB
+malate
 Sinus
 ST
 Segment
@@ -18388,6 +18392,8 @@ AfRR
 Acc
 Arapo
 AWI
+Alanine
+Avoidance
 Orthodromic
 On
 Often
@@ -19727,6 +19733,7 @@ Ozu
 OXIO
 OOY
 OhG
+Oxaloacetate
 atrio
 and
 atrial
@@ -21605,6 +21612,7 @@ azK
 alKS
 aod
 aBP
+aminotransferase
 ventricular
 varying
 vaccines
@@ -25118,6 +25126,7 @@ cFNY
 ckQS
 cRo
 cholecystoenteric
+correction
 bypass
 block
 background
@@ -26752,6 +26761,7 @@ bYVQ
 bXSh
 bwkq
 bpJ
+buildup
 flutter
 from
 focus
@@ -28414,6 +28424,7 @@ fYj
 fAGP
 fHlCd
 fjj
+fuel
 with
 wave
 which
@@ -34557,6 +34568,7 @@ smE
 sZN
 shK
 sBeF
+shunts
 QRS
 QT
 QDQ
@@ -60888,6 +60900,7 @@ CDU
 CnF
 CuuuIIIQQQ
 CpM
+Cahill
 Right
 Retrograde
 Rates
@@ -74772,6 +74785,9 @@ kPr
 kKAI
 kQP
 khq
+ketoacyl
+ketone
+ketogenic
 KB
 KR
 KA
