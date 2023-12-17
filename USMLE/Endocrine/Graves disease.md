@@ -40,6 +40,11 @@ share: true
 ---
 # Diagnostics
 
+# Pathology
+- Microscopic: histological features of an overactive gland
+	- <span style="background:rgba(240, 200, 0, 0.2)">Diffuse hyperplasia of thyroid follicles</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Tall, hyperplastic and hypertrophic follicular cells</span>
+	- Colloid reabsorption with peripheral scalloping
 
 ---
 # Treatment

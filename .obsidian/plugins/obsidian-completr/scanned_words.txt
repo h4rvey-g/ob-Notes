@@ -3481,6 +3481,7 @@ daw
 dBsx
 dQO
 dfj
+disabilities
 of
 over
 originate
@@ -13467,6 +13468,7 @@ gynecomastia
 gammopathies
 genotypes
 ghOP
+glucuronosyltransferase
 major
 mechanisms
 mark
@@ -21691,6 +21693,7 @@ antivirals
 aar
 acWxK
 aHu
+adipsia
 ventricular
 varying
 vaccines
@@ -23275,6 +23278,7 @@ vAL
 velpatasvir
 vUmD
 vOY
+vital
 conduction
 concealed
 complex
@@ -34685,6 +34689,8 @@ sofosbuvir
 safety
 sMD
 sDg
+skeleton
+supplies
 QRS
 QT
 QDQ
@@ -44378,6 +44384,7 @@ ImM
 IMv
 IYQ
 IFU
+Irreversible
 PACs
 Primary
 Pathophysiology
@@ -52737,6 +52744,8 @@ Hematological
 HYU
 HfVd
 HmzMPa
+Hypotonia
+Hoarse
 hyperkalemia
 hypertrophy
 hereditary
@@ -57917,6 +57926,8 @@ URRP
 Unilateral
 UKX
 UfF
+Umbilical
+UDP
 Bundle
 Branch
 Block
@@ -61122,6 +61133,7 @@ Contraindicated
 CNJ
 Crl
 CfGwZ
+Cretinism
 Right
 Retrograde
 Rates
@@ -66005,6 +66017,7 @@ uFW
 uMA
 uGX
 uZn
+unconjugated
 quinine
 qz
 qM

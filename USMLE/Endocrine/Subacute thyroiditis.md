@@ -44,7 +44,7 @@ Subacute lymphocytic thyroiditis is characterized by damage to follicular cells 
 # Clinical features
 ## Subacute granulomatous thyroiditis (De Quervain thyroiditis)
 - Possible <span style="background:rgba(240, 200, 0, 0.2)">history of upper respiratory tract infections</span> a few weeks prior to the onset of subacute thyroiditis
-- <span style="background:rgba(240, 200, 0, 0.2)">Painful, diffuse, firm goiter, jaw pain </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Very painful, diffuse, firm goiter, jaw pain </span>
 - Fever and/or malaise may be present.
 - <span style="background:rgba(240, 200, 0, 0.2)">Features of [[hyperthyroidism]] followed by features of [[hypothyroidism]]</span>
 >[!Mnemonic] 

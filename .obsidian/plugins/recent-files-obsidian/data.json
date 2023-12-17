@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Graves disease",
+      "path": "USMLE/Endocrine/Graves disease.md"
+    },
+    {
       "basename": "Subacute thyroiditis",
       "path": "USMLE/Endocrine/Subacute thyroiditis.md"
+    },
+    {
+      "basename": "Hashimoto thyroiditis",
+      "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
+    },
+    {
+      "basename": "Riedel thyroiditis",
+      "path": "USMLE/Endocrine/Riedel thyroiditis.md"
+    },
+    {
+      "basename": "Hypothyroidism",
+      "path": "USMLE/Biochemistry/Hypothyroidism.md"
     },
     {
       "basename": "Hyperthyroidism",
@@ -137,10 +153,6 @@
       "path": "appendix/Pasted image 20230928173131.png"
     },
     {
-      "basename": "Hypothyroidism",
-      "path": "USMLE/Biochemistry/Hypothyroidism.md"
-    },
-    {
       "basename": "Diarrhea",
       "path": "USMLE/GI/Diarrhea.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Budd-Chiari syndrome",
       "path": "USMLE/GI/Budd-Chiari syndrome.md"
-    },
-    {
-      "basename": "Hepatomegaly",
-      "path": "USMLE/GI/Hepatomegaly.md"
-    },
-    {
-      "basename": "Lysosomal Storage Diseases",
-      "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
-    },
-    {
-      "basename": "Alcoholic hepatitis",
-      "path": "USMLE/GI/Alcoholic hepatitis.md"
     }
   ],
   "omittedPaths": [],
