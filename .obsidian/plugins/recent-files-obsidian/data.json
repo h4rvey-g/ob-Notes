@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Chemotherapeutic agents",
+      "path": "USMLE/Blood/Chemotherapeutic agents.md"
+    },
+    {
+      "basename": "Pasted image 20230909221400",
+      "path": "appendix/Pasted image 20230909221400.png"
+    },
+    {
+      "basename": "Phenylketonuria",
+      "path": "USMLE/Biochemistry/Phenylketonuria.md"
+    },
+    {
+      "basename": "Catecholamine Synthesis",
+      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
+    },
+    {
       "basename": "DiGeorge syndrome",
       "path": "USMLE/Immunology/DiGeorge syndrome.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Lynch syndrome",
       "path": "USMLE/GI/Lynch syndrome.md"
-    },
-    {
-      "basename": "Chronic tubulointerstitial nephritis",
-      "path": "USMLE/Renal/Chronic tubulointerstitial nephritis.md"
-    },
-    {
-      "basename": "Acute tubulointerstitial nephritis",
-      "path": "USMLE/Renal/Acute tubulointerstitial nephritis.md"
-    },
-    {
-      "basename": "Acute kidney injury",
-      "path": "USMLE/Renal/Acute kidney injury.md"
-    },
-    {
-      "basename": "Tubulointerstitial diseases",
-      "path": "USMLE/Renal/Tubulointerstitial diseases.md"
     }
   ],
   "omittedPaths": [],
