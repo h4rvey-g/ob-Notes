@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Nephrolithiasis",
+      "path": "USMLE/Renal/Nephrolithiasis.md"
+    },
+    {
+      "basename": "Calcium pyrophosphate deposition disease",
+      "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
+    },
+    {
       "basename": "Avascular necrosis",
       "path": "USMLE/MSK/Avascular necrosis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20231213102922",
       "path": "appendix/Pasted image 20231213102922.png"
-    },
-    {
-      "basename": "Pasted image 20231123220120",
-      "path": "appendix/Pasted image 20231123220120.png"
-    },
-    {
-      "basename": "Prostate cancer",
-      "path": "USMLE/Renal/Prostate cancer.md"
     }
   ],
   "omittedPaths": [],
