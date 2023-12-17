@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
-                "mode": "preview",
+                "file": "USMLE/GI/Hepatitis C.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "USMLE/GI/Hepatitis C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md",
+                "file": "USMLE/GI/Hepatitis C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Renal/Nephrolithiasis.md"
+                "file": "USMLE/GI/Hepatitis C.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
+    "USMLE/Blood/Asplenia.md",
     "USMLE/Renal/Nephrolithiasis.md",
+    "USMLE/MSK/Calcium pyrophosphate deposition disease.md",
     "USMLE/MSK/Osteoarthritis.md",
     "USMLE/MSK/Avascular necrosis.md",
     "USMLE/Renal/Liddle syndrome.md",
@@ -257,7 +258,6 @@
     "USMLE/GI/Diarrhea.md",
     "USMLE/GI/GI hormones.md",
     "appendix/Pasted image 20231216165732.png",
-    "USMLE/Endocrine/Hyperprolactinemia.md",
     "appendix/Pasted image 20231216164848.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",

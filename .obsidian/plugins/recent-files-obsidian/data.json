@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hepatitis C",
+      "path": "USMLE/GI/Hepatitis C.md"
+    },
+    {
+      "basename": "Asplenia",
+      "path": "USMLE/Blood/Asplenia.md"
+    },
+    {
       "basename": "Nephrolithiasis",
       "path": "USMLE/Renal/Nephrolithiasis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Lab Values",
       "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Colonic polyps",
-      "path": "USMLE/GI/Colonic polyps.md"
-    },
-    {
-      "basename": "Pasted image 20231213102922",
-      "path": "appendix/Pasted image 20231213102922.png"
     }
   ],
   "omittedPaths": [],

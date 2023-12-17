@@ -3474,6 +3474,8 @@ dJJ
 dJDJ
 dLKU
 dapsone
+decompensated
+decompensation
 of
 over
 originate
@@ -6762,6 +6764,8 @@ rwf
 rLW
 rRW
 rhB
+regimens
+ribavirin
 narrow
 negative
 not
@@ -10138,6 +10142,9 @@ trM
 twkc
 tLsQ
 trimethoprim
+tarda
+teratogenicity
+thus
 in
 includes
 involving
@@ -13440,6 +13447,8 @@ glucogenic
 gWX
 gke
 gynecomastia
+gammopathies
+genotypes
 major
 mechanisms
 mark
@@ -16861,6 +16870,7 @@ Sites
 SiU
 SRtJ
 Spironolactone
+Sofosbuvir
 AVNRT
 Atrial
 AVRT
@@ -18427,6 +18437,8 @@ Avoidance
 AiR
 AIW
 Antiepileptics
+Antiviral
+Antivirals
 Orthodromic
 On
 Often
@@ -21649,6 +21661,7 @@ aod
 aBP
 aminotransferase
 aTUU
+antivirals
 ventricular
 varying
 vaccines
@@ -23230,6 +23243,7 @@ vUl
 vYIO
 vabI
 vAL
+velpatasvir
 conduction
 concealed
 complex
@@ -25166,6 +25180,9 @@ cRo
 cholecystoenteric
 correction
 curing
+carrier
+cryoglobulinemia
+cutanea
 bypass
 block
 background
@@ -34622,6 +34639,9 @@ shunts
 sulfamethoxazole
 spiking
 success
+sharing
+sofosbuvir
+safety
 QRS
 QT
 QDQ
@@ -37779,6 +37799,8 @@ lamotrigine
 leaves
 lifelong
 lowering
+leukocytoclastic
+leukopenia
 Multifocal
 Mild
 Moderate
@@ -40951,6 +40973,10 @@ DiK
 DHW
 DDDl
 DRESS
+Dialysis
+Dermatological
+Direct
+DAAs
 FFF
 Fib
 Fi
@@ -45977,6 +46003,7 @@ PPr
 PPBby
 PSZ
 Pvj
+Parenteral
 ectopic
 elevation
 early
@@ -47814,6 +47841,7 @@ eaD
 enteric
 emo
 eplerenone
+encoded
 Early
 Elevation
 Etiology
@@ -49413,6 +49441,7 @@ EDDt
 EDl
 Eosinophilia
 Eplerenone
+Example
 LEFT
 Lengthening
 Left
@@ -50957,6 +50986,8 @@ Liiioo
 LffzGG
 LAX
 LoC
+Lymphoma
+Ledipasvir
 Hyperkalemia
 HIV
 HCV
@@ -52631,6 +52662,7 @@ HBee
 HlV
 HiI
 Hyperaldosteronism
+Hematological
 hyperkalemia
 hypertrophy
 hereditary
@@ -56344,6 +56376,8 @@ pcZC
 pneumobilia
 pjTB
 pumQ
+pibrentasvir
+profiles
 Unusual
 Usually
 Upc
@@ -61003,6 +61037,7 @@ CVGn
 CBBI
 Chu
 Conn
+Contraindicated
 Right
 Retrograde
 Rates
@@ -68656,6 +68691,7 @@ Gallstone
 GGhkk
 Ggw
 GDlD
+Glecaprevir
 Jervell
 JYo
 JO
@@ -71801,6 +71837,8 @@ NCY
 NPf
 NgkU
 NvEzzw
+Needle
+Needlestick
 jEQ
 jL
 jO
