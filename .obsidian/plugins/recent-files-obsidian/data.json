@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Leukocyte adhesion deficiency",
+      "path": "USMLE/Immunology/Leukocyte adhesion deficiency.md"
+    },
+    {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+    },
+    {
       "basename": "Type IV hypersensitivity reaction",
       "path": "USMLE/Immunology/Type IV hypersensitivity reaction.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Lesch-Nyhan syndrome",
       "path": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md"
-    },
-    {
-      "basename": "Pasted image 20231113170927",
-      "path": "appendix/Pasted image 20231113170927.png"
-    },
-    {
-      "basename": "Adenosine deaminase deficiency",
-      "path": "USMLE/Biochemistry/Adenosine deaminase deficiency.md"
     }
   ],
   "omittedPaths": [],

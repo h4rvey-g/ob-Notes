@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md",
+                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md",
+                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md",
+                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Immunology/Type IV hypersensitivity reaction.md"
+                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md"
               }
             }
           }
@@ -223,8 +223,12 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md",
+    "USMLE/单抗记忆.md",
+    "USMLE/Immunology/Leukocyte adhesion deficiency.md",
+    "appendix/Pasted image 20231217111100.png",
     "USMLE/Immunology/Type IV hypersensitivity reaction.md",
+    "appendix/Pasted image 20231217105956.png",
+    "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md",
     "USMLE/Immunology/Type I hypersensitivity reaction.md",
     "appendix/Pasted image 20231210144605.png",
     "USMLE/Biochemistry/Pyruvate dehydrogenase complex deficiency.md",
@@ -252,13 +256,9 @@
     "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
     "USMLE/Blood/Sideroblastic anemia.md",
     "appendix/Pasted image 20231216153055.png",
-    "appendix/Pasted image 20231216153044.png",
     "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/Blood/Anemia.md",
     "USMLE/Blood/Heme synthesis.md",
-    "appendix/Pasted image 20231029144358.png",
-    "USMLE/MSK/Rheumatoid arthritis.md",
-    "USMLE/MSK/Antiphospholipid syndrome.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
