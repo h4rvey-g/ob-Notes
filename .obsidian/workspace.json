@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md",
+                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md",
+                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md",
+                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Immunology/Leukocyte adhesion deficiency.md"
+                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/单抗记忆.md",
     "USMLE/Immunology/Leukocyte adhesion deficiency.md",
+    "USMLE/Endocrine/Primary hyperaldosteronism.md",
+    "USMLE/单抗记忆.md",
     "appendix/Pasted image 20231217111100.png",
     "USMLE/Immunology/Type IV hypersensitivity reaction.md",
     "appendix/Pasted image 20231217105956.png",
@@ -258,7 +259,6 @@
     "appendix/Pasted image 20231216153055.png",
     "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/Blood/Anemia.md",
-    "USMLE/Blood/Heme synthesis.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

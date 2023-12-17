@@ -14,6 +14,7 @@ share: true
 	- Impaired wound healing 
 	- Omphalitis
 	- <span style="background:rgba(240, 200, 0, 0.2)">Delayed separation of the umbilical cord (> 30 days postpartum)</span>
+		- The normal separation of the umbilical cord is a process that involves inflammation and subsequent healing. 
 - Diagnosis
-	- Leukocytosis; however, neutrophils are absent at the site of infection
+	- <span style="background:rgba(240, 200, 0, 0.2)">Leukocytosis; however, neutrophils are absent at the site of infection</span>
 	- Flow cytometry: absent CD18, CD11a, CD11b, and CD11c

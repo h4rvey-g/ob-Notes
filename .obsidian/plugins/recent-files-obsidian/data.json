@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Primary hyperaldosteronism",
+      "path": "USMLE/Endocrine/Primary hyperaldosteronism.md"
+    },
+    {
       "basename": "Leukocyte adhesion deficiency",
       "path": "USMLE/Immunology/Leukocyte adhesion deficiency.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "De Novo Purine Synthesis - OG copy",
       "path": "appendix/De Novo Purine Synthesis - OG copy.png"
-    },
-    {
-      "basename": "Lesch-Nyhan syndrome",
-      "path": "USMLE/Biochemistry/Lesch-Nyhan syndrome.md"
     }
   ],
   "omittedPaths": [],
