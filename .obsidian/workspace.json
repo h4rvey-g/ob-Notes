@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md",
+                "file": "USMLE/GI/Hepatitis B.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md",
+                "file": "USMLE/GI/Hepatitis B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md",
+                "file": "USMLE/GI/Hepatitis B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Primary hyperaldosteronism.md"
+                "file": "USMLE/GI/Hepatitis B.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Immunology/Leukocyte adhesion deficiency.md",
+    "appendix/Pasted image 20231217151303.png",
     "USMLE/Endocrine/Primary hyperaldosteronism.md",
+    "USMLE/Immunology/Leukocyte adhesion deficiency.md",
     "USMLE/单抗记忆.md",
     "appendix/Pasted image 20231217111100.png",
     "USMLE/Immunology/Type IV hypersensitivity reaction.md",
@@ -258,7 +259,6 @@
     "USMLE/Blood/Sideroblastic anemia.md",
     "appendix/Pasted image 20231216153055.png",
     "USMLE/Biochemistry/Vitamin B6.md",
-    "USMLE/Blood/Anemia.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hepatitis B",
+      "path": "USMLE/GI/Hepatitis B.md"
+    },
+    {
       "basename": "Primary hyperaldosteronism",
       "path": "USMLE/Endocrine/Primary hyperaldosteronism.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Severe combined immunodeficiency",
       "path": "USMLE/Immunology/Severe combined immunodeficiency.md"
-    },
-    {
-      "basename": "De Novo Purine Synthesis - OG copy",
-      "path": "appendix/De Novo Purine Synthesis - OG copy.png"
     }
   ],
   "omittedPaths": [],
