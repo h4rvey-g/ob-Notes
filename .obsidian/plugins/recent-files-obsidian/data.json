@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DiGeorge syndrome",
+      "path": "USMLE/Immunology/DiGeorge syndrome.md"
+    },
+    {
+      "basename": "Acute leukemia",
+      "path": "USMLE/Blood/Acute leukemia.md"
+    },
+    {
       "basename": "Hepatitis C",
       "path": "USMLE/GI/Hepatitis C.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Tubulointerstitial diseases",
       "path": "USMLE/Renal/Tubulointerstitial diseases.md"
-    },
-    {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
     }
   ],
   "omittedPaths": [],
