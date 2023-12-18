@@ -3484,6 +3484,7 @@ dfj
 disabilities
 darkly
 disseminate
+differentiated
 of
 over
 originate
@@ -16901,6 +16902,7 @@ SNr
 Saliva
 Solitary
 Spindle
+Sometimes
 AVNRT
 Atrial
 AVRT
@@ -25230,6 +25232,7 @@ carrier
 cryoglobulinemia
 cutanea
 cJe
+calcitonin
 bypass
 block
 background
@@ -39463,6 +39466,7 @@ MhCV
 MIC
 Multiorgan
 Medical
+Medullary
 Differentiate
 Drugs
 DDx
@@ -46084,6 +46088,9 @@ Parenteral
 PBx
 PXSqn
 Potentially
+Parafollicular
+Poorly
+Produces
 ectopic
 elevation
 early

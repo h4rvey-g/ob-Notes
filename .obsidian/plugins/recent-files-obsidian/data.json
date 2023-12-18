@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Multiple endocrine neoplasias",
+      "path": "USMLE/Endocrine/Multiple endocrine neoplasias.md"
+    },
+    {
+      "basename": "Thyroid cancer",
+      "path": "USMLE/Endocrine/Thyroid cancer.md"
+    },
+    {
+      "basename": "Calcitonin",
+      "path": "USMLE/Endocrine/Calcitonin.md"
+    },
+    {
       "basename": "AIDS-defining conditions",
       "path": "USMLE/Infective disease/AIDS-defining conditions.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Wernicke encephalopathy and Korsakoff syndrome",
       "path": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
-    },
-    {
-      "basename": "Sideroblastic anemia",
-      "path": "USMLE/Blood/Sideroblastic anemia.md"
-    },
-    {
-      "basename": "Vitamin B6",
-      "path": "USMLE/Biochemistry/Vitamin B6.md"
-    },
-    {
-      "basename": "Heme synthesis",
-      "path": "USMLE/Blood/Heme synthesis.md"
     }
   ],
   "omittedPaths": [],
