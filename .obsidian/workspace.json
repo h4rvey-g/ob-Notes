@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Acute leukemia.md",
-                "mode": "preview",
+                "file": "USMLE/Infective disease/AIDS-defining conditions.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Acute leukemia.md",
+                "file": "USMLE/Infective disease/AIDS-defining conditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Acute leukemia.md",
+                "file": "USMLE/Infective disease/AIDS-defining conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Acute leukemia.md"
+                "file": "USMLE/Infective disease/AIDS-defining conditions.md"
               }
             }
           }
@@ -221,8 +221,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "4a841457419c4394",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
+    "USMLE/MSK/Kaposi sarcoma.md",
+    "USMLE/Infective disease/AIDS-defining conditions.md",
+    "USMLE/Blood/Acute leukemia.md",
     "appendix/Pasted image 20231218144924.png",
     "appendix/Pasted image 20231218144652.png",
     "USMLE/Blood/Hodgkin lymphoma.md",
@@ -242,7 +245,6 @@
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Immunology/DiGeorge syndrome.md",
     "appendix/Pasted image 20231217165656.png",
-    "USMLE/Blood/Acute leukemia.md",
     "USMLE/GI/Hepatitis C.md",
     "USMLE/Blood/Asplenia.md",
     "USMLE/Renal/Nephrolithiasis.md",
@@ -254,11 +256,9 @@
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/GI/Hepatitis B.md",
     "appendix/Pasted image 20231217151303.png",
-    "USMLE/Immunology/Leukocyte adhesion deficiency.md",
     "appendix/Pasted image 20231217111100.png",
     "appendix/Pasted image 20231217105956.png",
     "appendix/Pasted image 20231210144605.png",
-    "appendix/Pasted image 20231217101722.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

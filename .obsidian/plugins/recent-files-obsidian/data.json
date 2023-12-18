@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AIDS-defining conditions",
+      "path": "USMLE/Infective disease/AIDS-defining conditions.md"
+    },
+    {
+      "basename": "Kaposi sarcoma",
+      "path": "USMLE/MSK/Kaposi sarcoma.md"
+    },
+    {
       "basename": "Acute leukemia",
       "path": "USMLE/Blood/Acute leukemia.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Heme synthesis",
       "path": "USMLE/Blood/Heme synthesis.md"
-    },
-    {
-      "basename": "Pasted image 20231029144358",
-      "path": "appendix/Pasted image 20231029144358.png"
-    },
-    {
-      "basename": "Rheumatoid arthritis",
-      "path": "USMLE/MSK/Rheumatoid arthritis.md"
     }
   ],
   "omittedPaths": [],
