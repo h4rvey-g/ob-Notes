@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes mellitus in pregnancy",
+      "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
+    },
+    {
       "basename": "Graves disease",
       "path": "USMLE/Endocrine/Graves disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Antiphospholipid syndrome",
       "path": "USMLE/MSK/Antiphospholipid syndrome.md"
-    },
-    {
-      "basename": "Budd-Chiari syndrome",
-      "path": "USMLE/GI/Budd-Chiari syndrome.md"
     }
   ],
   "omittedPaths": [],

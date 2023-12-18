@@ -6,6 +6,10 @@ aliases:
   - gestational diabetes
 share: true
 ---
+# Pathophysiology
+- Human placental lactogen (HPL, aka human chorionic somatomammotropin): a hormone synthesized by syncytiotrophoblasts of the placenta, which promotes the production of insulin-like growth factors.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Causes insulin resistance to supply growing fetus with glucose and amino acids.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Concurrently increases insulin levels; inability to overcome insulin resistance → gestational diabetes.</span>
 # Complications
 ## Diabetic fetopathy
 - Definition: any anomaly in a fetus associated with maternal [[Diabetes mellitus|diabetes]], caused by fetal hyperinsulinemia during gestation
