@@ -9,6 +9,17 @@ aliases:
   - Acute myeloid leukemia
 share: true
 ---
+![[Pasted image 20231218144652.png]]
+>[!Mnemonic] 
+>A mnemonic for acute leukemia ages:
+>- ALL - adults Least likely ~ children (10 yrs)
+>- AML - adults Most likely (50 yrs) 
+>
+>Another:
+>- AML= (A)uer rods and (M)yeloperoxidase positive 
+
+>[!tip] 
+>Characteristic of CLL would be the "smudge cells"![[Pasted image 20231218144924.png]]
 # Epidemiology
 - Acute lymphoblastic leukemia
 	- Peak incidence: 2–5 years

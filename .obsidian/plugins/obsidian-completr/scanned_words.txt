@@ -15295,6 +15295,7 @@ mDVhH
 minocycline
 mineralocorticoid
 mOr
+myeloid
 Sinus
 ST
 Segment
@@ -18464,6 +18465,7 @@ Antiviral
 Antivirals
 ACOZ
 ADz
+AML
 Orthodromic
 On
 Often
@@ -37857,6 +37859,8 @@ lgm
 leT
 lCz
 lDZ
+lymphoblastic
+leukemias
 Multifocal
 Mild
 Moderate
