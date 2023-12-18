@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lipid-lowering agents",
+      "path": "USMLE/Cardiology/Lipid-lowering agents.md"
+    },
+    {
       "basename": "Nonpitting edema",
       "path": "USMLE/Endocrine/Nonpitting edema.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hyperprolactinemia",
       "path": "USMLE/Endocrine/Hyperprolactinemia.md"
-    },
-    {
-      "basename": "Vitamin B1",
-      "path": "USMLE/Biochemistry/Vitamin B1.md"
     }
   ],
   "omittedPaths": [],
