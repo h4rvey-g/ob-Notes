@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nonpitting edema",
+      "path": "USMLE/Endocrine/Nonpitting edema.md"
+    },
+    {
       "basename": "Multiple endocrine neoplasias",
       "path": "USMLE/Endocrine/Multiple endocrine neoplasias.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitamin B1",
       "path": "USMLE/Biochemistry/Vitamin B1.md"
-    },
-    {
-      "basename": "Wernicke encephalopathy and Korsakoff syndrome",
-      "path": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
     }
   ],
   "omittedPaths": [],
