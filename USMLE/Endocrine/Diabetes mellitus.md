@@ -103,7 +103,7 @@ share: true
 >This helps to separate the sulfonylureas from the meglitinides since they also end with IDE
 
 - Meglitinides
-	- ![[Pasted image 20231209135739.png]]
+	- Same with Sulfonylureas![[Pasted image 20231209135739.png]]
 - DPP-4 inhibitor and GLP-1 analogs
 	- ![[Pasted image 20231209140221.png]]
 	- ![[Pasted image 20231209140759.png]]

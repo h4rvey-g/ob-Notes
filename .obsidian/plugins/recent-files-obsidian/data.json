@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
       "basename": "Lipid-lowering agents",
       "path": "USMLE/Cardiology/Lipid-lowering agents.md"
+    },
+    {
+      "basename": "Vitamin B3",
+      "path": "USMLE/Biochemistry/Vitamin B3.md"
     },
     {
       "basename": "Nonpitting edema",
@@ -117,10 +125,6 @@
       "path": "USMLE/Endocrine/Primary hyperaldosteronism.md"
     },
     {
-      "basename": "Diabetes mellitus",
-      "path": "USMLE/Endocrine/Diabetes mellitus.md"
-    },
-    {
       "basename": "Hepatitis B",
       "path": "USMLE/GI/Hepatitis B.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GI hormones",
       "path": "USMLE/GI/GI hormones.md"
-    },
-    {
-      "basename": "Hyperprolactinemia",
-      "path": "USMLE/Endocrine/Hyperprolactinemia.md"
     }
   ],
   "omittedPaths": [],
