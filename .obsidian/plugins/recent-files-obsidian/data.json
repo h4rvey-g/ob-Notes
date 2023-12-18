@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Aspergillosis",
+      "path": "USMLE/Respiratory/Aspergillosis.md"
+    },
+    {
+      "basename": "BUN-creatinine ratio",
+      "path": "USMLE/Renal/BUN-creatinine ratio.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20230928173131",
       "path": "appendix/Pasted image 20230928173131.png"
-    },
-    {
-      "basename": "Diarrhea",
-      "path": "USMLE/GI/Diarrhea.md"
-    },
-    {
-      "basename": "GI hormones",
-      "path": "USMLE/GI/GI hormones.md"
     }
   ],
   "omittedPaths": [],

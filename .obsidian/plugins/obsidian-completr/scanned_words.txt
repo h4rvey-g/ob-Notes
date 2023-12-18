@@ -4965,6 +4965,7 @@ oOq
 oKd
 oho
 overweight
+opportunistic
 regular
 reentrant
 retrograde
@@ -18477,6 +18478,8 @@ ADz
 AML
 Americans
 AND
+Aspergillus
+Aspergilloma
 Orthodromic
 On
 Often
@@ -25236,6 +25239,7 @@ cryoglobulinemia
 cutanea
 cJe
 calcitonin
+cavitary
 bypass
 block
 background
@@ -34709,6 +34713,8 @@ sMD
 sDg
 skeleton
 supplies
+semi
+septicemia
 QRS
 QT
 QDQ
@@ -44406,6 +44412,7 @@ IMv
 IYQ
 IFU
 Irreversible
+Invasive
 PACs
 Primary
 Pathophysiology
@@ -47937,6 +47944,7 @@ eZPmn
 eReo
 erV
 evolve
+existing
 Early
 Elevation
 Etiology
