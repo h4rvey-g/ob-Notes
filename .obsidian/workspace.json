@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Aspergillosis.md",
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Aspergillosis.md",
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Aspergillosis.md",
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Aspergillosis.md"
+                "file": "USMLE/Cardiology/Lipid-lowering agents.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +222,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Phenylketonuria.md",
+    "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
+    "appendix/Pasted image 20231107144314.png",
+    "USMLE/Respiratory/Aspergillosis.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Biochemistry/Vitamin B3.md",
@@ -251,14 +254,9 @@
     "USMLE/Lab Values.md",
     "USMLE/Blood/Chemotherapeutic agents.md",
     "appendix/Pasted image 20230909221400.png",
-    "USMLE/Biochemistry/Phenylketonuria.md",
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
-    "USMLE/Immunology/DiGeorge syndrome.md",
     "appendix/Pasted image 20231217165656.png",
-    "USMLE/GI/Hepatitis C.md",
     "appendix/Pasted image 20231217151303.png",
     "appendix/Pasted image 20231217111100.png",
-    "appendix/Pasted image 20231217105956.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
