@@ -6,6 +6,10 @@ aliases: Untitled
 share: true
 ---
 # Statins
+- Competitive inhibition of HMG-CoA reductase renders this enzyme unable to convert HMG-CoA to mevalonate (the rate-limiting step of cholesterol synthesis) → reduced intrahepatic cholesterol biosynthesis → <span style="background:rgba(240, 200, 0, 0.2)">upregulation of expression of LDL receptor gene via sterol regulatory element-binding protein (SREBP) → increased LDL recycling</span> and:
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓↓ LDL cholesterol</span>
+	- ↑ HDL cholesterol
+	- ↓ Triglyceride level
 ![[Pasted image 20231012113514.png]]
 # Ezetimibe
 Mechanism of action: selective inhibition of cholesterol reabsorption at the<span style="background:rgba(240, 200, 0, 0.2)"> brush border of enterocytes (cholesterol transporter NPC1L1)</span> → ↓↓ LDL, little effect on HDL (slight ↑) and triglycerides (slight ↓)
