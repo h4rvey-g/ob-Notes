@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitamin B6",
+      "path": "USMLE/Biochemistry/Vitamin B6.md"
+    },
+    {
+      "basename": "Sideroblastic anemia",
+      "path": "USMLE/Blood/Sideroblastic anemia.md"
+    },
+    {
+      "basename": "Vitamin B12",
+      "path": "USMLE/Biochemistry/Vitamin B12.md"
+    },
+    {
+      "basename": "Homocystinuria",
+      "path": "USMLE/Biochemistry/Homocystinuria.md"
+    },
+    {
       "basename": "Macrocytic anemias",
       "path": "USMLE/Blood/Macrocytic anemias.md"
     },
@@ -37,10 +53,6 @@
       "path": "USMLE/Biochemistry/Vitamin B1.md"
     },
     {
-      "basename": "Vitamin B6",
-      "path": "USMLE/Biochemistry/Vitamin B6.md"
-    },
-    {
       "basename": "Pasted image 20230928160542",
       "path": "appendix/Pasted image 20230928160542.png"
     },
@@ -71,10 +83,6 @@
     {
       "basename": "Pasted image 20230722174657",
       "path": "appendix/Pasted image 20230722174657.png"
-    },
-    {
-      "basename": "Sideroblastic anemia",
-      "path": "USMLE/Blood/Sideroblastic anemia.md"
     },
     {
       "basename": "Heme synthesis",
@@ -191,14 +199,6 @@
     {
       "basename": "DiGeorge syndrome",
       "path": "USMLE/Immunology/DiGeorge syndrome.md"
-    },
-    {
-      "basename": "Hepatitis C",
-      "path": "USMLE/GI/Hepatitis C.md"
-    },
-    {
-      "basename": "Nephrolithiasis",
-      "path": "USMLE/Renal/Nephrolithiasis.md"
     }
   ],
   "omittedPaths": [],
