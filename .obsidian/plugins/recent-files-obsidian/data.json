@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Reye syndrome",
+      "path": "USMLE/Pharmacology/Reye syndrome.md"
+    },
+    {
+      "basename": "Mastocytosis",
+      "path": "USMLE/Blood/Mastocytosis.md"
+    },
+    {
+      "basename": "Anticoagulants",
+      "path": "USMLE/Blood/Anticoagulants.md"
+    },
+    {
       "basename": "Cyanide poisoning",
       "path": "USMLE/Blood/Cyanide poisoning.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Liddle syndrome",
       "path": "USMLE/Renal/Liddle syndrome.md"
-    },
-    {
-      "basename": "Primary hyperaldosteronism",
-      "path": "USMLE/Endocrine/Primary hyperaldosteronism.md"
-    },
-    {
-      "basename": "Hepatitis B",
-      "path": "USMLE/GI/Hepatitis B.md"
-    },
-    {
-      "basename": "Leukocyte adhesion deficiency",
-      "path": "USMLE/Immunology/Leukocyte adhesion deficiency.md"
     }
   ],
   "omittedPaths": [],
