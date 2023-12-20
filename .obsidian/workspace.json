@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
+                "file": "USMLE/Blood/Macrocytic anemias.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
+                "file": "USMLE/Blood/Macrocytic anemias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
+                "file": "USMLE/Blood/Macrocytic anemias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
+                "file": "USMLE/Blood/Macrocytic anemias.md"
               }
             }
           }
@@ -223,8 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Neurology/Romberg test.md",
+    "USMLE/Biochemistry/Vitamin B12.md",
+    "USMLE/Blood/Macrocytic anemias.md",
     "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
+    "USMLE/Neurology/Romberg test.md",
     "USMLE/Blood/Asplenia.md",
     "USMLE/Pharmacology/Reye syndrome.md",
     "USMLE/Biochemistry/Fatty acid oxidation.md",
@@ -252,8 +254,6 @@
     "USMLE/Biochemistry/Catecholamine Synthesis.md",
     "USMLE/Renal/BUN-creatinine ratio.md",
     "appendix/Pasted image 20231107144314.png",
-    "USMLE/Respiratory/Aspergillosis.md",
-    "USMLE/Endocrine/Diabetes mellitus.md",
     "appendix/Pasted image 20231218162957.png",
     "appendix/Pasted image 20231218144924.png",
     "appendix/Pasted image 20231218144652.png",
