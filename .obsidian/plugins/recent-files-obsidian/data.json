@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Wernicke encephalopathy and Korsakoff syndrome",
+      "path": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
+    },
+    {
+      "basename": "Asplenia",
+      "path": "USMLE/Blood/Asplenia.md"
+    },
+    {
       "basename": "Reye syndrome",
       "path": "USMLE/Pharmacology/Reye syndrome.md"
     },
@@ -181,10 +189,6 @@
       "path": "USMLE/GI/Hepatitis C.md"
     },
     {
-      "basename": "Asplenia",
-      "path": "USMLE/Blood/Asplenia.md"
-    },
-    {
       "basename": "Nephrolithiasis",
       "path": "USMLE/Renal/Nephrolithiasis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Avascular necrosis",
       "path": "USMLE/MSK/Avascular necrosis.md"
-    },
-    {
-      "basename": "Liddle syndrome",
-      "path": "USMLE/Renal/Liddle syndrome.md"
     }
   ],
   "omittedPaths": [],
