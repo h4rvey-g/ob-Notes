@@ -24,7 +24,7 @@ share: true
 Active form: pyridoxal phosphate (PLP)
 ## Vitamin B6 functions
 - PLP is a coenzyme for the following reactions:
-	- Transamination (e.g., AST and ALT)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Transamination (e.g., AST and ALT)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Decarboxylation</span>
 	- Amino acid metabolism
 	- Glycogenolysis (glycogen phosphorylase)

@@ -7,12 +7,12 @@ aliases:
 share: true
 ---
 
-- Sources of exposure
+Sources of exposure
 	- Fires: Cyanide is released by various substances during combustion (e.g., plastics, upholstery, rubber).
 	- <span style="background:rgba(240, 200, 0, 0.2)">Long-term or high-dose treatment with sodium nitroprusside, especially in individuals with chronic renal failure</span>
 		- Sodium nitroprusside releases cyanide ions.
 	- Industrial: metal industry, manufacture of nitrogen-containing materials and products (plastics and wool), electroplating
-- Management 
+Management 
 	- Patient decontamination (e.g., remove clothes, wash skin)
 	- Administration of 100% oxygen regardless of saturation readings
 	- Supportive care

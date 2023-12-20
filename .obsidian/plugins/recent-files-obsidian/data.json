@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Cyanide poisoning",
+      "path": "USMLE/Blood/Cyanide poisoning.md"
+    },
+    {
+      "basename": "Vitamin B1",
+      "path": "USMLE/Biochemistry/Vitamin B1.md"
+    },
+    {
+      "basename": "Vitamin B6",
+      "path": "USMLE/Biochemistry/Vitamin B6.md"
+    },
+    {
       "basename": "Pasted image 20230928160542",
       "path": "appendix/Pasted image 20230928160542.png"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Pasted image 20230722174657",
       "path": "appendix/Pasted image 20230722174657.png"
-    },
-    {
-      "basename": "Vitamin B6",
-      "path": "USMLE/Biochemistry/Vitamin B6.md"
     },
     {
       "basename": "Sideroblastic anemia",
@@ -191,14 +199,6 @@
     {
       "basename": "Leukocyte adhesion deficiency",
       "path": "USMLE/Immunology/Leukocyte adhesion deficiency.md"
-    },
-    {
-      "basename": "单抗记忆",
-      "path": "USMLE/单抗记忆.md"
-    },
-    {
-      "basename": "Type IV hypersensitivity reaction",
-      "path": "USMLE/Immunology/Type IV hypersensitivity reaction.md"
     }
   ],
   "omittedPaths": [],
