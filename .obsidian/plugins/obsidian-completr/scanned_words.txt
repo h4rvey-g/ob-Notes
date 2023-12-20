@@ -10180,6 +10180,7 @@ tSnc
 tzHux
 taq
 tDuu
+transduction
 in
 includes
 involving
@@ -23325,6 +23326,7 @@ viscera
 violet
 vjkK
 vsR
+vesicle
 conduction
 concealed
 complex
@@ -39520,6 +39522,7 @@ MIC
 Multiorgan
 Medical
 Medullary
+Myositis
 Differentiate
 Drugs
 DDx
@@ -52843,6 +52846,8 @@ HSs
 HQq
 HJuU
 Hqz
+Hypertrophic
+Hippocratic
 hyperkalemia
 hypertrophy
 hereditary
@@ -56567,6 +56572,7 @@ pOA
 pigmented
 pmz
 pPZ
+presynaptic
 Unusual
 Usually
 Upc
@@ -61239,6 +61245,7 @@ Crl
 CfGwZ
 Cretinism
 Competitive
+Clubbing
 Right
 Retrograde
 Rates
@@ -64518,6 +64525,7 @@ VEQ
 VRRl
 VYQ
 VEA
+VGCC
 up
 unusual
 usually
@@ -72067,6 +72075,7 @@ NvEzzw
 Needle
 Needlestick
 Nhj
+NSCLC
 jEQ
 jL
 jO

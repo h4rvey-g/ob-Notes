@@ -18,7 +18,7 @@ share: true
 - Characteristics
 	- Most common type of primary lung cancer
 	- More common in women and <mark style="background: #FFF3A34A;">nonsmokers</mark>
-	- Associated with mutations in: [13]
+	- Associated with mutations in:
 		- EGFR gene 
 		- ALK gene 
 		- KRAS gene
@@ -56,7 +56,16 @@ share: true
 ---
 # Clinical features
 ## [[Paraneoplastic syndromes]]
-![[Pasted image 20230722174657.png]]
+## Shared paraneoplastic features and syndromes
+- [[Idiopathic inflammatory myopathies|Dermatomyositis]]
+## NSCLC
+- [[Hypercalcemia]] of malignancy (increased risk with squamous cell carcinoma)
+- Hypertrophic osteoarthropathy
+- Clubbing of the fingers and toes (Hippocratic fingers) 
+## SCLC
+- [[Cushing syndrome]]
+- [[Syndrome of inappropriate antidiuretic hormone secretion]] ([[Syndrome of inappropriate antidiuretic hormone secretion|SIADH]])
+- <span style="background:rgba(240, 200, 0, 0.2)">Lambert-Eaton syndrome, see [[Myasthenia gravis#Lambert-Eaton myasthenic syndrome (LEMS)]]</span>
 
 ---
 # Diagnostics
