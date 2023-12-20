@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Lipid transport",
-      "path": "USMLE/Biochemistry/Lipid transport.md"
+      "basename": "Vitamin B6",
+      "path": "USMLE/Biochemistry/Vitamin B6.md"
+    },
+    {
+      "basename": "Sideroblastic anemia",
+      "path": "USMLE/Blood/Sideroblastic anemia.md"
+    },
+    {
+      "basename": "Heme synthesis",
+      "path": "USMLE/Blood/Heme synthesis.md"
     },
     {
       "basename": "Lipid-lowering agents",
       "path": "USMLE/Cardiology/Lipid-lowering agents.md"
+    },
+    {
+      "basename": "Lipid transport",
+      "path": "USMLE/Biochemistry/Lipid transport.md"
     },
     {
       "basename": "Phenylketonuria",
@@ -187,18 +199,6 @@
     {
       "basename": "Cyanide poisoning",
       "path": "USMLE/Blood/Cyanide poisoning.md"
-    },
-    {
-      "basename": "Gallstones",
-      "path": "USMLE/GI/Gallstones.md"
-    },
-    {
-      "basename": "Choledocholithiasis",
-      "path": "USMLE/GI/Choledocholithiasis.md"
-    },
-    {
-      "basename": "Maple syrup urine disease",
-      "path": "USMLE/Biochemistry/Maple syrup urine disease.md"
     }
   ],
   "omittedPaths": [],

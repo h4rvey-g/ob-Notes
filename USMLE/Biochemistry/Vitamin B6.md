@@ -25,7 +25,7 @@ Active form: pyridoxal phosphate (PLP)
 ## Vitamin B6 functions
 - PLP is a coenzyme for the following reactions:
 	- Transamination (e.g., AST and ALT)
-	- Decarboxylation
+	- <span style="background:rgba(240, 200, 0, 0.2)">Decarboxylation</span>
 	- Amino acid metabolism
 	- Glycogenolysis (glycogen phosphorylase)
 - Involved in the synthesis of:
@@ -45,7 +45,7 @@ Active form: pyridoxal phosphate (PLP)
 # Clinical features
 - Cheilosis, glossitis, stomatitis
 - <span style="background:rgba(240, 200, 0, 0.2)">Sideroblastic [[anemia]]: Vitamin B6 deficiency causes [[heme synthesis]] dysfunction with impaired transfer of iron to hemoglobin, which ultimately leads to iron accumulation in RBCs.</span>
-- Irritability, seizures, peripheral neuropathy
+- Irritability, seizures, <span style="background:rgba(240, 200, 0, 0.2)">peripheral neuropathy</span>
 - Seborrheic dermatitis
 ![[Pasted image 20231111103922.png]]
 
