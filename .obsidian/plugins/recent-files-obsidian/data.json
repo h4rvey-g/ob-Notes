@@ -5,6 +5,10 @@
       "path": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
     },
     {
+      "basename": "Romberg test",
+      "path": "USMLE/Neurology/Romberg test.md"
+    },
+    {
       "basename": "Asplenia",
       "path": "USMLE/Blood/Asplenia.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Calcium pyrophosphate deposition disease",
       "path": "USMLE/MSK/Calcium pyrophosphate deposition disease.md"
-    },
-    {
-      "basename": "Avascular necrosis",
-      "path": "USMLE/MSK/Avascular necrosis.md"
     }
   ],
   "omittedPaths": [],

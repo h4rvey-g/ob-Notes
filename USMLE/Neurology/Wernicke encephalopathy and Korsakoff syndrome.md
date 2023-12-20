@@ -32,6 +32,7 @@ share: true
 		- Conjugate gaze palsy
 	3. <span style="background:rgba(240, 200, 0, 0.2)">Gait ataxia: wide-based, small steps </span>
 		- Due to a combination of peripheral neuropathy, vestibular dysfunction, and cerebellar dysfunction
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Romberg test]] positive</span>
 
 ---
 # Diagnostics
