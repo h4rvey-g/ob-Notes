@@ -16,7 +16,14 @@ share: true
 
 ---
 # Etiology
-
+## Type 1 DM
+- Autoimmune destruction of pancreatic β cells in genetically susceptible individuals
+- HLA association: HLA-DR3 and HLA-DR4 positive patients are at increased risk of developing T1DM. 
+- Associated with other autoimmune conditions
+	- [[Hashimoto thyroiditis]]
+	- Type A gastritis
+	- [[Celiac disease]]
+	- Primary [[adrenal insufficiency]]
 
 ---
 # Pathophysiology
