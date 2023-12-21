@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Infective disease/Streptococcus pyogenes.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Infective disease/Streptococcus pyogenes.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Infective disease/Streptococcus pyogenes.md",
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Infective disease/Streptococcus pyogenes.md"
+                "file": "USMLE/Endocrine/Subacute thyroiditis.md"
               }
             }
           }
@@ -223,6 +223,8 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Endocrine/Hashimoto thyroiditis.md",
+    "USMLE/Infective disease/Streptococcus pyogenes.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/Blood/Sideroblastic anemia.md",
@@ -251,8 +253,6 @@
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "appendix/Pasted image 20231220160043.png",
     "appendix/Pasted image 20230722174657.png",
-    "USMLE/Cardiology/Lipid-lowering agents.md",
-    "USMLE/Biochemistry/Lipid transport.md",
     "appendix/Pasted image 20231107144314.png",
     "appendix/Pasted image 20231218162957.png",
     "appendix/Pasted image 20231218144924.png",
