@@ -138,7 +138,8 @@ share: true
 	- ![[Pasted image 20231209142943.png]]
 
 >[!Mnemonic] 
->glita <- glitter
+>- glita <- glitter
+>- Eat in the party will make you <font color="#ffc000">gain weight</font>.
 - Amylin analogs (Pramlintide)
 	- Works with insulin to ↓ glucagon release, ↓ gastric emptying.
 

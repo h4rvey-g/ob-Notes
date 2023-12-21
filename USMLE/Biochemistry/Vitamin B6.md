@@ -44,7 +44,7 @@ Active form: pyridoxal phosphate (PLP)
 ---
 # Clinical features
 - Cheilosis, glossitis, stomatitis
-- <span style="background:rgba(240, 200, 0, 0.2)">Sideroblastic [[anemia]]: Vitamin B6 deficiency causes [[heme synthesis]] dysfunction with impaired transfer of iron to hemoglobin, which ultimately leads to iron accumulation in RBCs.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Sideroblastic anemia]]: Vitamin B6 deficiency causes [[heme synthesis]] dysfunction with impaired transfer of iron to hemoglobin, which ultimately leads to iron accumulation in RBCs.</span>
 - Irritability, seizures, <span style="background:rgba(240, 200, 0, 0.2)">peripheral neuropathy</span>
 - Seborrheic dermatitis
 ![[Pasted image 20231111103922.png]]
