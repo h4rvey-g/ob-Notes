@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
-                "mode": "preview",
+                "file": "USMLE/Endocrine/Thyroid cancer.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
+                "file": "USMLE/Endocrine/Thyroid cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Subacute thyroiditis.md",
+                "file": "USMLE/Endocrine/Thyroid cancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Subacute thyroiditis.md"
+                "file": "USMLE/Endocrine/Thyroid cancer.md"
               }
             }
           }
@@ -223,6 +223,14 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231221165913.png",
+    "appendix/Pasted image 20231221165709.png",
+    "USMLE/Biochemistry/Hypothyroidism.md",
+    "USMLE/Endocrine/Thyroid cancer.md",
+    "USMLE/Endocrine/Graves disease.md",
+    "USMLE/Endocrine/Riedel thyroiditis.md",
+    "USMLE/Endocrine/Subacute thyroiditis.md",
+    "USMLE/Infective disease/Mumps.md",
     "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Infective disease/Streptococcus pyogenes.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
@@ -243,14 +251,7 @@
     "USMLE/Blood/Anticoagulants.md",
     "USMLE/Blood/Cyanide poisoning.md",
     "USMLE/Biochemistry/Vitamin B1.md",
-    "USMLE/MSK/Osteoarthritis.md",
     "appendix/Pasted image 20230928160542.png",
-    "USMLE/MSK/Rheumatoid arthritis.md",
-    "USMLE/Respiratory/Lung cancer.md",
-    "USMLE/Endocrine/Cushing syndrome.md",
-    "USMLE/MSK/Idiopathic inflammatory myopathies.md",
-    "USMLE/MSK/Myasthenia gravis.md",
-    "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "appendix/Pasted image 20231220160043.png",
     "appendix/Pasted image 20230722174657.png",
     "appendix/Pasted image 20231107144314.png",
@@ -258,7 +259,6 @@
     "appendix/Pasted image 20231218144924.png",
     "appendix/Pasted image 20231218144652.png",
     "appendix/Pasted image 20231217175517.png",
-    "appendix/Pasted image 20231217175249.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

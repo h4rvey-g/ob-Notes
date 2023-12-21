@@ -1607,6 +1607,7 @@ TiY
 TuA
 ToK
 TFe
+Thyrocytes
 differentials
 differential
 diagnosis
@@ -4979,6 +4980,7 @@ opportunistic
 oqo
 overwhelming
 opsonized
+overactive
 regular
 reentrant
 retrograde
@@ -10200,6 +10202,8 @@ thiosulfate
 thiocyanate
 thalamic
 tendency
+testis
+testicle
 in
 includes
 involving
@@ -16958,6 +16962,8 @@ SaJw
 SREBP
 Sources
 Same
+Swollen
+Serous
 AVNRT
 Atrial
 AVRT
@@ -18535,6 +18541,8 @@ Aspergillus
 Aspergilloma
 Administration
 Antidote
+Aseptic
+Annie
 Orthodromic
 On
 Often
@@ -19886,6 +19894,8 @@ OCh
 Overwhelming
 OPSI
 Oculomotor
+Orchitis
+Orphan
 atrio
 and
 atrial
@@ -21779,6 +21789,7 @@ asplenic
 asplenia
 able
 apathy
+appearing
 ventricular
 varying
 vaccines
@@ -23373,6 +23384,7 @@ varicella
 vigilance
 vertical
 vestibular
+vaccinated
 conduction
 concealed
 complex
@@ -25323,6 +25335,11 @@ cyanomethemoglobin
 coadministered
 cerebellar
 closing
+cheek
+concentric
+calcifications
+calcific
+cystadenocarcinoma
 bypass
 block
 background
@@ -31475,6 +31492,7 @@ WNop
 WEH
 Wrssm
 WNJZ
+Well
 you
 young
 ybif
@@ -34826,6 +34844,9 @@ stand
 swaying
 standing
 sideways
+salivary
+sequelae
+scalloping
 QRS
 QT
 QDQ
@@ -39596,6 +39617,10 @@ Myositis
 Management
 Methemoglobin
 Measure
+Mumps
+Morphology
+Meningiomas
+Mesotheliomas
 Differentiate
 Drugs
 DDx
@@ -41183,6 +41208,7 @@ DAAs
 DMAP
 Disorientation
 Diplopia
+During
 FFF
 Fib
 Fi
@@ -46234,6 +46260,9 @@ Produces
 PjF
 Patient
 Purpose
+Paramyxoviridae
+Prodrome
+Psammoma
 ectopic
 elevation
 early
@@ -48085,6 +48114,8 @@ element
 electroplating
 encapsulated
 etc
+earache
+endometrium
 Early
 Elevation
 Etiology
@@ -51245,6 +51276,7 @@ LBr
 LNS
 LeLuX
 LFj
+Lipase
 Hyperkalemia
 HIV
 HCV
@@ -52936,6 +52968,7 @@ Hippocratic
 Hydroxocobalamin
 Hyperammonemia
 Haemophilus
+Hearing
 hyperkalemia
 hypertrophy
 hereditary
@@ -54672,6 +54705,9 @@ hTo
 herpesvirus
 hydroxocobalamin
 hyperammonemia
+hypofertility
+histological
+hyperplastic
 peaked
 pattern
 precordial
@@ -56667,6 +56703,11 @@ plastics
 pupils
 postsplenectomy
 processing
+parotitis
+parotid
+protruding
+postpubertal
+psammoma
 Unusual
 Usually
 Upc
@@ -61344,6 +61385,7 @@ Clubbing
 Cyanide
 Conjugate
 Closing
+Colloid
 Right
 Retrograde
 Rates
@@ -63079,6 +63121,7 @@ Rss
 Rhodanese
 Reye
 Romberg
+Redness
 Voltage
 VFV
 VoNW
@@ -66243,6 +66286,7 @@ uGX
 uZn
 unconjugated
 upholstery
+unvaccinated
 quinine
 qz
 qM

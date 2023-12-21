@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Thyroid cancer",
+      "path": "USMLE/Endocrine/Thyroid cancer.md"
+    },
+    {
+      "basename": "Hypothyroidism",
+      "path": "USMLE/Biochemistry/Hypothyroidism.md"
+    },
+    {
+      "basename": "Graves disease",
+      "path": "USMLE/Endocrine/Graves disease.md"
+    },
+    {
+      "basename": "Riedel thyroiditis",
+      "path": "USMLE/Endocrine/Riedel thyroiditis.md"
+    },
+    {
       "basename": "Subacute thyroiditis",
       "path": "USMLE/Endocrine/Subacute thyroiditis.md"
     },
@@ -145,10 +161,6 @@
       "path": "USMLE/Endocrine/Multiple endocrine neoplasias.md"
     },
     {
-      "basename": "Thyroid cancer",
-      "path": "USMLE/Endocrine/Thyroid cancer.md"
-    },
-    {
       "basename": "Calcitonin",
       "path": "USMLE/Endocrine/Calcitonin.md"
     },
@@ -171,18 +183,6 @@
     {
       "basename": "Diabetes mellitus in pregnancy",
       "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
-    },
-    {
-      "basename": "Graves disease",
-      "path": "USMLE/Endocrine/Graves disease.md"
-    },
-    {
-      "basename": "Riedel thyroiditis",
-      "path": "USMLE/Endocrine/Riedel thyroiditis.md"
-    },
-    {
-      "basename": "Hypothyroidism",
-      "path": "USMLE/Biochemistry/Hypothyroidism.md"
     },
     {
       "basename": "Hyperthyroidism",
