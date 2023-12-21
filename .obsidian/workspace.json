@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "USMLE/Endocrine/Thyroid cancer.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -172,7 +172,7 @@
               "state": {
                 "file": "USMLE/Endocrine/Thyroid cancer.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -197,8 +197,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,12 +222,18 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Hypothyroidism.md",
+    "USMLE/GI/Esophageal cancer.md",
+    "USMLE/Blood/Anemia.md",
+    "USMLE/GI/Plummer-Vinson syndrome.md",
+    "USMLE/Endocrine/Cushing syndrome.md",
+    "appendix/Pasted image 20231010205220.png",
+    "USMLE/Endocrine/Riedel thyroiditis.md",
+    "USMLE/Endocrine/Thyroid cancer.md",
+    "appendix/Pasted image 20231221171132.png",
     "appendix/Pasted image 20231221165913.png",
     "appendix/Pasted image 20231221165709.png",
-    "USMLE/Biochemistry/Hypothyroidism.md",
-    "USMLE/Endocrine/Thyroid cancer.md",
     "USMLE/Endocrine/Graves disease.md",
-    "USMLE/Endocrine/Riedel thyroiditis.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
     "USMLE/Infective disease/Mumps.md",
     "USMLE/Endocrine/Hashimoto thyroiditis.md",
@@ -236,7 +241,6 @@
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Biochemistry/Vitamin B6.md",
     "USMLE/Blood/Sideroblastic anemia.md",
-    "USMLE/Blood/Anemia.md",
     "USMLE/Blood/Heme synthesis.md",
     "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/Biochemistry/Homocystinuria.md",
@@ -249,16 +253,11 @@
     "USMLE/Blood/Mastocytosis.md",
     "appendix/Pasted image 20231220170536.png",
     "USMLE/Blood/Anticoagulants.md",
-    "USMLE/Blood/Cyanide poisoning.md",
-    "USMLE/Biochemistry/Vitamin B1.md",
     "appendix/Pasted image 20230928160542.png",
     "appendix/Pasted image 20231220160043.png",
     "appendix/Pasted image 20230722174657.png",
     "appendix/Pasted image 20231107144314.png",
     "appendix/Pasted image 20231218162957.png",
-    "appendix/Pasted image 20231218144924.png",
-    "appendix/Pasted image 20231218144652.png",
-    "appendix/Pasted image 20231217175517.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

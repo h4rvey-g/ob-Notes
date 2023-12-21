@@ -14,7 +14,7 @@ share: true
 	- May be multifocal
 	- Very good prognosis
  - Pathology
-	 - Psammoma bodies![[Pasted image 20231221165709.png]]
+	 - Psam<font color="#ffc000">moma</font> bodies![[Pasted image 20231221165709.png]]
 		- Morphology: <span style="background:rgba(240, 200, 0, 0.2)">concentric lamellar calcifications</span>
 		- Occurrence: seen in diseases associated with calcific degeneration
 			- Papillary thyroid carcinomas (evidence of psammoma bodies in thyroid tissue should always raise suspicion of malignancy)
@@ -22,10 +22,13 @@ share: true
 			- Meningiomas
 			- Mesotheliomas
 	- <span style="background:rgba(240, 200, 0, 0.2)">“Orphan Annie” eyes nuclei</span>
-		- Morphology: empty-appearing large oval nuclei with central clearing
+		- Morphology: empty-appearing large oval nuclei with central clearing![[Pasted image 20231221171132.png]]
 		- Occurrence
 			- Papillary thyroid carcinomas
 			- Autoimmune thyroiditis (e.g., Hashimoto disease, Grave disease)
+
+>[!Mnemonic] 
+><font color="#ffc000">Papi</font> and <font color="#ffc000">Moma</font> adopted <font color="#ffc000">Orphan Annie</font>.
 # Medullary carcinoma
 - Tissue of origin: Parafollicular cells (C cells)
 - Poorly differentiated

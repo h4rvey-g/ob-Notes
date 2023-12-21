@@ -30,7 +30,10 @@ share: true
 
 ---
 # Clinical features
-
+- Symptoms related to decreased metabolic rate
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hair loss (Queen Anne sign), brittle nails, and cold, dry skin</span>
+- Symptoms related to generalized myxedema
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hoarse voice, difficulty articulating words</span>
 
 ---
 # Diagnostics

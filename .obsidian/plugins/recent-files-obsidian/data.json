@@ -9,6 +9,18 @@
       "path": "USMLE/Biochemistry/Hypothyroidism.md"
     },
     {
+      "basename": "Esophageal cancer",
+      "path": "USMLE/GI/Esophageal cancer.md"
+    },
+    {
+      "basename": "Plummer-Vinson syndrome",
+      "path": "USMLE/GI/Plummer-Vinson syndrome.md"
+    },
+    {
+      "basename": "Anemia",
+      "path": "USMLE/Blood/Anemia.md"
+    },
+    {
       "basename": "Graves disease",
       "path": "USMLE/Endocrine/Graves disease.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Hyperthyroidism",
       "path": "USMLE/Endocrine/Hyperthyroidism.md"
-    },
-    {
-      "basename": "Lab Values",
-      "path": "USMLE/Lab Values.md"
-    },
-    {
-      "basename": "Chemotherapeutic agents",
-      "path": "USMLE/Blood/Chemotherapeutic agents.md"
-    },
-    {
-      "basename": "Pasted image 20230909221400",
-      "path": "appendix/Pasted image 20230909221400.png"
     }
   ],
   "omittedPaths": [],
