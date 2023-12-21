@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Streptococcus pyogenes",
+      "path": "USMLE/Infective disease/Streptococcus pyogenes.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20230909221400",
       "path": "appendix/Pasted image 20230909221400.png"
-    },
-    {
-      "basename": "DiGeorge syndrome",
-      "path": "USMLE/Immunology/DiGeorge syndrome.md"
     }
   ],
   "omittedPaths": [],
