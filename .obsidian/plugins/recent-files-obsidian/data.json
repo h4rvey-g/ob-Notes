@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hypoglycemia",
+      "path": "USMLE/Endocrine/Hypoglycemia.md"
+    },
+    {
       "basename": "Thyroid cancer",
       "path": "USMLE/Endocrine/Thyroid cancer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Diabetes mellitus in pregnancy",
       "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
-    },
-    {
-      "basename": "Hyperthyroidism",
-      "path": "USMLE/Endocrine/Hyperthyroidism.md"
     }
   ],
   "omittedPaths": [],
