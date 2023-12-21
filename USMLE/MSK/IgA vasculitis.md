@@ -11,6 +11,7 @@ share: true
 - Sex: ♂ > ♀
 - Age: <span style="background:rgba(240, 200, 0, 0.2)">more common in children</span>
 	- 90% of affected individuals < 10 years
+	- <span style="background:rgba(240, 200, 0, 0.2)">Other small vessel vasculitides mainly affect adults</span>
 
 ---
 # Etiology
