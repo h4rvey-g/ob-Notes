@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Hypoglycemia.md",
+                "file": "USMLE/MSK/Purpura differential diagnosis.md",
                 "mode": "preview",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Hypoglycemia.md",
+                "file": "USMLE/MSK/Purpura differential diagnosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Hypoglycemia.md",
+                "file": "USMLE/MSK/Purpura differential diagnosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,11 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Hypoglycemia.md"
+                "file": "USMLE/MSK/Purpura differential diagnosis.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,8 +223,12 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Endocrine/Thyroid cancer.md",
+    "USMLE/MSK/IgA vasculitis.md",
+    "USMLE/Renal/Diffuse proliferative glomerulonephritis.md",
+    "USMLE/Renal/Nephritic syndrome.md",
+    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Endocrine/Hypoglycemia.md",
+    "USMLE/Endocrine/Thyroid cancer.md",
     "USMLE/Biochemistry/Hypothyroidism.md",
     "USMLE/GI/Esophageal cancer.md",
     "USMLE/Blood/Anemia.md",
@@ -248,10 +253,6 @@
     "USMLE/Blood/Macrocytic anemias.md",
     "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
     "USMLE/Neurology/Romberg test.md",
-    "USMLE/Blood/Asplenia.md",
-    "USMLE/Pharmacology/Reye syndrome.md",
-    "USMLE/Biochemistry/Fatty acid oxidation.md",
-    "USMLE/Blood/Mastocytosis.md",
     "appendix/Pasted image 20231220170536.png",
     "appendix/Pasted image 20230928160542.png",
     "appendix/Pasted image 20231220160043.png",
