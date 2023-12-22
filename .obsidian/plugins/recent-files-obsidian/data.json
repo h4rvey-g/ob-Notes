@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Aplastic anemia",
+      "path": "USMLE/Blood/Aplastic anemia.md"
+    },
+    {
+      "basename": "Anemia",
+      "path": "USMLE/Blood/Anemia.md"
+    },
+    {
+      "basename": "Proximal renal tubular acidosis (type 2)",
+      "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
+    },
+    {
       "basename": "Anticancer therapy-induced neutropenia",
       "path": "USMLE/Blood/Anticancer therapy-induced neutropenia.md"
     },
@@ -83,10 +95,6 @@
     {
       "basename": "Plummer-Vinson syndrome",
       "path": "USMLE/GI/Plummer-Vinson syndrome.md"
-    },
-    {
-      "basename": "Anemia",
-      "path": "USMLE/Blood/Anemia.md"
     },
     {
       "basename": "Graves disease",
@@ -191,14 +199,6 @@
     {
       "basename": "Phenylketonuria",
       "path": "USMLE/Biochemistry/Phenylketonuria.md"
-    },
-    {
-      "basename": "Catecholamine Synthesis",
-      "path": "USMLE/Biochemistry/Catecholamine Synthesis.md"
-    },
-    {
-      "basename": "Pasted image 20231107144314",
-      "path": "appendix/Pasted image 20231107144314.png"
     }
   ],
   "omittedPaths": [],
