@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Peptic ulcer disease",
+      "path": "USMLE/GI/Peptic ulcer disease.md"
+    },
+    {
       "basename": "IgA nephropathy",
       "path": "USMLE/Renal/IgA nephropathy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rheumatoid arthritis",
       "path": "USMLE/MSK/Rheumatoid arthritis.md"
-    },
-    {
-      "basename": "Cushing syndrome",
-      "path": "USMLE/Endocrine/Cushing syndrome.md"
     }
   ],
   "omittedPaths": [],
