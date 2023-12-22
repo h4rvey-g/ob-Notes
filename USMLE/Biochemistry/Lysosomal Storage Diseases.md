@@ -8,6 +8,7 @@ share: true
 ![[Pasted image 20231110170141.png]]Fabrite -> favourite
 
 ---
+# Gaucher disease
 ![[Pasted image 20231111091954.png]] Because you are crying, you need a tissue paper to wipe tears.
 
 ---

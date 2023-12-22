@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Aplastic anemia",
-      "path": "USMLE/Blood/Aplastic anemia.md"
+      "basename": "Diabetes mellitus in pregnancy",
+      "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
+    },
+    {
+      "basename": "Lysosomal Storage Diseases",
+      "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
+    },
+    {
+      "basename": "Pasted image 20231111091954",
+      "path": "appendix/Pasted image 20231111091954.png"
     },
     {
       "basename": "Anemia",
       "path": "USMLE/Blood/Anemia.md"
+    },
+    {
+      "basename": "Diamond-Blackfan anemia",
+      "path": "USMLE/Blood/Diamond-Blackfan anemia.md"
+    },
+    {
+      "basename": "Aplastic anemia",
+      "path": "USMLE/Blood/Aplastic anemia.md"
     },
     {
       "basename": "Proximal renal tubular acidosis (type 2)",
@@ -183,22 +199,6 @@
     {
       "basename": "Myasthenia gravis",
       "path": "USMLE/MSK/Myasthenia gravis.md"
-    },
-    {
-      "basename": "Pasted image 20230722174657",
-      "path": "appendix/Pasted image 20230722174657.png"
-    },
-    {
-      "basename": "Heme synthesis",
-      "path": "USMLE/Blood/Heme synthesis.md"
-    },
-    {
-      "basename": "Lipid transport",
-      "path": "USMLE/Biochemistry/Lipid transport.md"
-    },
-    {
-      "basename": "Phenylketonuria",
-      "path": "USMLE/Biochemistry/Phenylketonuria.md"
     }
   ],
   "omittedPaths": [],

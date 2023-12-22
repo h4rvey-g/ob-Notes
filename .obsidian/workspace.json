@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Aplastic anemia.md",
+                "file": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Blood/Aplastic anemia.md",
+                "file": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Blood/Aplastic anemia.md",
+                "file": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,12 +193,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Blood/Aplastic anemia.md"
+                "file": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +222,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+    "appendix/Pasted image 20231111091954.png",
     "USMLE/Blood/Anemia.md",
+    "USMLE/Blood/Diamond-Blackfan anemia.md",
     "USMLE/Blood/Aplastic anemia.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
     "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
@@ -254,11 +256,8 @@
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Endocrine/Hypoglycemia.md",
     "USMLE/Biochemistry/Hypothyroidism.md",
-    "USMLE/GI/Esophageal cancer.md",
-    "USMLE/GI/Plummer-Vinson syndrome.md",
     "appendix/Pasted image 20231010205220.png",
     "appendix/Pasted image 20231221171132.png",
-    "appendix/Pasted image 20231221165913.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
