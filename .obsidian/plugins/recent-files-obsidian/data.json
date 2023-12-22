@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diabetes mellitus",
+      "path": "USMLE/Endocrine/Diabetes mellitus.md"
+    },
+    {
       "basename": "Diabetes mellitus in pregnancy",
       "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Primary biliary cholangitis",
       "path": "USMLE/GI/Primary biliary cholangitis.md"
-    },
-    {
-      "basename": "Diabetes mellitus",
-      "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
     {
       "basename": "Lipid-lowering agents",
