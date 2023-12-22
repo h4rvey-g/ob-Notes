@@ -5,7 +5,15 @@ modified: 2023-12-18 16:20
 aliases: []
 share: true
 ---
-# Papillary thyroid carcinoma 
+# Etiology
+- Genetic factors
+	- Medullary carcinoma: associated with MEN2 (RET gene mutations) or familial medullary carcinoma
+	- <span style="background:rgba(240, 200, 0, 0.2)">Papillary carcinoma: associated with RET/PTC rearrangements and BRAF mutations</span>
+	- Follicular carcinoma: associated with PAX8-PPAR-γ rearrangement and RAS mutation
+	- Undifferentiated/anaplastic carcinoma: associated with TP53 mutation
+- Ionizing radiation (particularly during childhood): mostly associated with papillary carcinoma
+# Overview
+## Papillary thyroid carcinoma 
 - Tissue of origin: Thyrocytes
 - Well differentiated
 - Characteristics
@@ -29,7 +37,7 @@ share: true
 
 >[!Mnemonic] 
 ><font color="#ffc000">Papi</font> and <font color="#ffc000">Moma</font> adopted <font color="#ffc000">Orphan Annie</font>.
-# Medullary carcinoma
+## Medullary carcinoma
 - Tissue of origin: Parafollicular cells (C cells)
 - Poorly differentiated
 - Characteristics

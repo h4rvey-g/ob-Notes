@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md",
+                "file": "USMLE/Endocrine/Diabetes mellitus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Adrenal insufficiency.md"
+                "file": "USMLE/Endocrine/Diabetes mellitus.md"
               }
             }
           }
@@ -223,6 +223,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Lipid-lowering agents.md",
+    "USMLE/Endocrine/Subacute thyroiditis.md",
+    "USMLE/Endocrine/Thyroid cancer.md",
+    "USMLE/Endocrine/Hashimoto thyroiditis.md",
+    "USMLE/Endocrine/Adrenal insufficiency.md",
     "appendix/Pasted image 20231222100938.png",
     "USMLE/Infective disease/Antiviral therapy.md",
     "appendix/Pasted image 20231222093206.png",
@@ -237,7 +242,6 @@
     "USMLE/Renal/Nephritic syndrome.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Endocrine/Hypoglycemia.md",
-    "USMLE/Endocrine/Thyroid cancer.md",
     "USMLE/Biochemistry/Hypothyroidism.md",
     "USMLE/GI/Esophageal cancer.md",
     "USMLE/Blood/Anemia.md",
@@ -249,16 +253,12 @@
     "appendix/Pasted image 20231221165913.png",
     "appendix/Pasted image 20231221165709.png",
     "USMLE/Endocrine/Graves disease.md",
-    "USMLE/Endocrine/Subacute thyroiditis.md",
     "USMLE/Infective disease/Mumps.md",
-    "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Infective disease/Streptococcus pyogenes.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Biochemistry/Vitamin B6.md",
-    "USMLE/Blood/Sideroblastic anemia.md",
     "appendix/Pasted image 20231220170536.png",
     "appendix/Pasted image 20230928160542.png",
-    "appendix/Pasted image 20231220160043.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

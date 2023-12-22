@@ -12,7 +12,8 @@ share: true
 	- ↓ Triglyceride level
 ![[Pasted image 20231012113514.png]]
 # Ezetimibe
-Mechanism of action: selective inhibition of cholesterol reabsorption at the<span style="background:rgba(240, 200, 0, 0.2)"> brush border of enterocytes (cholesterol transporter NPC1L1)</span> → ↓↓ LDL, little effect on HDL (slight ↑) and triglycerides (slight ↓)
+- Mechanism of action: selective inhibition of cholesterol reabsorption at the<span style="background:rgba(240, 200, 0, 0.2)"> brush border of enterocytes (cholesterol transporter NPC1L1)</span> → ↓↓ LDL, little effect on HDL (slight ↑) and triglycerides (slight ↓)
+- <span style="background:rgba(240, 200, 0, 0.2)">Adverse effects: ↑ Liver enzymes</span>
 >[!Mnemonic] 
 >Ezetim<span style="background:rgba(240, 200, 0, 0.2)">IB</span>e -- Intestinal brush border
 # Fibrates
