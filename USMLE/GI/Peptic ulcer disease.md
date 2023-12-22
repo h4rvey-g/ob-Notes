@@ -51,3 +51,15 @@ The two major contributing factors to the development of PUD are gastrointestina
 
 ---
 # Complications
+## Peptic ulcer perforation
+- Definition: full-thickness injury and loss of bowel wall integrity that results in leakage of gastrointestinal contents
+	- The second most common complication of PUD
+	- PUD is the most common cause of GI perforation.
+- Etiology
+	- Prepyloric gastric ulcers are the most common cause of perforation.
+	- Duodenal ulcers of the anterior wall are more likely to perforate than ulcers of the posterior wall. 
+- Clinical features
+	- Sudden, diffuse abdominal pain and rigidity
+	- Fever, tachycardia, tachypnea, hypotension 
+	- Pneumoperitoneum
+	- Shoulder pain (irritation of the phrenic nerve)
