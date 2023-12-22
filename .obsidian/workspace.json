@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md",
+                "file": "USMLE/GI/Gallstones.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md",
+                "file": "USMLE/GI/Gallstones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,9 +170,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md",
+                "file": "USMLE/GI/Gallstones.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/GI/Peptic ulcer disease.md"
+                "file": "USMLE/GI/Gallstones.md"
               }
             }
           }
@@ -221,10 +221,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "4a841457419c4394",
+  "active": "c46f0274d8333727",
   "lastOpenFiles": [
-    "USMLE/Renal/IgA nephropathy.md",
+    "USMLE/Blood/Hereditary spherocytosis.md",
     "USMLE/GI/Peptic ulcer disease.md",
+    "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Biochemistry/HMP shunt.md",
@@ -256,7 +257,6 @@
     "USMLE/单抗记忆.md",
     "USMLE/Endocrine/Carcinoid tumor.md",
     "USMLE/Respiratory/Lung cancer.md",
-    "USMLE/MSK/IgA vasculitis.md",
     "appendix/Pasted image 20231010205220.png",
     "appendix/Pasted image 20231221171132.png",
     "USMLE/MSK/Untitled.loom",
