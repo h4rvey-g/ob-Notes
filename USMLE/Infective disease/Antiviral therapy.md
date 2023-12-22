@@ -11,4 +11,4 @@ share: true
 # Acyclovir, famciclovir, valacyclovir
 Guanosine analogs. Preferentially inhibit viral DNA polymerase by chain termination.![[Pasted image 20231222091724.png]]
 # Foscarnet, Cidofovir
-![[Pasted image 20231222093206.png]]
+inhibits viral DNA polymerase![[Pasted image 20231222093206.png]]
