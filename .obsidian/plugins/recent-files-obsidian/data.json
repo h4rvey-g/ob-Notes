@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Urea cycle",
+      "path": "USMLE/Biochemistry/Urea cycle.md"
+    },
+    {
       "basename": "Gallstones",
       "path": "USMLE/GI/Gallstones.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Cyanide poisoning",
       "path": "USMLE/Blood/Cyanide poisoning.md"
-    },
-    {
-      "basename": "Vitamin B1",
-      "path": "USMLE/Biochemistry/Vitamin B1.md"
     }
   ],
   "omittedPaths": [],
