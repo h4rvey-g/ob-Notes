@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
-                "mode": "source",
+                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
+                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,9 +170,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Diabetes mellitus.md"
+                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md"
               }
             }
           }
@@ -223,6 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/GI/Primary biliary cholangitis.md",
+    "USMLE/Endocrine/Diabetes mellitus.md",
+    "USMLE/Endocrine/Diabetic neuropathy.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
     "USMLE/Endocrine/Thyroid cancer.md",
@@ -254,9 +257,6 @@
     "appendix/Pasted image 20231221165709.png",
     "USMLE/Endocrine/Graves disease.md",
     "USMLE/Infective disease/Mumps.md",
-    "USMLE/Infective disease/Streptococcus pyogenes.md",
-    "USMLE/Endocrine/Diabetes mellitus.md",
-    "USMLE/Biochemistry/Vitamin B6.md",
     "appendix/Pasted image 20231220170536.png",
     "appendix/Pasted image 20230928160542.png",
     "USMLE/MSK/Untitled.loom",

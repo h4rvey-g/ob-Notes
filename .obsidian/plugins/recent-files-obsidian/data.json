@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hashimoto thyroiditis",
+      "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
+    },
+    {
+      "basename": "Primary biliary cholangitis",
+      "path": "USMLE/GI/Primary biliary cholangitis.md"
+    },
+    {
       "basename": "Diabetes mellitus",
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Subacute thyroiditis",
       "path": "USMLE/Endocrine/Subacute thyroiditis.md"
-    },
-    {
-      "basename": "Hashimoto thyroiditis",
-      "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
     },
     {
       "basename": "Adrenal insufficiency",
@@ -195,10 +199,6 @@
     {
       "basename": "BUN-creatinine ratio",
       "path": "USMLE/Renal/BUN-creatinine ratio.md"
-    },
-    {
-      "basename": "Vitamin B3",
-      "path": "USMLE/Biochemistry/Vitamin B3.md"
     }
   ],
   "omittedPaths": [],
