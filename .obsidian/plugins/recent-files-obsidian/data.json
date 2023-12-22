@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Adrenal insufficiency",
+      "path": "USMLE/Endocrine/Adrenal insufficiency.md"
+    },
+    {
       "basename": "Antiviral therapy",
       "path": "USMLE/Infective disease/Antiviral therapy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitamin B3",
       "path": "USMLE/Biochemistry/Vitamin B3.md"
-    },
-    {
-      "basename": "Nonpitting edema",
-      "path": "USMLE/Endocrine/Nonpitting edema.md"
     }
   ],
   "omittedPaths": [],
