@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md",
-                "mode": "source",
+                "file": "USMLE/Cardiology/ECGs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md",
+                "file": "USMLE/Cardiology/ECGs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Urea cycle.md"
+                "file": "USMLE/Cardiology/ECGs.md"
               }
             }
           }
@@ -223,6 +223,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Cardiology/Hypercalcemia.md",
+    "USMLE/Cardiology/ECGs.md",
+    "USMLE/Cardiology/Long QT syndromes.md",
+    "USMLE/Biochemistry/Urea cycle.md",
+    "USMLE/Biochemistry/Hyperammonemia.md",
     "appendix/Pasted image 20231222210338.png",
     "USMLE/GI/Gallstones.md",
     "USMLE/Blood/Hereditary spherocytosis.md",
@@ -249,16 +254,11 @@
     "USMLE/Endocrine/Diabetic neuropathy.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
-    "USMLE/Endocrine/Thyroid cancer.md",
-    "USMLE/Endocrine/Adrenal insufficiency.md",
     "appendix/Pasted image 20231222100938.png",
-    "USMLE/Infective disease/Antiviral therapy.md",
     "appendix/Pasted image 20231222093206.png",
     "appendix/Pasted image 20231222091724.png",
     "appendix/Pasted image 20231222091013.png",
-    "USMLE/单抗记忆.md",
     "appendix/Pasted image 20231010205220.png",
-    "appendix/Pasted image 20231221171132.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Hypercalcemia",
+      "path": "USMLE/Cardiology/Hypercalcemia.md"
+    },
+    {
+      "basename": "ECGs",
+      "path": "USMLE/Cardiology/ECGs.md"
+    },
+    {
+      "basename": "Long QT syndromes",
+      "path": "USMLE/Cardiology/Long QT syndromes.md"
+    },
+    {
       "basename": "Urea cycle",
       "path": "USMLE/Biochemistry/Urea cycle.md"
+    },
+    {
+      "basename": "Hyperammonemia",
+      "path": "USMLE/Biochemistry/Hyperammonemia.md"
     },
     {
       "basename": "Gallstones",
@@ -183,22 +199,6 @@
     {
       "basename": "Asplenia",
       "path": "USMLE/Blood/Asplenia.md"
-    },
-    {
-      "basename": "Reye syndrome",
-      "path": "USMLE/Pharmacology/Reye syndrome.md"
-    },
-    {
-      "basename": "Mastocytosis",
-      "path": "USMLE/Blood/Mastocytosis.md"
-    },
-    {
-      "basename": "Anticoagulants",
-      "path": "USMLE/Blood/Anticoagulants.md"
-    },
-    {
-      "basename": "Cyanide poisoning",
-      "path": "USMLE/Blood/Cyanide poisoning.md"
     }
   ],
   "omittedPaths": [],
