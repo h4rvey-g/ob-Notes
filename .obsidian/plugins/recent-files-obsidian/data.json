@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Antiphospholipid syndrome",
+      "path": "USMLE/MSK/Antiphospholipid syndrome.md"
+    },
+    {
+      "basename": "Anticancer therapy-induced neutropenia",
+      "path": "USMLE/Blood/Anticancer therapy-induced neutropenia.md"
+    },
+    {
+      "basename": "Transfusion reactions",
+      "path": "USMLE/Blood/Transfusion reactions.md"
+    },
+    {
+      "basename": "Transfusion",
+      "path": "USMLE/Blood/Transfusion.md"
+    },
+    {
       "basename": "Hypercalcemia",
       "path": "USMLE/Cardiology/Hypercalcemia.md"
     },
@@ -75,10 +91,6 @@
     {
       "basename": "Proximal renal tubular acidosis (type 2)",
       "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
-    },
-    {
-      "basename": "Anticancer therapy-induced neutropenia",
-      "path": "USMLE/Blood/Anticancer therapy-induced neutropenia.md"
     },
     {
       "basename": "Genital ulcers",
@@ -187,18 +199,6 @@
     {
       "basename": "Macrocytic anemias",
       "path": "USMLE/Blood/Macrocytic anemias.md"
-    },
-    {
-      "basename": "Wernicke encephalopathy and Korsakoff syndrome",
-      "path": "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md"
-    },
-    {
-      "basename": "Romberg test",
-      "path": "USMLE/Neurology/Romberg test.md"
-    },
-    {
-      "basename": "Asplenia",
-      "path": "USMLE/Blood/Asplenia.md"
     }
   ],
   "omittedPaths": [],
