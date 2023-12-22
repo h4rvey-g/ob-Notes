@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Genital ulcers",
+      "path": "USMLE/Infective disease/Genital ulcers.md"
+    },
+    {
       "basename": "Hashimoto thyroiditis",
       "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Aspergillosis",
       "path": "USMLE/Respiratory/Aspergillosis.md"
-    },
-    {
-      "basename": "BUN-creatinine ratio",
-      "path": "USMLE/Renal/BUN-creatinine ratio.md"
     }
   ],
   "omittedPaths": [],

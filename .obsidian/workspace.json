@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
-                "mode": "preview",
+                "file": "USMLE/Infective disease/Genital ulcers.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
+                "file": "USMLE/Infective disease/Genital ulcers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md",
+                "file": "USMLE/Infective disease/Genital ulcers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Endocrine/Hashimoto thyroiditis.md"
+                "file": "USMLE/Infective disease/Genital ulcers.md"
               }
             }
           }
@@ -223,13 +223,17 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231222112630.png",
+    "appendix/Pasted image 20231222112618.png",
+    "appendix/Pasted image 20231222112609.png",
+    "USMLE/Endocrine/Hashimoto thyroiditis.md",
+    "USMLE/Infective disease/Genital ulcers.md",
     "USMLE/GI/Primary biliary cholangitis.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Endocrine/Diabetic neuropathy.md",
     "USMLE/Cardiology/Lipid-lowering agents.md",
     "USMLE/Endocrine/Subacute thyroiditis.md",
     "USMLE/Endocrine/Thyroid cancer.md",
-    "USMLE/Endocrine/Hashimoto thyroiditis.md",
     "USMLE/Endocrine/Adrenal insufficiency.md",
     "appendix/Pasted image 20231222100938.png",
     "USMLE/Infective disease/Antiviral therapy.md",
@@ -255,10 +259,6 @@
     "appendix/Pasted image 20231221171132.png",
     "appendix/Pasted image 20231221165913.png",
     "appendix/Pasted image 20231221165709.png",
-    "USMLE/Endocrine/Graves disease.md",
-    "USMLE/Infective disease/Mumps.md",
-    "appendix/Pasted image 20231220170536.png",
-    "appendix/Pasted image 20230928160542.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
