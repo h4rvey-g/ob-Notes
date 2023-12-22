@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Antiviral therapy",
+      "path": "USMLE/Infective disease/Antiviral therapy.md"
+    },
+    {
       "basename": "单抗记忆",
       "path": "USMLE/单抗记忆.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nonpitting edema",
       "path": "USMLE/Endocrine/Nonpitting edema.md"
-    },
-    {
-      "basename": "Multiple endocrine neoplasias",
-      "path": "USMLE/Endocrine/Multiple endocrine neoplasias.md"
     }
   ],
   "omittedPaths": [],
