@@ -7,5 +7,8 @@ share: true
 ---
 
 # Oseltamivir, zanamivir
-- Inhibit influenza neuraminidase → ↓ release of progeny virus.
-![[Pasted image 20231222091013.png]]
+- Inhibit influenza neuraminidase → ↓ release of progeny virus.![[Pasted image 20231222091013.png]]
+# Acyclovir, famciclovir, valacyclovir
+Guanosine analogs. Preferentially inhibit viral DNA polymerase by chain termination.![[Pasted image 20231222091724.png]]
+# Foscarnet, Cidofovir
+![[Pasted image 20231222093206.png]]
