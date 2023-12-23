@@ -16,3 +16,9 @@ share: true
 ![[Pasted image 20231223104254.png]]
 
 ![[Pasted image 20231223111153.png]]
+
+![[Pasted image 20231223114629.png]]
+
+![[Pasted image 20231223114306.png]]
+
+![[Pasted image 20231223114331.png]]
