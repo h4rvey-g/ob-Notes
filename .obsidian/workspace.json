@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Lower Extremity Nerves.md",
-                "mode": "source",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Lower Extremity Nerves.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Lower Extremity Nerves.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Lower Extremity Nerves.md"
+                "file": "USMLE/Neurology/Multiple sclerosis.md"
               }
             }
           }
@@ -223,6 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/单抗记忆.md",
+    "USMLE/Neurology/Multiple sclerosis.md",
+    "appendix/Pasted image 20231223165929.png",
+    "USMLE/MSK/Lower Extremity Nerves.md",
     "appendix/Pasted image 20231223114629.png",
     "appendix/Pasted image 20231223114331.png",
     "appendix/Pasted image 20231223114306.png",
@@ -232,7 +236,6 @@
     "appendix/Pasted image 20231223104003.png",
     "appendix/Pasted image 20231223095230.png",
     "USMLE/MSK/Antiphospholipid syndrome.md",
-    "USMLE/MSK/Lower Extremity Nerves.md",
     "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
     "USMLE/Blood/Transfusion reactions.md",
     "USMLE/Blood/Transfusion.md",
@@ -252,13 +255,10 @@
     "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-    "appendix/Pasted image 20231111091954.png",
     "USMLE/Blood/Anemia.md",
     "USMLE/Blood/Diamond-Blackfan anemia.md",
     "USMLE/Blood/Aplastic anemia.md",
     "USMLE/Renal/Proximal renal tubular acidosis (type 2).md",
-    "USMLE/Infective disease/Genital ulcers.md",
-    "appendix/Pasted image 20231222112630.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
