@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lower Extremity Nerves",
+      "path": "USMLE/MSK/Lower Extremity Nerves.md"
+    },
+    {
       "basename": "Antiphospholipid syndrome",
       "path": "USMLE/MSK/Antiphospholipid syndrome.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Homocystinuria",
       "path": "USMLE/Biochemistry/Homocystinuria.md"
-    },
-    {
-      "basename": "Macrocytic anemias",
-      "path": "USMLE/Blood/Macrocytic anemias.md"
     }
   ],
   "omittedPaths": [],

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Antiphospholipid syndrome.md",
-                "mode": "preview",
+                "file": "USMLE/MSK/Lower Extremity Nerves.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Antiphospholipid syndrome.md",
+                "file": "USMLE/MSK/Lower Extremity Nerves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Antiphospholipid syndrome.md",
+                "file": "USMLE/MSK/Lower Extremity Nerves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Antiphospholipid syndrome.md"
+                "file": "USMLE/MSK/Lower Extremity Nerves.md"
               }
             }
           }
@@ -221,8 +221,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "c46f0274d8333727",
+  "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231223095230.png",
+    "USMLE/MSK/Antiphospholipid syndrome.md",
+    "USMLE/MSK/Lower Extremity Nerves.md",
     "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
     "USMLE/Blood/Transfusion reactions.md",
     "USMLE/Blood/Transfusion.md",
@@ -251,9 +254,6 @@
     "appendix/Pasted image 20231222112630.png",
     "appendix/Pasted image 20231222112618.png",
     "appendix/Pasted image 20231222112609.png",
-    "USMLE/Endocrine/Hashimoto thyroiditis.md",
-    "USMLE/GI/Primary biliary cholangitis.md",
-    "USMLE/Endocrine/Diabetic neuropathy.md",
     "appendix/Pasted image 20231222100938.png",
     "appendix/Pasted image 20231222093206.png",
     "appendix/Pasted image 20231222091724.png",
