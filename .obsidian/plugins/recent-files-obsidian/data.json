@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Staphylococcus aureus",
+      "path": "USMLE/Infective disease/Staphylococcus aureus.md"
+    },
+    {
       "basename": "Streptococcus pyogenes",
       "path": "USMLE/Infective disease/Streptococcus pyogenes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Riedel thyroiditis",
       "path": "USMLE/Endocrine/Riedel thyroiditis.md"
-    },
-    {
-      "basename": "Vitamin B6",
-      "path": "USMLE/Biochemistry/Vitamin B6.md"
     }
   ],
   "omittedPaths": [],
