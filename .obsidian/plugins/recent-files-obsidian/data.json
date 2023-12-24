@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Opioid overdose",
+      "path": "USMLE/Neurology/Opioid overdose.md"
+    },
+    {
       "basename": "Meningioma",
       "path": "USMLE/Neurology/Meningioma.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hypoglycemia",
       "path": "USMLE/Endocrine/Hypoglycemia.md"
-    },
-    {
-      "basename": "Hypothyroidism",
-      "path": "USMLE/Biochemistry/Hypothyroidism.md"
     }
   ],
   "omittedPaths": [],
