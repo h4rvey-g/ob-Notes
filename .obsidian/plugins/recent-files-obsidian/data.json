@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Electroconvulsive therapy",
+      "path": "USMLE/Psychiatry/Electroconvulsive therapy.md"
+    },
+    {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+    },
+    {
       "basename": "Staphylococcus aureus",
       "path": "USMLE/Infective disease/Staphylococcus aureus.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Multiple sclerosis",
       "path": "USMLE/Neurology/Multiple sclerosis.md"
-    },
-    {
-      "basename": "单抗记忆",
-      "path": "USMLE/单抗记忆.md"
     },
     {
       "basename": "Lower Extremity Nerves",
@@ -195,10 +199,6 @@
     {
       "basename": "Graves disease",
       "path": "USMLE/Endocrine/Graves disease.md"
-    },
-    {
-      "basename": "Riedel thyroiditis",
-      "path": "USMLE/Endocrine/Riedel thyroiditis.md"
     }
   ],
   "omittedPaths": [],

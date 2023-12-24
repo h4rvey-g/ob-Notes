@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Infective disease/Staphylococcus aureus.md",
-                "mode": "preview",
+                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Infective disease/Staphylococcus aureus.md",
+                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Infective disease/Staphylococcus aureus.md",
+                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Infective disease/Staphylococcus aureus.md"
+                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md"
               }
             }
           }
@@ -223,16 +223,17 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/单抗记忆.md",
+    "USMLE/Psychiatry/Electroconvulsive therapy.md",
+    "USMLE/Neurology/Multiple sclerosis.md",
+    "USMLE/Infective disease/Staphylococcus aureus.md",
     "appendix/Pasted image 20231224105141.png",
     "appendix/Pasted image 20231224104819.png",
     "USMLE/Infective disease/Streptococcus pyogenes.md",
-    "USMLE/Infective disease/Staphylococcus aureus.md",
     "USMLE/Neurology/Intracerebral hemorrhage.md",
     "appendix/Pasted image 20231224102741.png",
     "USMLE/Neurology/Ischemic stroke.md",
     "appendix/Pasted image 20231224092618.png",
-    "USMLE/Neurology/Multiple sclerosis.md",
-    "USMLE/单抗记忆.md",
     "appendix/Pasted image 20231223165929.png",
     "USMLE/MSK/Lower Extremity Nerves.md",
     "appendix/Pasted image 20231223114629.png",
@@ -240,7 +241,6 @@
     "appendix/Pasted image 20231223114306.png",
     "appendix/Pasted image 20231223111153.png",
     "appendix/Pasted image 20231223104254.png",
-    "appendix/Pasted image 20231223104015.png",
     "USMLE/MSK/Antiphospholipid syndrome.md",
     "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
     "USMLE/Blood/Transfusion reactions.md",
