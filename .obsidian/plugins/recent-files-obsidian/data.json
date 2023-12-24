@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Meningioma",
+      "path": "USMLE/Neurology/Meningioma.md"
+    },
+    {
       "basename": "Creutzfeldt-Jakob disease",
       "path": "USMLE/Neurology/Creutzfeldt-Jakob disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hypothyroidism",
       "path": "USMLE/Biochemistry/Hypothyroidism.md"
-    },
-    {
-      "basename": "Esophageal cancer",
-      "path": "USMLE/GI/Esophageal cancer.md"
     }
   ],
   "omittedPaths": [],

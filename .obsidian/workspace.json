@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+                "file": "USMLE/Neurology/Meningioma.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+                "file": "USMLE/Neurology/Meningioma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+                "file": "USMLE/Neurology/Meningioma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md"
+                "file": "USMLE/Neurology/Meningioma.md"
               }
             }
           }
@@ -223,8 +223,10 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Psychiatry/Major depressive disorder.md",
+    "appendix/Pasted image 20231224160212.png",
     "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+    "USMLE/Neurology/Meningioma.md",
+    "USMLE/Psychiatry/Major depressive disorder.md",
     "USMLE/Psychiatry/Electroconvulsive therapy.md",
     "USMLE/单抗记忆.md",
     "USMLE/Neurology/Multiple sclerosis.md",
@@ -257,8 +259,6 @@
     "USMLE/Blood/Hereditary spherocytosis.md",
     "USMLE/Renal/IgA nephropathy.md",
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
-    "USMLE/Renal/Immunofluorescence.md",
-    "USMLE/Biochemistry/HMP shunt.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

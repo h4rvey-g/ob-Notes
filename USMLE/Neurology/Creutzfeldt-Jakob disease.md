@@ -33,8 +33,8 @@ CJD is caused by misfolded proteins (prions, PrP<sup>Sc</sup>) that are either p
 # Clinical features
 - Neurological symptoms
 	- Cerebellar disturbances (e.g., gait instability) and extrapyramidal deficits
-	- Myoclonus
-		- Often triggered by startling (e.g., loud noises)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Myoclonus</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Often triggered by startling (e.g., loud noises)</span>
 		- Also associated with metabolic abnormalities found in liver and renal failure
 	- Ataxia
 - Neuropsychiatric symptoms
@@ -47,7 +47,8 @@ CJD is caused by misfolded proteins (prions, PrP<sup>Sc</sup>) that are either p
 
 ---
 # Diagnostics
-
+- CSF analysis
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ 14-3-3 protein</span>
 
 ---
 # Treatment
