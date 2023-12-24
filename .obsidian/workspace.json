@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Psychiatry/Major depressive disorder.md",
+                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Psychiatry/Major depressive disorder.md",
+                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Psychiatry/Major depressive disorder.md",
+                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Psychiatry/Major depressive disorder.md"
+                "file": "USMLE/Neurology/Creutzfeldt-Jakob disease.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Psychiatry/Electroconvulsive therapy.md",
     "USMLE/Psychiatry/Major depressive disorder.md",
+    "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+    "USMLE/Psychiatry/Electroconvulsive therapy.md",
     "USMLE/单抗记忆.md",
     "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Infective disease/Staphylococcus aureus.md",
@@ -258,7 +259,6 @@
     "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Biochemistry/HMP shunt.md",
-    "USMLE/Endocrine/Diabetes mellitus.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

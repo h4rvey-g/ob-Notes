@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Creutzfeldt-Jakob disease",
+      "path": "USMLE/Neurology/Creutzfeldt-Jakob disease.md"
+    },
+    {
       "basename": "Major depressive disorder",
       "path": "USMLE/Psychiatry/Major depressive disorder.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Esophageal cancer",
       "path": "USMLE/GI/Esophageal cancer.md"
-    },
-    {
-      "basename": "Plummer-Vinson syndrome",
-      "path": "USMLE/GI/Plummer-Vinson syndrome.md"
     }
   ],
   "omittedPaths": [],
