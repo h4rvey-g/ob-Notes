@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Intracerebral hemorrhage",
+      "path": "USMLE/Neurology/Intracerebral hemorrhage.md"
+    },
+    {
       "basename": "Ischemic stroke",
       "path": "USMLE/Neurology/Ischemic stroke.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vitamin B6",
       "path": "USMLE/Biochemistry/Vitamin B6.md"
-    },
-    {
-      "basename": "Sideroblastic anemia",
-      "path": "USMLE/Blood/Sideroblastic anemia.md"
     }
   ],
   "omittedPaths": [],

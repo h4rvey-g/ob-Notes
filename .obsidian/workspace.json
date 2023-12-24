@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Ischemic stroke.md",
+                "file": "USMLE/Neurology/Intracerebral hemorrhage.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Ischemic stroke.md",
+                "file": "USMLE/Neurology/Intracerebral hemorrhage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Ischemic stroke.md",
+                "file": "USMLE/Neurology/Intracerebral hemorrhage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Ischemic stroke.md"
+                "file": "USMLE/Neurology/Intracerebral hemorrhage.md"
               }
             }
           }
@@ -214,18 +214,19 @@
       "graph:查看关系图谱": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
-      "notion-like-tables:Create loom": false,
-      "templater-obsidian:Templater": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "notion-like-tables:Create loom": false
     }
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
+    "USMLE/Neurology/Ischemic stroke.md",
+    "USMLE/Neurology/Intracerebral hemorrhage.md",
     "appendix/Pasted image 20231224092618.png",
     "USMLE/Neurology/Multiple sclerosis.md",
-    "USMLE/Neurology/Ischemic stroke.md",
     "USMLE/单抗记忆.md",
     "appendix/Pasted image 20231223165929.png",
     "USMLE/MSK/Lower Extremity Nerves.md",
@@ -247,7 +248,6 @@
     "USMLE/Biochemistry/Hyperammonemia.md",
     "USMLE/Cardiology/Long QT syndromes.md",
     "USMLE/Biochemistry/Urea cycle.md",
-    "appendix/Pasted image 20231222210338.png",
     "USMLE/GI/Gallstones.md",
     "USMLE/Blood/Hereditary spherocytosis.md",
     "USMLE/Renal/IgA nephropathy.md",
