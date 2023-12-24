@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Streptococcus pyogenes",
+      "path": "USMLE/Infective disease/Streptococcus pyogenes.md"
+    },
+    {
       "basename": "Intracerebral hemorrhage",
       "path": "USMLE/Neurology/Intracerebral hemorrhage.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "Riedel thyroiditis",
       "path": "USMLE/Endocrine/Riedel thyroiditis.md"
-    },
-    {
-      "basename": "Streptococcus pyogenes",
-      "path": "USMLE/Infective disease/Streptococcus pyogenes.md"
     },
     {
       "basename": "Vitamin B6",

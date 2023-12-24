@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Intracerebral hemorrhage.md",
+                "file": "USMLE/Infective disease/Streptococcus pyogenes.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Intracerebral hemorrhage.md",
+                "file": "USMLE/Infective disease/Streptococcus pyogenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Intracerebral hemorrhage.md",
+                "file": "USMLE/Infective disease/Streptococcus pyogenes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Intracerebral hemorrhage.md"
+                "file": "USMLE/Infective disease/Streptococcus pyogenes.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Neurology/Ischemic stroke.md",
     "USMLE/Neurology/Intracerebral hemorrhage.md",
+    "appendix/Pasted image 20231224102741.png",
+    "USMLE/Neurology/Ischemic stroke.md",
     "appendix/Pasted image 20231224092618.png",
     "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/单抗记忆.md",
@@ -237,7 +238,6 @@
     "appendix/Pasted image 20231223104254.png",
     "appendix/Pasted image 20231223104015.png",
     "appendix/Pasted image 20231223104003.png",
-    "appendix/Pasted image 20231223095230.png",
     "USMLE/MSK/Antiphospholipid syndrome.md",
     "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
     "USMLE/Blood/Transfusion reactions.md",
@@ -258,7 +258,6 @@
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
     "USMLE/Blood/Anemia.md",
-    "USMLE/Blood/Diamond-Blackfan anemia.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
