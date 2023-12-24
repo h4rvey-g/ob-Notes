@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md",
+                "file": "USMLE/Psychiatry/Major depressive disorder.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md",
+                "file": "USMLE/Psychiatry/Major depressive disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md",
+                "file": "USMLE/Psychiatry/Major depressive disorder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Psychiatry/Electroconvulsive therapy.md"
+                "file": "USMLE/Psychiatry/Major depressive disorder.md"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/单抗记忆.md",
     "USMLE/Psychiatry/Electroconvulsive therapy.md",
+    "USMLE/Psychiatry/Major depressive disorder.md",
+    "USMLE/单抗记忆.md",
     "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Infective disease/Staphylococcus aureus.md",
     "appendix/Pasted image 20231224105141.png",
@@ -258,7 +259,6 @@
     "USMLE/Renal/Immunofluorescence.md",
     "USMLE/Biochemistry/HMP shunt.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
-    "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

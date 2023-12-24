@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Major depressive disorder",
+      "path": "USMLE/Psychiatry/Major depressive disorder.md"
+    },
+    {
       "basename": "Electroconvulsive therapy",
       "path": "USMLE/Psychiatry/Electroconvulsive therapy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Plummer-Vinson syndrome",
       "path": "USMLE/GI/Plummer-Vinson syndrome.md"
-    },
-    {
-      "basename": "Graves disease",
-      "path": "USMLE/Endocrine/Graves disease.md"
     }
   ],
   "omittedPaths": [],
