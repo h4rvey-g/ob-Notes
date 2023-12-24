@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ischemic stroke",
+      "path": "USMLE/Neurology/Ischemic stroke.md"
+    },
+    {
       "basename": "Multiple sclerosis",
       "path": "USMLE/Neurology/Multiple sclerosis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sideroblastic anemia",
       "path": "USMLE/Blood/Sideroblastic anemia.md"
-    },
-    {
-      "basename": "Vitamin B12",
-      "path": "USMLE/Biochemistry/Vitamin B12.md"
     }
   ],
   "omittedPaths": [],
