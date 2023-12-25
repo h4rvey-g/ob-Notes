@@ -3587,6 +3587,7 @@ disrupt
 dRVVT
 dependence
 depressed
+demonstrate
 of
 over
 originate
@@ -8591,6 +8592,7 @@ nIK
 neutropenia
 net
 normalize
+noises
 tachycardia
 tract
 the
@@ -10468,6 +10470,8 @@ tmd
 tUeLw
 tlyX
 transcarbamylase
+themselves
+transmissible
 in
 includes
 involving
@@ -12361,6 +12365,7 @@ iRQ
 integrity
 irritation
 iframe
+identifiable
 general
 giving
 generation
@@ -15784,6 +15789,8 @@ mHD
 monocytes
 mood
 manic
+mutism
+myoclonic
 Sinus
 ST
 Segment
@@ -19067,6 +19074,7 @@ AVd
 Ame
 AYD
 Antimicrobial
+Akinetic
 Orthodromic
 On
 Often
@@ -22402,6 +22410,7 @@ accelerometer
 autoplay
 allowfullscreen
 anteroposterior
+autoclaving
 ventricular
 varying
 vaccines
@@ -24061,6 +24070,7 @@ venom
 viruses
 visual
 view
+vCJD
 conduction
 concealed
 complex
@@ -26070,6 +26080,8 @@ cardiolipin
 catatonia
 croup
 clipboard
+cattle
+cow
 bypass
 block
 background
@@ -27766,6 +27778,8 @@ bTdR
 bilirubinate
 barking
 baby
+beef
+bovine
 flutter
 from
 focus
@@ -32421,6 +32435,7 @@ WRy
 WXg
 WRM
 Waw
+Without
 you
 young
 ybif
@@ -35899,6 +35914,11 @@ subglottic
 stridor
 seal
 steeple
+spongiform
+sheet
+scrapie
+sheep
+startling
 QRS
 QT
 QDQ
@@ -39161,6 +39181,7 @@ lZc
 lfN
 lBP
 lactogen
+loud
 Multifocal
 Mild
 Moderate
@@ -40800,6 +40821,7 @@ MAMN
 Mäi
 Mixing
 McDonald
+Myoclonus
 Differentiate
 Drugs
 DDx
@@ -47594,6 +47616,10 @@ Prophylaxis
 Pneumocystis
 Phospholipid
 Prodromal
+PrP
+PrPc
+PrPSc
+Personality
 ectopic
 elevation
 early
@@ -49488,6 +49514,7 @@ exist
 excitatory
 evening
 encrypted
+equipment
 Early
 Elevation
 Etiology
@@ -56260,6 +56287,8 @@ hkkKn
 hVW
 hyperammonemic
 hoarseness
+helical
+hallmarks
 peaked
 pattern
 precordial
@@ -58321,6 +58350,11 @@ pregnant
 pathogen
 parainfluenza
 picture
+prions
+prion
+pleated
+plaque
+progressing
 Unusual
 Usually
 Upc
@@ -63111,6 +63145,8 @@ Capillaries
 Confirmation
 Criteria
 Croup
+Conformational
+Creutzfeldt
 Right
 Retrograde
 Rates
@@ -64882,6 +64918,7 @@ Rmm
 Radiolucent
 Radiopaque
 Russell
+Rapidly
 Voltage
 VFV
 VoNW
@@ -66470,6 +66507,7 @@ VsG
 VyZSM
 VmBTVV
 VUg
+Variant
 up
 unusual
 usually
@@ -72593,6 +72631,7 @@ Jww
 JuW
 JOg
 JÜ
+Jakob
 Nielsen
 NB
 No
