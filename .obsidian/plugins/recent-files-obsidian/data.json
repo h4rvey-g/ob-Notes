@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Obstructive sleep apnea",
+      "path": "USMLE/Respiratory/Obstructive sleep apnea.md"
+    },
+    {
+      "basename": "Mercury toxicity",
+      "path": "USMLE/Blood/Mercury toxicity.md"
+    },
+    {
+      "basename": "Arsenic toxicity",
+      "path": "USMLE/Biochemistry/Arsenic toxicity.md"
+    },
+    {
       "basename": "Gait",
       "path": "USMLE/Neurology/Gait.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Adrenal insufficiency",
       "path": "USMLE/Endocrine/Adrenal insufficiency.md"
-    },
-    {
-      "basename": "Antiviral therapy",
-      "path": "USMLE/Infective disease/Antiviral therapy.md"
-    },
-    {
-      "basename": "Carcinoid tumor",
-      "path": "USMLE/Endocrine/Carcinoid tumor.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
     }
   ],
   "omittedPaths": [],
