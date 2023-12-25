@@ -25,9 +25,12 @@ The classic triad consists of:
 - <span style="background:rgba(240, 200, 0, 0.2)">Opioid-induced respiratory depression</span>
 >[!warning] 
 ><span style="background:rgba(240, 200, 0, 0.2)">The absence of miosis does not rule out opioid overdose</span> as hypoxia, co-ingested drugs (e.g., cocaine, amphetamines), and/or medications (e.g., atropine) may cause mydriasis, thereby counteracting the miotic effect of opioids.
-## Opioid-induced respiratory depression (OIRD)
+## <span style="background:rgba(240, 200, 0, 0.2)">Opioid-induced respiratory depression (OIRD)</span>
 - ↓ Respiratory rate and/or apnea
 - ↓ Tidal volume
+>[!warning] 
+>OIRD is the most common cause of death from opioid overdose and is treated with naloxone for opioid overdose.
+## Other clinical features
 
 
 ---

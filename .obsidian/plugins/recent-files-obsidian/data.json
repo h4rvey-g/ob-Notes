@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Croup",
+      "path": "USMLE/Respiratory/Croup.md"
+    },
+    {
       "basename": "Opioid overdose",
       "path": "USMLE/Neurology/Opioid overdose.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Poststreptococcal glomerulonephritis",
       "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
-    },
-    {
-      "basename": "Hypoglycemia",
-      "path": "USMLE/Endocrine/Hypoglycemia.md"
     }
   ],
   "omittedPaths": [],
