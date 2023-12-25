@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alzheimer disease",
+      "path": "USMLE/Psychiatry/Alzheimer disease.md"
+    },
+    {
       "basename": "Obstructive sleep apnea",
       "path": "USMLE/Respiratory/Obstructive sleep apnea.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Subacute thyroiditis",
       "path": "USMLE/Endocrine/Subacute thyroiditis.md"
-    },
-    {
-      "basename": "Adrenal insufficiency",
-      "path": "USMLE/Endocrine/Adrenal insufficiency.md"
     }
   ],
   "omittedPaths": [],

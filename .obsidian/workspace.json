@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Obstructive sleep apnea.md",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Obstructive sleep apnea.md",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Obstructive sleep apnea.md",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Obstructive sleep apnea.md"
+                "file": "USMLE/Psychiatry/Alzheimer disease.md"
               }
             }
           }
@@ -223,8 +223,11 @@
   },
   "active": "4a841457419c4394",
   "lastOpenFiles": [
-    "USMLE/Blood/Mercury toxicity.md",
+    "appendix/Pasted image 20231225220625.png",
+    "appendix/Pasted image 20231225220038.png",
     "USMLE/Respiratory/Obstructive sleep apnea.md",
+    "USMLE/Psychiatry/Alzheimer disease.md",
+    "USMLE/Blood/Mercury toxicity.md",
     "USMLE/GI/Diarrhea.md",
     "USMLE/Biochemistry/Arsenic toxicity.md",
     "USMLE/Neurology/Gait.md",
@@ -254,11 +257,8 @@
     "appendix/Pasted image 20231224092618.png",
     "appendix/Pasted image 20231223165929.png",
     "USMLE/MSK/Lower Extremity Nerves.md",
-    "appendix/Pasted image 20231223114629.png",
     "USMLE/MSK/Antiphospholipid syndrome.md",
     "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
-    "USMLE/Blood/Transfusion reactions.md",
-    "USMLE/Blood/Transfusion.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
