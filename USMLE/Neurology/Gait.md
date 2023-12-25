@@ -6,3 +6,18 @@ aliases: []
 share: true
 ---
 
+# Ataxic gait
+- Unsteady and wide-based gait with irregular, uncoordinated movements
+## Cerebellar ataxic gait
+- Staggering gait
+- Inability to walk from heel to toe or in a straight line
+### Causes
+- Cerebellar diseases 
+- Acute alcohol intoxication
+## Sensory ataxic gait
+- Stooped, stomping gait 
+- Gait is exacerbated when patients cannot see their feet (e.g., in the dark)
+- [[Romberg test]] is positive.
+### Causes
+- Disorders of the dorsal columns (e.g., [[vitamin B12]] deficiency, tabes dorsalis)
+- Peripheral neuropathies
