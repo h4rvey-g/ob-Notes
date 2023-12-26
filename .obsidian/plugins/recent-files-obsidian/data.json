@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Alzheimer disease",
       "path": "USMLE/Psychiatry/Alzheimer disease.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Thyroid cancer",
       "path": "USMLE/Endocrine/Thyroid cancer.md"
-    },
-    {
-      "basename": "Subacute thyroiditis",
-      "path": "USMLE/Endocrine/Subacute thyroiditis.md"
     }
   ],
   "omittedPaths": [],

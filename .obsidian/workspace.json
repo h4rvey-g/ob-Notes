@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07801435caa8ba95",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +181,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,9 +202,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "USMLE/Psychiatry/Alzheimer disease.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -221,12 +229,17 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "4a841457419c4394",
+  "active": "07801435caa8ba95",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "USMLE/Psychiatry/Alzheimer disease.md",
+    "appendix/Pasted image 20231226084740.png",
+    "USMLE/Psychiatry/Opioid withdrawal.md",
+    "USMLE/Pharmacology/Beta-2 adrenergic agonists.md",
+    "USMLE/Neurology/Huntington disease.md",
     "appendix/Pasted image 20231225220625.png",
     "appendix/Pasted image 20231225220038.png",
     "USMLE/Respiratory/Obstructive sleep apnea.md",
-    "USMLE/Psychiatry/Alzheimer disease.md",
     "USMLE/Blood/Mercury toxicity.md",
     "USMLE/GI/Diarrhea.md",
     "USMLE/Biochemistry/Arsenic toxicity.md",
@@ -254,11 +267,6 @@
     "USMLE/Neurology/Intracerebral hemorrhage.md",
     "appendix/Pasted image 20231224102741.png",
     "USMLE/Neurology/Ischemic stroke.md",
-    "appendix/Pasted image 20231224092618.png",
-    "appendix/Pasted image 20231223165929.png",
-    "USMLE/MSK/Lower Extremity Nerves.md",
-    "USMLE/MSK/Antiphospholipid syndrome.md",
-    "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
