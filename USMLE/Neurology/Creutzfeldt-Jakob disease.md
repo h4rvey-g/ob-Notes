@@ -49,6 +49,9 @@ CJD is caused by misfolded proteins (prions, PrP<sup>Sc</sup>) that are either p
 # Diagnostics
 - CSF analysis
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ 14-3-3 protein</span>
+- Brain biopsy
+	- Diagnosis can only be confirmed by biopsy/autopsy and subsequent neuropathological examination. 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Microscopic findings include spongiform degeneration</span> (e.g., intracytoplasmic vacuoles within the neurons of cerebral and cerebellar cortex that can be seen on H&E)![[Pasted image 20231226084740.png]]
 
 ---
 # Treatment

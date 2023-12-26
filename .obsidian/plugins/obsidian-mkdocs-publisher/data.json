@@ -67,14 +67,15 @@
   },
   "embed": {
     "attachments": true,
-    "forcePushAttachments": [],
+    "overrideAttachments": [],
     "keySendFile": [
       "image"
     ],
     "notes": true,
     "folder": "docs/assets/img",
     "convertEmbedToLinks": "keep",
-    "charConvert": "->"
+    "charConvert": "->",
+    "forcePushAttachments": []
   },
   "plugin": {
     "shareKey": "share",

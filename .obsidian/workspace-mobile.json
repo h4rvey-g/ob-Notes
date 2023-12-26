@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Oral white lesions.md",
-                "mode": "preview",
+                "file": "USMLE/Neurology/Huntington disease.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/MSK/Oral white lesions.md",
+            "file": "USMLE/Neurology/Huntington disease.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/MSK/Oral white lesions.md",
+            "file": "USMLE/Neurology/Huntington disease.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -140,7 +140,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/MSK/Oral white lesions.md"
+            "file": "USMLE/Neurology/Huntington disease.md"
           }
         }
       },
@@ -168,7 +168,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +188,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "429175a1c4b3271d",
+  "active": "6a783152b61b4f52",
   "lastOpenFiles": [
+    "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
+    "USMLE/Neurology/Huntington disease.md",
+    "appendix/Pasted image 20231015105728.png",
+    "USMLE/Pharmacology/Beta-2 adrenergic agonists.md",
+    "USMLE/Renal/Urinary incontinence.md",
+    "USMLE/Respiratory/Asthma.md",
+    "USMLE/单抗记忆.md",
+    "USMLE/Neurology/Multiple sclerosis.md",
+    "USMLE/Renal/Urinary tract infections.md",
+    "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
+    "USMLE/Endocrine/Hypoglycemia.md",
+    "USMLE/Respiratory/Acute respiratory distress syndrome.md",
+    "USMLE/Psychiatry/Opioid withdrawal.md",
+    "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+    "appendix/Pasted image 20231226084740.png",
+    "USMLE/MSK/Oral white lesions.md",
     "USMLE/GI/Hepatitis C.md",
     "USMLE/GI/Hepatitis B.md",
     "appendix/De Novo Purine Synthesis - OG copy.png",
@@ -208,22 +225,7 @@
     "USMLE/Biochemistry/Gluconeogenesis.md",
     "USMLE/Blood/Macrocytic anemias.md",
     "appendix/Pasted image 20230910173723.png",
-    "USMLE/Respiratory/Sarcoidosis.md",
     "appendix/Pasted image 20231103144254.png",
-    "USMLE/Biochemistry/Cystic fibrosis.md",
-    "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md",
-    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "USMLE/MSK/Purpura differential diagnosis.md",
-    "USMLE/Blood/Thrombotic thrombocytopenic purpura (TTP).md",
-    "USMLE/MSK/IgA vasculitis.md",
-    "appendix/Pasted image 20231029162851.png",
-    "appendix/Pasted image 20230928151653.png",
-    "USMLE/MSK/Vasculitides.md",
-    "USMLE/GI/Pectinate line.md",
-    "USMLE/Blood/Heme synthesis.md",
-    "USMLE/GI/Erosive gastritis.md",
-    "USMLE/GI/Wilson disease.md",
-    "USMLE/Renal/Membranoproliferative glomerulonephritis.md",
     "USMLE/Psychiatry",
     "USMLE/Respiratory"
   ]

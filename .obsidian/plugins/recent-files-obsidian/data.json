@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Huntington disease",
+      "path": "USMLE/Neurology/Huntington disease.md"
+    },
+    {
+      "basename": "Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury",
+      "path": "USMLE/Neurology/Upper motor neuron (UMN) injury vs. lower motor neuron (LMN) injury.md"
+    },
+    {
+      "basename": "Pasted image 20231015105728",
+      "path": "appendix/Pasted image 20231015105728.png"
+    },
+    {
+      "basename": "Beta-2 adrenergic agonists",
+      "path": "USMLE/Pharmacology/Beta-2 adrenergic agonists.md"
+    },
+    {
+      "basename": "Urinary incontinence",
+      "path": "USMLE/Renal/Urinary incontinence.md"
+    },
+    {
+      "basename": "Asthma",
+      "path": "USMLE/Respiratory/Asthma.md"
+    },
+    {
+      "basename": "单抗记忆",
+      "path": "USMLE/单抗记忆.md"
+    },
+    {
+      "basename": "Diabetes mellitus in pregnancy",
+      "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
+    },
+    {
+      "basename": "Opioid withdrawal",
+      "path": "USMLE/Psychiatry/Opioid withdrawal.md"
+    },
+    {
+      "basename": "Creutzfeldt-Jakob disease",
+      "path": "USMLE/Neurology/Creutzfeldt-Jakob disease.md"
+    },
+    {
+      "basename": "Oral white lesions",
+      "path": "USMLE/MSK/Oral white lesions.md"
+    },
+    {
       "basename": "Opioid overdose",
       "path": "USMLE/Neurology/Opioid overdose.md"
     },
@@ -9,20 +53,12 @@
       "path": "USMLE/Neurology/Meningioma.md"
     },
     {
-      "basename": "Creutzfeldt-Jakob disease",
-      "path": "USMLE/Neurology/Creutzfeldt-Jakob disease.md"
-    },
-    {
       "basename": "Major depressive disorder",
       "path": "USMLE/Psychiatry/Major depressive disorder.md"
     },
     {
       "basename": "Electroconvulsive therapy",
       "path": "USMLE/Psychiatry/Electroconvulsive therapy.md"
-    },
-    {
-      "basename": "单抗记忆",
-      "path": "USMLE/单抗记忆.md"
     },
     {
       "basename": "Staphylococcus aureus",
@@ -113,10 +149,6 @@
       "path": "USMLE/Endocrine/Diabetes mellitus.md"
     },
     {
-      "basename": "Diabetes mellitus in pregnancy",
-      "path": "USMLE/Reproductive/Diabetes mellitus in pregnancy.md"
-    },
-    {
       "basename": "Lysosomal Storage Diseases",
       "path": "USMLE/Biochemistry/Lysosomal Storage Diseases.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Adrenal insufficiency",
       "path": "USMLE/Endocrine/Adrenal insufficiency.md"
-    },
-    {
-      "basename": "Antiviral therapy",
-      "path": "USMLE/Infective disease/Antiviral therapy.md"
-    },
-    {
-      "basename": "Carcinoid tumor",
-      "path": "USMLE/Endocrine/Carcinoid tumor.md"
-    },
-    {
-      "basename": "Lung cancer",
-      "path": "USMLE/Respiratory/Lung cancer.md"
-    },
-    {
-      "basename": "IgA vasculitis",
-      "path": "USMLE/MSK/IgA vasculitis.md"
-    },
-    {
-      "basename": "Purpura differential diagnosis",
-      "path": "USMLE/MSK/Purpura differential diagnosis.md"
-    },
-    {
-      "basename": "Nephritic syndrome",
-      "path": "USMLE/Renal/Nephritic syndrome.md"
-    },
-    {
-      "basename": "Poststreptococcal glomerulonephritis",
-      "path": "USMLE/Renal/Poststreptococcal glomerulonephritis.md"
-    },
-    {
-      "basename": "Hypoglycemia",
-      "path": "USMLE/Endocrine/Hypoglycemia.md"
     }
   ],
   "omittedPaths": [],
