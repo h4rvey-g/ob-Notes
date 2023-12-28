@@ -23,3 +23,5 @@ share: true
 - Café-au-lait spots
 >[!Mnemonic] 
 >If you drink too much <font color="#ffc000">coffee</font>, you are gonna go <font color="#ffc000">number one</font>.
+# Neurofibromatosis type II
+![[Pasted image 20231228201624.png]]![[Pasted image 20231228201715.png]]
