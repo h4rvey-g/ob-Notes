@@ -22,4 +22,4 @@ share: true
 # Neurofibromatosis type I
 - Café-au-lait spots
 >[!Mnemonic] 
->If you drink too much coffee, you are gonna take number one.
+>If you drink too much <font color="#ffc000">coffee</font>, you are gonna go <font color="#ffc000">number one</font>.
