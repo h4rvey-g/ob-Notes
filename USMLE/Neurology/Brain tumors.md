@@ -8,6 +8,7 @@ aliases:
   - Intracranial tumor
 share: true
 ---
-![[Meningioma]]
+- ![[Meningioma]]
+- ![[Medulloblastoma]]
 
 
