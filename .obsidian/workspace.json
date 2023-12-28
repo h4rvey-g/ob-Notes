@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "90dafafcdc85362d",
+        "id": "38a8d6e73ffedb2f",
         "type": "tabs",
         "children": [
           {
-            "id": "4a841457419c4394",
+            "id": "d1fd7269fa4dd09b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".gitignore",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "65086abf5576c40d",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
-                "staged": false
+                "file": "USMLE/Psychiatry/Antidepressants.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "USMLE/Psychiatry/Antidepressants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "USMLE/Psychiatry/Antidepressants.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "USMLE/Psychiatry/Antidepressants.md"
+              }
             }
           }
         ],
@@ -230,8 +223,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "65086abf5576c40d",
+  "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "USMLE/Psychiatry/Antidepressants.md",
     "USMLE/Psychiatry/Alzheimer disease.md",
     "conflict-files-obsidian-git.md",
     "appendix/Pasted image 20231226084740.png",
@@ -267,7 +261,6 @@
     "USMLE/Infective disease/Streptococcus pyogenes.md",
     "USMLE/Neurology/Intracerebral hemorrhage.md",
     "appendix/Pasted image 20231224102741.png",
-    "USMLE/Neurology/Ischemic stroke.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
