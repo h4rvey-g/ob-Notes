@@ -7,10 +7,10 @@ aliases:
 share: true
 ---
 # Epidemiology
-Most common viable autosomal chromosome aberration (∼ 1:700 live births) and most common genetic cause of cognitive impairment
-The risk of a Down syndrome pregnancy increases with maternal age.
-Incidence at 20 years: ∼ 1:2000
-Incidence at 45 years: ∼ 1:30
+- Most common viable autosomal chromosome aberration (∼ 1:700 live births) and most common genetic cause of cognitive impairment
+- <span style="background:rgba(240, 200, 0, 0.2)">The risk of a Down syndrome pregnancy increases with maternal age.</span>
+	- Incidence at 20 years: ∼ 1:2000
+	- Incidence at 45 years: ∼ 1:30
 
 ---
 # Etiology
@@ -32,8 +32,11 @@ Incidence at 45 years: ∼ 1:30
 # Extremities, soft tissue, and skeletal features
 - Extremities
 	- <span style="background:rgba(240, 200, 0, 0.2)">Transverse palmar crease: single crease that runs across the palm, along the metacarpophalangeal joints perpendicular to the fingers </span>
-	- Sandal gap: a medial displacement of the first toe leading to a large space between the first and second toes 
-	- Clinodactyly: abnormal curvature of a finger (typically refers to inward curvature of the 5th finger)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Sandal gap</span>: a medial displacement of the first toe leading to a large space between the first and second toes ![[Pasted image 20231228164533.png]]
+	- Clinodactyly: abnormal curvature of a finger (typically refers to inward curvature of the 5th finger)![[Pasted image 20231228164636.png]]
+- Skeletal features
+	- Atlantoaxial instability
+	- <span style="background:rgba(240, 200, 0, 0.2)">Short stature</span>
 
 ---
 # Diagnostics

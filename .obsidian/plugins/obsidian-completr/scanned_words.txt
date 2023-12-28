@@ -1653,6 +1653,7 @@ THD
 TPD
 Transport
 Teratogenicity
+Trisomy
 differentials
 differential
 diagnosis
