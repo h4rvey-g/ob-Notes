@@ -3593,6 +3593,8 @@ demonstrate
 depressive
 deeply
 dystrophic
+dysmorphia
+distance
 of
 over
 originate
@@ -12375,6 +12377,7 @@ integrity
 irritation
 iframe
 identifiable
+iris
 general
 giving
 generation
@@ -13886,6 +13889,7 @@ granulocyte
 guidance
 gangrene
 gyroscope
+grayish
 major
 mechanisms
 mark
@@ -15805,6 +15809,7 @@ mercuralis
 margins
 meningiomas
 meningothelial
+metacarpophalangeal
 Sinus
 ST
 Segment
@@ -17467,6 +17472,7 @@ Schizophrenia
 Stridor
 Sedation
 Suicide
+Sandal
 AVNRT
 Atrial
 AVRT
@@ -19093,6 +19099,7 @@ Antimicrobial
 Akinetic
 Arsenical
 Appetite
+Atlantoaxial
 Orthodromic
 On
 Often
@@ -22439,6 +22446,7 @@ adapt
 arachnoid
 arrangement
 acellular
+aberration
 ventricular
 varying
 vaccines
@@ -24099,6 +24107,7 @@ viruses
 visual
 view
 vCJD
+viable
 conduction
 concealed
 complex
@@ -26112,6 +26121,9 @@ cattle
 cow
 cholinergic
 concomitantly
+craniofacial
+crease
+curvature
 bypass
 block
 background
@@ -35960,6 +35972,7 @@ stains
 silver
 serotonergic
 sleepy
+slanting
 QRS
 QT
 QDQ
@@ -47674,6 +47687,7 @@ PrPc
 PrPSc
 Personality
 Polyneuropathy
+Patau
 ectopic
 elevation
 early
@@ -51229,6 +51243,9 @@ EdI
 EMsQ
 ECT
 Electroconvulsive
+Epicanthal
+Extremities
+Edwards
 LEFT
 Lengthening
 Left
@@ -54570,6 +54587,7 @@ Human
 HPL
 Hospitalize
 Hirano
+Hypoplastic
 hyperkalemia
 hypertrophy
 hereditary
@@ -56347,6 +56365,7 @@ helical
 hallmarks
 herbicides
 hippocampus
+hypertelorism
 peaked
 pattern
 precordial
@@ -58418,6 +58437,10 @@ parahippocampal
 polarization
 peel
 pediatric
+palpebral
+percentile
+periphery
+palm
 Unusual
 Usually
 Upc
@@ -59914,6 +59937,7 @@ UHw
 UjX
 Ufj
 UQvac
+Upward
 Bundle
 Branch
 Block
@@ -61544,6 +61568,7 @@ BIil
 Bipolar
 Barking
 BAL
+Brushfield
 Characteristic
 CLL
 Clinical
@@ -63214,6 +63239,7 @@ Creutzfeldt
 Carcinogenic
 Chelating
 Congo
+Clinodactyly
 Right
 Retrograde
 Rates

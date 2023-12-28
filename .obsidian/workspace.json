@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Autosomal trisomies.md",
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Autosomal trisomies.md",
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Autosomal trisomies.md",
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Autosomal trisomies.md"
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md"
               }
             }
           }
@@ -226,13 +226,14 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Autosomal trisomies.md",
+    "USMLE/Neurology/Neurocutaneous disorders.md",
+    "USMLE/Biochemistry/Down syndrome.md",
     "appendix/Pasted image 20231228165145.png",
     "appendix/Pasted image 20231228165124.png",
     "appendix/Pasted image 20231228165103.png",
-    "USMLE/Biochemistry/Down syndrome.md",
     "appendix/Pasted image 20231228164636.png",
     "appendix/Pasted image 20231228164533.png",
-    "USMLE/Biochemistry/Autosomal trisomies.md",
     "appendix/Pasted image 20231228163326.png",
     "USMLE/Neurology/Brain tumors.md",
     "USMLE/Neurology/Medulloblastoma.md",
@@ -257,7 +258,6 @@
     "USMLE/Neurology/Romberg test.md",
     "USMLE/Biochemistry/Vitamin B12.md",
     "appendix/Pasted image 20231225210715.png",
-    "appendix/Pasted image 20231225210648.png",
     "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
     "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
     "USMLE/Biochemistry/Vitamin B1.md",
