@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Hemoglobin Barts",
+      "path": "USMLE/Blood/Hemoglobin Barts.md"
+    },
+    {
+      "basename": "Hemoglobin variants",
+      "path": "USMLE/Blood/Hemoglobin variants.md"
+    },
+    {
+      "basename": "Acute leukemia",
+      "path": "USMLE/Blood/Acute leukemia.md"
+    },
+    {
+      "basename": "Immunosuppressants",
+      "path": "USMLE/Immunology/Immunosuppressants.md"
+    },
+    {
+      "basename": "Chemotherapeutic agents",
+      "path": "USMLE/Blood/Chemotherapeutic agents.md"
+    },
+    {
+      "basename": "Non-Hodgkin lymphomas",
+      "path": "USMLE/Blood/Non-Hodgkin lymphomas.md"
+    },
+    {
+      "basename": "Pasted image 20231113170927",
+      "path": "appendix/Pasted image 20231113170927.png"
+    },
+    {
+      "basename": "Pasted image 20230909221338",
+      "path": "appendix/Pasted image 20230909221338.png"
+    },
+    {
+      "basename": "De novo pyrimidine and purine synthesis",
+      "path": "USMLE/Biochemistry/De novo pyrimidine and purine synthesis.md"
+    },
+    {
       "basename": "Huntington disease",
       "path": "USMLE/Neurology/Huntington disease.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Diamond-Blackfan anemia",
       "path": "USMLE/Blood/Diamond-Blackfan anemia.md"
-    },
-    {
-      "basename": "Aplastic anemia",
-      "path": "USMLE/Blood/Aplastic anemia.md"
-    },
-    {
-      "basename": "Proximal renal tubular acidosis (type 2)",
-      "path": "USMLE/Renal/Proximal renal tubular acidosis (type 2).md"
-    },
-    {
-      "basename": "Genital ulcers",
-      "path": "USMLE/Infective disease/Genital ulcers.md"
-    },
-    {
-      "basename": "Hashimoto thyroiditis",
-      "path": "USMLE/Endocrine/Hashimoto thyroiditis.md"
-    },
-    {
-      "basename": "Primary biliary cholangitis",
-      "path": "USMLE/GI/Primary biliary cholangitis.md"
-    },
-    {
-      "basename": "Lipid-lowering agents",
-      "path": "USMLE/Cardiology/Lipid-lowering agents.md"
-    },
-    {
-      "basename": "Thyroid cancer",
-      "path": "USMLE/Endocrine/Thyroid cancer.md"
-    },
-    {
-      "basename": "Subacute thyroiditis",
-      "path": "USMLE/Endocrine/Subacute thyroiditis.md"
-    },
-    {
-      "basename": "Adrenal insufficiency",
-      "path": "USMLE/Endocrine/Adrenal insufficiency.md"
     }
   ],
   "omittedPaths": [],
