@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "90dafafcdc85362d",
+        "id": "38a8d6e73ffedb2f",
         "type": "tabs",
         "children": [
           {
-            "id": "4a841457419c4394",
+            "id": "d1fd7269fa4dd09b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Opioid overdose.md",
-                "mode": "source",
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -67,7 +68,7 @@
             }
           },
           {
-            "id": "7890460dcdff06c0",
+            "id": "e6e9739c879d2dbe",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -106,14 +107,6 @@
         "dimension": 52.450980392156865,
         "children": [
           {
-            "id": "305b90868e01eda0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "20e46837baa36f69",
             "type": "leaf",
             "state": {
@@ -135,12 +128,21 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "fc69c1e51242352c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "366784a71f0400fb",
@@ -148,30 +150,30 @@
         "dimension": 47.549019607843135,
         "children": [
           {
-            "id": "38865b7494c235f0",
+            "id": "3083531967f1e5e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Opioid overdose.md",
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "c46f0274d8333727",
+            "id": "814c415b8cda33df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Opioid overdose.md",
-                "linksCollapsed": true,
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -193,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Opioid overdose.md"
+                "file": "USMLE/Neurology/Neurocutaneous disorders.md"
               }
             }
           }
@@ -207,58 +209,59 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "graph:查看关系图谱": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "templater-obsidian:Templater": false,
+      "random-note:开始漫游笔记": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false,
-      "notion-like-tables:Create loom": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a841457419c4394",
+  "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231228201715.png",
+    "appendix/Pasted image 20231228201624.png",
+    "appendix/Pasted image 20231228173610.png",
+    "appendix/Pasted image 20231228172923.png",
+    "appendix/Pasted image 20231228172914.png",
+    "appendix/Pasted image 20231228172630.png",
+    "appendix/Pasted image 20231228172205.png",
+    "USMLE/Biochemistry/Autosomal trisomies.md",
+    "USMLE/Neurology/Neurocutaneous disorders.md",
+    "USMLE/Biochemistry/Down syndrome.md",
+    "appendix/Pasted image 20231228165145.png",
+    "appendix/Pasted image 20231228165124.png",
+    "appendix/Pasted image 20231228165103.png",
+    "appendix/Pasted image 20231228164636.png",
+    "USMLE/Neurology/Brain tumors.md",
+    "USMLE/Neurology/Medulloblastoma.md",
+    "USMLE/Reproductive/Menopause.md",
     "USMLE/Neurology/Meningioma.md",
-    "USMLE/Neurology/Opioid overdose.md",
-    "appendix/Pasted image 20231224160212.png",
-    "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+    "USMLE/Endocrine/Neuroblastoma.md",
+    "USMLE/Psychiatry/Antidepressants.md",
     "USMLE/Psychiatry/Major depressive disorder.md",
-    "USMLE/Psychiatry/Electroconvulsive therapy.md",
-    "USMLE/单抗记忆.md",
-    "USMLE/Neurology/Multiple sclerosis.md",
-    "USMLE/Infective disease/Staphylococcus aureus.md",
-    "appendix/Pasted image 20231224105141.png",
-    "appendix/Pasted image 20231224104819.png",
-    "USMLE/Infective disease/Streptococcus pyogenes.md",
-    "USMLE/Neurology/Intracerebral hemorrhage.md",
-    "appendix/Pasted image 20231224102741.png",
-    "USMLE/Neurology/Ischemic stroke.md",
-    "appendix/Pasted image 20231224092618.png",
-    "appendix/Pasted image 20231223165929.png",
-    "USMLE/MSK/Lower Extremity Nerves.md",
-    "appendix/Pasted image 20231223114629.png",
-    "appendix/Pasted image 20231223114331.png",
-    "appendix/Pasted image 20231223114306.png",
-    "appendix/Pasted image 20231223111153.png",
-    "USMLE/MSK/Antiphospholipid syndrome.md",
-    "USMLE/Blood/Anticancer therapy-induced neutropenia.md",
-    "USMLE/Blood/Transfusion reactions.md",
-    "USMLE/Blood/Transfusion.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
-    "USMLE/GI/Peptic ulcer disease.md",
-    "USMLE/Cardiology/ECGs.md",
-    "USMLE/Biochemistry/Hyperammonemia.md",
-    "USMLE/Cardiology/Long QT syndromes.md",
-    "USMLE/Biochemistry/Urea cycle.md",
-    "USMLE/GI/Gallstones.md",
-    "USMLE/Blood/Hereditary spherocytosis.md",
-    "USMLE/Renal/IgA nephropathy.md",
-    "USMLE/Renal/Poststreptococcal glomerulonephritis.md",
+    "USMLE/Psychiatry/Alzheimer disease.md",
+    "conflict-files-obsidian-git.md",
+    "USMLE/Psychiatry/Opioid withdrawal.md",
+    "USMLE/Pharmacology/Beta-2 adrenergic agonists.md",
+    "USMLE/Neurology/Huntington disease.md",
+    "USMLE/Respiratory/Obstructive sleep apnea.md",
+    "USMLE/Blood/Mercury toxicity.md",
+    "USMLE/GI/Diarrhea.md",
+    "USMLE/Biochemistry/Arsenic toxicity.md",
+    "USMLE/Neurology/Gait.md",
+    "USMLE/Neurology/Romberg test.md",
+    "USMLE/Biochemistry/Vitamin B12.md",
+    "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
+    "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
+    "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
