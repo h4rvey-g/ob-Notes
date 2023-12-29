@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
-                "mode": "preview",
+                "file": "USMLE/Psychiatry/Antidepressants.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
+                "file": "USMLE/Psychiatry/Antidepressants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Neurocutaneous disorders.md",
+                "file": "USMLE/Psychiatry/Antidepressants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Neurocutaneous disorders.md"
+                "file": "USMLE/Psychiatry/Antidepressants.md"
               }
             }
           }
@@ -226,6 +226,9 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "USMLE/Psychiatry/Bipolar disorder.md",
+    "USMLE/Neurology/Anticonvulsant drugs.md",
+    "USMLE/Neurology/Neurocutaneous disorders.md",
     "appendix/Pasted image 20231228201715.png",
     "appendix/Pasted image 20231228201624.png",
     "appendix/Pasted image 20231228173610.png",
@@ -234,12 +237,10 @@
     "appendix/Pasted image 20231228172630.png",
     "appendix/Pasted image 20231228172205.png",
     "USMLE/Biochemistry/Autosomal trisomies.md",
-    "USMLE/Neurology/Neurocutaneous disorders.md",
     "USMLE/Biochemistry/Down syndrome.md",
     "appendix/Pasted image 20231228165145.png",
     "appendix/Pasted image 20231228165124.png",
     "appendix/Pasted image 20231228165103.png",
-    "appendix/Pasted image 20231228164636.png",
     "USMLE/Neurology/Brain tumors.md",
     "USMLE/Neurology/Medulloblastoma.md",
     "USMLE/Reproductive/Menopause.md",
@@ -261,7 +262,6 @@
     "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
     "USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome.md",
-    "USMLE/Biochemistry/Vitamin B1.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
