@@ -3597,6 +3597,7 @@ dystrophic
 dysmorphia
 distance
 degraded
+dysmorphic
 of
 over
 originate
@@ -8607,6 +8608,7 @@ normalize
 noises
 neurofibrillary
 neurofibromatosis
+nonreactive
 tachycardia
 tract
 the
@@ -12384,6 +12386,8 @@ irritation
 iframe
 identifiable
 iris
+ipsilateral
+innervate
 general
 giving
 generation
@@ -15816,6 +15820,7 @@ margins
 meningiomas
 meningothelial
 metacarpophalangeal
+midbrain
 Sinus
 ST
 Segment
@@ -17479,6 +17484,7 @@ Stridor
 Sedation
 Suicide
 Sandal
+Serology
 AVNRT
 Atrial
 AVRT
@@ -19106,6 +19112,7 @@ Akinetic
 Arsenical
 Appetite
 Atlantoaxial
+Aneurysm
 Orthodromic
 On
 Often
@@ -22454,6 +22461,7 @@ arrangement
 acellular
 aberration
 adjunctive
+atherosclerosis
 ventricular
 varying
 vaccines
@@ -26132,6 +26140,15 @@ concomitantly
 craniofacial
 crease
 curvature
+communicating
+centrally
+compressive
+cavitating
+chiasm
+crossover
+consensual
+constriction
+cili
 bypass
 block
 background
@@ -27833,6 +27850,7 @@ bovine
 bloody
 basalis
 basophilic
+blown
 flutter
 from
 focus
@@ -32492,6 +32510,7 @@ WRM
 Waw
 Without
 Whorls
+Westphal
 you
 young
 ybif
@@ -35983,6 +36002,9 @@ serotonergic
 sleepy
 slanting
 sided
+squint
+superficially
+silly
 QRS
 QT
 QDQ
@@ -44141,6 +44163,7 @@ FLn
 FIX
 FiMf
 FaA
+Fibers
 In
 It
 Intraventricular
@@ -45957,6 +45980,7 @@ Iliohypogastric
 Induces
 Intracellular
 IVC
+Impulses
 PACs
 Primary
 Pathophysiology
@@ -47700,6 +47724,10 @@ PrPSc
 Personality
 Polyneuropathy
 Patau
+Paralytic
+Pupillary
+Parasympathetic
+Pretectal
 ectopic
 elevation
 early
@@ -51258,6 +51286,7 @@ Electroconvulsive
 Epicanthal
 Extremities
 Edwards
+Edinger
 LEFT
 Lengthening
 Left
@@ -56380,6 +56409,7 @@ herbicides
 hippocampus
 hypertelorism
 hydroxyindoleacetic
+herniation
 peaked
 pattern
 precordial
@@ -58455,6 +58485,8 @@ palpebral
 percentile
 periphery
 palm
+pretectal
+prie
 Unusual
 Usually
 Upc
@@ -61583,6 +61615,7 @@ Bipolar
 Barking
 BAL
 Brushfield
+Basilar
 Characteristic
 CLL
 Clinical
@@ -63254,6 +63287,7 @@ Carcinogenic
 Chelating
 Congo
 Clinodactyly
+Ciliary
 Right
 Retrograde
 Rates
@@ -65026,6 +65060,7 @@ Radiolucent
 Radiopaque
 Russell
 Rapidly
+Routine
 Voltage
 VFV
 VoNW
@@ -66615,6 +66650,7 @@ VyZSM
 VmBTVV
 VUg
 Variant
+Vasculitis
 up
 unusual
 usually
@@ -68273,6 +68309,8 @@ uQnN
 upG
 urticaria
 underweight
+uncal
+ucated
 quinine
 qz
 qM
@@ -74375,6 +74413,7 @@ NXB
 Nwr
 Nerve
 Neuromuscular
+Necrosis
 jEQ
 jL
 jO

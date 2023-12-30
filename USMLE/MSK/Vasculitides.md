@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-09-20 16:23
 modified: 2023-09-20 16:23
-aliases: Untitled
+aliases:
+  - Vasculitis
 share: true
 ---
 ![[Pasted image 20230920172031.png]]
