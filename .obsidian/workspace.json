@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md",
-                "mode": "source",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md"
+                "file": "USMLE/Psychiatry/Alzheimer disease.md"
               }
             }
           }
@@ -226,8 +226,12 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
-    "USMLE/Neurology/Internuclear ophthalmoplegia.md",
+    "USMLE/Blood/Alkaline phosphatase.md",
+    "USMLE/Neurology/Huntington disease.md",
     "USMLE/Neurology/Parkinson disease.md",
+    "appendix/Pasted image 20231230173444.png",
+    "appendix/Pasted image 20231230173438.png",
+    "USMLE/Neurology/Internuclear ophthalmoplegia.md",
     "appendix/Pasted image 20231230172207.png",
     "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Neurology/Rule of 4s.md",
@@ -256,12 +260,8 @@
     "appendix/Pasted image 20231228173610.png",
     "appendix/Pasted image 20231228172923.png",
     "appendix/Pasted image 20231228172914.png",
-    "appendix/Pasted image 20231228172630.png",
-    "appendix/Pasted image 20231228172205.png",
     "USMLE/Biochemistry/Autosomal trisomies.md",
     "USMLE/Biochemistry/Down syndrome.md",
-    "USMLE/Neurology/Brain tumors.md",
-    "USMLE/Neurology/Medulloblastoma.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

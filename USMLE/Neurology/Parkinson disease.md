@@ -28,6 +28,9 @@ share: true
 	- Appear histologically as <span style="background:rgba(240, 200, 0, 0.2)">intracellular hyaline eosinophilic globules</span>
 	- May be found in brainstem, substantia nigra, and cortex
 	- Also seen in Lewy body dementia
+![[Pasted image 20231230173438.png]]![[Pasted image 20231230173444.png]]
+- Image A: An eosinophilic cytoplasmic inclusion (Lewy body; blue overlay) is visible inside a neuron. There is a large accumulation of neuromelanin (brown granules; green overlay).
+- Image B: A neurite staining positive for α-synuclein is visible in the center of the image (Lewy neurite; yellow overlay).
 
 ---
 # Treatment

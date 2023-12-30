@@ -44,7 +44,7 @@ share: true
 		- Dysarthria and dysphagia
 	- Cognitive decline, psychiatric symptoms, and behavioral changes (these symptoms may mimic substance use)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Dementia</span> (particularly executive dysfunction)
-		- <span style="background:rgba(240, 200, 0, 0.2)">Major depressive disorder</span> (possibly including suicidal tendencies)
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[Major depressive disorder]]</span> (possibly including suicidal tendencies)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Schizophrenia-like psychosis</span> (∼ 10% of cases)
 			- Paranoid delusions (most common), delusions of infidelity
 			- Auditory hallucinations
