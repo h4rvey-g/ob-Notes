@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Immunology/Immunosuppressants.md",
-                "mode": "preview",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Immunology/Immunosuppressants.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Immunology/Immunosuppressants.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Immunology/Immunosuppressants.md"
+                "file": "USMLE/Neurology/Multiple sclerosis.md"
               }
             }
           }
@@ -226,6 +226,8 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "USMLE/Neurology/Rule of 4s.md",
+    "USMLE/Immunology/Immunosuppressants.md",
     "USMLE/Respiratory/Sarcoidosis.md",
     "USMLE/Immunology/Systemic lupus erythematosus.md",
     "USMLE/Neurology/Oculomotor nerve palsy (III).md",
@@ -241,7 +243,6 @@
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Endocrine/Carcinoid tumor.md",
     "USMLE/Psychiatry/Antidepressants.md",
-    "USMLE/Immunology/Immunosuppressants.md",
     "USMLE/Blood/Non-Hodgkin lymphomas.md",
     "USMLE/Psychiatry/Bipolar disorder.md",
     "USMLE/Neurology/Anticonvulsant drugs.md",
@@ -261,7 +262,6 @@
     "USMLE/Reproductive/Menopause.md",
     "USMLE/Neurology/Meningioma.md",
     "USMLE/Endocrine/Neuroblastoma.md",
-    "USMLE/Psychiatry/Major depressive disorder.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
