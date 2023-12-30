@@ -1654,6 +1654,7 @@ TPD
 Transport
 Teratogenicity
 Trisomy
+Tryptophan
 differentials
 differential
 diagnosis
@@ -3595,6 +3596,7 @@ deeply
 dystrophic
 dysmorphia
 distance
+degraded
 of
 over
 originate
@@ -5116,6 +5118,8 @@ overcome
 older
 ornithine
 optic
+oxidases
+octreotide
 regular
 reentrant
 retrograde
@@ -6996,6 +7000,7 @@ receive
 reticularis
 ruled
 refusal
+relieve
 narrow
 negative
 not
@@ -10483,6 +10488,7 @@ themselves
 transmissible
 temporal
 tangles
+telotristat
 in
 includes
 involving
@@ -22447,6 +22453,7 @@ arachnoid
 arrangement
 acellular
 aberration
+adjunctive
 ventricular
 varying
 vaccines
@@ -24108,6 +24115,7 @@ visual
 view
 vCJD
 viable
+valvular
 conduction
 concealed
 complex
@@ -29544,6 +29552,7 @@ fxC
 filgrastim
 fluconazole
 frameborder
+fluctuating
 with
 wave
 which
@@ -35973,6 +35982,7 @@ silver
 serotonergic
 sleepy
 slanting
+sided
 QRS
 QT
 QDQ
@@ -40884,6 +40894,7 @@ Mirtazapine
 Mirtazzzapine
 Mirta
 Mesenchymal
+Monoamine
 Differentiate
 Drugs
 DDx
@@ -45945,6 +45956,7 @@ Imbalance
 Iliohypogastric
 Induces
 Intracellular
+IVC
 PACs
 Primary
 Pathophysiology
@@ -54588,6 +54600,7 @@ HPL
 Hospitalize
 Hirano
 Hypoplastic
+HIAA
 hyperkalemia
 hypertrophy
 hereditary
@@ -56366,6 +56379,7 @@ hallmarks
 herbicides
 hippocampus
 hypertelorism
+hydroxyindoleacetic
 peaked
 pattern
 precordial
@@ -74360,6 +74374,7 @@ NSb
 NXB
 Nwr
 Nerve
+Neuromuscular
 jEQ
 jL
 jO
