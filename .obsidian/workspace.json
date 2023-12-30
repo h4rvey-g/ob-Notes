@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md",
+                "file": "USMLE/Neurology/Parkinson disease.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md",
+                "file": "USMLE/Neurology/Parkinson disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md",
+                "file": "USMLE/Neurology/Parkinson disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Multiple sclerosis.md"
+                "file": "USMLE/Neurology/Parkinson disease.md"
               }
             }
           }
@@ -226,6 +226,10 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "USMLE/Neurology/Internuclear ophthalmoplegia.md",
+    "USMLE/Neurology/Parkinson disease.md",
+    "appendix/Pasted image 20231230172207.png",
+    "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Neurology/Rule of 4s.md",
     "USMLE/Immunology/Immunosuppressants.md",
     "USMLE/Respiratory/Sarcoidosis.md",
@@ -256,12 +260,8 @@
     "appendix/Pasted image 20231228172205.png",
     "USMLE/Biochemistry/Autosomal trisomies.md",
     "USMLE/Biochemistry/Down syndrome.md",
-    "appendix/Pasted image 20231228165145.png",
     "USMLE/Neurology/Brain tumors.md",
     "USMLE/Neurology/Medulloblastoma.md",
-    "USMLE/Reproductive/Menopause.md",
-    "USMLE/Neurology/Meningioma.md",
-    "USMLE/Endocrine/Neuroblastoma.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
