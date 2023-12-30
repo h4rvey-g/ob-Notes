@@ -39,17 +39,17 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 	- Can be painful
 	- Impaired vision and color blindness
 	- Relative afferent pupillary defect (Marcus Gunn pupil)
-- Internuclear ophthalmoplegia (INO) as a result of a lesion in the medial longitudinal fasciculus (MLF) 
+- <span style="background:rgba(240, 200, 0, 0.2)">[[Internuclear ophthalmoplegia]] (INO) as a result of a lesion in the medial longitudinal fasciculus (MLF) </span>
 	- Ipsilateral medial rectus weakness but an intact convergence reflex
 	- Disconjugate, lateral gaze nystagmus in the contralateral eye
 	- More frequently bilateral than unilateral
 - Demyelination of spinal cord tracts
 	- Lhermitte sign: a shooting electric sensation that travels down the spine upon flexion of the neck 
-	- Pyramidal tract lesion: upper motor neuron weakness, spasticity, hyperreflexia, positive Babinski sign, impaired gait
+	- Pyramidal tract lesion: upper motor neuron weakness, spasticity, hyperreflexia, positive Babinski sign, impaired [[gait]]
 	- Dorsal spinal column lesion: loss of vibration and fine-touch sensation, numbness, paresthesias, sensory ataxia usually involving the trunk or one or more limbs 
 	- Neuropathic pain
 	- Absent abdominal reflex
-- Cerebellar involvement: poor postural control, imbalance, gait dysfunction, Charcot neurological triad of scanning speech, nystagmus, and intention tremors 
+- Cerebellar involvement: poor postural control, imbalance, [[gait]] dysfunction, Charcot neurological triad of scanning speech, nystagmus, and intention tremors 
 - Transverse myelitis
 	- Asymmetric paraplegia, unilateral sensory loss, bladder dysfunction
 	- Partial transverse myelitis is a common early manifestation of MS, causing asymmetric neurologic dysfunction below the lesion.

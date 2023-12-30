@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-30 17:20
 modified: 2023-12-30 17:20
-aliases: []
+aliases:
+  - INO
 share: true
 ---
 # Epidemiology

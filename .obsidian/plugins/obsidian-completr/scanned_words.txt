@@ -22490,6 +22490,7 @@ akinetic
 aspartate
 audate
 arrhythmic
+adduction
 ventricular
 varying
 vaccines
@@ -34011,6 +34012,7 @@ yHDt
 yHi
 yrHn
 yTJgV
+ystagmus
 see
 style
 single
@@ -54679,6 +54681,7 @@ HIAA
 Huntington
 Huntingtin
 Hypokinetic
+Hemorrhage
 hyperkalemia
 hypertrophy
 hereditary
@@ -58542,6 +58545,8 @@ prie
 physiologically
 pathways
 protrusion
+psilateral
+pposite
 Unusual
 Usually
 Upc
