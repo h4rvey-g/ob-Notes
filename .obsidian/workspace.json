@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Neurology/Pupillary light reflex.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Neurology/Pupillary light reflex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md",
+                "file": "USMLE/Neurology/Pupillary light reflex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Lung cancer.md"
+                "file": "USMLE/Neurology/Pupillary light reflex.md"
               }
             }
           }
@@ -226,9 +226,11 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "appendix/Pasted image 20231230150954.png",
+    "USMLE/Respiratory/Lung cancer.md",
+    "USMLE/Neurology/Pupillary light reflex.md",
     "appendix/Pasted image 20231230144704.png",
     "USMLE/MSK/Myasthenia gravis.md",
-    "USMLE/Respiratory/Lung cancer.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
@@ -250,7 +252,6 @@
     "USMLE/Biochemistry/Down syndrome.md",
     "appendix/Pasted image 20231228165145.png",
     "appendix/Pasted image 20231228165124.png",
-    "appendix/Pasted image 20231228165103.png",
     "USMLE/Neurology/Brain tumors.md",
     "USMLE/Neurology/Medulloblastoma.md",
     "USMLE/Reproductive/Menopause.md",
@@ -261,7 +262,6 @@
     "conflict-files-obsidian-git.md",
     "USMLE/Psychiatry/Opioid withdrawal.md",
     "USMLE/Pharmacology/Beta-2 adrenergic agonists.md",
-    "USMLE/Neurology/Huntington disease.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
