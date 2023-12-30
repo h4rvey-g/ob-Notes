@@ -23,7 +23,7 @@ The basilar segment is the only region where the oculomotor nerve is not accompa
 - Paralytic squint
 - Pupillary involvement: nonreactive, dilated pupil (blown pupil)
 >[!tip] 
->Parasympathetic fibers of CN III are located superficially and motor fibers are located centrally. Parasympathetic fibers are more susceptible to compressive lesions (e.g., uncal herniation, aneurysm of the posterior communicating artery). Motor fibers are more susceptible to ischemia (e.g., [[Vasculitides|vasculitis]], [[Diabetes mellitus|diabetes]], atherosclerosis).
+><span style="background:rgba(240, 200, 0, 0.2)">Parasympathetic fibers of CN III are located superficially and motor fibers are located centrally. Parasympathetic fibers are more susceptible to compressive lesions (e.g., uncal herniation, aneurysm of the posterior communicating artery). Motor fibers are more susceptible to ischemia (e.g., [[Vasculitides|vasculitis]], [[Diabetes mellitus|diabetes]], atherosclerosis).</span>
 
 ---
 # Pathophysiology
@@ -44,6 +44,9 @@ The basilar segment is the only region where the oculomotor nerve is not accompa
 	- Adduction weakness
 - Assessment of pupillary response (afferent: CN II; efferent: CN III) 
 	- Lesions of the autonomic (parasympathetic) portion result in <span style="background:rgba(240, 200, 0, 0.2)">loss of the pupillary reflex.</span>
+
+>[!tip] 
+>Impaired pupillary reaction with relative sparing of motor function is typically seen in compressive lesions. Prominent motor dysfunction with sparing of the pupil is typically seen in ischemic lesions. However, pupillary findings cannot reliably distinguish between the etiologies of oculomotor palsy.
 
 ---
 # Treatment
