@@ -14,21 +14,22 @@ share: true
 
 ---
 # Pathophysiology
-Keratinizing squamous epithelium grows from the tympanic membrane or the auditory canal into the middle ear mucosa or mastoid air cells.
+<span style="background:rgba(240, 200, 0, 0.2)">Keratinizing squamous epithelium grows from the tympanic membrane or the auditory canal into the middle ear mucosa or mastoid air cells.</span>![[Pasted image 20231231112217.png]]
 - Congenital cholesteatoma
-	- Present at birth
-	- Embryonic nests of epidermal cells that remain in the middle ear
 - Acquired cholesteatoma (more common)
 	- Primary: eustachian tube dysfunction → tympanic membrane epithelium retracts inwards → retraction pocket
-	- Secondary: Epithelium migrates inwards through a perforation in the tympanic membrane, which is commonly caused by recurrent/chronic otitis media.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Secondary: Epithelium migrates inwards through a perforation in the tympanic membrane, which is commonly caused by recurrent/chronic otitis media.</span>
 
 ---
 # Clinical features
-<% tp.file.cursor() %>
+- Painless otorrhea (scant but foul-smelling discharge from the affected ear)
+- Conductive [[hearing loss]]
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+- Otoscopic findings:
+	- Primary acquired: retraction pocket with squamous epithelium and debris that often appears as a brown, irregular mass
+	- Congenital and secondary acquired: white or pearly mass behind the tympanic membrane
 
 ---
 # Treatment
