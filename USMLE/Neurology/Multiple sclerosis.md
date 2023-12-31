@@ -69,6 +69,7 @@ The etiology of multiple sclerosis is unclear; it is believed to develop in gene
 - The McDonald Criteria for both DIT and DIS must both be met to confirm a diagnosis of MS: 
 	- Dissemination in time (DIT): the appearance of new CNS lesions over time that can be confirmed clinically, with imaging, or with CSF analysis
 	- Dissemination in space (DIS): the presence of lesions in different regions of the CNS that can be confirmed clinically or in MRI
+- MRI:<span style="background:rgba(240, 200, 0, 0.2)"> Multiple sclerotic plaques (most commonly found in the periventricular white matter)</span> with finger-like radial extensions (Dawson fingers) related to demyelination and reactive gliosis![[Pasted image 20231231095808.png]]![[Pasted image 20231231095812.png]]There are extensive demyelinating lesions (plaques) bilaterally, appearing as hyperintensities in the periventricular white matter (green overlay). The finger-like radial extensions of these lesions are called “Dawson fingers.”
 
 ---
 # Treatment

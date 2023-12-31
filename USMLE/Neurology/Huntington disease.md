@@ -55,7 +55,8 @@ share: true
 
 ---
 # Diagnostics
-
+- Genetic testing (e.g. polymerase chain reaction)
+- <font color="#ffc000">CT/MRI: atrophy of the striatum, most pronounced in the caudate nucleus with consequent enlargement of ventricles (ex vacuo ventriculomegaly)</font>
 
 ---
 # Treatment
