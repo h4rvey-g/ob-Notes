@@ -11,12 +11,9 @@
             "id": "d1fd7269fa4dd09b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "USMLE/Infective disease/Antiviral therapy.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "Pasted image 20230617214946.png"
               }
             }
           }
@@ -155,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Infective disease/Antiviral therapy.md",
+                "file": "Pasted image 20230617214946.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Infective disease/Antiviral therapy.md",
+                "file": "Pasted image 20230617214946.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Infective disease/Antiviral therapy.md"
+                "file": "Pasted image 20230617214946.png"
               }
             }
           }
@@ -226,6 +223,8 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "USMLE/Infective disease/Antiviral therapy.md",
     "USMLE/Endocrine/Hyperprolactinemia.md",
     "USMLE/Endocrine/Hypopituitarism.md",
     "USMLE/Neurology/Hypothalamus.md",
@@ -260,8 +259,6 @@
     "USMLE/MSK/Vasculitides.md",
     "USMLE/Blood/Granulomatosis with polyangiitis.md",
     "USMLE/Respiratory/Lung cancer.md",
-    "USMLE/MSK/Myasthenia gravis.md",
-    "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
