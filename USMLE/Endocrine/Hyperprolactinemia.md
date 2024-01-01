@@ -11,14 +11,14 @@ share: true
 ---
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Prolactin-secreting [[pituitary adenoma]] (prolactinomas) </span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Damage to the hypothalamus and/or infundibular stalk</span>
-	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic dopamine on the secretion of prolactin![[Pasted image 20231216164848.png]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Damage to the [[hypothalamus]] and/or infundibular stalk</span>
+	- They compress the infundibular stalk and result in an interruption of the tonic inhibitory effect of hypothalamic [[Neurotransmitters|dopamine]] on the secretion of prolactin![[Pasted image 20231216164848.png]]
 - Severe primary [[hypothyroidism]]: ↓ T3/T4 → ↑ TRH → ↑ prolactin
 - Drugs
-	- Dopamine antagonists: 
+	- [[Neurotransmitters|Dopamine]] antagonists: 
 		- Antiemetics: metoclopramide, domperidone 
 		- Antipsychotics (e.g., haloperidol, risperidone)
-	- Certain tricyclic antidepressants: e.g., clomipramine
+	- Certain tricyclic [[antidepressants]]: e.g., clomipramine
 - Physiological causes: stress, pregnancy, lactation, nipple stimulation, crying baby, sexual orgasm, sleep, exercise
 
 ---
