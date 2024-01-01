@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Cholesteatoma.md",
+                "file": "USMLE/Neurology/Sensory receptors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Cholesteatoma.md",
+                "file": "USMLE/Neurology/Sensory receptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Cholesteatoma.md",
+                "file": "USMLE/Neurology/Sensory receptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Cholesteatoma.md"
+                "file": "USMLE/Neurology/Sensory receptors.md"
               }
             }
           }
@@ -226,9 +226,10 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
+    "USMLE/Neurology/Cholesteatoma.md",
+    "USMLE/Neurology/Sensory receptors.md",
     "appendix/Pasted image 20231231112217.png",
     "USMLE/Psychiatry/Bulimia nervosa.md",
-    "USMLE/Neurology/Cholesteatoma.md",
     "USMLE/Neurology/Hearing loss.md",
     "USMLE/Neurology/Multiple sclerosis.md",
     "appendix/Pasted image 20231231095812.png",
@@ -261,7 +262,6 @@
     "USMLE/Psychiatry/Antidepressants.md",
     "appendix/Pasted image 20231228201715.png",
     "appendix/Pasted image 20231228201624.png",
-    "appendix/Pasted image 20231228173610.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
