@@ -23,7 +23,8 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Intracellular</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tangles are composed of hyperphosphorylated tau protein</span> (an insoluble microtubule-associated protein). 
 	- ↑ Phosphorylation (hyperphosphorylation) of tau → formation of intracellular fibrils → neurotoxic effect (number of tangles correlates with the degree of cognitive impairment)
-- Reduced cholinergic function
+- <span style="background:rgba(240, 200, 0, 0.2)">Reduced cholinergic function</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Acetylcholine deficiency</span> is related to the degeneration of cholinergic neurons and likely plays a role in the decline of cognitive abilities.
 
 ---
 # Clinical features
@@ -75,6 +76,8 @@ share: true
 
 ---
 # Treatment
-
+## Pharmacological treatment
+- <span style="background:rgba(240, 200, 0, 0.2)">Acetylcholinesterase inhibitors (AChEIs)</span>
+	- Reversible cholinesterase inhibition → ↑ ACh concentration at the synaptic gap
 
 ---
