@@ -12,8 +12,6 @@ aliases:
 share: true
 ---
 ![[Pasted image 20240101144723.png]]
-# Monoamines
-Monoamines are generally going to be talked about in reference to Mood Disorders, Depression, Anxiety.
 - Acetylcholine
 	- Usually excitatory
 	- Increased levels

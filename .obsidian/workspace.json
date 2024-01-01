@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Neurotransmitters.md",
+                "file": "USMLE/Neurology/Hypothalamus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Neurotransmitters.md",
+                "file": "USMLE/Neurology/Hypothalamus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Neurotransmitters.md",
+                "file": "USMLE/Neurology/Hypothalamus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Neurotransmitters.md"
+                "file": "USMLE/Neurology/Hypothalamus.md"
               }
             }
           }
@@ -226,8 +226,10 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
-    "USMLE/Neurology/Parkinson disease.md",
+    "appendix/Pasted image 20240101154840.png",
     "USMLE/Neurology/Neurotransmitters.md",
+    "USMLE/Neurology/Hypothalamus.md",
+    "USMLE/Neurology/Parkinson disease.md",
     "USMLE/Psychiatry/Alzheimer disease.md",
     "USMLE/Neurology/Huntington disease.md",
     "appendix/Pasted image 20240101144723.png",
@@ -260,7 +262,6 @@
     "USMLE/MSK/Myasthenia gravis.md",
     "USMLE/Cardiology/Hypercalcemia.md",
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
-    "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
