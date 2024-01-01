@@ -27,11 +27,38 @@ share: true
 
 ---
 # Clinical features
-
+## Cognitive
+- Common symptoms of cognitive impairment
+	- <span style="background:rgba(240, 200, 0, 0.2)">Short-term memory impairment</span>
+		- Insidious onset
+		- Slow progression
+		- Episodic memory affected first
+	- <span style="background:rgba(240, 200, 0, 0.2)">Language impairment </span>
+		- Typical sequence: <span style="background:rgba(240, 200, 0, 0.2)">impaired naming, followed by impaired comprehension and impaired fluency</span>
+	- Temporal and spatial disorientation (patients are usually not oriented to person, place, time, or events) 
+	- Impairment of executive functions and judgment
+- Less common symptoms
+	- Primary progressive aphasia 
+	- Apraxia
+## Noncognitive
+- Behavioral changes
+	- Apathy
+	- Agitation, aggression, irritability
+- Mood disorders (e.g., symptoms of depression)
+- [[Urinary incontinence]]
 
 ---
 # Diagnostics
+## MRI brain
+- Indication: all patients as part of the initial evaluation of major neurocognitive disorder
+- Supportive findings
+	- <span style="background:rgba(240, 200, 0, 0.2)">Signs of generalized or focal cerebral atrophy </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Enlarged ventricles (ventriculomegaly)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Narrowing of gyri</span>
+		- Prominent cerebral sulci (hydrocephalus ex vacuo)
+	- Disproportionate atrophy of the medial temporal lobe including the hippocampi, amygdala, cingulate cortex, and parahippocampal gyrus
 
+![[Pasted image 20240101141930.png]]![[Pasted image 20240101141939.png]]There is bilateral cerebral atrophy, with prominent sulci (green overlay). Multiple small hyperintense foci in the white matter (examples outlined) are enlarged perivascular spaces (Virchow-Robin spaces).
 # Pathology
 ## Macroscopic
 - Cerebral atrophy

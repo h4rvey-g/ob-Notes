@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Sensory receptors.md",
-                "mode": "source",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Sensory receptors.md",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Sensory receptors.md",
+                "file": "USMLE/Psychiatry/Alzheimer disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Sensory receptors.md"
+                "file": "USMLE/Psychiatry/Alzheimer disease.md"
               }
             }
           }
@@ -226,8 +226,10 @@
   },
   "active": "d1fd7269fa4dd09b",
   "lastOpenFiles": [
-    "USMLE/Neurology/Cholesteatoma.md",
+    "appendix/Pasted image 20240101141939.png",
+    "appendix/Pasted image 20240101141930.png",
     "USMLE/Neurology/Sensory receptors.md",
+    "USMLE/Neurology/Cholesteatoma.md",
     "appendix/Pasted image 20231231112217.png",
     "USMLE/Psychiatry/Bulimia nervosa.md",
     "USMLE/Neurology/Hearing loss.md",
@@ -259,9 +261,7 @@
     "USMLE/MSK/Idiopathic inflammatory myopathies.md",
     "USMLE/Respiratory/Paraneoplastic syndromes.md",
     "USMLE/Endocrine/Carcinoid tumor.md",
-    "USMLE/Psychiatry/Antidepressants.md",
     "appendix/Pasted image 20231228201715.png",
-    "appendix/Pasted image 20231228201624.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
