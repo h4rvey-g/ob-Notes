@@ -35,4 +35,9 @@ The supraoptic nucleus produces vasopressin which helps to regulate thirst and f
 # Social bonding
 The paraventricular nucleus produces oxytocin, a hormone involved in prosocial behaviors, sexual reproduction, uterine contraction, and breast milk release.
 >[!Mnemonic] 
-><font color="#ffc000">Par</font>ental <font color="#ffc000">V</font>iewing is <font color="#ffc000">N</font>eeded for the “mature themes” of the <font color="#ffc000">Par</font>a<font color="#ffc000">V</font>entricular <font color="#ffc000">N</font>ucleus.
+><font color="#ffc000">Par</font>ental <font color="#ffc000">V</font>iewing is <font color="#ffc000">N</font>eeded for the “mature themes” of the <font color="#ffc000">Par</font>a<font color="#ffc000">V</font>entricular <font color="#ffc000">N</font>ucleus.![[Pasted image 20240101155035.png]]
+
+# Hormone release
+The hypothalamus performs a wide variety of essential functions in the body.
+>[!Mnemonic] 
+>The six H’s of the hypothalamus: Hot, Hungry, Hourly, Hydrated, Horny, and Hormonal.
