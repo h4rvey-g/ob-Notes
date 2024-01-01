@@ -24,8 +24,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Early stages: only the indirect pathway is affected → increased dopaminergic transmission → excess cortical activity → hyperkinetic/choreatic movements</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Later stages: both pathways are affected, which, together with additional factors → overall decrease of excitatory thalamic transmission to the cortex → hypokinetic/akinetic symptoms</span>
 - Neuronal injury and death is caused by <span style="background:rgba(240, 200, 0, 0.2)">overactivation of N-methyl-D-aspartate (NMDA) receptors through excessive glutamate stimulation (glutamate-induced excitotoxicity)</span>, which leads to:
-	- <span style="background:rgba(240, 200, 0, 0.2)">Alteration of GABAergic neurotransmission → decreased GABA in the brain</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Dysfunction of cholinergic transmission (early stage) and loss of cholinergic neurons (late stage) → decreased acetylcholine (Ach) in the brain</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Alteration of GABAergic neurotransmission → decreased [[Neurotransmitters|GABA]] in the brain</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Dysfunction of cholinergic transmission (early stage) and loss of cholinergic neurons (late stage) → decreased [[Neurotransmitters|acetylcholine]] ([[Neurotransmitters|Ach]]) in the brain</span>
 
 >[!Mnemonic] 
 >In Huntington disease, increased number of <font color="#ffc000">CAG</font> repeats leads to the damage to the <font color="#ffc000">C</font>audate nucleus and results in decreased <font color="#ffc000">A</font>ch and <font color="#ffc000">G</font>ABA.
