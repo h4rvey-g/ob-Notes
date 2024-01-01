@@ -12,12 +12,14 @@ aliases:
 share: true
 ---
 ![[Pasted image 20240101144723.png]]
+# Monoamines
+Monoamines are generally going to be talked about in reference to Mood Disorders, Depression, Anxiety.
 - Acetylcholine
 	- Usually excitatory
 	- Increased levels
 		- [[Parkinson disease]]
 	- Decreased levels
-		- [[Alzheimer disease]]
+		- [[Alzheimer disease]], <font color="#ffc000">A</font>cetylcholine and <font color="#ffc000">A</font>lzheimer's both start with A
 		- [[Huntington disease]]
 - Dopamine
 	- <span style="background:rgba(240, 200, 0, 0.2)">Drive to GET a reward.</span> NOT the feeling of reward. Both excitatory and inhibitory
@@ -34,16 +36,21 @@ share: true
 	- Decreased levels
 		- Depression
 - Serotonin
-	- Satiety, Tranquilty, Peace
+	- <span style="background:rgba(240, 200, 0, 0.2)">Satiety, Tranquilty, Peace</span>
 	- Increased levels
 	- Decreased levels
 		- Anxiety
 		- Depression
 		- [[Parkinson disease]]
 - GABA
+	- <span style="background:rgba(240, 200, 0, 0.2)">Inhibitory in the brain</span>
 	- Increased levels
 	- Decreased levels
 		- Anxiety
 		- [[Huntington disease]]
 - Histamine
 	- <span style="background:rgba(240, 200, 0, 0.2)">Wakefulness.</span> Think about benadryl (antihistamine) makes us drowsy and sleepy)
+- Glutamate
+	- <span style="background:rgba(240, 200, 0, 0.2)">Excitatory in the brain</span>
+- Glycine
+	- Inhibitory in the spine
