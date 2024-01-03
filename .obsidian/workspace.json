@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "新中特论文.md",
-                "mode": "preview",
+                "file": "USMLE/Neurology/Inhalational anesthetics.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "新中特论文.md",
+                "file": "USMLE/Neurology/Inhalational anesthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "新中特论文.md",
+                "file": "USMLE/Neurology/Inhalational anesthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "新中特论文.md"
+                "file": "USMLE/Neurology/Inhalational anesthetics.md"
               }
             }
           }
@@ -236,8 +237,9 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
-    "Pasted image 20230617214946.png",
     "新中特论文.md",
+    "USMLE/Neurology/Inhalational anesthetics.md",
+    "Pasted image 20230617214946.png",
     "Untitled.md",
     "USMLE/Infective disease/Antiviral therapy.md",
     "USMLE/Endocrine/Hyperprolactinemia.md",
@@ -264,7 +266,6 @@
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Blood/Alkaline phosphatase.md",
     "appendix/Pasted image 20231230173444.png",
-    "appendix/Pasted image 20231230173438.png",
     "USMLE/Neurology/Rule of 4s.md",
     "USMLE/Immunology/Immunosuppressants.md",
     "USMLE/Respiratory/Sarcoidosis.md",
