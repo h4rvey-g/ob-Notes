@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Inhalational anesthetics.md",
+                "file": "USMLE/MSK/Degenerative disk disease.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Inhalational anesthetics.md",
+                "file": "USMLE/MSK/Degenerative disk disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Inhalational anesthetics.md",
+                "file": "USMLE/MSK/Degenerative disk disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Inhalational anesthetics.md"
+                "file": "USMLE/MSK/Degenerative disk disease.md"
               }
             }
           }
@@ -237,8 +237,9 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
-    "新中特论文.md",
     "USMLE/Neurology/Inhalational anesthetics.md",
+    "USMLE/MSK/Degenerative disk disease.md",
+    "新中特论文.md",
     "Pasted image 20230617214946.png",
     "Untitled.md",
     "USMLE/Infective disease/Antiviral therapy.md",
@@ -272,7 +273,6 @@
     "USMLE/Immunology/Systemic lupus erythematosus.md",
     "USMLE/Neurology/Oculomotor nerve palsy (III).md",
     "USMLE/Neurology/Pupillary light reflex.md",
-    "USMLE/MSK/Vasculitides.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
