@@ -16,8 +16,22 @@
                 "file": "Pasted image 20230617214946.png"
               }
             }
+          },
+          {
+            "id": "81f90c2c299da4b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新中特论文.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "edc2247fbd9e5bcc",
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230617214946.png",
+                "file": "新中特论文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230617214946.png",
+                "file": "新中特论文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230617214946.png"
+                "file": "新中特论文.md"
               }
             }
           }
@@ -221,8 +234,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d1fd7269fa4dd09b",
+  "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "Pasted image 20230617214946.png",
+    "新中特论文.md",
     "Untitled.md",
     "USMLE/Infective disease/Antiviral therapy.md",
     "USMLE/Endocrine/Hyperprolactinemia.md",
@@ -257,8 +272,6 @@
     "USMLE/Neurology/Oculomotor nerve palsy (III).md",
     "USMLE/Neurology/Pupillary light reflex.md",
     "USMLE/MSK/Vasculitides.md",
-    "USMLE/Blood/Granulomatosis with polyangiitis.md",
-    "USMLE/Respiratory/Lung cancer.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
