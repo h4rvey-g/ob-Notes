@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Meningioma.md",
-                "mode": "preview",
+                "file": "USMLE/Psychiatry/Major depressive disorder.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Meningioma.md",
+                "file": "USMLE/Psychiatry/Major depressive disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Meningioma.md",
+                "file": "USMLE/Psychiatry/Major depressive disorder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Meningioma.md"
+                "file": "USMLE/Psychiatry/Major depressive disorder.md"
               }
             }
           }
@@ -226,6 +226,10 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "appendix/Pasted image 20240103170256.png",
+    "USMLE/Psychiatry/Antidepressants.md",
+    "USMLE/Psychiatry/Major depressive disorder.md",
+    "USMLE/Neurology/Meningioma.md",
     "USMLE/Neurology/Brain tumors.md",
     "USMLE/Neurology/Medulloblastoma.md",
     "USMLE/Neurology/Acoustic neuroma.md",
@@ -258,10 +262,6 @@
     "USMLE/Neurology/Multiple sclerosis.md",
     "appendix/Pasted image 20231231095812.png",
     "USMLE/Neurology/Internuclear ophthalmoplegia.md",
-    "USMLE/Renal/Urinary incontinence.md",
-    "USMLE/Blood/Alkaline phosphatase.md",
-    "USMLE/Neurology/Rule of 4s.md",
-    "USMLE/Immunology/Immunosuppressants.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
