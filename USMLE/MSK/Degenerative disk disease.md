@@ -27,6 +27,6 @@ share: true
 ---
 # Treatment
 ## Conservative management
-- For patients with severe pain, consider periradicular therapy: image-guided injection of local anesthetic (e.g., ropivacaine) and glucocorticoids at the intervertebral foramen to reduce inflammation and edema at the affected nerve root
+- For patients with severe pain, consider periradicular therapy: image-guided injection of local anesthetic (e.g., ropivacaine) and glucocorticoids at the <span style="background:rgba(240, 200, 0, 0.2)">intervertebral foramen</span> to reduce inflammation and edema at the affected nerve root
 
 ---

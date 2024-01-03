@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Degenerative disk disease.md",
-                "mode": "source",
+                "file": "USMLE/Neurology/Brain tumors.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Degenerative disk disease.md",
+                "file": "USMLE/Neurology/Brain tumors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Degenerative disk disease.md",
+                "file": "USMLE/Neurology/Brain tumors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Degenerative disk disease.md"
+                "file": "USMLE/Neurology/Brain tumors.md"
               }
             }
           }
@@ -237,8 +237,12 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
-    "USMLE/Neurology/Inhalational anesthetics.md",
+    "USMLE/Neurology/Acoustic neuroma.md",
+    "appendix/Pasted image 20240103150456.png",
+    "USMLE/MSK/Kaposi sarcoma.md",
+    "appendix/Pasted image 20231228201624.png",
     "USMLE/MSK/Degenerative disk disease.md",
+    "USMLE/Neurology/Inhalational anesthetics.md",
     "新中特论文.md",
     "Pasted image 20230617214946.png",
     "Untitled.md",
@@ -262,17 +266,12 @@
     "USMLE/Neurology/Hearing loss.md",
     "USMLE/Neurology/Multiple sclerosis.md",
     "appendix/Pasted image 20231231095812.png",
-    "appendix/Pasted image 20231231095808.png",
     "USMLE/Neurology/Internuclear ophthalmoplegia.md",
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Blood/Alkaline phosphatase.md",
-    "appendix/Pasted image 20231230173444.png",
     "USMLE/Neurology/Rule of 4s.md",
     "USMLE/Immunology/Immunosuppressants.md",
     "USMLE/Respiratory/Sarcoidosis.md",
-    "USMLE/Immunology/Systemic lupus erythematosus.md",
-    "USMLE/Neurology/Oculomotor nerve palsy (III).md",
-    "USMLE/Neurology/Pupillary light reflex.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
