@@ -18,6 +18,22 @@ share: true
 - Male sex
 
 ---
+# Pathophysiology
+## Surfactant deficiency
+- <span style="background:rgba(240, 200, 0, 0.2)">Little or no reduction of alveolar surface tension → increased alveolar collapse → [[atelectasis]] → decreased lung compliance and functional residual capacity → hypoxemia and hypercapnia</span>
+
+---
+# Clinical features
+- Maternal history of premature birth
+- <span style="background:rgba(240, 200, 0, 0.2)">Onset of symptoms: usually immediately after birth but can occur up to 72 hours postpartum</span>
+- Signs of increased respiratory effort
+	- <span style="background:rgba(240, 200, 0, 0.2)">Tachypnea</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Nasal flaring and moderate to severe subcostal/intercostal and jugular retractions </span>
+- Characteristic expiratory grunting 
+- Decreased breath sounds on auscultation
+- Cyanosis due to pulmonary hypoxic vasoconstriction
+
+---
 # Complications
 ## Bronchopulmonary dysplasia (BPD)
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">chronic lung condition secondary to prolonged mechanical ventilation and oxygen therapy for NRDS</span>
