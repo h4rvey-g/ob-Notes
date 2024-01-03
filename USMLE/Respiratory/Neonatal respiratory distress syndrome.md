@@ -3,15 +3,31 @@ title: Neonatal respiratory distress syndrome
 author: Harvey Guo
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.last_modified_date() %>
-aliases: <% tp.file.title %>
+aliases:
+  - NRDS
 share: true
 ---
 
 # Etiology
 - <mark style="background: #FFF3A34A;">Premature birth</mark>
-- <mark style="background: #FFF3A34A;">Maternal diabetes mellitus: leads to ↑ fetal insulin, which inhibits surfactant synthesis</mark>
-- Hereditary  [1]
+- <mark style="background: #FFF3A34A;">[[Diabetes mellitus in pregnancy|Maternal diabetes]] mellitus: leads to ↑ fetal insulin, which inhibits surfactant synthesis</mark>
+- Hereditary
 - Cesarean delivery: results in lower levels of fetal glucocorticoids than vaginal delivery, in which higher levels are released as a response to stress from uterine contractions 
 - Hydrops fetalis
 - Multifetal pregnancies
 - Male sex
+
+---
+# Complications
+## Bronchopulmonary dysplasia (BPD)
+- Definition: <span style="background:rgba(240, 200, 0, 0.2)">chronic lung condition secondary to prolonged mechanical ventilation and oxygen therapy for NRDS</span>
+- Etiology: <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary barotrauma and oxygen toxicity with subsequent inflammation of lung tissue due to ventilation of the immature lung </span>(ventilation for more than 28 days)
+- Clinical features
+	- Seen in infants < 32 weeks
+	- <span style="background:rgba(240, 200, 0, 0.2)">Persistence of symptoms similar to NRDS (e.g., tachypnea, grunting, nasal flaring)</span>
+	- Episodes of desaturation
+- Diagnostics
+	- <span style="background:rgba(240, 200, 0, 0.2)">X-ray chest: diffuse, fine, granular densities, areas of [[atelectasis]] interspersed with areas of hyperinflation</span>
+	- Blood gas analysis: respiratory and metabolic acidosis
+	- Histology: [[atelectasis]], fibrosis, emphysematous alveolar changes (decreased number and septation of alveoli)
+- Treatment: controlled oxygenation, diuretics, rarely glucocorticoids

@@ -3619,6 +3619,9 @@ dnh
 dLF
 dsB
 dvw
+daily
+desaturation
+densities
 of
 over
 originate
@@ -7050,6 +7053,7 @@ rPG
 rQeQhaW
 rHZ
 rFV
+regression
 narrow
 negative
 not
@@ -12486,6 +12490,7 @@ iFY
 ikH
 iqN
 izwZ
+inducing
 general
 giving
 generation
@@ -14010,6 +14015,8 @@ gXjGM
 gdnx
 gAk
 gba
+glyburide
+grunting
 major
 mechanisms
 mark
@@ -15946,6 +15953,7 @@ mAy
 mqeT
 mZus
 midline
+modifications
 Sinus
 ST
 Segment
@@ -19274,6 +19282,8 @@ AEc
 AYd
 AbY
 AHz
+Anorectal
+Aplasia
 Orthodromic
 On
 Often
@@ -26362,6 +26372,7 @@ creN
 coq
 con
 cerebellum
+club
 bypass
 block
 background
@@ -28077,6 +28088,7 @@ brmq
 bWv
 bcBD
 biomarker
+barotrauma
 flutter
 from
 focus
@@ -31334,6 +31346,7 @@ wKX
 wwf
 woY
 wpq
+walking
 Whenever
 Widening
 William
@@ -36286,6 +36299,8 @@ stXu
 sbbbbbbbbbbb
 sTj
 saW
+sacrum
+septation
 QRS
 QT
 QDQ
@@ -39564,6 +39579,8 @@ lNm
 lxk
 lxc
 laS
+lumbar
+lumbosacral
 Multifocal
 Mild
 Moderate
@@ -48073,6 +48090,7 @@ Pus
 PZV
 PTR
 PÖ
+Persistence
 ectopic
 elevation
 early
@@ -49981,6 +49999,8 @@ eShS
 ebbbbbbbbbbb
 eASk
 ejG
+embryopathy
+emphysematous
 Early
 Elevation
 Etiology
@@ -51654,6 +51674,7 @@ Eoe
 Exo
 EfG
 Ena
+Episodes
 LEFT
 Lengthening
 Left
@@ -56804,6 +56825,7 @@ haloperidol
 hdRG
 haw
 hgK
+hyperinflation
 peaked
 pattern
 precordial
@@ -63727,6 +63749,7 @@ CdKS
 Cwz
 Cav
 COY
+Caudal
 Right
 Retrograde
 Rates
@@ -74917,6 +74940,7 @@ NYdhk
 NYiv
 NLHt
 NDT
+NRDS
 jEQ
 jL
 jO
