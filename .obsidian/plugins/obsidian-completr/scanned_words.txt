@@ -17631,6 +17631,7 @@ SMAt
 Suc
 SuR
 Schwannoma
+Surfactant
 AVNRT
 Atrial
 AVRT
@@ -36301,6 +36302,7 @@ sTj
 saW
 sacrum
 septation
+subcostal
 QRS
 QT
 QDQ
@@ -50001,6 +50003,7 @@ eASk
 ejG
 embryopathy
 emphysematous
+effort
 Early
 Elevation
 Etiology
@@ -56826,6 +56829,7 @@ hdRG
 haw
 hgK
 hyperinflation
+hypercapnia
 peaked
 pattern
 precordial
@@ -74941,6 +74945,7 @@ NYiv
 NLHt
 NDT
 NRDS
+Nasal
 jEQ
 jL
 jO

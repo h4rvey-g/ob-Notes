@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "新中特论文.md",
-                "mode": "preview",
+                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "新中特论文.md",
+                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "新中特论文.md",
+                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "新中特论文.md"
+                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
               }
             }
           }
@@ -226,6 +226,7 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "新中特论文.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
     "USMLE/Respiratory/Atelectasis.md",
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
@@ -244,7 +245,6 @@
     "appendix/Pasted image 20231228201624.png",
     "USMLE/MSK/Degenerative disk disease.md",
     "USMLE/Neurology/Inhalational anesthetics.md",
-    "新中特论文.md",
     "Pasted image 20230617214946.png",
     "Untitled.md",
     "USMLE/Infective disease/Antiviral therapy.md",
