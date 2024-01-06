@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Blood/Hemoglobin Barts.md",
+                "file": "USMLE/Blood/Chemotherapeutic agents.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -111,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "USMLE/Blood/Hemoglobin Barts.md",
+            "file": "USMLE/Blood/Chemotherapeutic agents.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "USMLE/Blood/Hemoglobin Barts.md",
+            "file": "USMLE/Blood/Chemotherapeutic agents.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -140,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "USMLE/Blood/Hemoglobin Barts.md"
+            "file": "USMLE/Blood/Chemotherapeutic agents.md"
           }
         }
       },
@@ -169,10 +170,11 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:开始漫游笔记": false,
       "notion-like-tables:Create loom": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "templater-obsidian:Templater": false,
@@ -190,10 +192,21 @@
   },
   "active": "6a783152b61b4f52",
   "lastOpenFiles": [
-    "USMLE/Blood/Hemoglobin variants.md",
-    "USMLE/Blood/Acute leukemia.md",
-    "USMLE/Immunology/Immunosuppressants.md",
+    "appendix/Pasted image 20230909164109.png",
     "USMLE/Blood/Chemotherapeutic agents.md",
+    "appendix/Pasted image 20230909221658.png",
+    "appendix/Pasted image 20231209150554.png",
+    "appendix/Pasted image 20230920170116.png",
+    "USMLE/Blood/Acute leukemia.md",
+    "USMLE/Blood/Aplastic anemia.md",
+    "USMLE/Blood/Mycosis fungoides.md",
+    "USMLE/Biochemistry/homocystinuria.md",
+    "USMLE/Biochemistry/Vitamin B12.md",
+    "USMLE/MSK/Rheumatoid arthritis.md",
+    "USMLE/单抗记忆.md",
+    "USMLE/Blood/Hemoglobin Barts.md",
+    "USMLE/Blood/Hemoglobin variants.md",
+    "USMLE/Immunology/Immunosuppressants.md",
     "USMLE/Blood/Non-Hodgkin lymphomas.md",
     "appendix/Pasted image 20231113170927.png",
     "appendix/Pasted image 20230909221338.png",
@@ -204,7 +217,6 @@
     "USMLE/Pharmacology/Beta-2 adrenergic agonists.md",
     "USMLE/Renal/Urinary incontinence.md",
     "USMLE/Respiratory/Asthma.md",
-    "USMLE/单抗记忆.md",
     "USMLE/Neurology/Multiple sclerosis.md",
     "USMLE/Renal/Urinary tract infections.md",
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
@@ -213,19 +225,9 @@
     "USMLE/Psychiatry/Opioid withdrawal.md",
     "USMLE/Neurology/Creutzfeldt-Jakob disease.md",
     "appendix/Pasted image 20231226084740.png",
-    "USMLE/MSK/Oral white lesions.md",
-    "USMLE/GI/Hepatitis C.md",
-    "USMLE/GI/Hepatitis B.md",
     "appendix/De Novo Purine Synthesis - OG copy.png",
     "appendix/Pasted image 20231002103937.png",
-    "USMLE/Endocrine/Adrenal insufficiency.md",
     "appendix/Pasted image 20231208143231.png",
-    "appendix/Pasted image 20231117165441.png",
-    "appendix/Pasted image 20231107160524.png",
-    "appendix/Pasted image 20231107154612.png",
-    "USMLE/Biochemistry/Catecholamine Synthesis.md",
-    "USMLE/Respiratory/Oxygen dissociation curve.md",
-    "template/USMLE-note.md",
     "USMLE/Psychiatry",
     "USMLE/Respiratory"
   ]
