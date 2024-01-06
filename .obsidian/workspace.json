@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md",
+                "file": "USMLE/Infective disease/Cryptococcosis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md",
+                "file": "USMLE/Infective disease/Cryptococcosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md",
+                "file": "USMLE/Infective disease/Cryptococcosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Parkinson disease.md"
+                "file": "USMLE/Infective disease/Cryptococcosis.md"
               }
             }
           }
@@ -226,8 +226,11 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
-    "USMLE/Neurology/Neurotransmitters.md",
+    "appendix/Pasted image 20240106112644.png",
+    "appendix/Pasted image 20240106112607.png",
     "USMLE/Neurology/Parkinson disease.md",
+    "USMLE/Infective disease/Cryptococcosis.md",
+    "USMLE/Neurology/Neurotransmitters.md",
     "USMLE/Neurology/Prosopagnosia.md",
     "USMLE/Neurology/Aphasia.md",
     "appendix/Pasted image 20240106104124.png",
@@ -257,11 +260,8 @@
     "USMLE/Infective disease/Antiviral therapy.md",
     "USMLE/Endocrine/Hyperprolactinemia.md",
     "USMLE/Endocrine/Hypopituitarism.md",
-    "USMLE/Neurology/Hypothalamus.md",
     "appendix/Pasted image 20240101155035.png",
     "appendix/Pasted image 20240101154840.png",
-    "USMLE/Psychiatry/Alzheimer disease.md",
-    "appendix/Pasted image 20240101144723.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
