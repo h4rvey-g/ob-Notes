@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B12.md",
-                "mode": "source",
+                "file": "USMLE/Neurology/Parkinson disease.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B12.md",
+                "file": "USMLE/Neurology/Parkinson disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B12.md",
+                "file": "USMLE/Neurology/Parkinson disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Biochemistry/Vitamin B12.md"
+                "file": "USMLE/Neurology/Parkinson disease.md"
               }
             }
           }
@@ -226,6 +226,11 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "USMLE/Neurology/Prosopagnosia.md",
+    "USMLE/Neurology/Aphasia.md",
+    "appendix/Pasted image 20240106104124.png",
+    "appendix/Pasted image 20240106103719.png",
+    "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
     "新中特论文.md",
     "USMLE/Respiratory/Atelectasis.md",
@@ -256,12 +261,7 @@
     "USMLE/Neurology/Neurotransmitters.md",
     "USMLE/Neurology/Parkinson disease.md",
     "USMLE/Psychiatry/Alzheimer disease.md",
-    "USMLE/Neurology/Huntington disease.md",
     "appendix/Pasted image 20240101144723.png",
-    "appendix/Pasted image 20240101141939.png",
-    "appendix/Pasted image 20240101141930.png",
-    "USMLE/Neurology/Sensory receptors.md",
-    "USMLE/Neurology/Cholesteatoma.md",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
