@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+                "file": "USMLE/Biochemistry/Vitamin B12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+                "file": "USMLE/Biochemistry/Vitamin B12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+                "file": "USMLE/Biochemistry/Vitamin B12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Neonatal respiratory distress syndrome.md"
+                "file": "USMLE/Biochemistry/Vitamin B12.md"
               }
             }
           }
@@ -226,8 +226,8 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
-    "新中特论文.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
+    "新中特论文.md",
     "USMLE/Respiratory/Atelectasis.md",
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
     "USMLE/Endocrine/Diabetes mellitus.md",
