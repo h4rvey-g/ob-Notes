@@ -37,6 +37,9 @@ share: true
 
 ---
 # Treatment
-
+## Nonergot dopamine receptor agonists
+- Pramipexole, Ropinirole, Apomorphine
+- Consider as initial treatment in younger patients, especially those with risk factors for levodopa-induced dyskinesia.
+- <span style="background:rgba(240, 200, 0, 0.2)">Some patients develop impulse control disorders with compulsive gambling or hypersexuality.</span>
 
 ---
