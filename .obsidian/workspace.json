@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Stevens-Johnson syndrome.md",
+                "file": "USMLE/Neurology/Malignant hyperthermia.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Stevens-Johnson syndrome.md",
+                "file": "USMLE/Neurology/Malignant hyperthermia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Stevens-Johnson syndrome.md",
+                "file": "USMLE/Neurology/Malignant hyperthermia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Stevens-Johnson syndrome.md"
+                "file": "USMLE/Neurology/Malignant hyperthermia.md"
               }
             }
           }
@@ -226,11 +226,12 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "USMLE/MSK/Stevens-Johnson syndrome.md",
+    "USMLE/Neurology/Malignant hyperthermia.md",
     "appendix/Pasted image 20240107172005.png",
     "USMLE/Neurology/Anticonvulsant drugs.md",
     "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
     "appendix/Pasted image 20240107171727.png",
-    "USMLE/MSK/Stevens-Johnson syndrome.md",
     "USMLE/Infective disease/Staphylococcus aureus.md",
     "appendix/Pasted image 20230701151905.png",
     "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md",
@@ -261,7 +262,6 @@
     "appendix/Pasted image 20231111093232.png",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
     "appendix/Pasted image 20240106112644.png",
-    "appendix/Pasted image 20240106112607.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
