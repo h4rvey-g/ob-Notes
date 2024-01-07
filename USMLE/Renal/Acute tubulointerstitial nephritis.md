@@ -15,7 +15,7 @@ Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal 
 - NSAIDs
 - Proton pump inhibitors and H2 blockers
 - Loop diuretics and [[thiazides]]
-- Anticonvulsants: phenytoin, valproate, carbamazepine, phenobarbital
+- [[Anticonvulsant drugs|Anticonvulsants]]: phenytoin, valproate, carbamazepine, phenobarbital
 - Other: allopurinol
 
 ---

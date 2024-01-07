@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Vertigo.md",
+                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Vertigo.md",
+                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Vertigo.md",
+                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,12 +195,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Vertigo.md"
+                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,11 +223,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "81f90c2c299da4b3",
+  "active": "3083531967f1e5e8",
   "lastOpenFiles": [
+    "USMLE/MSK/Stevens-Johnson syndrome.md",
+    "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
+    "USMLE/Infective disease/Staphylococcus aureus.md",
+    "appendix/Pasted image 20230701151905.png",
+    "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md",
+    "USMLE/Neurology/Anticonvulsant drugs.md",
+    "USMLE/MSK/Hammer toe.md",
+    "USMLE/Blood/Acute intermittent porphyria.md",
+    "USMLE/Renal/Acute tubulointerstitial nephritis.md",
+    "USMLE/Neurology/Vertigo.md",
     "appendix/Pasted image 20240107163141.png",
     "USMLE/Neurology/Benign paroxysmal positional vertigo.md",
-    "USMLE/Neurology/Vertigo.md",
     "USMLE/Psychiatry/Psychoactive drug intoxication and withdrawal.md",
     "appendix/Pasted image 20240107155450.png",
     "USMLE/Psychiatry/Opioid withdrawal.md",
@@ -250,18 +258,9 @@
     "appendix/Pasted image 20231111093232.png",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
     "USMLE/Neurology/Romberg test.md",
-    "USMLE/Respiratory/Bronchiectasis.md",
-    "USMLE/Infective disease/Cryptococcosis.md",
     "appendix/Pasted image 20240106112644.png",
     "appendix/Pasted image 20240106112607.png",
-    "USMLE/Neurology/Parkinson disease.md",
-    "USMLE/Neurology/Neurotransmitters.md",
-    "USMLE/Neurology/Prosopagnosia.md",
-    "USMLE/Neurology/Aphasia.md",
     "appendix/Pasted image 20240106104124.png",
-    "appendix/Pasted image 20240106103719.png",
-    "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
-    "appendix/Pasted image 20231213102922.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

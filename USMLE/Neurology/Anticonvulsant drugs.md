@@ -14,5 +14,5 @@ share: true
 ## Mechanism of action
 - Inhibition of voltage-gated Na+ channels → ↓ glutamate release
 ## Adverse effects
-- Rash, exfoliative dermatitis, <span style="background:rgba(240, 200, 0, 0.2)">Stevens-Johnson syndrome (slow titration is necessary to prevent skin and mucous membrane reactions)</span>
+- Rash, exfoliative dermatitis, <span style="background:rgba(240, 200, 0, 0.2)">[[Stevens-Johnson syndrome]] (slow titration is necessary to prevent skin and mucous membrane reactions)</span>
 - Hemophagocytic lymphohistiocytosis
