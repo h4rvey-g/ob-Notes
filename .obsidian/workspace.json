@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md",
-                "mode": "preview",
+                "file": "USMLE/Neurology/Polyneuropathy.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md",
+                "file": "USMLE/Neurology/Polyneuropathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md",
+                "file": "USMLE/Neurology/Polyneuropathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Bronchiectasis.md"
+                "file": "USMLE/Neurology/Polyneuropathy.md"
               }
             }
           }
@@ -226,6 +226,16 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Vitamin B12.md",
+    "USMLE/Neurology/Polyneuropathy.md",
+    "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
+    "USMLE/MSK/Avascular necrosis.md",
+    "USMLE/GI/Hepatomegaly.md",
+    "appendix/Pasted image 20231111093232.png",
+    "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
+    "USMLE/Neurology/Romberg test.md",
+    "USMLE/Neurology/Gait.md",
+    "USMLE/Respiratory/Bronchiectasis.md",
     "USMLE/Infective disease/Cryptococcosis.md",
     "appendix/Pasted image 20240106112644.png",
     "appendix/Pasted image 20240106112607.png",
@@ -235,7 +245,6 @@
     "USMLE/Neurology/Aphasia.md",
     "appendix/Pasted image 20240106104124.png",
     "appendix/Pasted image 20240106103719.png",
-    "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/Respiratory/Neonatal respiratory distress syndrome.md",
     "新中特论文.md",
     "USMLE/Respiratory/Atelectasis.md",
@@ -251,16 +260,8 @@
     "USMLE/Neurology/Medulloblastoma.md",
     "USMLE/Neurology/Acoustic neuroma.md",
     "appendix/Pasted image 20240103150456.png",
-    "USMLE/MSK/Kaposi sarcoma.md",
     "appendix/Pasted image 20231228201624.png",
-    "USMLE/MSK/Degenerative disk disease.md",
-    "USMLE/Neurology/Inhalational anesthetics.md",
     "Pasted image 20230617214946.png",
-    "Untitled.md",
-    "USMLE/Infective disease/Antiviral therapy.md",
-    "USMLE/Endocrine/Hyperprolactinemia.md",
-    "USMLE/Endocrine/Hypopituitarism.md",
-    "appendix/Pasted image 20240101155035.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",

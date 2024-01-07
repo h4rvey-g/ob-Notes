@@ -4,6 +4,7 @@ created: 2023-11-19 11:09
 modified: 2023-11-19 11:09
 aliases:
   - cobalamin
+  - Vitamin B12 deficiency
 share: true
 ---
 # Functions
