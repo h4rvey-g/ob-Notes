@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Polyneuropathy.md",
-                "mode": "preview",
+                "file": "USMLE/Respiratory/Asthma.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Polyneuropathy.md",
+                "file": "USMLE/Respiratory/Asthma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Polyneuropathy.md",
+                "file": "USMLE/Respiratory/Asthma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Polyneuropathy.md"
+                "file": "USMLE/Respiratory/Asthma.md"
               }
             }
           }
@@ -226,10 +226,10 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "USMLE/Biochemistry/Vitamin B12.md",
+    "USMLE/Neurology/Polyneuropathy.md",
     "USMLE/Neurology/Gait.md",
     "USMLE/Biochemistry/Lysosomal Storage Diseases.md",
-    "USMLE/Neurology/Polyneuropathy.md",
-    "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/MSK/Avascular necrosis.md",
     "USMLE/GI/Hepatomegaly.md",
     "appendix/Pasted image 20231111093232.png",
