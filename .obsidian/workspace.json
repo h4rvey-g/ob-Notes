@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Psychiatry/Opioid withdrawal.md",
-                "mode": "preview",
+                "file": "USMLE/Psychiatry/Psychoactive drug intoxication and withdrawal.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Psychiatry/Opioid withdrawal.md",
+                "file": "USMLE/Psychiatry/Psychoactive drug intoxication and withdrawal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Psychiatry/Opioid withdrawal.md",
+                "file": "USMLE/Psychiatry/Psychoactive drug intoxication and withdrawal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Psychiatry/Opioid withdrawal.md"
+                "file": "USMLE/Psychiatry/Psychoactive drug intoxication and withdrawal.md"
               }
             }
           }
@@ -226,6 +226,7 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "USMLE/Psychiatry/Opioid withdrawal.md",
     "appendix/Pasted image 20240107153212.png",
     "USMLE/Psychiatry/Psychoactive drug intoxication and withdrawal.md",
     "USMLE/Neurology/Meniere disease.md",
@@ -261,7 +262,6 @@
     "USMLE/Reproductive/Diabetes mellitus in pregnancy.md",
     "appendix/Pasted image 20231213102922.png",
     "appendix/Pasted image 20240103170256.png",
-    "appendix/Pasted image 20240103150456.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
