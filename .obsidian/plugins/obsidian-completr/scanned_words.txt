@@ -39775,6 +39775,7 @@ lNSgy
 lgX
 lrOd
 leukodystrophy
+lost
 Multifocal
 Mild
 Moderate
@@ -59195,6 +59196,8 @@ pHy
 pmiU
 piNVY
 pPn
+perception
+pin
 Unusual
 Usually
 Upc
@@ -67428,6 +67431,7 @@ Vcc
 Vrq
 VkZ
 VIa
+Vibratory
 up
 unusual
 usually
