@@ -3651,6 +3651,7 @@ dLhr
 dvL
 dIxxx
 demyelinated
+densely
 of
 over
 originate
@@ -8749,6 +8750,7 @@ neuropathic
 nHNI
 nWh
 nne
+neuromas
 tachycardia
 tract
 the
@@ -16070,6 +16072,7 @@ mcQ
 mnG
 moy
 minutes
+myxoid
 Sinus
 ST
 Segment
@@ -19443,6 +19446,7 @@ ACC
 AfL
 ABY
 AUG
+Antoni
 Orthodromic
 On
 Often
@@ -22834,6 +22838,9 @@ aEG
 afv
 aSk
 acoustic
+adjacent
+angle
+anuclear
 ventricular
 varying
 vaccines
@@ -24517,6 +24524,8 @@ vXb
 vtTql
 vZl
 vertigo
+vestibulocochlear
+vacuolated
 conduction
 concealed
 complex
@@ -26585,6 +26594,7 @@ ceh
 cTO
 cqH
 characteristically
+cerebellopontine
 bypass
 block
 background
@@ -36587,6 +36597,8 @@ sBk
 sgqn
 semicircular
 sensorineural
+simultaneous
+schwannoma
 QRS
 QT
 QDQ
@@ -57316,6 +57328,9 @@ hik
 hmjCk
 hnj
 hNA
+hypoesthesia
+hypocellular
+histiocytosis
 peaked
 pattern
 precordial
@@ -59423,6 +59438,8 @@ pde
 pQx
 presumably
 perilymphatic
+palisades
+palisade
 Unusual
 Usually
 Upc
@@ -64294,6 +64311,7 @@ CYx
 CMaP
 CxDD
 CKk
+Cochlear
 Right
 Retrograde
 Rates
@@ -67694,6 +67712,7 @@ VKz
 Vlu
 VBb
 VXYY
+Vestibular
 up
 unusual
 usually

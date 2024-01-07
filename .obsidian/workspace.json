@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Neurology/Meniere disease.md",
+                "file": "USMLE/Neurology/Acoustic neuroma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Neurology/Meniere disease.md",
+                "file": "USMLE/Neurology/Acoustic neuroma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Neurology/Meniere disease.md",
+                "file": "USMLE/Neurology/Acoustic neuroma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Neurology/Meniere disease.md"
+                "file": "USMLE/Neurology/Acoustic neuroma.md"
               }
             }
           }
@@ -224,8 +224,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "814c415b8cda33df",
+  "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "USMLE/Neurology/Meniere disease.md",
     "USMLE/Neurology/Weber test.md",
     "appendix/Pasted image 20240107112758.png",
     "USMLE/Neurology/Internuclear ophthalmoplegia.md",
