@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md",
+                "file": "USMLE/Neurology/Multiple sclerosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/Respiratory/Asthma.md"
+                "file": "USMLE/Neurology/Multiple sclerosis.md"
               }
             }
           }
@@ -226,6 +226,7 @@
   },
   "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
+    "USMLE/Respiratory/Asthma.md",
     "USMLE/Biochemistry/Vitamin B12.md",
     "USMLE/Neurology/Polyneuropathy.md",
     "USMLE/Neurology/Gait.md",
@@ -258,7 +259,6 @@
     "USMLE/Neurology/Meningioma.md",
     "USMLE/Neurology/Brain tumors.md",
     "USMLE/Neurology/Medulloblastoma.md",
-    "USMLE/Neurology/Acoustic neuroma.md",
     "appendix/Pasted image 20240103150456.png",
     "appendix/Pasted image 20231228201624.png",
     "Pasted image 20230617214946.png",

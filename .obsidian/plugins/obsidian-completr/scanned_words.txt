@@ -3638,6 +3638,7 @@ dDw
 dhT
 dEX
 developed
+demyelinating
 of
 over
 originate
@@ -43085,6 +43086,7 @@ Doy
 DDm
 Dgt
 DPy
+Dawson
 FFF
 Fib
 Fi
@@ -50240,6 +50242,7 @@ egD
 eAYE
 eDDDDDDD
 epiphysis
+extensions
 Early
 Elevation
 Etiology
@@ -57097,6 +57100,7 @@ hfj
 hvn
 hdWF
 hyperhidrosis
+hyperintensities
 peaked
 pattern
 precordial
@@ -59198,6 +59202,7 @@ piNVY
 pPn
 perception
 pin
+periventricular
 Unusual
 Usually
 Upc
