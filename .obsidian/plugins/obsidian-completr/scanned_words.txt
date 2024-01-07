@@ -1669,6 +1669,7 @@ Tmim
 TMCY
 Tsk
 TmM
+Tinnitus
 differentials
 differential
 diagnosis
@@ -16068,6 +16069,7 @@ mvnF
 mcQ
 mnG
 moy
+minutes
 Sinus
 ST
 Segment
@@ -17767,6 +17769,7 @@ Sqa
 Shjl
 Skt
 SsKT
+SNHL
 AVNRT
 Atrial
 AVRT
@@ -22830,6 +22833,7 @@ ami
 aEG
 afv
 aSk
+acoustic
 ventricular
 varying
 vaccines
@@ -24512,6 +24516,7 @@ vGPd
 vXb
 vtTql
 vZl
+vertigo
 conduction
 concealed
 complex
@@ -26579,6 +26584,7 @@ cAs
 ceh
 cTO
 cqH
+characteristically
 bypass
 block
 background
@@ -36579,6 +36585,8 @@ stork
 sew
 sBk
 sgqn
+semicircular
+sensorineural
 QRS
 QT
 QDQ
@@ -41572,6 +41580,7 @@ MVe
 MEGEK
 MYO
 Mahk
+Meniere
 Differentiate
 Drugs
 DDx
@@ -50405,6 +50414,8 @@ extensions
 eSc
 eyX
 eaX
+endolymphatic
+endolymph
 Early
 Elevation
 Etiology
@@ -52099,6 +52110,7 @@ EjF
 EKg
 EFho
 EAU
+Endolymph
 LEFT
 Lengthening
 Left
@@ -59410,6 +59422,7 @@ pjERB
 pde
 pQx
 presumably
+perilymphatic
 Unusual
 Usually
 Upc
@@ -66068,6 +66081,8 @@ RWUxa
 RBN
 RPlZ
 RVr
+Rupture
+Reissner
 Voltage
 VFV
 VoNW
