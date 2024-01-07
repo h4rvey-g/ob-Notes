@@ -20,8 +20,8 @@ share: true
 	- Antagonizes NMDA receptors → stimulant or depressive neurological effects (dose dependent)
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Violence</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Rotary nystagmus</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Rotary nystagmus</span>![[Pasted image 20240107155450.png]]
 	- impulsivity, psychomotor agitation, tachycardia, hypertension, analgesia, psychosis, delirium, seizures.
 
 >[!Mnemonic] 
->
+>Phen<font color="#ffc000">cycl</font>idine -> <font color="#ffc000">Rotary</font> nystagmus
