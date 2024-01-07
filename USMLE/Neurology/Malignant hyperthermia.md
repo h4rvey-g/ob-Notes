@@ -11,7 +11,8 @@ share: true
 ---
 # Etiology
 - Inherited susceptibility: primarily autosomal dominant with reduced penetrance
-	- ∼ 50% of cases: associated with a mutation in the ryanodine receptor type 1 (RYR-1)
+	- ∼ 50% of cases: <span style="background:rgba(240, 200, 0, 0.2)">associated with a mutation in the ryanodine receptor type 1 (RYR-1)</span>
+		- RYR1 primarily in skeletal myocytes, RYR2 primarily in cardiac myocytes, and RYR3 in various cells including neurons.
 - Triggering agents
 	- Volatile anesthetics (except nitrous oxide)
 	- Succinylcholine
@@ -28,10 +29,14 @@ share: true
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+- Discontinuation of potential triggering agents 
+- <span style="background:rgba(240, 200, 0, 0.2)">Immediate administration of dantrolene (ryanodine receptor antagonist)</span>
+	- Mechanism of action
+		- Ryanodine receptor antagonist
+		- Prevents release of calcium from the sarcoplasmic reticulum of striated muscle → reduced muscle rigidity and hyperthermia
 
 ---
