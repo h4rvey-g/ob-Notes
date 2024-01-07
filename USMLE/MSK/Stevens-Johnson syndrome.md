@@ -33,7 +33,7 @@ The pathogenesis is not completely understood but is thought to involve a <span 
 			- <span style="background:rgba(240, 200, 0, 0.2)">May have a targetoid appearance</span> (cockade lesions)
 			- Typically seen over the face and trunk
 		2. <span style="background:rgba(240, 200, 0, 0.2)">Lesions form bullae and/or vesicles; positive Nikolsky sign</span> 
-		3. <span style="background:rgba(240, 200, 0, 0.2)">Extensive, full-thickness epidermal necrosis and sloughing (resembling large superficial burns)</span>
+		3. <span style="background:rgba(240, 200, 0, 0.2)">Extensive, full-thickness epidermal necrosis and sloughing (resembling large superficial burns)</span>![[Pasted image 20240107172005.png]]
 	- Mucosal membranes: almost always involved
 - Shock may develop
 >[!tip] 

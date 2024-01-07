@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
-                "mode": "source",
+                "file": "USMLE/MSK/Stevens-Johnson syndrome.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
+                "file": "USMLE/MSK/Stevens-Johnson syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
+                "file": "USMLE/MSK/Stevens-Johnson syndrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,11 +195,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "USMLE/MSK/Staphylococcal scalded skin syndrome.md"
+                "file": "USMLE/MSK/Stevens-Johnson syndrome.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,14 +224,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3083531967f1e5e8",
+  "active": "81f90c2c299da4b3",
   "lastOpenFiles": [
-    "USMLE/MSK/Stevens-Johnson syndrome.md",
+    "appendix/Pasted image 20240107172005.png",
+    "USMLE/Neurology/Anticonvulsant drugs.md",
     "USMLE/MSK/Staphylococcal scalded skin syndrome.md",
+    "appendix/Pasted image 20240107171727.png",
+    "USMLE/MSK/Stevens-Johnson syndrome.md",
     "USMLE/Infective disease/Staphylococcus aureus.md",
     "appendix/Pasted image 20230701151905.png",
     "USMLE/Pharmacology/Drug reaction with eosinophilia and systemic symptoms.md",
-    "USMLE/Neurology/Anticonvulsant drugs.md",
     "USMLE/MSK/Hammer toe.md",
     "USMLE/Blood/Acute intermittent porphyria.md",
     "USMLE/Renal/Acute tubulointerstitial nephritis.md",
@@ -257,10 +260,8 @@
     "USMLE/GI/Hepatomegaly.md",
     "appendix/Pasted image 20231111093232.png",
     "USMLE/Neurology/Amyotrophic lateral sclerosis.md",
-    "USMLE/Neurology/Romberg test.md",
     "appendix/Pasted image 20240106112644.png",
     "appendix/Pasted image 20240106112607.png",
-    "appendix/Pasted image 20240106104124.png",
     "USMLE/MSK/Untitled.loom",
     "USMLE/Endocrine",
     "USMLE/Psychiatry",
