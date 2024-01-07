@@ -3652,6 +3652,7 @@ dvL
 dIxxx
 demyelinated
 densely
+diaphoresis
 of
 over
 originate
@@ -10662,6 +10663,7 @@ tzZ
 thermal
 tendon
 tvrBDD
+thermoregulation
 in
 includes
 involving
@@ -20849,6 +20851,7 @@ Orthopedic
 OLu
 Oyb
 Oligoclonal
+Opioids
 atrio
 and
 atrial
@@ -22841,6 +22844,7 @@ acoustic
 adjacent
 angle
 anuclear
+arousal
 ventricular
 varying
 vaccines
@@ -34531,6 +34535,7 @@ yTO
 yvj
 ycL
 yVem
+yawning
 see
 style
 single
@@ -39911,6 +39916,7 @@ lFuY
 lLL
 ljw
 lMs
+lacrimation
 Multifocal
 Mild
 Moderate
@@ -41593,6 +41599,8 @@ MEGEK
 MYO
 Mahk
 Meniere
+Mydriasis
+Myalgia
 Differentiate
 Drugs
 DDx
@@ -55510,6 +55518,7 @@ HJJE
 Hlv
 HeR
 HEu
+Hyperreflexia
 hyperkalemia
 hypertrophy
 hereditary
@@ -59440,6 +59449,7 @@ presumably
 perilymphatic
 palisades
 palisade
+piloerection
 Unusual
 Usually
 Upc
@@ -66101,6 +66111,7 @@ RPlZ
 RVr
 Rupture
 Reissner
+Rhinorrhea
 Voltage
 VFV
 VoNW
